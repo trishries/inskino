@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ins Kino — NYC Showtimes</title>
+  <meta name="description" content="Today's showtimes at NYC arthouse cinemas — Metrograph, Film Forum, IFC Center, Angelika, Anthology, Quad, Paris Theater, Cherry Lane.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/roughjs@4.6.6/bundled/rough.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0a0a0a;
+      --fg: #f0f0f0;
+      --dim: #888;
+      --mono: 'Space Mono', 'Courier New', monospace;
+      --card-pad: 22px;
+      --gap: 20px;
+    }
+
+    html, body {
+      background: var(--bg);
+      color: var(--fg);
+      font-family: var(--mono);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Header ── */
+    .site-header {
+      padding: 20px 24px 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .date-line {
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      color: var(--dim);
+      text-transform: uppercase;
+    }
+
+    #sort-toggle {
+      background: none;
+      border: 1px solid var(--fg);
+      color: var(--fg);
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 5px 10px;
+      cursor: pointer;
+      line-height: 1;
+    }
+    #sort-toggle:hover { background: var(--fg); color: var(--bg); }
+
+    /* ── Desktop / tablet grid ── */
+    .cards-wrapper {
+      padding: 0 16px 80px;
+    }
+
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: var(--gap);
+    }
+
+    @media (max-width: 900px) and (min-width: 540px) {
+      .cards-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    /* ── Mobile swipe pager ── */
+    @media (max-width: 539px) {
+      body { overflow-x: hidden; }
+
+      .cards-wrapper {
+        padding: 0 0 60px;
+        overflow: hidden;
+      }
+
+      .cards-grid {
+        display: flex;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        gap: 0;
+        padding: 0;
+      }
+      .cards-grid::-webkit-scrollbar { display: none; }
+
+      .card {
+        flex: 0 0 100vw !important;
+        width: 100vw !important;
+        max-width: 100vw !important;
+        height: calc(100dvh - 130px) !important;
+        scroll-snap-align: start;
+        overflow-y: auto;
+        margin: 0 !important;
+        border-radius: 0 !important;
+      }
+    }
+
+    /* ── Card ── */
+    .card {
+      position: relative;
+      min-height: 200px;
+      padding: var(--card-pad);
+    }
+
+    .rough-border {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      display: block;
+    }
+
+    .card-inner {
+      position: relative;
+      z-index: 1;
+    }
+
+    /* ── Theater name ── */
+    .theater-name {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      line-height: 1.3;
+      margin-bottom: 18px;
+      color: var(--fg);
+    }
+
+    /* ── Film list ── */
+    .films { display: flex; flex-direction: column; gap: 16px; }
+
+    .film { display: flex; flex-direction: column; gap: 4px; }
+
+    .film-title {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--fg);
+      text-decoration: none;
+      display: block;
+      line-height: 1.4;
+    }
+    .film-title:hover { opacity: 0.7; }
+
+    .showtimes {
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      color: var(--dim);
+      line-height: 1.4;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .showtime-link {
+      color: var(--dim);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .showtime-link:hover { color: var(--fg); }
+
+    /* ── Status messages ── */
+    .status-msg {
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--dim);
+      margin-top: 4px;
+    }
+
+    /* ── Page dots (mobile) ── */
+    .dots-bar {
+      display: none;
+      position: fixed;
+      bottom: 24px;
+      left: 0; right: 0;
+      justify-content: center;
+      gap: 6px;
+      z-index: 100;
+    }
+
+    @media (max-width: 539px) {
+      .dots-bar { display: flex; }
+    }
+
+    .dot {
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: var(--dim);
+      transition: background 0.2s;
+      flex-shrink: 0;
+    }
+    .dot.active { background: var(--fg); }
+
+    .page-counter {
+      font-size: 9px;
+      letter-spacing: 0.1em;
+      color: var(--dim);
+      position: fixed;
+      bottom: 44px;
+      left: 16px;
+      z-index: 100;
+      display: none;
+    }
+    @media (max-width: 539px) { .page-counter { display: block; } }
+
+    /* ── Footer / logo ── */
+    .site-footer {
+      position: fixed;
+      bottom: 18px;
+      right: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 4px;
+      z-index: 200;
+      pointer-events: none;
+    }
+
+    .updated-line {
+      font-size: 9px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dim);
+    }
+
+    /* On mobile, detach updated line from logo and move it to bottom-left */
+    @media (max-width: 539px) {
+      .updated-line {
+        position: fixed;
+        bottom: 20px;
+        left: 16px;
+        right: auto;
+      }
+    }
+
+    .logo-link {
+      pointer-events: all;
+      display: block;
+      opacity: 0.9;
+    }
+    .logo-link:hover { opacity: 1; }
+
+    .logo {
+      width: 80px;
+      height: auto;
+      filter: invert(1);
+      display: block;
+    }
+
+    /* ── Loading / error states ── */
+    #loading {
+      padding: 60px 24px;
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      color: var(--dim);
+    }
+
+    @media (min-width: 1200px) {
+      .cards-grid { grid-template-columns: repeat(4, 1fr); }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="date-line" id="date-line">—</div>
+  <button id="sort-toggle" aria-label="Toggle sort order">BY TIME</button>
+</header>
+
+<main>
+  <div class="cards-wrapper">
+    <div class="cards-grid" id="cards-grid">
+      <div id="loading" style="grid-column:1/-1">LOADING…</div>
+    </div>
+  </div>
+</main>
+
+<div class="dots-bar" id="dots-bar" aria-hidden="true"></div>
+<div class="page-counter" id="page-counter"></div>
+
+<footer class="site-footer">
+  <span class="updated-line" id="updated-line"></span>
+  <a href="/" class="logo-link" aria-label="Ins Kino">
+    <img src="logo-onwhite.svg" alt="Ins Kino" class="logo">
+  </a>
+</footer>
+
+<script>
+// ── Timezone / program-day helpers ─────────────────────────────────────────
+
+function etOffsetForDate(dateStr) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const march1Dow = new Date(y, 2, 1).getDay();
+  const dstStartDay = 8 + (7 - march1Dow) % 7;
+  const nov1Dow = new Date(y, 10, 1).getDay();
+  const dstEndDay = 1 + (7 - nov1Dow) % 7;
+  const afterStart = m > 3 || (m === 3 && d >= dstStartDay);
+  const beforeEnd  = m < 11 || (m === 11 && d < dstEndDay);
+  return afterStart && beforeEnd ? '-04:00' : '-05:00';
+}
+
+// Returns the current ET datetime components
+function nowET() {
+  const now = new Date();
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/New_York',
+    year: 'numeric', month: 'numeric', day: 'numeric',
+    hour: 'numeric', minute: 'numeric', second: 'numeric',
+    hour12: false,
+  }).formatToParts(now);
+  const g = t => parseInt(parts.find(p => p.type === t)?.value ?? '0');
+  return { year: g('year'), month: g('month'), day: g('day'), hour: g('hour'), minute: g('minute') };
+}
+
+// Returns current program day as YYYY-MM-DD.
+// Rolls over at 1 AM ET: before 1 AM, program day is yesterday.
+function getProgramDay() {
+  const et = nowET();
+  let { year, month, day } = et;
+  if (et.hour < 1) {
+    const prev = new Date(year, month - 1, day - 1);
+    year = prev.getFullYear(); month = prev.getMonth() + 1; day = prev.getDate();
+  }
+  return `${year}-${String(month).padStart(2,'0')}-${String(day).padStart(2,'0')}`;
+}
+
+// Window: [programDay T01:00 ET, nextDay T01:00 ET)
+function getProgramWindow(programDay) {
+  const offset = etOffsetForDate(programDay);
+  const start = new Date(`${programDay}T01:00:00${offset}`);
+  // Add 24h for next day start; use next calendar day
+  const [y, m, d] = programDay.split('-').map(Number);
+  const nextDate = new Date(y, m - 1, d + 1);
+  const nextDay = `${nextDate.getFullYear()}-${String(nextDate.getMonth()+1).padStart(2,'0')}-${String(nextDate.getDate()).padStart(2,'0')}`;
+  const nextOffset = etOffsetForDate(nextDay);
+  const end = new Date(`${nextDay}T01:00:00${nextOffset}`);
+  return { start, end };
+}
+
+// Format an ISO datetime string as "7:45 PM"
+function fmtTime(iso) {
+  const d = new Date(iso);
+  return d.toLocaleTimeString('en-US', {
+    timeZone: 'America/New_York',
+    hour: 'numeric', minute: '2-digit', hour12: true
+  });
+}
+
+// Format lastUpdated as "UPDATED 2:00 PM"
+function fmtUpdated(iso) {
+  const d = new Date(iso);
+  const time = d.toLocaleTimeString('en-US', {
+    timeZone: 'America/New_York',
+    hour: 'numeric', minute: '2-digit', hour12: true
+  });
+  return `UPDATED ${time}`;
+}
+
+// Format program day as "TUE, JUNE 2"
+function fmtProgramDay(dateStr) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const date = new Date(y, m - 1, d, 12); // noon to avoid DST edge
+  return date.toLocaleDateString('en-US', { weekday: 'short', month: 'long', day: 'numeric' })
+    .toUpperCase()
+    .replace(',', '');
+}
+
+// ── Rough.js card borders ──────────────────────────────────────────────────
+
+function drawBorder(canvas) {
+  if (!window.rough) return;
+  const dpr = window.devicePixelRatio || 1;
+  const parent = canvas.parentElement;
+  const w = parent.offsetWidth;
+  const h = parent.offsetHeight;
+  if (w === 0 || h === 0) return;
+
+  canvas.width  = Math.round(w * dpr);
+  canvas.height = Math.round(h * dpr);
+  canvas.style.width  = w + 'px';
+  canvas.style.height = h + 'px';
+
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  ctx.scale(dpr, dpr);
+
+  const seed = parseInt(canvas.dataset.seed || '1', 10);
+  const pad = 6;
+  const rc = rough.canvas(canvas);
+  rc.rectangle(pad, pad, w - pad * 2, h - pad * 2, {
+    stroke: '#f0f0f0',
+    strokeWidth: 1.4,
+    roughness: 2.6,
+    bowing: 1.2,
+    seed,
+  });
+}
+
+function drawAllBorders() {
+  document.querySelectorAll('.rough-border').forEach(drawBorder);
+}
+
+let resizeTimer;
+window.addEventListener('resize', () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(drawAllBorders, 120);
+});
+
+// ── Rendering ──────────────────────────────────────────────────────────────
+
+let sortByTime = false;
+let currentData = null;
+
+function filterFilms(films, window) {
+  const cutoff = new Date(Date.now() - 5 * 60 * 1000); // 5 min ago
+  return films
+    .map(film => ({
+      ...film,
+      showtimes: film.showtimes.filter(t => {
+        const d = new Date(t);
+        return d >= window.start && d < window.end && d > cutoff;
+      }),
+    }))
+    .filter(film => film.showtimes.length > 0);
+}
+
+function makeCard(theater, index, programWindow) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.dataset.index = index;
+
+  const canvas = document.createElement('canvas');
+  canvas.className = 'rough-border';
+  canvas.dataset.seed = String(index + 1);
+  card.appendChild(canvas);
+
+  const inner = document.createElement('div');
+  inner.className = 'card-inner';
+
+  // Theater name
+  const nameEl = document.createElement('h2');
+  nameEl.className = 'theater-name';
+  nameEl.textContent = theater.name.toUpperCase();
+  inner.appendChild(nameEl);
+
+  const films = filterFilms(theater.films || [], programWindow);
+
+  if (theater.status === 'error') {
+    const msg = document.createElement('p');
+    msg.className = 'status-msg';
+    msg.textContent = 'SHOWTIMES UNAVAILABLE';
+    inner.appendChild(msg);
+  } else if (theater.status === 'empty' || films.length === 0) {
+    const msg = document.createElement('p');
+    msg.className = 'status-msg';
+    msg.textContent = 'NO SCREENINGS TODAY';
+    inner.appendChild(msg);
+  } else {
+    // Sort films by earliest showtime
+    films.sort((a, b) => a.showtimes[0].localeCompare(b.showtimes[0]));
+
+    const filmsList = document.createElement('div');
+    filmsList.className = 'films';
+
+    for (const film of films) {
+      const filmEl = document.createElement('div');
+      filmEl.className = 'film';
+
+      const titleEl = document.createElement('a');
+      titleEl.className = 'film-title';
+      titleEl.textContent = film.title;
+      titleEl.href = film.ticketUrl;
+      titleEl.target = '_blank';
+      titleEl.rel = 'noopener noreferrer';
+      filmEl.appendChild(titleEl);
+
+      const timesEl = document.createElement('div');
+      timesEl.className = 'showtimes';
+
+      for (const t of film.showtimes) {
+        const a = document.createElement('a');
+        a.className = 'showtime-link';
+        a.href = film.ticketUrl;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.textContent = fmtTime(t);
+        timesEl.appendChild(a);
+      }
+
+      filmEl.appendChild(timesEl);
+      filmsList.appendChild(filmEl);
+    }
+
+    inner.appendChild(filmsList);
+  }
+
+  card.appendChild(inner);
+  return card;
+}
+
+function renderCards(data) {
+  const grid = document.getElementById('cards-grid');
+  grid.innerHTML = '';
+
+  const programDay = getProgramDay();
+  const programWindow = getProgramWindow(programDay);
+
+  // Update header date
+  document.getElementById('date-line').textContent = fmtProgramDay(programDay);
+
+  let theaters = [...data.theaters];
+
+  // Helper: does a theater have at least one film showing now or later today?
+  const hasActive = t => filterFilms(t.films || [], programWindow).length > 0;
+
+  if (sortByTime) {
+    theaters.sort((a, b) => {
+      const aFilms = filterFilms(a.films || [], programWindow);
+      const bFilms = filterFilms(b.films || [], programWindow);
+      const aActive = aFilms.length > 0;
+      const bActive = bFilms.length > 0;
+      // Empty/error/done theaters always sink to the end
+      if (aActive !== bActive) return aActive ? -1 : 1;
+      const aFirst = aFilms[0]?.showtimes[0] ?? '9999';
+      const bFirst = bFilms[0]?.showtimes[0] ?? '9999';
+      return aFirst.localeCompare(bFirst);
+    });
+    document.getElementById('sort-toggle').textContent = 'BY THEATER';
+  } else {
+    theaters.sort((a, b) => {
+      const aActive = hasActive(a);
+      const bActive = hasActive(b);
+      // Empty/error/done theaters always sink to the end
+      if (aActive !== bActive) return aActive ? -1 : 1;
+      return a.name.localeCompare(b.name);
+    });
+    document.getElementById('sort-toggle').textContent = 'BY TIME';
+  }
+
+  theaters.forEach((theater, i) => {
+    const card = makeCard(theater, i, programWindow);
+    grid.appendChild(card);
+  });
+
+  // Draw rough borders after DOM settles
+  requestAnimationFrame(() => {
+    requestAnimationFrame(drawAllBorders);
+  });
+
+  updateDots();
+}
+
+// ── Mobile dots ────────────────────────────────────────────────────────────
+
+function updateDots() {
+  const grid = document.getElementById('cards-grid');
+  const dotsBar = document.getElementById('dots-bar');
+  const cards = grid.querySelectorAll('.card');
+  const n = cards.length;
+
+  dotsBar.innerHTML = '';
+  for (let i = 0; i < n; i++) {
+    const dot = document.createElement('div');
+    dot.className = 'dot' + (i === 0 ? ' active' : '');
+    dotsBar.appendChild(dot);
+  }
+
+  document.getElementById('page-counter').textContent = n > 0 ? `1 / ${n}` : '';
+}
+
+function getCurrentCardIndex() {
+  const grid = document.getElementById('cards-grid');
+  const cards = Array.from(grid.querySelectorAll('.card'));
+  if (cards.length === 0) return 0;
+  const scrollLeft = grid.scrollLeft;
+  const cardWidth = cards[0].offsetWidth;
+  return Math.round(scrollLeft / cardWidth);
+}
+
+document.getElementById('cards-grid').addEventListener('scroll', () => {
+  const idx = getCurrentCardIndex();
+  const dots = document.querySelectorAll('.dot');
+  dots.forEach((d, i) => d.classList.toggle('active', i === idx));
+  const total = dots.length;
+  document.getElementById('page-counter').textContent = total > 0 ? `${idx + 1} / ${total}` : '';
+}, { passive: true });
+
+// ── Sort toggle ────────────────────────────────────────────────────────────
+
+document.getElementById('sort-toggle').addEventListener('click', () => {
+  sortByTime = !sortByTime;
+  if (currentData) renderCards(currentData);
+  // Reset scroll to first card
+  document.getElementById('cards-grid').scrollTo({ left: 0, behavior: 'instant' });
+});
+
+// ── Main load ──────────────────────────────────────────────────────────────
+
+async function main() {
+  try {
+    const res = await fetch('showtimes.json?_=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    currentData = data;
+
+    renderCards(data);
+
+    const updatedEl = document.getElementById('updated-line');
+    if (data.lastUpdated) updatedEl.textContent = fmtUpdated(data.lastUpdated);
+
+    // Re-check program day every minute (handles the 1 AM rollover)
+    setInterval(() => { if (currentData) renderCards(currentData); }, 60_000);
+  } catch (err) {
+    document.getElementById('loading').textContent = 'COULD NOT LOAD SHOWTIMES.';
+    console.error(err);
+  }
+}
+
+main();
+</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+name: Scrape Showtimes
+
+on:
+  schedule:
+    # Runs at 1:10 AM, 7:00 AM, 11:00 AM, 3:00 PM, 7:00 PM ET
+    # GitHub Actions cron is UTC; ET is UTC-4 (EDT) / UTC-5 (EST)
+    # Using UTC-4 (EDT / summer) offsets here; adjust for winter if desired.
+    - cron: '10 5 * * *'    # 1:10 AM ET (EDT)
+    - cron: '0 11 * * *'   # 7:00 AM ET
+    - cron: '0 15 * * *'   # 11:00 AM ET
+    - cron: '0 19 * * *'   # 3:00 PM ET
+    - cron: '0 23 * * *'   # 7:00 PM ET
+  workflow_dispatch:        # Allow manual runs from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit updated showtimes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/showtimes.json
+          # Only commit if the file actually changed
+          git diff --cached --quiet || git commit -m "chore: update showtimes $(date -u +'%Y-%m-%dT%H:%MZ')"
+
+      - name: Push
+        run: git push

@@ -1,0 +1,17 @@
+{
+  "name": "ins-kino",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "tsx scrapers/index.ts",
+    "dev": "npx serve public -p 3000"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  }
+}
