@@ -27,13 +27,15 @@ import { USER_AGENT, toETISO, etCalendarDays, groupIntoScreenings } from './util
 
 const NOW_PLAYING = 'https://filmforum.org/now-playing';
 
-// Film Forum tab order: TUE=0, WED=1, THU=2, FRI=3, SAT=4, SUN=5, MON=6
-// getDay() returns: SUN=0, MON=1, TUE=2, WED=3, THU=4, FRI=5, SAT=6
-function dateToTabIndex(dateStr: string): number {
-  const [y, m, d] = dateStr.split('-').map(Number);
-  const dow = new Date(y, m - 1, d).getDay(); // 0=SUN
-  // TUE (2) → 0, WED (3) → 1, ... SUN (0) → 5, MON (1) → 6
-  return (dow - 2 + 7) % 7;
+// Film Forum's tab panels always start from the current day of the week:
+//   tabs-0 = today, tabs-1 = tomorrow, tabs-2 = day after, etc.
+// So today is always 0, tomorrow is always 1.
+function dateToTabIndex(dateStr: string, today: string): number {
+  const msPerDay = 24 * 60 * 60 * 1000;
+  const diff = Math.round(
+    (new Date(dateStr).getTime() - new Date(today).getTime()) / msPerDay
+  );
+  return diff; // 0 for today, 1 for tomorrow
 }
 
 // Convert Film Forum's AM/PM-less time string to HH:MM:00
@@ -92,8 +94,8 @@ export async function fetchToday(): Promise<Screening[]> {
   const html = await res.text();
   const $ = cheerio.load(html);
 
-  const todayIdx    = dateToTabIndex(today);
-  const tomorrowIdx = dateToTabIndex(tomorrow);
+  const todayIdx    = dateToTabIndex(today, today);
+  const tomorrowIdx = dateToTabIndex(tomorrow, today);
 
   const sessions = [
     ...extractTabSessions($, todayIdx, today),
