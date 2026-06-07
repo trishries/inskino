@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T16:08:06-04:00",
+  "lastUpdated": "2026-06-06T20:00:36-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,35 +7,12 @@
       "status": "ok",
       "films": [
         {
-          "title": "ALLEN GINSBERG PGM 1",
-          "showtimes": [
-            "2026-06-06T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5399?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "NEWS FROM HOME",
-          "showtimes": [
-            "2026-06-06T18:15:00-04:00",
-            "2026-06-07T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5288?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 2",
-          "showtimes": [
-            "2026-06-06T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5401?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "NEW NEWS FROM ANOTHER HOME",
           "showtimes": [
-            "2026-06-06T20:30:00-04:00",
             "2026-06-07T16:00:00-04:00",
             "2026-06-07T20:30:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5281?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5282?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 3: GUNS OF THE TREES",
@@ -43,6 +20,13 @@
             "2026-06-07T17:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5403?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "NEWS FROM HOME",
+          "showtimes": [
+            "2026-06-07T18:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5289?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 4",
@@ -347,20 +331,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "LUST FOR LIFE",
-          "showtimes": [
-            "2026-06-06T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29984"
-        },
-        {
-          "title": "JOLLOF FILMS PRESENTS DEN MUSO",
-          "showtimes": [
-            "2026-06-06T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29986"
-        },
-        {
           "title": "PRISON ON FIRE",
           "showtimes": [
             "2026-06-06T22:30:00-04:00"
@@ -438,17 +408,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
         },
         {
-          "title": "THE CHILDREN’S HOUR",
-          "showtimes": [
-            "2026-06-06T15:00:00-04:00",
-            "2026-06-07T12:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
-        },
-        {
           "title": "THE CHRISTOPHERS",
           "showtimes": [
-            "2026-06-06T12:30:00-04:00",
             "2026-06-06T19:15:00-04:00",
             "2026-06-07T19:55:00-04:00"
           ],
@@ -457,7 +418,6 @@
         {
           "title": "THE DRAMA",
           "showtimes": [
-            "2026-06-06T14:45:00-04:00",
             "2026-06-06T21:20:00-04:00",
             "2026-06-07T13:00:00-04:00",
             "2026-06-07T17:40:00-04:00"
@@ -473,14 +433,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
         },
         {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-06-06T17:10:00-04:00",
-            "2026-06-07T20:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
-        },
-        {
           "title": "LAW OF DESIRE",
           "showtimes": [
             "2026-06-06T19:20:00-04:00",
@@ -489,18 +441,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
         },
         {
-          "title": "ROPE",
-          "showtimes": [
-            "2026-06-06T13:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
-        },
-        {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-06T12:05:00-04:00",
-            "2026-06-06T14:25:00-04:00",
-            "2026-06-06T16:45:00-04:00",
             "2026-06-06T19:05:00-04:00",
             "2026-06-06T21:25:00-04:00",
             "2026-06-07T12:40:00-04:00",
@@ -513,9 +455,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-06T12:00:00-04:00",
-            "2026-06-06T14:20:00-04:00",
-            "2026-06-06T16:40:00-04:00",
             "2026-06-06T19:00:00-04:00",
             "2026-06-06T21:15:00-04:00",
             "2026-06-07T12:30:00-04:00",
@@ -524,6 +463,13 @@
             "2026-06-07T19:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-06"
+        },
+        {
+          "title": "THE CHILDREN’S HOUR",
+          "showtimes": [
+            "2026-06-07T12:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
         },
         {
           "title": "DESERT HEARTS",
@@ -538,6 +484,13 @@
             "2026-06-07T18:05:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
+        },
+        {
+          "title": "HAPPY TOGETHER",
+          "showtimes": [
+            "2026-06-07T20:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
         }
       ]
     },
@@ -547,19 +500,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "They Shoot Horses, Don't They?",
-          "showtimes": [
-            "2026-06-06T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2603/seats"
-        },
-        {
           "title": "Trees Lounge",
           "showtimes": [
-            "2026-06-06T19:00:00-04:00",
             "2026-06-06T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2604/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2627/seats"
         },
         {
           "title": "Werckmeister Harmonies",
