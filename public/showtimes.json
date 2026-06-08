@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T20:02:57-04:00",
+  "lastUpdated": "2026-06-08T05:54:02-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,7 +9,8 @@
         {
           "title": "NEW NEWS FROM ANOTHER HOME",
           "showtimes": [
-            "2026-06-08T18:30:00-04:00"
+            "2026-06-08T18:30:00-04:00",
+            "2026-06-09T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5284?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
@@ -30,9 +31,24 @@
         {
           "title": "NEWS FROM HOME",
           "showtimes": [
-            "2026-06-08T21:00:00-04:00"
+            "2026-06-08T21:00:00-04:00",
+            "2026-06-09T21:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5290?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ALLEN GINSBERG PGM 7",
+          "showtimes": [
+            "2026-06-09T18:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5411?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ALLEN GINSBERG PGM 8",
+          "showtimes": [
+            "2026-06-09T20:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5413?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -44,141 +60,37 @@
         {
           "title": "ASK E. JEAN",
           "showtimes": [
-            "2026-06-07T10:35:00-04:00",
-            "2026-06-07T17:35:00-04:00",
             "2026-06-08T10:35:00-04:00",
-            "2026-06-08T17:35:00-04:00"
+            "2026-06-08T17:35:00-04:00",
+            "2026-06-09T17:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562008~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562006~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "BLUE FILM",
           "showtimes": [
-            "2026-06-07T15:35:00-04:00",
-            "2026-06-07T19:40:00-04:00",
             "2026-06-08T15:35:00-04:00",
-            "2026-06-08T19:40:00-04:00"
+            "2026-06-08T19:40:00-04:00",
+            "2026-06-09T15:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562132~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562125~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "BLUE HERON",
           "showtimes": [
-            "2026-06-07T11:05:00-04:00",
-            "2026-06-07T21:45:00-04:00",
             "2026-06-08T11:05:00-04:00",
-            "2026-06-08T21:45:00-04:00"
+            "2026-06-08T21:45:00-04:00",
+            "2026-06-09T21:45:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562011~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562015~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "CAVE OF FORGOTTEN DREAMS 3D",
           "showtimes": [
-            "2026-06-07T12:25:00-04:00",
-            "2026-06-08T12:25:00-04:00"
+            "2026-06-08T12:25:00-04:00",
+            "2026-06-09T12:25:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562023~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "CHUM (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-06-07T10:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562034~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE EASY KIND",
-          "showtimes": [
-            "2026-06-07T14:25:00-04:00",
-            "2026-06-07T16:35:00-04:00",
-            "2026-06-07T19:00:00-04:00",
-            "2026-06-08T14:25:00-04:00",
-            "2026-06-08T16:35:00-04:00",
-            "2026-06-08T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562095~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "JINSEI",
-          "showtimes": [
-            "2026-06-07T14:05:00-04:00",
-            "2026-06-07T16:25:00-04:00",
-            "2026-06-07T18:45:00-04:00",
-            "2026-06-07T21:05:00-04:00",
-            "2026-06-08T14:05:00-04:00",
-            "2026-06-08T16:25:00-04:00",
-            "2026-06-08T18:45:00-04:00",
-            "2026-06-08T21:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=560158~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MULHOLLAND DR.",
-          "showtimes": [
-            "2026-06-07T11:00:00-04:00",
-            "2026-06-07T15:35:00-04:00",
-            "2026-06-07T21:15:00-04:00",
-            "2026-06-08T11:00:00-04:00",
-            "2026-06-08T15:35:00-04:00",
-            "2026-06-08T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562049~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "A NEW LEAF",
-          "showtimes": [
-            "2026-06-07T17:05:00-04:00",
-            "2026-06-08T17:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=561997~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "RENOIR",
-          "showtimes": [
-            "2026-06-07T13:00:00-04:00",
-            "2026-06-07T18:35:00-04:00",
-            "2026-06-08T13:00:00-04:00",
-            "2026-06-08T18:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562071~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SHE'S THE HE",
-          "showtimes": [
-            "2026-06-07T15:05:00-04:00",
-            "2026-06-07T19:30:00-04:00",
-            "2026-06-07T21:40:00-04:00",
-            "2026-06-08T13:10:00-04:00",
-            "2026-06-08T15:05:00-04:00",
-            "2026-06-08T19:30:00-04:00",
-            "2026-06-08T21:40:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=561513~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SHE'S THE HE (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-06-07T13:10:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=561506~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "STEAL THIS STORY, PLEASE!",
-          "showtimes": [
-            "2026-06-07T10:45:00-04:00",
-            "2026-06-08T10:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562084~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "TERMINATOR 2: JUDGMENT DAY",
-          "showtimes": [
-            "2026-06-07T12:20:00-04:00",
-            "2026-06-07T21:10:00-04:00",
-            "2026-06-08T12:20:00-04:00",
-            "2026-06-08T21:10:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562110~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562025~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "CHUM",
@@ -186,6 +98,113 @@
             "2026-06-08T10:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562030~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE EASY KIND",
+          "showtimes": [
+            "2026-06-08T14:25:00-04:00",
+            "2026-06-08T16:35:00-04:00",
+            "2026-06-08T19:00:00-04:00",
+            "2026-06-09T14:25:00-04:00",
+            "2026-06-09T16:35:00-04:00",
+            "2026-06-09T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562097~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "JINSEI",
+          "showtimes": [
+            "2026-06-08T14:05:00-04:00",
+            "2026-06-08T16:25:00-04:00",
+            "2026-06-08T18:45:00-04:00",
+            "2026-06-08T21:05:00-04:00",
+            "2026-06-09T14:05:00-04:00",
+            "2026-06-09T16:25:00-04:00",
+            "2026-06-09T18:45:00-04:00",
+            "2026-06-09T21:05:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=560159~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MULHOLLAND DR.",
+          "showtimes": [
+            "2026-06-08T11:00:00-04:00",
+            "2026-06-08T15:35:00-04:00",
+            "2026-06-08T21:15:00-04:00",
+            "2026-06-09T11:00:00-04:00",
+            "2026-06-09T15:15:00-04:00",
+            "2026-06-09T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562054~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "A NEW LEAF",
+          "showtimes": [
+            "2026-06-08T17:05:00-04:00",
+            "2026-06-09T16:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=561996~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "RENOIR",
+          "showtimes": [
+            "2026-06-08T13:00:00-04:00",
+            "2026-06-08T18:35:00-04:00",
+            "2026-06-09T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562072~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "SHE'S THE HE",
+          "showtimes": [
+            "2026-06-08T13:10:00-04:00",
+            "2026-06-08T15:05:00-04:00",
+            "2026-06-08T19:30:00-04:00",
+            "2026-06-08T21:40:00-04:00",
+            "2026-06-09T13:10:00-04:00",
+            "2026-06-09T15:05:00-04:00",
+            "2026-06-09T21:40:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=561510~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "STEAL THIS STORY, PLEASE!",
+          "showtimes": [
+            "2026-06-08T10:45:00-04:00",
+            "2026-06-09T10:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562080~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "TERMINATOR 2: JUDGMENT DAY",
+          "showtimes": [
+            "2026-06-08T12:20:00-04:00",
+            "2026-06-08T21:10:00-04:00",
+            "2026-06-09T12:20:00-04:00",
+            "2026-06-09T21:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562109~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "CHUM (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-06-09T10:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562033~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "FIND YOUR FRIENDS",
+          "showtimes": [
+            "2026-06-09T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=560367~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "SHE'S THE HE (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-06-09T19:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=561508~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -197,84 +216,64 @@
         {
           "title": "FORASTERA",
           "showtimes": [
-            "2026-06-07T12:20:00-04:00",
-            "2026-06-07T14:30:00-04:00",
-            "2026-06-07T16:40:00-04:00",
-            "2026-06-07T18:50:00-04:00",
-            "2026-06-07T21:00:00-04:00",
             "2026-06-08T12:20:00-04:00",
             "2026-06-08T14:30:00-04:00",
             "2026-06-08T16:40:00-04:00",
             "2026-06-08T18:50:00-04:00",
-            "2026-06-08T21:00:00-04:00"
+            "2026-06-08T21:00:00-04:00",
+            "2026-06-09T12:20:00-04:00",
+            "2026-06-09T14:30:00-04:00",
+            "2026-06-09T16:40:00-04:00",
+            "2026-06-09T18:50:00-04:00",
+            "2026-06-09T21:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/forastera"
         },
         {
           "title": "MANAS",
           "showtimes": [
-            "2026-06-07T13:10:00-04:00",
-            "2026-06-07T15:30:00-04:00",
-            "2026-06-07T20:15:00-04:00",
             "2026-06-08T12:30:00-04:00",
             "2026-06-08T14:50:00-04:00",
-            "2026-06-08T19:40:00-04:00"
+            "2026-06-08T19:40:00-04:00",
+            "2026-06-09T12:30:00-04:00",
+            "2026-06-09T14:50:00-04:00",
+            "2026-06-09T19:40:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/manas"
         },
         {
           "title": "AGATHA'S ALMANAC",
           "showtimes": [
-            "2026-06-07T12:50:00-04:00",
-            "2026-06-08T12:40:00-04:00"
+            "2026-06-08T12:40:00-04:00",
+            "2026-06-09T12:40:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/agathas-almanac"
         },
         {
           "title": "BELLISSIMA",
           "showtimes": [
-            "2026-06-07T17:50:00-04:00",
-            "2026-06-08T17:10:00-04:00"
+            "2026-06-08T17:10:00-04:00",
+            "2026-06-09T17:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/bellissima"
         },
         {
           "title": "NO PICNIC",
           "showtimes": [
-            "2026-06-07T15:00:00-04:00",
-            "2026-06-07T17:20:00-04:00",
-            "2026-06-07T19:40:00-04:00",
             "2026-06-08T15:00:00-04:00",
             "2026-06-08T17:20:00-04:00",
-            "2026-06-08T19:40:00-04:00"
+            "2026-06-08T19:40:00-04:00",
+            "2026-06-09T15:00:00-04:00",
+            "2026-06-09T17:20:00-04:00",
+            "2026-06-09T19:40:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/no-picnic"
         },
         {
-          "title": "RIVER OF NO RETURN",
-          "showtimes": [
-            "2026-06-07T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/river-of-no-return-marilyn-100"
-        },
-        {
-          "title": "SOME LIKE IT HOT",
-          "showtimes": [
-            "2026-06-07T17:15:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/some-like-it-hot-marilyn-100"
-        },
-        {
-          "title": "THE MISFITS",
-          "showtimes": [
-            "2026-06-07T19:50:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/the-misfits-marilyn-100-marilyn-100"
-        },
-        {
           "title": "NIAGARA",
           "showtimes": [
-            "2026-06-08T13:00:00-04:00"
+            "2026-06-08T13:00:00-04:00",
+            "2026-06-09T14:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/niagara-marilyn-100"
         },
@@ -288,7 +287,8 @@
         {
           "title": "THE ASPHALT JUNGLE",
           "showtimes": [
-            "2026-06-08T17:50:00-04:00"
+            "2026-06-08T17:50:00-04:00",
+            "2026-06-09T16:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-asphalt-jungle-marilyn-100"
         },
@@ -298,6 +298,21 @@
             "2026-06-08T20:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/clash-by-night-marilyn-100"
+        },
+        {
+          "title": "GENTLEMEN PREFER BLONDES",
+          "showtimes": [
+            "2026-06-09T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/gentlemen-prefer-blondes-marilyn-100"
+        },
+        {
+          "title": "CLUNY BROWN",
+          "showtimes": [
+            "2026-06-09T12:20:00-04:00",
+            "2026-06-09T18:50:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/cluny-brown-the-lubitsch-touch"
         }
       ]
     },
@@ -306,48 +321,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "GOD'S COUNTRY",
-          "showtimes": [
-            "2026-06-07T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29996"
-        },
-        {
-          "title": "ATLANTIC CITY",
-          "showtimes": [
-            "2026-06-07T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29993"
-        },
-        {
-          "title": "LONG LIVE THE REPUBLIC!",
-          "showtimes": [
-            "2026-06-07T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29997"
-        },
-        {
-          "title": "... AND THE PURSUIT OF HAPPINESS",
-          "showtimes": [
-            "2026-06-07T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30002"
-        },
-        {
-          "title": "BUMMING IN BEIJING: THE LAST DREAMERS",
-          "showtimes": [
-            "2026-06-07T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30001"
-        },
-        {
-          "title": "SCHOOL ON FIRE",
-          "showtimes": [
-            "2026-06-07T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30000"
-        },
         {
           "title": "ANDREI RUBLEV",
           "showtimes": [
@@ -398,79 +371,51 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE CHRISTOPHERS",
-          "showtimes": [
-            "2026-06-07T19:55:00-04:00",
-            "2026-06-08T19:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
-          "title": "THE DRAMA",
-          "showtimes": [
-            "2026-06-07T17:40:00-04:00",
-            "2026-06-08T13:00:00-04:00",
-            "2026-06-08T17:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
-          "title": "FUNERAL PARADE OF ROSES",
-          "showtimes": [
-            "2026-06-07T18:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-06-07T20:05:00-04:00",
-            "2026-06-08T12:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
-          "title": "SAVAGE HOUSE",
-          "showtimes": [
-            "2026-06-07T17:20:00-04:00",
-            "2026-06-07T19:45:00-04:00",
-            "2026-06-08T12:40:00-04:00",
-            "2026-06-08T15:00:00-04:00",
-            "2026-06-08T17:20:00-04:00",
-            "2026-06-08T19:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
-          "title": "TUNER",
-          "showtimes": [
-            "2026-06-07T17:10:00-04:00",
-            "2026-06-07T19:30:00-04:00",
-            "2026-06-08T12:30:00-04:00",
-            "2026-06-08T14:45:00-04:00",
-            "2026-06-08T17:10:00-04:00",
-            "2026-06-08T19:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
           "title": "BOUND",
           "showtimes": [
-            "2026-06-08T18:00:00-04:00"
+            "2026-06-08T18:00:00-04:00",
+            "2026-06-09T14:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "THE CHRISTOPHERS",
+          "showtimes": [
+            "2026-06-08T19:55:00-04:00",
+            "2026-06-09T16:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
         },
         {
           "title": "DESERT HEARTS",
           "showtimes": [
-            "2026-06-08T20:10:00-04:00"
+            "2026-06-08T20:10:00-04:00",
+            "2026-06-09T12:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "THE DRAMA",
+          "showtimes": [
+            "2026-06-08T13:00:00-04:00",
+            "2026-06-08T17:40:00-04:00",
+            "2026-06-09T12:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
         },
         {
           "title": "FORGE",
           "showtimes": [
-            "2026-06-08T15:15:00-04:00"
+            "2026-06-08T15:15:00-04:00",
+            "2026-06-09T14:30:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "HAPPY TOGETHER",
+          "showtimes": [
+            "2026-06-08T12:00:00-04:00",
+            "2026-06-09T18:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
         },
@@ -487,6 +432,48 @@
             "2026-06-08T14:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "SAVAGE HOUSE",
+          "showtimes": [
+            "2026-06-08T12:40:00-04:00",
+            "2026-06-08T15:00:00-04:00",
+            "2026-06-08T17:20:00-04:00",
+            "2026-06-08T19:45:00-04:00",
+            "2026-06-09T12:40:00-04:00",
+            "2026-06-09T15:00:00-04:00",
+            "2026-06-09T17:20:00-04:00",
+            "2026-06-09T19:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "TUNER",
+          "showtimes": [
+            "2026-06-08T12:30:00-04:00",
+            "2026-06-08T14:45:00-04:00",
+            "2026-06-08T17:10:00-04:00",
+            "2026-06-08T19:30:00-04:00",
+            "2026-06-09T12:30:00-04:00",
+            "2026-06-09T14:45:00-04:00",
+            "2026-06-09T17:10:00-04:00",
+            "2026-06-09T19:30:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "THE CHILDREN’S HOUR",
+          "showtimes": [
+            "2026-06-09T16:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
+        },
+        {
+          "title": "FUNERAL PARADE OF ROSES",
+          "showtimes": [
+            "2026-06-09T20:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
         }
       ]
     },
@@ -495,13 +482,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "City of God",
-          "showtimes": [
-            "2026-06-07T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2609/seats"
-        },
         {
           "title": "Werckmeister Harmonies",
           "showtimes": [
@@ -526,9 +506,31 @@
         {
           "title": "Spider",
           "showtimes": [
-            "2026-06-08T22:00:00-04:00"
+            "2026-06-08T22:00:00-04:00",
+            "2026-06-09T16:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2613/seats"
+        },
+        {
+          "title": "Images",
+          "showtimes": [
+            "2026-06-09T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2614/seats"
+        },
+        {
+          "title": "Nadja",
+          "showtimes": [
+            "2026-06-09T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2616/seats"
+        },
+        {
+          "title": "Leaving Las Vegas",
+          "showtimes": [
+            "2026-06-09T22:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2617/seats"
         }
       ]
     },
