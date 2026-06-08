@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T10:42:43-04:00",
+  "lastUpdated": "2026-06-08T14:05:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -482,13 +482,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Werckmeister Harmonies",
-          "showtimes": [
-            "2026-06-08T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2610/seats"
-        },
         {
           "title": "Breaking the Waves",
           "showtimes": [
