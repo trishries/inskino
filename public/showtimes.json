@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T16:10:56-04:00",
+  "lastUpdated": "2026-06-07T20:02:57-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,34 +7,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "ALLEN GINSBERG PGM 3: GUNS OF THE TREES",
-          "showtimes": [
-            "2026-06-07T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5403?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "NEWS FROM HOME",
-          "showtimes": [
-            "2026-06-07T18:15:00-04:00",
-            "2026-06-08T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5289?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 4",
-          "showtimes": [
-            "2026-06-07T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5405?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "NEW NEWS FROM ANOTHER HOME",
           "showtimes": [
-            "2026-06-07T20:30:00-04:00",
             "2026-06-08T18:30:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5283?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5284?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 5: FRIED SHOES, COOKED DIAMONDS",
@@ -49,6 +26,13 @@
             "2026-06-08T20:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5409?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "NEWS FROM HOME",
+          "showtimes": [
+            "2026-06-08T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5290?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -323,6 +307,13 @@
       "status": "ok",
       "films": [
         {
+          "title": "GOD'S COUNTRY",
+          "showtimes": [
+            "2026-06-07T13:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29996"
+        },
+        {
           "title": "ATLANTIC CITY",
           "showtimes": [
             "2026-06-07T15:30:00-04:00"
@@ -342,6 +333,13 @@
             "2026-06-07T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30002"
+        },
+        {
+          "title": "BUMMING IN BEIJING: THE LAST DREAMERS",
+          "showtimes": [
+            "2026-06-07T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30001"
         },
         {
           "title": "SCHOOL ON FIRE",
@@ -400,13 +398,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE CHILDREN’S HOUR",
-          "showtimes": [
-            "2026-06-07T12:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
           "title": "THE CHRISTOPHERS",
           "showtimes": [
             "2026-06-07T19:55:00-04:00",
@@ -415,28 +406,11 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
         },
         {
-          "title": "DESERT HEARTS",
-          "showtimes": [
-            "2026-06-07T16:10:00-04:00",
-            "2026-06-08T20:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
           "title": "THE DRAMA",
           "showtimes": [
-            "2026-06-07T13:00:00-04:00",
             "2026-06-07T17:40:00-04:00",
             "2026-06-08T13:00:00-04:00",
             "2026-06-08T17:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
-          "title": "FORGE",
-          "showtimes": [
-            "2026-06-07T15:15:00-04:00",
-            "2026-06-08T15:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
         },
@@ -456,18 +430,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
         },
         {
-          "title": "LAW OF DESIRE",
-          "showtimes": [
-            "2026-06-07T14:10:00-04:00",
-            "2026-06-08T16:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-07"
-        },
-        {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-07T12:40:00-04:00",
-            "2026-06-07T15:00:00-04:00",
             "2026-06-07T17:20:00-04:00",
             "2026-06-07T19:45:00-04:00",
             "2026-06-08T12:40:00-04:00",
@@ -480,8 +444,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-07T12:30:00-04:00",
-            "2026-06-07T14:45:00-04:00",
             "2026-06-07T17:10:00-04:00",
             "2026-06-07T19:30:00-04:00",
             "2026-06-08T12:30:00-04:00",
@@ -499,6 +461,27 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
         },
         {
+          "title": "DESERT HEARTS",
+          "showtimes": [
+            "2026-06-08T20:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "FORGE",
+          "showtimes": [
+            "2026-06-08T15:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
+          "title": "LAW OF DESIRE",
+          "showtimes": [
+            "2026-06-08T16:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-08"
+        },
+        {
           "title": "ROPE",
           "showtimes": [
             "2026-06-08T14:00:00-04:00"
@@ -512,13 +495,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Zodiac",
-          "showtimes": [
-            "2026-06-07T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2608/seats"
-        },
         {
           "title": "City of God",
           "showtimes": [
