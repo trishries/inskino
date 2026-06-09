@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T13:27:24-04:00",
+  "lastUpdated": "2026-06-09T16:56:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -383,13 +383,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "BOUND",
-          "showtimes": [
-            "2026-06-09T14:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
-        },
-        {
           "title": "THE CHILDREN’S HOUR",
           "showtimes": [
             "2026-06-09T16:10:00-04:00"
@@ -401,23 +394,6 @@
           "showtimes": [
             "2026-06-09T16:45:00-04:00",
             "2026-06-10T19:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
-        },
-        {
-          "title": "DESERT HEARTS",
-          "showtimes": [
-            "2026-06-09T12:00:00-04:00",
-            "2026-06-10T18:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
-        },
-        {
-          "title": "THE DRAMA",
-          "showtimes": [
-            "2026-06-09T12:15:00-04:00",
-            "2026-06-10T13:00:00-04:00",
-            "2026-06-10T17:40:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
         },
@@ -448,7 +424,6 @@
         {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-09T12:40:00-04:00",
             "2026-06-09T15:00:00-04:00",
             "2026-06-09T17:20:00-04:00",
             "2026-06-09T19:45:00-04:00",
@@ -462,7 +437,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-09T12:30:00-04:00",
             "2026-06-09T14:45:00-04:00",
             "2026-06-09T17:10:00-04:00",
             "2026-06-09T19:30:00-04:00",
@@ -472,6 +446,21 @@
             "2026-06-10T19:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
+        },
+        {
+          "title": "DESERT HEARTS",
+          "showtimes": [
+            "2026-06-10T18:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
+        },
+        {
+          "title": "THE DRAMA",
+          "showtimes": [
+            "2026-06-10T13:00:00-04:00",
+            "2026-06-10T17:40:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
         },
         {
           "title": "LAW OF DESIRE",
@@ -494,20 +483,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Images",
-          "showtimes": [
-            "2026-06-09T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2614/seats"
-        },
-        {
-          "title": "Spider",
-          "showtimes": [
-            "2026-06-09T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2615/seats"
-        },
         {
           "title": "Nadja",
           "showtimes": [
