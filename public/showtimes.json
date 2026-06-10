@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T16:56:31-04:00",
+  "lastUpdated": "2026-06-09T20:08:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,34 +7,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "ALLEN GINSBERG PGM 7",
-          "showtimes": [
-            "2026-06-09T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5411?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "NEW NEWS FROM ANOTHER HOME",
-          "showtimes": [
-            "2026-06-09T18:30:00-04:00",
-            "2026-06-10T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5285?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 8",
-          "showtimes": [
-            "2026-06-09T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5413?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "NEWS FROM HOME",
           "showtimes": [
-            "2026-06-09T21:00:00-04:00",
             "2026-06-10T18:30:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5291?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5292?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 9: HOWL",
@@ -42,6 +19,13 @@
             "2026-06-10T19:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5431?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "NEW NEWS FROM ANOTHER HOME",
+          "showtimes": [
+            "2026-06-10T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5286?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 10",
@@ -383,29 +367,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE CHILDREN’S HOUR",
-          "showtimes": [
-            "2026-06-09T16:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
-        },
-        {
-          "title": "THE CHRISTOPHERS",
-          "showtimes": [
-            "2026-06-09T16:45:00-04:00",
-            "2026-06-10T19:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
-        },
-        {
-          "title": "FORGE",
-          "showtimes": [
-            "2026-06-09T14:30:00-04:00",
-            "2026-06-10T15:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
-        },
-        {
           "title": "FUNERAL PARADE OF ROSES",
           "showtimes": [
             "2026-06-09T20:10:00-04:00",
@@ -424,7 +385,6 @@
         {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-09T15:00:00-04:00",
             "2026-06-09T17:20:00-04:00",
             "2026-06-09T19:45:00-04:00",
             "2026-06-10T12:40:00-04:00",
@@ -437,8 +397,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-09T14:45:00-04:00",
-            "2026-06-09T17:10:00-04:00",
             "2026-06-09T19:30:00-04:00",
             "2026-06-10T12:30:00-04:00",
             "2026-06-10T14:45:00-04:00",
@@ -446,6 +404,13 @@
             "2026-06-10T19:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-09"
+        },
+        {
+          "title": "THE CHRISTOPHERS",
+          "showtimes": [
+            "2026-06-10T19:55:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
         },
         {
           "title": "DESERT HEARTS",
@@ -459,6 +424,13 @@
           "showtimes": [
             "2026-06-10T13:00:00-04:00",
             "2026-06-10T17:40:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
+        },
+        {
+          "title": "FORGE",
+          "showtimes": [
+            "2026-06-10T15:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
         },
@@ -483,13 +455,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Nadja",
-          "showtimes": [
-            "2026-06-09T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2616/seats"
-        },
         {
           "title": "Leaving Las Vegas",
           "showtimes": [
