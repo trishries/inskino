@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T14:08:12-04:00",
+  "lastUpdated": "2026-06-10T17:24:52-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -317,29 +317,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "HILL OF FREEDOM",
-          "showtimes": [
-            "2026-06-10T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30123"
-        },
-        {
-          "title": "LOVE LETTER",
-          "showtimes": [
-            "2026-06-10T15:45:00-04:00",
-            "2026-06-11T22:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30124"
-        },
-        {
-          "title": "WITH HASAN IN GAZA",
-          "showtimes": [
-            "2026-06-10T16:45:00-04:00",
-            "2026-06-11T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30126"
-        },
-        {
           "title": "JEANNE DIELMAN, 23 QUAI DU COMMERCE,1080 BRUXELLES",
           "showtimes": [
             "2026-06-10T18:10:00-04:00"
@@ -359,6 +336,13 @@
             "2026-06-10T22:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30127"
+        },
+        {
+          "title": "WITH HASAN IN GAZA",
+          "showtimes": [
+            "2026-06-11T15:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30129"
         },
         {
           "title": "CLÉO FROM 5 TO 7",
@@ -394,6 +378,13 @@
             "2026-06-11T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30135"
+        },
+        {
+          "title": "LOVE LETTER",
+          "showtimes": [
+            "2026-06-11T22:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30134"
         }
       ]
     },
@@ -421,7 +412,6 @@
         {
           "title": "THE DRAMA",
           "showtimes": [
-            "2026-06-10T13:00:00-04:00",
             "2026-06-10T17:40:00-04:00",
             "2026-06-11T11:45:00-04:00"
           ],
@@ -431,21 +421,6 @@
           "title": "FORGE",
           "showtimes": [
             "2026-06-10T15:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
-        },
-        {
-          "title": "FUNERAL PARADE OF ROSES",
-          "showtimes": [
-            "2026-06-10T12:00:00-04:00",
-            "2026-06-11T16:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
-        },
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-06-10T14:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
         },
@@ -467,7 +442,6 @@
         {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-10T12:40:00-04:00",
             "2026-06-10T15:00:00-04:00",
             "2026-06-10T17:20:00-04:00",
             "2026-06-10T19:45:00-04:00",
@@ -481,7 +455,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-10T12:30:00-04:00",
             "2026-06-10T14:45:00-04:00",
             "2026-06-10T17:10:00-04:00",
             "2026-06-10T19:30:00-04:00",
@@ -513,6 +486,13 @@
             "2026-06-11T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-11"
+        },
+        {
+          "title": "FUNERAL PARADE OF ROSES",
+          "showtimes": [
+            "2026-06-11T16:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-11"
         }
       ]
     },
@@ -521,13 +501,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Matador",
-          "showtimes": [
-            "2026-06-10T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2619/seats"
-        },
         {
           "title": "The Man Who Wasn't There",
           "showtimes": [
