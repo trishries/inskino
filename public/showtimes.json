@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T10:31:16-04:00",
+  "lastUpdated": "2026-06-11T14:22:45-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -570,13 +570,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Zodiac",
-          "showtimes": [
-            "2026-06-11T12:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2623/seats"
-        },
         {
           "title": "The Man Who Wasn't There",
           "showtimes": [
