@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T14:22:45-04:00",
+  "lastUpdated": "2026-06-11T17:18:59-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -463,13 +463,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "BOUND",
-          "showtimes": [
-            "2026-06-11T12:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-11"
-        },
-        {
           "title": "THE CHILDREN’S HOUR",
           "showtimes": [
             "2026-06-11T20:00:00-04:00"
@@ -506,13 +499,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-11"
         },
         {
-          "title": "THE DRAMA",
-          "showtimes": [
-            "2026-06-11T11:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-11"
-        },
-        {
           "title": "FUNERAL PARADE OF ROSES",
           "showtimes": [
             "2026-06-11T16:10:00-04:00"
@@ -529,7 +515,6 @@
         {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-11T11:00:00-04:00",
             "2026-06-11T13:20:00-04:00",
             "2026-06-11T15:40:00-04:00",
             "2026-06-11T20:15:00-04:00",
@@ -541,7 +526,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-11T11:15:00-04:00",
             "2026-06-11T13:40:00-04:00",
             "2026-06-11T18:00:00-04:00",
             "2026-06-12T12:30:00-04:00",
@@ -570,13 +554,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Man Who Wasn't There",
-          "showtimes": [
-            "2026-06-11T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2624/seats"
-        },
         {
           "title": "Welcome To The Dollhouse",
           "showtimes": [
