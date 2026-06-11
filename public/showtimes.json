@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T17:24:52-04:00",
+  "lastUpdated": "2026-06-10T20:12:20-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,32 +9,9 @@
         {
           "title": "NEWS FROM HOME",
           "showtimes": [
-            "2026-06-10T18:30:00-04:00",
             "2026-06-11T18:30:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5292?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 9: HOWL",
-          "showtimes": [
-            "2026-06-10T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5431?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "NEW NEWS FROM ANOTHER HOME",
-          "showtimes": [
-            "2026-06-10T21:00:00-04:00",
-            "2026-06-11T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5286?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 10",
-          "showtimes": [
-            "2026-06-10T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5415?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5293?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 2",
@@ -49,6 +26,13 @@
             "2026-06-11T20:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5404?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "NEW NEWS FROM ANOTHER HOME",
+          "showtimes": [
+            "2026-06-11T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5287?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -160,7 +144,8 @@
           "showtimes": [
             "2026-06-10T13:00:00-04:00",
             "2026-06-10T18:35:00-04:00",
-            "2026-06-11T13:00:00-04:00"
+            "2026-06-11T13:00:00-04:00",
+            "2026-06-11T18:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562074~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -418,20 +403,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
         },
         {
-          "title": "FORGE",
-          "showtimes": [
-            "2026-06-10T15:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
-        },
-        {
-          "title": "LAW OF DESIRE",
-          "showtimes": [
-            "2026-06-10T16:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-10"
-        },
-        {
           "title": "ROPE",
           "showtimes": [
             "2026-06-10T20:15:00-04:00",
@@ -442,7 +413,6 @@
         {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-10T15:00:00-04:00",
             "2026-06-10T17:20:00-04:00",
             "2026-06-10T19:45:00-04:00",
             "2026-06-11T11:00:00-04:00",
@@ -455,8 +425,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-10T14:45:00-04:00",
-            "2026-06-10T17:10:00-04:00",
             "2026-06-10T19:30:00-04:00",
             "2026-06-11T11:15:00-04:00",
             "2026-06-11T13:40:00-04:00",
@@ -502,14 +470,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "The Man Who Wasn't There",
-          "showtimes": [
-            "2026-06-10T18:45:00-04:00",
-            "2026-06-11T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2620/seats"
-        },
-        {
           "title": "Irreversible",
           "showtimes": [
             "2026-06-10T22:05:00-04:00"
@@ -522,6 +482,13 @@
             "2026-06-11T12:15:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2623/seats"
+        },
+        {
+          "title": "The Man Who Wasn't There",
+          "showtimes": [
+            "2026-06-11T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2624/seats"
         },
         {
           "title": "Welcome To The Dollhouse",
