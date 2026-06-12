@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T05:09:39-04:00",
+  "lastUpdated": "2026-06-12T09:59:01-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -325,13 +325,6 @@
             "2026-06-12T17:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30041"
-        },
-        {
-          "title": "POMPEI: BELOW THE CLOUDS",
-          "showtimes": [
-            "2026-06-12T19:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30042"
         },
         {
           "title": "UNDECLARED WAR",
