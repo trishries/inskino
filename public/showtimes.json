@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-06-12T17:02:05-04:00",
+  "lastUpdated": "2026-06-12T20:17:19-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: STAN BRAKHAGE PGM 1",
-          "showtimes": [
-            "2026-06-12T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5242?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Dog Star Man",
-          "showtimes": [
-            "2026-06-12T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5243?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: STAN BRAKHAGE PGM 2",
           "showtimes": [
@@ -370,7 +356,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-12T13:00:00-04:00",
             "2026-06-12T16:00:00-04:00",
             "2026-06-12T18:00:00-04:00",
             "2026-06-12T19:00:00-04:00",
@@ -387,7 +372,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-12T14:30:00-04:00",
             "2026-06-12T16:45:00-04:00",
             "2026-06-12T19:10:00-04:00",
             "2026-06-12T21:40:00-04:00",
@@ -402,7 +386,6 @@
         {
           "title": "SAVAGE HOUSE",
           "showtimes": [
-            "2026-06-12T15:30:00-04:00",
             "2026-06-12T21:45:00-04:00",
             "2026-06-13T15:30:00-04:00",
             "2026-06-13T21:45:00-04:00"
@@ -412,7 +395,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-12T14:45:00-04:00",
             "2026-06-12T17:00:00-04:00",
             "2026-06-12T19:20:00-04:00",
             "2026-06-12T21:35:00-04:00",
@@ -432,21 +414,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "In the Hand of Dante",
-          "showtimes": [
-            "2026-06-12T18:30:00-04:00",
-            "2026-06-13T10:00:00-04:00",
-            "2026-06-13T18:55:00-04:00",
-            "2026-06-13T22:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2631/seats"
-        },
-        {
           "title": "Lou Reed: Berlin",
           "showtimes": [
             "2026-06-12T22:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2632/seats"
+        },
+        {
+          "title": "In the Hand of Dante",
+          "showtimes": [
+            "2026-06-13T10:00:00-04:00",
+            "2026-06-13T18:55:00-04:00",
+            "2026-06-13T22:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2633/seats"
         },
         {
           "title": "At Eternity's Gate",
