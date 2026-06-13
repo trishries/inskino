@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T12:21:41-04:00",
+  "lastUpdated": "2026-06-13T16:14:42-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -221,15 +221,102 @@
     {
       "name": "Film Forum",
       "url": "https://filmforum.org",
-      "status": "error",
-      "films": [],
-      "error": "fetch failed"
+      "status": "ok",
+      "films": [
+        {
+          "title": "PROMISED SKY",
+          "showtimes": [
+            "2026-06-13T12:15:00-04:00",
+            "2026-06-13T14:20:00-04:00",
+            "2026-06-13T16:30:00-04:00",
+            "2026-06-13T19:00:00-04:00",
+            "2026-06-14T12:15:00-04:00",
+            "2026-06-14T14:20:00-04:00",
+            "2026-06-14T16:30:00-04:00",
+            "2026-06-14T18:40:00-04:00",
+            "2026-06-14T20:50:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/promised-sky"
+        },
+        {
+          "title": "THE THIRD MAN",
+          "showtimes": [
+            "2026-06-13T12:50:00-04:00",
+            "2026-06-13T15:15:00-04:00",
+            "2026-06-13T18:00:00-04:00",
+            "2026-06-13T20:30:00-04:00",
+            "2026-06-14T13:20:00-04:00",
+            "2026-06-14T15:40:00-04:00",
+            "2026-06-14T18:00:00-04:00",
+            "2026-06-14T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-third-man-2026"
+        },
+        {
+          "title": "DAYS AND NIGHTS IN THE FOREST",
+          "showtimes": [
+            "2026-06-13T12:30:00-04:00",
+            "2026-06-13T15:00:00-04:00",
+            "2026-06-13T17:30:00-04:00",
+            "2026-06-13T20:00:00-04:00",
+            "2026-06-14T12:30:00-04:00",
+            "2026-06-14T15:00:00-04:00",
+            "2026-06-14T17:30:00-04:00",
+            "2026-06-14T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/days-and-nights-in-the-forest"
+        },
+        {
+          "title": "FORASTERA",
+          "showtimes": [
+            "2026-06-13T14:20:00-04:00",
+            "2026-06-13T18:30:00-04:00",
+            "2026-06-14T14:20:00-04:00",
+            "2026-06-14T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/forastera"
+        },
+        {
+          "title": "NO PICNIC",
+          "showtimes": [
+            "2026-06-13T12:20:00-04:00",
+            "2026-06-13T16:30:00-04:00",
+            "2026-06-13T20:40:00-04:00",
+            "2026-06-14T12:20:00-04:00",
+            "2026-06-14T16:30:00-04:00",
+            "2026-06-14T20:40:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/no-picnic"
+        },
+        {
+          "title": "THE MUPPET MOVIE",
+          "showtimes": [
+            "2026-06-14T23:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-muppet-movie-ffjr-2026"
+        }
+      ]
     },
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
+        {
+          "title": "MR. TURNER",
+          "showtimes": [
+            "2026-06-13T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30046"
+        },
+        {
+          "title": "THE LITTLE GIRL OF HANOI",
+          "showtimes": [
+            "2026-06-13T12:00:00-04:00",
+            "2026-06-14T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30047"
+        },
         {
           "title": "BOATMAN",
           "showtimes": [
@@ -282,7 +369,8 @@
         {
           "title": "ONDA NOVA",
           "showtimes": [
-            "2026-06-13T22:15:00-04:00"
+            "2026-06-13T22:15:00-04:00",
+            "2026-06-14T13:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30054"
         },
@@ -343,13 +431,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30063"
         },
         {
-          "title": "THE LITTLE GIRL OF HANOI",
-          "showtimes": [
-            "2026-06-14T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30064"
-        },
-        {
           "title": "ALL ABOUT LILY CHOU-CHOU",
           "showtimes": [
             "2026-06-14T21:35:00-04:00"
@@ -373,7 +454,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-13T12:00:00-04:00",
             "2026-06-13T13:00:00-04:00",
             "2026-06-13T16:00:00-04:00",
             "2026-06-13T18:00:00-04:00",
@@ -390,7 +470,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-13T11:55:00-04:00",
             "2026-06-13T14:15:00-04:00",
             "2026-06-13T16:45:00-04:00",
             "2026-06-13T19:10:00-04:00",
@@ -414,7 +493,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-13T12:30:00-04:00",
             "2026-06-13T14:45:00-04:00",
             "2026-06-13T17:00:00-04:00",
             "2026-06-13T19:20:00-04:00",
@@ -434,13 +512,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "At Eternity's Gate",
-          "showtimes": [
-            "2026-06-13T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2636/seats"
-        },
         {
           "title": "Before Night Falls",
           "showtimes": [
