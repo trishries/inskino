@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T12:42:33-04:00",
+  "lastUpdated": "2026-06-14T16:16:40-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -276,6 +276,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30057"
         },
         {
+          "title": "ONDA NOVA",
+          "showtimes": [
+            "2026-06-14T13:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30060"
+        },
+        {
           "title": "THE DECAMERON",
           "showtimes": [
             "2026-06-14T15:35:00-04:00"
@@ -370,7 +377,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-14T11:45:00-04:00",
             "2026-06-14T13:00:00-04:00",
             "2026-06-14T16:00:00-04:00",
             "2026-06-14T18:00:00-04:00",
@@ -386,7 +392,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-14T10:45:00-04:00",
             "2026-06-14T14:45:00-04:00",
             "2026-06-14T17:00:00-04:00",
             "2026-06-14T19:15:00-04:00",
@@ -408,8 +413,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-14T10:30:00-04:00",
-            "2026-06-14T12:45:00-04:00",
             "2026-06-14T15:00:00-04:00",
             "2026-06-14T17:15:00-04:00",
             "2026-06-14T19:30:00-04:00",
@@ -427,13 +430,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Diving Bell and the Butterfly",
-          "showtimes": [
-            "2026-06-14T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2639/seats"
-        },
         {
           "title": "Basquiat",
           "showtimes": [
