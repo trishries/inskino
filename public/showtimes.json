@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T08:58:03-04:00",
+  "lastUpdated": "2026-06-14T12:42:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -297,18 +297,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30062"
         },
         {
-          "title": "APRIL STORY",
-          "showtimes": [
-            "2026-06-14T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30063"
-        },
-        {
           "title": "THE LITTLE GIRL OF HANOI",
           "showtimes": [
             "2026-06-14T20:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30064"
+        },
+        {
+          "title": "APRIL STORY",
+          "showtimes": [
+            "2026-06-14T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30063"
         },
         {
           "title": "ALL ABOUT LILY CHOU-CHOU",
@@ -428,18 +428,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "In the Hand of Dante",
-          "showtimes": [
-            "2026-06-14T10:00:00-04:00",
-            "2026-06-14T18:30:00-04:00",
-            "2026-06-14T21:50:00-04:00",
-            "2026-06-15T11:00:00-04:00",
-            "2026-06-15T14:30:00-04:00",
-            "2026-06-15T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2638/seats"
-        },
-        {
           "title": "The Diving Bell and the Butterfly",
           "showtimes": [
             "2026-06-14T13:15:00-04:00"
@@ -452,6 +440,17 @@
             "2026-06-14T15:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2640/seats"
+        },
+        {
+          "title": "In the Hand of Dante",
+          "showtimes": [
+            "2026-06-14T18:30:00-04:00",
+            "2026-06-14T21:50:00-04:00",
+            "2026-06-15T11:00:00-04:00",
+            "2026-06-15T14:30:00-04:00",
+            "2026-06-15T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2641/seats"
         },
         {
           "title": "Miral",
