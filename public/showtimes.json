@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T12:13:36-04:00",
+  "lastUpdated": "2026-06-15T15:06:49-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -404,14 +404,13 @@
         {
           "title": "In the Hand of Dante",
           "showtimes": [
-            "2026-06-15T14:30:00-04:00",
             "2026-06-15T18:00:00-04:00",
             "2026-06-16T11:30:00-04:00",
             "2026-06-16T15:00:00-04:00",
             "2026-06-16T18:30:00-04:00",
             "2026-06-16T22:00:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2644/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2645/seats"
         },
         {
           "title": "Miral",
