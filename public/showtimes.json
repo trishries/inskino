@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T17:41:42-04:00",
+  "lastUpdated": "2026-06-15T20:27:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,12 +9,10 @@
         {
           "title": "BY HOOK OR BY CROOK",
           "showtimes": [
-            "2026-06-15T18:30:00-04:00",
-            "2026-06-15T21:00:00-04:00",
             "2026-06-16T18:30:00-04:00",
             "2026-06-16T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5299?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5301?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -345,7 +343,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-15T13:00:00-04:00",
             "2026-06-15T16:00:00-04:00",
             "2026-06-15T18:00:00-04:00",
             "2026-06-15T19:00:00-04:00",
@@ -360,7 +357,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-15T14:45:00-04:00",
             "2026-06-15T17:00:00-04:00",
             "2026-06-15T19:15:00-04:00",
             "2026-06-16T12:30:00-04:00",
@@ -371,17 +367,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-15"
         },
         {
-          "title": "SAVAGE HOUSE",
-          "showtimes": [
-            "2026-06-15T15:30:00-04:00",
-            "2026-06-16T15:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-15"
-        },
-        {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-15T15:00:00-04:00",
             "2026-06-15T17:15:00-04:00",
             "2026-06-15T19:30:00-04:00",
             "2026-06-16T12:45:00-04:00",
@@ -397,6 +384,13 @@
             "2026-06-16T20:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-16"
+        },
+        {
+          "title": "SAVAGE HOUSE",
+          "showtimes": [
+            "2026-06-16T15:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-16"
         }
       ]
     },
@@ -406,22 +400,21 @@
       "status": "ok",
       "films": [
         {
-          "title": "In the Hand of Dante",
-          "showtimes": [
-            "2026-06-15T18:00:00-04:00",
-            "2026-06-16T11:30:00-04:00",
-            "2026-06-16T15:00:00-04:00",
-            "2026-06-16T18:30:00-04:00",
-            "2026-06-16T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2645/seats"
-        },
-        {
           "title": "Miral",
           "showtimes": [
             "2026-06-15T21:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2651/seats"
+        },
+        {
+          "title": "In the Hand of Dante",
+          "showtimes": [
+            "2026-06-16T11:30:00-04:00",
+            "2026-06-16T15:00:00-04:00",
+            "2026-06-16T18:30:00-04:00",
+            "2026-06-16T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2647/seats"
         }
       ]
     },
