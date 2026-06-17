@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T06:00:20-04:00",
+  "lastUpdated": "2026-06-17T10:23:58-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -125,7 +125,8 @@
           "showtimes": [
             "2026-06-17T10:40:00-04:00",
             "2026-06-17T17:20:00-04:00",
-            "2026-06-18T10:40:00-04:00"
+            "2026-06-18T10:40:00-04:00",
+            "2026-06-18T17:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563311~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
