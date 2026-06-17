@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T13:51:31-04:00",
+  "lastUpdated": "2026-06-17T17:04:19-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -370,7 +370,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-17T13:20:00-04:00",
             "2026-06-17T15:45:00-04:00",
             "2026-06-17T18:00:00-04:00",
             "2026-06-18T13:20:00-04:00",
@@ -380,17 +379,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-17"
         },
         {
-          "title": "SAVAGE HOUSE",
-          "showtimes": [
-            "2026-06-17T13:10:00-04:00",
-            "2026-06-18T13:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-17"
-        },
-        {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-17T13:00:00-04:00",
             "2026-06-17T15:15:00-04:00",
             "2026-06-17T17:30:00-04:00",
             "2026-06-17T19:45:00-04:00",
@@ -407,6 +397,13 @@
             "2026-06-18T19:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-18"
+        },
+        {
+          "title": "SAVAGE HOUSE",
+          "showtimes": [
+            "2026-06-18T13:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-18"
         }
       ]
     },
@@ -419,8 +416,16 @@
     {
       "name": "Cherry Lane Theatre",
       "url": "https://cherrylanetheatre.org",
-      "status": "empty",
-      "films": []
+      "status": "ok",
+      "films": [
+        {
+          "title": "IN THE MOOD FOR LOVE",
+          "showtimes": [
+            "2026-06-18T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://cherrylanetheatre.org/shows/shifters"
+        }
+      ]
     }
   ]
 }
