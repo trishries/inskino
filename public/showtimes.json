@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T17:41:14-04:00",
+  "lastUpdated": "2026-06-16T20:13:22-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,12 +9,10 @@
         {
           "title": "BY HOOK OR BY CROOK",
           "showtimes": [
-            "2026-06-16T18:30:00-04:00",
-            "2026-06-16T21:00:00-04:00",
             "2026-06-17T18:30:00-04:00",
             "2026-06-17T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5301?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5303?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "THE MEMORY OF BUTTERFLIES",
@@ -263,20 +261,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "MY DINNER WITH ANDRÉ",
-          "showtimes": [
-            "2026-06-16T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30174"
-        },
-        {
-          "title": "PIROSMANI + ARABESQUES ON THE PIROSMANI THEME",
-          "showtimes": [
-            "2026-06-16T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30175"
-        },
-        {
           "title": "OASIS",
           "showtimes": [
             "2026-06-16T19:15:00-04:00"
@@ -349,7 +333,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-16T13:00:00-04:00",
             "2026-06-16T16:00:00-04:00",
             "2026-06-16T17:20:00-04:00",
             "2026-06-16T19:00:00-04:00",
@@ -371,7 +354,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-16T14:45:00-04:00",
             "2026-06-16T17:10:00-04:00",
             "2026-06-16T19:30:00-04:00",
             "2026-06-17T13:20:00-04:00",
@@ -381,17 +363,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-16"
         },
         {
-          "title": "SAVAGE HOUSE",
-          "showtimes": [
-            "2026-06-16T15:00:00-04:00",
-            "2026-06-17T13:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-16"
-        },
-        {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-16T15:15:00-04:00",
             "2026-06-16T17:30:00-04:00",
             "2026-06-16T19:45:00-04:00",
             "2026-06-17T13:00:00-04:00",
@@ -400,6 +373,13 @@
             "2026-06-17T19:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-16"
+        },
+        {
+          "title": "SAVAGE HOUSE",
+          "showtimes": [
+            "2026-06-17T13:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-17"
         }
       ]
     },
@@ -411,26 +391,17 @@
         {
           "title": "In the Hand of Dante",
           "showtimes": [
-            "2026-06-16T18:30:00-04:00",
             "2026-06-16T22:00:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2649/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2650/seats"
         }
       ]
     },
     {
       "name": "Cherry Lane Theatre",
       "url": "https://cherrylanetheatre.org",
-      "status": "ok",
-      "films": [
-        {
-          "title": "IF BEALE STREET COULD TALK",
-          "showtimes": [
-            "2026-06-16T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://cherrylanetheatre.org/shows/shifters"
-        }
-      ]
+      "status": "empty",
+      "films": []
     }
   ]
 }
