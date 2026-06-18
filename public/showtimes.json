@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T17:04:19-04:00",
+  "lastUpdated": "2026-06-17T20:13:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,19 +9,10 @@
         {
           "title": "BY HOOK OR BY CROOK",
           "showtimes": [
-            "2026-06-17T18:30:00-04:00",
-            "2026-06-17T21:00:00-04:00",
             "2026-06-18T18:30:00-04:00",
             "2026-06-18T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5303?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE MEMORY OF BUTTERFLIES",
-          "showtimes": [
-            "2026-06-17T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5361?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5305?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -348,8 +339,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-17T13:30:00-04:00",
-            "2026-06-17T15:30:00-04:00",
             "2026-06-17T16:30:00-04:00",
             "2026-06-17T19:30:00-04:00",
             "2026-06-18T13:30:00-04:00",
@@ -370,7 +359,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-17T15:45:00-04:00",
             "2026-06-17T18:00:00-04:00",
             "2026-06-18T13:20:00-04:00",
             "2026-06-18T15:45:00-04:00",
@@ -381,7 +369,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-17T15:15:00-04:00",
             "2026-06-17T17:30:00-04:00",
             "2026-06-17T19:45:00-04:00",
             "2026-06-18T13:00:00-04:00",
