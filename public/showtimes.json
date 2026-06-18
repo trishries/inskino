@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T09:56:49-04:00",
+  "lastUpdated": "2026-06-18T14:09:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -360,13 +360,6 @@
             "2026-06-19T15:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30082"
-        },
-        {
-          "title": "OFFSIDE",
-          "showtimes": [
-            "2026-06-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30081"
         },
         {
           "title": "BACK TO THE FUTURE",
