@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T14:09:14-04:00",
+  "lastUpdated": "2026-06-18T17:22:23-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -434,7 +434,6 @@
         {
           "title": "O HORIZON",
           "showtimes": [
-            "2026-06-18T13:20:00-04:00",
             "2026-06-18T15:45:00-04:00",
             "2026-06-18T18:00:00-04:00"
           ],
@@ -453,16 +452,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-18"
         },
         {
-          "title": "SAVAGE HOUSE",
-          "showtimes": [
-            "2026-06-18T13:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-18"
-        },
-        {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-18T13:00:00-04:00",
             "2026-06-18T15:15:00-04:00",
             "2026-06-18T17:30:00-04:00",
             "2026-06-18T19:45:00-04:00",
