@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T13:23:26-04:00",
+  "lastUpdated": "2026-06-19T16:25:58-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -329,6 +329,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30082"
         },
         {
+          "title": "OFFSIDE",
+          "showtimes": [
+            "2026-06-19T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30081"
+        },
+        {
           "title": "BACK TO THE FUTURE",
           "showtimes": [
             "2026-06-19T18:00:00-04:00"
@@ -431,7 +438,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-19T12:45:00-04:00",
             "2026-06-19T15:45:00-04:00",
             "2026-06-19T18:50:00-04:00",
             "2026-06-19T21:00:00-04:00",
@@ -445,7 +451,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-19T11:50:00-04:00",
             "2026-06-19T14:10:00-04:00",
             "2026-06-19T16:35:00-04:00",
             "2026-06-19T19:15:00-04:00",
@@ -461,7 +466,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-19T11:55:00-04:00",
             "2026-06-19T14:20:00-04:00",
             "2026-06-19T16:45:00-04:00",
             "2026-06-19T19:00:00-04:00",
@@ -477,7 +481,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-19T12:00:00-04:00",
             "2026-06-19T14:15:00-04:00",
             "2026-06-19T16:30:00-04:00",
             "2026-06-19T18:45:00-04:00",
@@ -497,13 +500,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "High Society",
-          "showtimes": [
-            "2026-06-19T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2720/seats"
-        },
         {
           "title": "Bridesmaids",
           "showtimes": [
