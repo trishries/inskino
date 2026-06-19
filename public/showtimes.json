@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T05:50:02-04:00",
+  "lastUpdated": "2026-06-19T09:58:36-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -564,7 +564,6 @@
         {
           "title": "THE CIRCLE",
           "showtimes": [
-            "2026-06-19T20:00:00-04:00",
             "2026-06-20T20:00:00-04:00"
           ],
           "ticketUrl": "/shows/the-circle"
