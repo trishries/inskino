@@ -1,21 +1,11 @@
 {
-  "lastUpdated": "2026-06-19T16:25:58-04:00",
+  "lastUpdated": "2026-06-19T20:05:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "CURSE OF THE SEVEN JACKALS",
-          "showtimes": [
-            "2026-06-19T19:15:00-04:00",
-            "2026-06-19T21:15:00-04:00",
-            "2026-06-20T19:15:00-04:00",
-            "2026-06-20T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5307?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BRAKHAGE ON BRAKHAGE",
           "showtimes": [
@@ -36,6 +26,14 @@
             "2026-06-20T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5406?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "CURSE OF THE SEVEN JACKALS",
+          "showtimes": [
+            "2026-06-20T19:15:00-04:00",
+            "2026-06-20T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5309?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 1",
@@ -329,13 +327,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30082"
         },
         {
-          "title": "OFFSIDE",
-          "showtimes": [
-            "2026-06-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30081"
-        },
-        {
           "title": "BACK TO THE FUTURE",
           "showtimes": [
             "2026-06-19T18:00:00-04:00"
@@ -438,7 +429,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-19T15:45:00-04:00",
             "2026-06-19T18:50:00-04:00",
             "2026-06-19T21:00:00-04:00",
             "2026-06-20T12:45:00-04:00",
@@ -451,8 +441,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-19T14:10:00-04:00",
-            "2026-06-19T16:35:00-04:00",
             "2026-06-19T19:15:00-04:00",
             "2026-06-19T21:40:00-04:00",
             "2026-06-20T11:50:00-04:00",
@@ -466,8 +454,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-19T14:20:00-04:00",
-            "2026-06-19T16:45:00-04:00",
             "2026-06-19T19:00:00-04:00",
             "2026-06-19T21:35:00-04:00",
             "2026-06-20T11:55:00-04:00",
@@ -481,8 +467,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-19T14:15:00-04:00",
-            "2026-06-19T16:30:00-04:00",
             "2026-06-19T18:45:00-04:00",
             "2026-06-19T21:45:00-04:00",
             "2026-06-20T12:00:00-04:00",
@@ -500,21 +484,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Bridesmaids",
-          "showtimes": [
-            "2026-06-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2716/seats"
-        },
-        {
-          "title": "Color Book",
-          "showtimes": [
-            "2026-06-19T19:00:00-04:00",
-            "2026-06-20T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2718/seats"
-        },
         {
           "title": "The Best Man",
           "showtimes": [
@@ -542,6 +511,13 @@
             "2026-06-20T16:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2719/seats"
+        },
+        {
+          "title": "Color Book",
+          "showtimes": [
+            "2026-06-20T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2721/seats"
         }
       ]
     },
@@ -550,13 +526,6 @@
       "url": "https://cherrylanetheatre.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE CIRCLE",
-          "showtimes": [
-            "2026-06-20T20:00:00-04:00"
-          ],
-          "ticketUrl": "/shows/the-circle"
-        },
         {
           "title": "MIDSOMMAR (DIRECTOR'S CUT)",
           "showtimes": [
