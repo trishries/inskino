@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T08:24:14-04:00",
+  "lastUpdated": "2026-06-20T12:25:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -520,13 +520,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "L'Age d'Or (with Un Chien Andalou)",
-          "showtimes": [
-            "2026-06-20T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2698/seats"
-        },
         {
           "title": "Los Olvidados (The Young and the Damned)",
           "showtimes": [
