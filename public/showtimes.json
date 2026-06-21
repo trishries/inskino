@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T09:01:23-04:00",
+  "lastUpdated": "2026-06-21T12:50:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -292,18 +292,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "GRAND HOTEL",
+          "title": "GRAND BUDAPEST HOTEL PRECEDED BY HOTEL CHEVALIER",
           "showtimes": [
-            "2026-06-21T11:00:00-04:00"
+            "2026-06-21T13:15:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30100"
-        },
-        {
-          "title": "LATE SPRING",
-          "showtimes": [
-            "2026-06-21T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30101"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30103"
         },
         {
           "title": "35 SHOTS OF RUM",
@@ -311,13 +304,6 @@
             "2026-06-21T13:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30102"
-        },
-        {
-          "title": "NOTTURNO",
-          "showtimes": [
-            "2026-06-21T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30111"
         },
         {
           "title": "THIS LONG CENTURY PRESENTS BEN RIVERS",
@@ -339,13 +325,6 @@
             "2026-06-21T19:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30106"
-        },
-        {
-          "title": "FULL ALERT",
-          "showtimes": [
-            "2026-06-21T19:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30109"
         },
         {
           "title": "FULL CONTACT",
@@ -477,13 +456,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Simon of the Desert (with Land Without Bread)",
-          "showtimes": [
-            "2026-06-21T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2700/seats"
-        },
         {
           "title": "Susana",
           "showtimes": [
