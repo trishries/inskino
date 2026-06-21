@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-06-21T12:50:14-04:00",
+  "lastUpdated": "2026-06-21T16:24:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "BRAKHAGE ON BRAKHAGE",
-          "showtimes": [
-            "2026-06-21T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5423?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "CHRIS JOLLY SHORT FILM PROGRAM",
           "showtimes": [
@@ -36,6 +29,13 @@
             "2026-06-22T21:15:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5311?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ALLEN GINSBERG PGM 9: HOWL",
+          "showtimes": [
+            "2026-06-21T20:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5628?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "VISION FESTIVAL 30 PGM 1",
@@ -292,20 +292,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "GRAND BUDAPEST HOTEL PRECEDED BY HOTEL CHEVALIER",
-          "showtimes": [
-            "2026-06-21T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30103"
-        },
-        {
-          "title": "35 SHOTS OF RUM",
-          "showtimes": [
-            "2026-06-21T13:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30102"
-        },
-        {
           "title": "THIS LONG CENTURY PRESENTS BEN RIVERS",
           "showtimes": [
             "2026-06-21T15:30:00-04:00"
@@ -456,13 +442,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Susana",
-          "showtimes": [
-            "2026-06-21T13:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2701/seats"
-        },
         {
           "title": "Color Book",
           "showtimes": [
