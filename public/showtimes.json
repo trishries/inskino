@@ -1,43 +1,11 @@
 {
-  "lastUpdated": "2026-06-20T16:13:35-04:00",
+  "lastUpdated": "2026-06-20T20:02:40-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "CHRIS JOLLY SHORT FILM PROGRAM",
-          "showtimes": [
-            "2026-06-20T17:15:00-04:00",
-            "2026-06-21T17:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5321?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 4",
-          "showtimes": [
-            "2026-06-20T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5406?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CURSE OF THE SEVEN JACKALS",
-          "showtimes": [
-            "2026-06-20T19:15:00-04:00",
-            "2026-06-20T21:15:00-04:00",
-            "2026-06-21T19:15:00-04:00",
-            "2026-06-21T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5309?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 1",
-          "showtimes": [
-            "2026-06-20T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5400?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BRAKHAGE ON BRAKHAGE",
           "showtimes": [
@@ -46,11 +14,26 @@
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5423?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
+          "title": "CHRIS JOLLY SHORT FILM PROGRAM",
+          "showtimes": [
+            "2026-06-21T17:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5322?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
           "title": "ALLEN GINSBERG PGM 6: THE LIFE AND TIMES OF ALLEN",
           "showtimes": [
             "2026-06-21T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5410?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "CURSE OF THE SEVEN JACKALS",
+          "showtimes": [
+            "2026-06-21T19:15:00-04:00",
+            "2026-06-21T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5311?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -322,6 +305,27 @@
       "status": "ok",
       "films": [
         {
+          "title": "EMPIRE OF THE SUN",
+          "showtimes": [
+            "2026-06-20T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30089"
+        },
+        {
+          "title": "THE TIN DRUM",
+          "showtimes": [
+            "2026-06-20T15:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30091"
+        },
+        {
+          "title": "BELOW SEA LEVEL",
+          "showtimes": [
+            "2026-06-20T15:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30092"
+        },
+        {
           "title": "EL SICARIO, ROOM 164",
           "showtimes": [
             "2026-06-20T17:30:00-04:00"
@@ -334,6 +338,13 @@
             "2026-06-20T19:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30097"
+        },
+        {
+          "title": "TAMPOPO",
+          "showtimes": [
+            "2026-06-20T20:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30094"
         },
         {
           "title": "GOODBYE, DRAGON INN",
@@ -357,13 +368,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30096"
         },
         {
-          "title": "LATE SPRING",
-          "showtimes": [
-            "2026-06-21T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30101"
-        },
-        {
           "title": "GRAND HOTEL",
           "showtimes": [
             "2026-06-21T11:00:00-04:00"
@@ -371,11 +375,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30100"
         },
         {
+          "title": "LATE SPRING",
+          "showtimes": [
+            "2026-06-21T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30101"
+        },
+        {
           "title": "35 SHOTS OF RUM",
           "showtimes": [
             "2026-06-21T13:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30102"
+        },
+        {
+          "title": "NOTTURNO",
+          "showtimes": [
+            "2026-06-21T15:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30111"
         },
         {
           "title": "THIS LONG CENTURY PRESENTS BEN RIVERS",
@@ -397,6 +415,13 @@
             "2026-06-21T19:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30106"
+        },
+        {
+          "title": "FULL ALERT",
+          "showtimes": [
+            "2026-06-21T19:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30109"
         },
         {
           "title": "FULL CONTACT",
@@ -422,8 +447,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-20T12:45:00-04:00",
-            "2026-06-20T15:45:00-04:00",
             "2026-06-20T18:50:00-04:00",
             "2026-06-20T21:00:00-04:00",
             "2026-06-21T13:00:00-04:00",
@@ -435,9 +458,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-20T11:50:00-04:00",
-            "2026-06-20T14:10:00-04:00",
-            "2026-06-20T16:35:00-04:00",
             "2026-06-20T19:15:00-04:00",
             "2026-06-20T21:40:00-04:00",
             "2026-06-21T11:50:00-04:00",
@@ -450,9 +470,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-20T11:55:00-04:00",
-            "2026-06-20T14:20:00-04:00",
-            "2026-06-20T16:45:00-04:00",
             "2026-06-20T19:00:00-04:00",
             "2026-06-20T21:35:00-04:00",
             "2026-06-21T11:55:00-04:00",
@@ -465,9 +482,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-20T12:00:00-04:00",
-            "2026-06-20T14:15:00-04:00",
-            "2026-06-20T16:30:00-04:00",
             "2026-06-20T18:45:00-04:00",
             "2026-06-20T21:45:00-04:00",
             "2026-06-21T12:00:00-04:00",
@@ -484,13 +498,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "VOICEMAILS FOR ISABELLE & YOU'VE GOT MAIL",
-          "showtimes": [
-            "2026-06-20T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2719/seats"
-        },
         {
           "title": "Color Book",
           "showtimes": [
