@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T06:46:19-04:00",
+  "lastUpdated": "2026-06-22T11:48:01-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -299,13 +299,6 @@
             "2026-06-22T16:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30197"
-        },
-        {
-          "title": "LES RENDEZ-VOUS D'ANNA",
-          "showtimes": [
-            "2026-06-22T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30199"
         },
         {
           "title": "EAT DRINK MAN WOMAN",
