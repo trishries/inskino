@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T11:48:01-04:00",
+  "lastUpdated": "2026-06-22T14:51:28-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -301,6 +301,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30197"
         },
         {
+          "title": "LES RENDEZ-VOUS D'ANNA",
+          "showtimes": [
+            "2026-06-22T19:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30199"
+        },
+        {
           "title": "EAT DRINK MAN WOMAN",
           "showtimes": [
             "2026-06-22T19:15:00-04:00"
@@ -445,14 +452,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Color Book",
-          "showtimes": [
-            "2026-06-22T13:00:00-04:00",
-            "2026-06-23T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2725/seats"
-        },
-        {
           "title": "Mamma Mia!",
           "showtimes": [
             "2026-06-22T16:00:00-04:00",
@@ -474,6 +473,13 @@
             "2026-06-22T21:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2728/seats"
+        },
+        {
+          "title": "Color Book",
+          "showtimes": [
+            "2026-06-23T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2729/seats"
         },
         {
           "title": "The Milky Way",
