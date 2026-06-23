@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T16:59:51-04:00",
+  "lastUpdated": "2026-06-23T19:53:20-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,28 +7,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "EC: Stan Brakhage, Songs 1-14",
-          "showtimes": [
-            "2026-06-23T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5246?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CURSE OF THE SEVEN JACKALS",
-          "showtimes": [
-            "2026-06-23T19:15:00-04:00",
-            "2026-06-23T21:15:00-04:00",
-            "2026-06-24T19:15:00-04:00",
-            "2026-06-24T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5315?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "EC: STAN BRAKHAGE PGM 5 (MY MOUNTAIN SONG)",
           "showtimes": [
             "2026-06-23T20:15:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5247?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "CURSE OF THE SEVEN JACKALS",
+          "showtimes": [
+            "2026-06-23T21:15:00-04:00",
+            "2026-06-24T19:15:00-04:00",
+            "2026-06-24T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5316?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "MARE’S NEST",
@@ -270,32 +262,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE SILENCE OF THE LAMBS",
-          "showtimes": [
-            "2026-06-23T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30202"
-        },
-        {
-          "title": "INDIA: MATRI BHUMI",
-          "showtimes": [
-            "2026-06-23T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30207"
-        },
-        {
           "title": "THE HANDMAIDEN",
           "showtimes": [
             "2026-06-23T18:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30259"
-        },
-        {
-          "title": "BUMMING IN BEIJING: THE LAST DREAMERS [OV]",
-          "showtimes": [
-            "2026-06-23T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30203"
         },
         {
           "title": "MARNIE",
@@ -377,7 +348,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-23T12:05:00-04:00",
             "2026-06-23T15:05:00-04:00",
             "2026-06-23T19:15:00-04:00",
             "2026-06-24T12:05:00-04:00",
@@ -397,7 +367,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-23T12:30:00-04:00",
             "2026-06-23T14:55:00-04:00",
             "2026-06-23T17:20:00-04:00",
             "2026-06-23T19:45:00-04:00",
@@ -411,8 +380,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-23T12:00:00-04:00",
-            "2026-06-23T14:30:00-04:00",
             "2026-06-23T17:00:00-04:00",
             "2026-06-23T19:30:00-04:00",
             "2026-06-24T12:00:00-04:00",
@@ -425,8 +392,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-23T12:15:00-04:00",
-            "2026-06-23T14:35:00-04:00",
             "2026-06-23T16:55:00-04:00",
             "2026-06-23T18:00:00-04:00",
             "2026-06-24T12:15:00-04:00",
@@ -443,13 +408,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Milky Way",
-          "showtimes": [
-            "2026-06-23T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2702/seats"
-        },
         {
           "title": "Mamma Mia!",
           "showtimes": [
