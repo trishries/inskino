@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T13:20:46-04:00",
+  "lastUpdated": "2026-06-23T16:59:51-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -444,21 +444,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Color Book",
-          "showtimes": [
-            "2026-06-23T13:00:00-04:00",
-            "2026-06-24T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2729/seats"
-        },
-        {
-          "title": "Father of the Bride",
-          "showtimes": [
-            "2026-06-23T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2730/seats"
-        },
-        {
           "title": "The Milky Way",
           "showtimes": [
             "2026-06-23T19:00:00-04:00"
@@ -478,6 +463,13 @@
             "2026-06-24T13:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2732/seats"
+        },
+        {
+          "title": "Color Book",
+          "showtimes": [
+            "2026-06-24T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2733/seats"
         },
         {
           "title": "The Exterminating Angel",
