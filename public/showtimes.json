@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:31:00-04:00",
+  "lastUpdated": "2026-06-22T20:01:35-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,35 +7,19 @@
       "status": "ok",
       "films": [
         {
-          "title": "VISION FESTIVAL 30 PGM 1",
-          "showtimes": [
-            "2026-06-22T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5428?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CURSE OF THE SEVEN JACKALS",
-          "showtimes": [
-            "2026-06-22T19:15:00-04:00",
-            "2026-06-22T21:15:00-04:00",
-            "2026-06-23T19:15:00-04:00",
-            "2026-06-23T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5313?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "VISION FESTIVAL 30 PGM 2",
-          "showtimes": [
-            "2026-06-22T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5429?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "EC: Stan Brakhage, Songs 1-14",
           "showtimes": [
             "2026-06-23T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5246?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "CURSE OF THE SEVEN JACKALS",
+          "showtimes": [
+            "2026-06-23T19:15:00-04:00",
+            "2026-06-23T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5315?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "EC: STAN BRAKHAGE PGM 5 (MY MOUNTAIN SONG)",
@@ -366,7 +350,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-22T16:10:00-04:00",
             "2026-06-22T19:10:00-04:00",
             "2026-06-23T12:05:00-04:00",
             "2026-06-23T15:05:00-04:00",
@@ -375,21 +358,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-22"
         },
         {
-          "title": "I LOVE BOOSTERS",
-          "showtimes": [
-            "2026-06-22T16:35:00-04:00",
-            "2026-06-23T12:30:00-04:00",
-            "2026-06-23T14:55:00-04:00",
-            "2026-06-23T17:20:00-04:00",
-            "2026-06-23T19:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-22"
-        },
-        {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-22T14:30:00-04:00",
-            "2026-06-22T17:00:00-04:00",
             "2026-06-22T19:20:00-04:00",
             "2026-06-23T12:00:00-04:00",
             "2026-06-23T14:30:00-04:00",
@@ -401,8 +371,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-22T14:45:00-04:00",
-            "2026-06-22T17:00:00-04:00",
             "2026-06-22T19:30:00-04:00",
             "2026-06-23T12:15:00-04:00",
             "2026-06-23T14:35:00-04:00",
@@ -417,6 +385,16 @@
             "2026-06-23T20:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
+        },
+        {
+          "title": "I LOVE BOOSTERS",
+          "showtimes": [
+            "2026-06-23T12:30:00-04:00",
+            "2026-06-23T14:55:00-04:00",
+            "2026-06-23T17:20:00-04:00",
+            "2026-06-23T19:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
         }
       ]
     },
@@ -425,14 +403,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Father of the Bride",
-          "showtimes": [
-            "2026-06-22T19:00:00-04:00",
-            "2026-06-23T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2727/seats"
-        },
         {
           "title": "A Wedding",
           "showtimes": [
@@ -446,6 +416,13 @@
             "2026-06-23T13:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2729/seats"
+        },
+        {
+          "title": "Father of the Bride",
+          "showtimes": [
+            "2026-06-23T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2730/seats"
         },
         {
           "title": "The Milky Way",
