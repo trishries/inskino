@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T09:12:23-04:00",
+  "lastUpdated": "2026-06-24T13:10:47-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -278,13 +278,6 @@
             "2026-06-24T19:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30210"
-        },
-        {
-          "title": "THE GOALIE'S ANXIETY AT THE PENALTY KICK",
-          "showtimes": [
-            "2026-06-24T19:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30213"
         },
         {
           "title": "SUZHOU RIVER",
