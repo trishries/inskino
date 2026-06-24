@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T19:53:20-04:00",
+  "lastUpdated": "2026-06-24T04:31:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,25 +7,21 @@
       "status": "ok",
       "films": [
         {
-          "title": "EC: STAN BRAKHAGE PGM 5 (MY MOUNTAIN SONG)",
-          "showtimes": [
-            "2026-06-23T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5247?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "CURSE OF THE SEVEN JACKALS",
           "showtimes": [
-            "2026-06-23T21:15:00-04:00",
             "2026-06-24T19:15:00-04:00",
-            "2026-06-24T21:15:00-04:00"
+            "2026-06-24T21:15:00-04:00",
+            "2026-06-25T19:15:00-04:00",
+            "2026-06-25T21:15:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5316?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5317?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "MARE’S NEST",
           "showtimes": [
-            "2026-06-24T19:30:00-04:00"
+            "2026-06-24T19:30:00-04:00",
+            "2026-06-25T18:30:00-04:00",
+            "2026-06-25T21:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5323?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
@@ -39,120 +35,25 @@
         {
           "title": "ASK E. JEAN",
           "showtimes": [
-            "2026-06-23T12:05:00-04:00",
-            "2026-06-24T10:50:00-04:00"
+            "2026-06-24T10:50:00-04:00",
+            "2026-06-25T10:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564210~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564213~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "BLUE FILM",
           "showtimes": [
-            "2026-06-23T14:40:00-04:00",
-            "2026-06-24T14:40:00-04:00"
+            "2026-06-24T14:40:00-04:00",
+            "2026-06-25T14:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564217~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564221~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "BLUE HERON",
           "showtimes": [
-            "2026-06-23T16:40:00-04:00",
             "2026-06-24T16:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564230~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "HONEYJOON",
-          "showtimes": [
-            "2026-06-23T12:50:00-04:00",
-            "2026-06-23T19:00:00-04:00",
-            "2026-06-24T12:50:00-04:00",
-            "2026-06-24T19:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564244~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "I SHOT ANDY WARHOL",
-          "showtimes": [
-            "2026-06-23T16:10:00-04:00",
-            "2026-06-23T21:15:00-04:00",
-            "2026-06-24T15:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564260~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "JINSEI",
-          "showtimes": [
-            "2026-06-23T21:00:00-04:00",
-            "2026-06-24T21:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564268~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MADDIE'S SECRET",
-          "showtimes": [
-            "2026-06-23T12:45:00-04:00",
-            "2026-06-23T14:15:00-04:00",
-            "2026-06-23T15:00:00-04:00",
-            "2026-06-23T16:45:00-04:00",
-            "2026-06-23T17:15:00-04:00",
-            "2026-06-23T19:15:00-04:00",
-            "2026-06-23T21:45:00-04:00",
-            "2026-06-24T10:35:00-04:00",
-            "2026-06-24T12:45:00-04:00",
-            "2026-06-24T13:20:00-04:00",
-            "2026-06-24T14:15:00-04:00",
-            "2026-06-24T15:00:00-04:00",
-            "2026-06-24T16:45:00-04:00",
-            "2026-06-24T17:05:00-04:00",
-            "2026-06-24T19:15:00-04:00",
-            "2026-06-24T21:45:00-04:00",
-            "2026-06-24T22:10:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564300~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ROSE OF NEVADA",
-          "showtimes": [
-            "2026-06-23T16:00:00-04:00",
-            "2026-06-23T18:45:00-04:00",
-            "2026-06-23T21:30:00-04:00",
-            "2026-06-24T10:45:00-04:00",
-            "2026-06-24T13:15:00-04:00",
-            "2026-06-24T16:00:00-04:00",
-            "2026-06-24T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562791~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-06-23T13:15:00-04:00",
-            "2026-06-24T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563068~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SHE'S THE HE (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-06-23T22:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564319~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "STEAL THIS STORY, PLEASE!",
-          "showtimes": [
-            "2026-06-23T19:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564321~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "TRUE NORTH",
-          "showtimes": [
-            "2026-06-23T12:00:00-04:00",
-            "2026-06-23T13:50:00-04:00",
-            "2026-06-23T18:40:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564327~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564227~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "CAMP",
@@ -169,11 +70,94 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564348~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "HONEYJOON",
+          "showtimes": [
+            "2026-06-24T12:50:00-04:00",
+            "2026-06-24T19:05:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564236~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "I SHOT ANDY WARHOL",
+          "showtimes": [
+            "2026-06-24T15:35:00-04:00",
+            "2026-06-25T11:00:00-04:00",
+            "2026-06-25T15:35:00-04:00",
+            "2026-06-25T19:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564251~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "JINSEI",
+          "showtimes": [
+            "2026-06-24T21:05:00-04:00",
+            "2026-06-25T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564271~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MADDIE'S SECRET",
+          "showtimes": [
+            "2026-06-24T10:35:00-04:00",
+            "2026-06-24T12:45:00-04:00",
+            "2026-06-24T13:20:00-04:00",
+            "2026-06-24T14:15:00-04:00",
+            "2026-06-24T15:00:00-04:00",
+            "2026-06-24T16:45:00-04:00",
+            "2026-06-24T17:05:00-04:00",
+            "2026-06-24T19:15:00-04:00",
+            "2026-06-24T21:45:00-04:00",
+            "2026-06-24T22:10:00-04:00",
+            "2026-06-25T10:35:00-04:00",
+            "2026-06-25T12:45:00-04:00",
+            "2026-06-25T13:20:00-04:00",
+            "2026-06-25T14:15:00-04:00",
+            "2026-06-25T15:10:00-04:00",
+            "2026-06-25T16:45:00-04:00",
+            "2026-06-25T17:35:00-04:00",
+            "2026-06-25T19:15:00-04:00",
+            "2026-06-25T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564299~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ROSE OF NEVADA",
+          "showtimes": [
+            "2026-06-24T10:45:00-04:00",
+            "2026-06-24T13:15:00-04:00",
+            "2026-06-24T16:00:00-04:00",
+            "2026-06-24T21:30:00-04:00",
+            "2026-06-25T10:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564346~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-06-24T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563069~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "SHE'S THE HE",
           "showtimes": [
             "2026-06-24T21:50:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564316~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "DESPERATE LIVING",
+          "showtimes": [
+            "2026-06-25T21:10:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562656~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "HAIRSPRAY",
+          "showtimes": [
+            "2026-06-25T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562655~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -185,74 +169,73 @@
         {
           "title": "PROMISED SKY",
           "showtimes": [
-            "2026-06-23T12:15:00-04:00",
-            "2026-06-23T14:20:00-04:00",
-            "2026-06-23T16:30:00-04:00",
-            "2026-06-23T18:40:00-04:00",
-            "2026-06-23T20:50:00-04:00",
             "2026-06-24T12:15:00-04:00",
             "2026-06-24T14:20:00-04:00",
             "2026-06-24T16:30:00-04:00",
             "2026-06-24T18:40:00-04:00",
-            "2026-06-24T20:50:00-04:00"
+            "2026-06-24T20:50:00-04:00",
+            "2026-06-25T12:15:00-04:00",
+            "2026-06-25T14:20:00-04:00",
+            "2026-06-25T16:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/promised-sky"
         },
         {
           "title": "THE THIRD MAN",
           "showtimes": [
-            "2026-06-23T15:15:00-04:00",
-            "2026-06-23T20:30:00-04:00",
             "2026-06-24T12:50:00-04:00",
             "2026-06-24T15:15:00-04:00",
             "2026-06-24T18:00:00-04:00",
-            "2026-06-24T20:30:00-04:00"
+            "2026-06-24T20:30:00-04:00",
+            "2026-06-25T12:50:00-04:00",
+            "2026-06-25T15:15:00-04:00",
+            "2026-06-25T18:00:00-04:00",
+            "2026-06-25T20:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-third-man-2026"
         },
         {
           "title": "DAYS AND NIGHTS IN THE FOREST",
           "showtimes": [
-            "2026-06-23T12:30:00-04:00",
-            "2026-06-23T15:00:00-04:00",
-            "2026-06-23T17:30:00-04:00",
-            "2026-06-23T20:00:00-04:00",
             "2026-06-24T12:30:00-04:00",
             "2026-06-24T15:00:00-04:00",
             "2026-06-24T17:30:00-04:00",
-            "2026-06-24T20:00:00-04:00"
+            "2026-06-24T20:00:00-04:00",
+            "2026-06-25T12:30:00-04:00",
+            "2026-06-25T15:00:00-04:00",
+            "2026-06-25T17:30:00-04:00",
+            "2026-06-25T20:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/days-and-nights-in-the-forest"
         },
         {
           "title": "FORASTERA",
           "showtimes": [
-            "2026-06-23T14:20:00-04:00",
-            "2026-06-23T18:30:00-04:00",
             "2026-06-24T14:20:00-04:00",
-            "2026-06-24T18:30:00-04:00"
+            "2026-06-24T18:30:00-04:00",
+            "2026-06-25T14:20:00-04:00",
+            "2026-06-25T18:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/forastera"
         },
         {
           "title": "NO PICNIC",
           "showtimes": [
-            "2026-06-23T12:20:00-04:00",
-            "2026-06-23T16:30:00-04:00",
-            "2026-06-23T20:40:00-04:00",
             "2026-06-24T12:20:00-04:00",
             "2026-06-24T16:30:00-04:00",
-            "2026-06-24T20:40:00-04:00"
+            "2026-06-24T20:40:00-04:00",
+            "2026-06-25T12:20:00-04:00",
+            "2026-06-25T16:30:00-04:00",
+            "2026-06-25T20:40:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/no-picnic"
         },
         {
-          "title": "HEAVEN CAN WAIT",
+          "title": "ROMERÍA",
           "showtimes": [
-            "2026-06-23T12:50:00-04:00",
-            "2026-06-23T18:00:00-04:00"
+            "2026-06-25T19:30:00-04:00"
           ],
-          "ticketUrl": "https://my.filmforum.org/events/heaven-can-wait-the-lubitsch-touch"
+          "ticketUrl": "https://my.filmforum.org/events/romeria"
         }
       ]
     },
@@ -261,27 +244,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "THE HANDMAIDEN",
-          "showtimes": [
-            "2026-06-23T18:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30259"
-        },
-        {
-          "title": "MARNIE",
-          "showtimes": [
-            "2026-06-23T21:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30206"
-        },
-        {
-          "title": "FELLINI SATYRICON",
-          "showtimes": [
-            "2026-06-23T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30205"
-        },
         {
           "title": "GRAND BUDAPEST HOTEL PRECEDED BY HOTEL CHEVALIER",
           "showtimes": [
@@ -337,6 +299,48 @@
             "2026-06-24T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30211"
+        },
+        {
+          "title": "FAREWELL MY CONCUBINE",
+          "showtimes": [
+            "2026-06-25T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30216"
+        },
+        {
+          "title": "VAN GOGH",
+          "showtimes": [
+            "2026-06-25T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30220"
+        },
+        {
+          "title": "MY DINNER WITH ANDRÉ",
+          "showtimes": [
+            "2026-06-25T19:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30217"
+        },
+        {
+          "title": "LATE SPRING",
+          "showtimes": [
+            "2026-06-25T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30221"
+        },
+        {
+          "title": "PRISON ON FIRE",
+          "showtimes": [
+            "2026-06-25T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30218"
+        },
+        {
+          "title": "DEAD MOUNTAINEER'S HOTEL",
+          "showtimes": [
+            "2026-06-25T21:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30219"
         }
       ]
     },
@@ -348,58 +352,63 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-23T15:05:00-04:00",
-            "2026-06-23T19:15:00-04:00",
             "2026-06-24T12:05:00-04:00",
             "2026-06-24T15:05:00-04:00",
-            "2026-06-24T19:15:00-04:00"
+            "2026-06-24T19:15:00-04:00",
+            "2026-06-25T12:05:00-04:00",
+            "2026-06-25T15:05:00-04:00",
+            "2026-06-25T19:15:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-24"
         },
         {
           "title": "FEMALE TROUBLE",
           "showtimes": [
-            "2026-06-23T20:10:00-04:00",
-            "2026-06-24T20:10:00-04:00"
+            "2026-06-24T20:10:00-04:00",
+            "2026-06-25T18:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-24"
         },
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-23T14:55:00-04:00",
-            "2026-06-23T17:20:00-04:00",
-            "2026-06-23T19:45:00-04:00",
             "2026-06-24T12:30:00-04:00",
             "2026-06-24T14:55:00-04:00",
             "2026-06-24T17:20:00-04:00",
-            "2026-06-24T19:45:00-04:00"
+            "2026-06-24T19:45:00-04:00",
+            "2026-06-25T12:30:00-04:00",
+            "2026-06-25T14:55:00-04:00",
+            "2026-06-25T17:20:00-04:00",
+            "2026-06-25T19:45:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-24"
         },
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-23T17:00:00-04:00",
-            "2026-06-23T19:30:00-04:00",
             "2026-06-24T12:00:00-04:00",
             "2026-06-24T14:30:00-04:00",
             "2026-06-24T17:00:00-04:00",
-            "2026-06-24T19:30:00-04:00"
+            "2026-06-24T19:30:00-04:00",
+            "2026-06-25T12:00:00-04:00",
+            "2026-06-25T14:30:00-04:00",
+            "2026-06-25T17:00:00-04:00",
+            "2026-06-25T19:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-24"
         },
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-23T16:55:00-04:00",
-            "2026-06-23T18:00:00-04:00",
             "2026-06-24T12:15:00-04:00",
             "2026-06-24T14:35:00-04:00",
             "2026-06-24T16:55:00-04:00",
-            "2026-06-24T18:00:00-04:00"
+            "2026-06-24T18:00:00-04:00",
+            "2026-06-25T12:15:00-04:00",
+            "2026-06-25T14:40:00-04:00",
+            "2026-06-25T16:55:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-23"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-24"
         }
       ]
     },
@@ -408,13 +417,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Mamma Mia!",
-          "showtimes": [
-            "2026-06-23T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2731/seats"
-        },
         {
           "title": "The Best Man",
           "showtimes": [
