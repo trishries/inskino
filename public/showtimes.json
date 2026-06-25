@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T13:19:37-04:00",
+  "lastUpdated": "2026-06-25T16:54:36-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -61,6 +61,15 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564222~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "BLUE HERON",
+          "showtimes": [
+            "2026-06-25T16:40:00-04:00",
+            "2026-06-26T11:20:00-04:00",
+            "2026-06-26T21:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564228~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "DESPERATE LIVING",
           "showtimes": [
             "2026-06-25T21:10:00-04:00"
@@ -73,6 +82,15 @@
             "2026-06-25T18:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=562655~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "HONEYJOON",
+          "showtimes": [
+            "2026-06-25T19:00:00-04:00",
+            "2026-06-26T10:35:00-04:00",
+            "2026-06-26T19:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564240~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "I SHOT ANDY WARHOL",
@@ -120,6 +138,10 @@
           "title": "ROSE OF NEVADA",
           "showtimes": [
             "2026-06-25T10:45:00-04:00",
+            "2026-06-25T13:15:00-04:00",
+            "2026-06-25T16:00:00-04:00",
+            "2026-06-25T18:45:00-04:00",
+            "2026-06-25T21:30:00-04:00",
             "2026-06-26T11:05:00-04:00",
             "2026-06-26T13:35:00-04:00",
             "2026-06-26T16:10:00-04:00",
@@ -129,12 +151,12 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564347~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
-          "title": "BLUE HERON",
+          "title": "SHE'S THE HE",
           "showtimes": [
-            "2026-06-26T11:20:00-04:00",
-            "2026-06-26T21:35:00-04:00"
+            "2026-06-25T22:05:00-04:00",
+            "2026-06-26T13:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565469~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564318~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "CAMP",
@@ -154,14 +176,6 @@
             "2026-06-26T21:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564733~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "HONEYJOON",
-          "showtimes": [
-            "2026-06-26T10:35:00-04:00",
-            "2026-06-26T19:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565498~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "JAWS",
@@ -190,13 +204,6 @@
             "2026-06-26T23:40:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565582~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SHE'S THE HE",
-          "showtimes": [
-            "2026-06-26T13:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565618~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "TERMINATOR 2: JUDGMENT DAY",
@@ -317,13 +324,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30217"
         },
         {
-          "title": "LATE SPRING",
-          "showtimes": [
-            "2026-06-25T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30221"
-        },
-        {
           "title": "PRISON ON FIRE",
           "showtimes": [
             "2026-06-25T21:45:00-04:00"
@@ -357,13 +357,6 @@
             "2026-06-26T16:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30140"
-        },
-        {
-          "title": "DAUGHTERS OF DARKNESS",
-          "showtimes": [
-            "2026-06-26T17:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30139"
         },
         {
           "title": "TEEN WOLF",
