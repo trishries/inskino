@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T16:47:19-04:00",
+  "lastUpdated": "2026-06-24T20:05:45-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,23 +7,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "CURSE OF THE SEVEN JACKALS",
-          "showtimes": [
-            "2026-06-24T19:15:00-04:00",
-            "2026-06-24T21:15:00-04:00",
-            "2026-06-25T19:15:00-04:00",
-            "2026-06-25T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5317?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "MARE’S NEST",
           "showtimes": [
-            "2026-06-24T19:30:00-04:00",
             "2026-06-25T18:30:00-04:00",
             "2026-06-25T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5323?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5324?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "CURSE OF THE SEVEN JACKALS",
+          "showtimes": [
+            "2026-06-25T19:15:00-04:00",
+            "2026-06-25T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5319?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -246,6 +243,20 @@
       "status": "ok",
       "films": [
         {
+          "title": "GRAND BUDAPEST HOTEL PRECEDED BY HOTEL CHEVALIER",
+          "showtimes": [
+            "2026-06-24T15:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30208"
+        },
+        {
+          "title": "OFFSIDE",
+          "showtimes": [
+            "2026-06-24T15:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30215"
+        },
+        {
           "title": "THE DEVIL'S BACKBONE",
           "showtimes": [
             "2026-06-24T17:20:00-04:00"
@@ -339,7 +350,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-24T12:05:00-04:00",
             "2026-06-24T15:05:00-04:00",
             "2026-06-24T19:15:00-04:00",
             "2026-06-25T12:05:00-04:00",
@@ -352,15 +362,14 @@
           "title": "FEMALE TROUBLE",
           "showtimes": [
             "2026-06-24T20:10:00-04:00",
-            "2026-06-25T18:00:00-04:00"
+            "2026-06-25T18:00:00-04:00",
+            "2026-06-25T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-24"
         },
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-24T12:30:00-04:00",
-            "2026-06-24T14:55:00-04:00",
             "2026-06-24T17:20:00-04:00",
             "2026-06-24T19:45:00-04:00",
             "2026-06-25T12:30:00-04:00",
@@ -373,8 +382,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-24T12:00:00-04:00",
-            "2026-06-24T14:30:00-04:00",
             "2026-06-24T17:00:00-04:00",
             "2026-06-24T19:30:00-04:00",
             "2026-06-25T12:00:00-04:00",
@@ -387,8 +394,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-24T12:15:00-04:00",
-            "2026-06-24T14:35:00-04:00",
             "2026-06-24T16:55:00-04:00",
             "2026-06-24T18:00:00-04:00",
             "2026-06-25T12:15:00-04:00",
@@ -404,20 +409,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Color Book",
-          "showtimes": [
-            "2026-06-24T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2733/seats"
-        },
-        {
-          "title": "The Exterminating Angel",
-          "showtimes": [
-            "2026-06-24T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2703/seats"
-        },
         {
           "title": "Bridesmaids",
           "showtimes": [
