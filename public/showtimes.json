@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T04:30:06-04:00",
+  "lastUpdated": "2026-06-25T09:11:26-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -357,6 +357,13 @@
             "2026-06-26T16:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30140"
+        },
+        {
+          "title": "DAUGHTERS OF DARKNESS",
+          "showtimes": [
+            "2026-06-26T17:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30139"
         },
         {
           "title": "TEEN WOLF",
