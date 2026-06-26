@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T09:03:33-04:00",
+  "lastUpdated": "2026-06-26T13:04:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -332,26 +332,11 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30140"
         },
         {
-          "title": "DAUGHTERS OF DARKNESS",
-          "showtimes": [
-            "2026-06-26T17:15:00-04:00",
-            "2026-06-27T20:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30139"
-        },
-        {
           "title": "TEEN WOLF",
           "showtimes": [
             "2026-06-26T19:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30142"
-        },
-        {
-          "title": "EUROPA",
-          "showtimes": [
-            "2026-06-26T21:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30144"
         },
         {
           "title": "BACK TO THE FUTURE",
@@ -417,18 +402,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30150"
         },
         {
+          "title": "DAUGHTERS OF DARKNESS",
+          "showtimes": [
+            "2026-06-27T20:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30153"
+        },
+        {
           "title": "TAMPOPO",
           "showtimes": [
             "2026-06-27T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30151"
-        },
-        {
-          "title": "FULL CONTACT",
-          "showtimes": [
-            "2026-06-27T22:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30154"
         }
       ]
     },
@@ -518,13 +503,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Eyes Wide Shut",
-          "showtimes": [
-            "2026-06-26T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2738/seats"
-        },
         {
           "title": "The Way We Were",
           "showtimes": [
