@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T16:54:36-04:00",
+  "lastUpdated": "2026-06-25T20:06:03-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,20 +9,10 @@
         {
           "title": "MARE’S NEST",
           "showtimes": [
-            "2026-06-25T18:30:00-04:00",
-            "2026-06-25T21:00:00-04:00",
             "2026-06-26T18:30:00-04:00",
             "2026-06-26T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5324?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CURSE OF THE SEVEN JACKALS",
-          "showtimes": [
-            "2026-06-25T19:15:00-04:00",
-            "2026-06-25T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5319?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5326?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 10",
@@ -389,7 +379,6 @@
         {
           "title": "DISCLOSURE DAY",
           "showtimes": [
-            "2026-06-25T12:05:00-04:00",
             "2026-06-25T15:05:00-04:00",
             "2026-06-25T19:15:00-04:00"
           ],
@@ -406,8 +395,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-25T12:30:00-04:00",
-            "2026-06-25T14:55:00-04:00",
             "2026-06-25T17:20:00-04:00",
             "2026-06-25T19:45:00-04:00",
             "2026-06-26T13:00:00-04:00",
@@ -419,8 +406,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-25T12:00:00-04:00",
-            "2026-06-25T14:30:00-04:00",
             "2026-06-25T17:00:00-04:00",
             "2026-06-25T19:30:00-04:00",
             "2026-06-26T12:15:00-04:00",
@@ -432,8 +417,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-25T12:15:00-04:00",
-            "2026-06-25T14:40:00-04:00",
             "2026-06-25T16:55:00-04:00",
             "2026-06-26T14:45:00-04:00",
             "2026-06-26T17:00:00-04:00",
