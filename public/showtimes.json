@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T13:04:33-04:00",
+  "lastUpdated": "2026-06-26T16:46:05-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -339,6 +339,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30142"
         },
         {
+          "title": "EUROPA",
+          "showtimes": [
+            "2026-06-26T21:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30144"
+        },
+        {
           "title": "BACK TO THE FUTURE",
           "showtimes": [
             "2026-06-26T21:30:00-04:00"
@@ -425,7 +432,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-06-26T11:55:00-04:00",
             "2026-06-26T14:30:00-04:00",
             "2026-06-26T16:40:00-04:00",
             "2026-06-26T19:15:00-04:00",
@@ -503,13 +509,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Way We Were",
-          "showtimes": [
-            "2026-06-26T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2739/seats"
-        },
         {
           "title": "Unfaithful",
           "showtimes": [
