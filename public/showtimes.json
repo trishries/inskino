@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T16:46:05-04:00",
+  "lastUpdated": "2026-06-26T20:01:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,35 +7,19 @@
       "status": "ok",
       "films": [
         {
-          "title": "MARE’S NEST",
-          "showtimes": [
-            "2026-06-26T18:30:00-04:00",
-            "2026-06-26T21:00:00-04:00",
-            "2026-06-27T17:15:00-04:00",
-            "2026-06-27T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5326?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 10",
-          "showtimes": [
-            "2026-06-26T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5416?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 7",
-          "showtimes": [
-            "2026-06-26T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5412?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "EC: The Text of Light",
           "showtimes": [
             "2026-06-27T16:15:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5248?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "MARE’S NEST",
+          "showtimes": [
+            "2026-06-27T17:15:00-04:00",
+            "2026-06-27T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5328?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 8",
@@ -432,7 +416,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-06-26T14:30:00-04:00",
             "2026-06-26T16:40:00-04:00",
             "2026-06-26T19:15:00-04:00",
             "2026-06-26T21:45:00-04:00",
@@ -447,8 +430,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-06-26T12:05:00-04:00",
-            "2026-06-26T14:15:00-04:00",
             "2026-06-26T16:50:00-04:00",
             "2026-06-26T19:00:00-04:00",
             "2026-06-26T21:40:00-04:00",
@@ -463,7 +444,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-26T13:00:00-04:00",
             "2026-06-26T15:30:00-04:00",
             "2026-06-26T20:30:00-04:00",
             "2026-06-27T13:00:00-04:00",
@@ -475,7 +455,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-26T12:15:00-04:00",
             "2026-06-26T18:00:00-04:00",
             "2026-06-26T21:35:00-04:00",
             "2026-06-27T14:10:00-04:00",
@@ -486,7 +465,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-06-26T14:45:00-04:00",
             "2026-06-26T17:00:00-04:00",
             "2026-06-26T19:20:00-04:00",
             "2026-06-27T11:55:00-04:00",
@@ -509,13 +487,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Unfaithful",
-          "showtimes": [
-            "2026-06-26T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2740/seats"
-        },
         {
           "title": "Bob & Carol & Ted & Alice",
           "showtimes": [
