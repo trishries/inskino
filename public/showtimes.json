@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T04:04:00-04:00",
+  "lastUpdated": "2026-06-27T08:05:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -390,13 +390,6 @@
             "2026-06-27T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30151"
-        },
-        {
-          "title": "FULL CONTACT",
-          "showtimes": [
-            "2026-06-27T22:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30154"
         },
         {
           "title": "LAST YEAR AT MARIENBAD",
