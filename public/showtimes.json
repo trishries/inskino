@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T08:05:16-04:00",
+  "lastUpdated": "2026-06-27T12:13:15-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -364,13 +364,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30149"
         },
         {
-          "title": "2 LIZARDS PRECEDED BY CULTURESPORT: ROTTERDAM 95",
-          "showtimes": [
-            "2026-06-27T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30152"
-        },
-        {
           "title": "ACE PRESENTS BREAKFAST OF CHAMPIONS",
           "showtimes": [
             "2026-06-27T19:00:00-04:00"
@@ -539,13 +532,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Diary of a Chambermaid",
-          "showtimes": [
-            "2026-06-27T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2704/seats"
-        },
         {
           "title": "Él",
           "showtimes": [
