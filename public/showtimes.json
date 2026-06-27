@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T16:07:21-04:00",
+  "lastUpdated": "2026-06-27T19:57:57-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,28 +7,13 @@
       "status": "ok",
       "films": [
         {
-          "title": "EC: The Text of Light",
-          "showtimes": [
-            "2026-06-27T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5248?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "MARE’S NEST",
           "showtimes": [
-            "2026-06-27T17:15:00-04:00",
             "2026-06-27T20:00:00-04:00",
             "2026-06-28T17:15:00-04:00",
             "2026-06-28T20:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5328?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 8",
-          "showtimes": [
-            "2026-06-27T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5414?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5329?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALLEN GINSBERG PGM 5: FRIED SHOES, COOKED DIAMONDS",
@@ -320,6 +305,20 @@
       "status": "ok",
       "films": [
         {
+          "title": "LATE SPRING",
+          "showtimes": [
+            "2026-06-27T11:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30145"
+        },
+        {
+          "title": "SATURDAY AFTERNOON CARTOONS: DYNAMIC DUOS",
+          "showtimes": [
+            "2026-06-27T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30195"
+        },
+        {
           "title": "THE TIN DRUM",
           "showtimes": [
             "2026-06-27T14:00:00-04:00"
@@ -376,6 +375,13 @@
             "2026-06-27T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30151"
+        },
+        {
+          "title": "FULL CONTACT",
+          "showtimes": [
+            "2026-06-27T22:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30154"
         },
         {
           "title": "LAST YEAR AT MARIENBAD",
@@ -450,7 +456,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-06-27T14:30:00-04:00",
             "2026-06-27T16:40:00-04:00",
             "2026-06-27T19:15:00-04:00",
             "2026-06-27T21:45:00-04:00",
@@ -464,7 +469,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-06-27T14:15:00-04:00",
             "2026-06-27T16:50:00-04:00",
             "2026-06-27T19:00:00-04:00",
             "2026-06-27T21:40:00-04:00",
@@ -478,7 +482,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-27T13:00:00-04:00",
             "2026-06-27T15:30:00-04:00",
             "2026-06-27T20:30:00-04:00",
             "2026-06-28T12:10:00-04:00",
@@ -490,7 +493,6 @@
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-06-27T14:10:00-04:00",
             "2026-06-27T18:00:00-04:00",
             "2026-06-28T14:35:00-04:00",
             "2026-06-28T16:35:00-04:00"
@@ -522,20 +524,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "A Letter to Three Wives",
-          "showtimes": [
-            "2026-06-27T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2742/seats"
-        },
-        {
-          "title": "Mamma Mia!",
-          "showtimes": [
-            "2026-06-27T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2735/seats"
-        },
         {
           "title": "Marriage Story",
           "showtimes": [
