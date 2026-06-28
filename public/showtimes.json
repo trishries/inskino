@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T08:12:23-04:00",
+  "lastUpdated": "2026-06-28T12:19:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -265,13 +265,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "LAST YEAR AT MARIENBAD",
-          "showtimes": [
-            "2026-06-28T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30155"
-        },
-        {
           "title": "WHAT DO WE SEE WHEN WE LOOK AT THE SKY?",
           "showtimes": [
             "2026-06-28T12:00:00-04:00"
@@ -312,14 +305,6 @@
             "2026-06-28T17:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30161"
-        },
-        {
-          "title": "BOUCHRA",
-          "showtimes": [
-            "2026-06-28T19:30:00-04:00",
-            "2026-06-29T20:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30165"
         },
         {
           "title": "CLASS OF 1984",
@@ -460,13 +445,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Young One",
-          "showtimes": [
-            "2026-06-28T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2706/seats"
-        },
         {
           "title": "The Discreet Charm of the Bourgeoisie",
           "showtimes": [
