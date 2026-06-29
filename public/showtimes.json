@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T10:42:24-04:00",
+  "lastUpdated": "2026-06-29T13:44:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -285,6 +285,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30294"
         },
         {
+          "title": "BOUCHRA",
+          "showtimes": [
+            "2026-06-29T20:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30297"
+        },
+        {
           "title": "ALL ABOUT LILY CHOU-CHOU",
           "showtimes": [
             "2026-06-29T21:40:00-04:00"
@@ -374,13 +381,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Fences",
-          "showtimes": [
-            "2026-06-29T12:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2745/seats"
-        },
         {
           "title": "A Letter to Three Wives",
           "showtimes": [
