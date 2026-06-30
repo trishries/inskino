@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T09:04:37-04:00",
+  "lastUpdated": "2026-06-30T13:09:29-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -299,13 +299,6 @@
             "2026-07-01T22:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30302"
-        },
-        {
-          "title": "BOUCHRA",
-          "showtimes": [
-            "2026-07-01T22:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30303"
         }
       ]
     },
