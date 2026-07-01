@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T09:31:14-04:00",
+  "lastUpdated": "2026-07-01T13:21:10-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -416,13 +416,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Bob & Carol & Ted & Alice",
-          "showtimes": [
-            "2026-07-01T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2751/seats"
-        },
         {
           "title": "Fences",
           "showtimes": [
