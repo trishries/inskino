@@ -1,27 +1,11 @@
 {
-  "lastUpdated": "2026-06-30T16:56:13-04:00",
+  "lastUpdated": "2026-06-30T20:02:52-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "ok",
-      "films": [
-        {
-          "title": "MARE’S NEST",
-          "showtimes": [
-            "2026-06-30T18:30:00-04:00",
-            "2026-06-30T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5334?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALLEN GINSBERG PGM 11: ROLLING THUNDER REVUE",
-          "showtimes": [
-            "2026-06-30T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5417?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        }
-      ]
+      "status": "empty",
+      "films": []
     },
     {
       "name": "IFC Center",
@@ -317,7 +301,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-06-30T14:30:00-04:00",
             "2026-06-30T16:40:00-04:00",
             "2026-06-30T19:15:00-04:00",
             "2026-07-01T12:00:00-04:00",
@@ -330,7 +313,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-06-30T14:15:00-04:00",
             "2026-06-30T16:50:00-04:00",
             "2026-06-30T19:00:00-04:00",
             "2026-07-01T12:05:00-04:00",
@@ -343,21 +325,11 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-06-30T14:20:00-04:00",
             "2026-06-30T16:45:00-04:00",
             "2026-06-30T19:05:00-04:00",
             "2026-07-01T14:20:00-04:00",
             "2026-07-01T16:45:00-04:00",
             "2026-07-01T19:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-30"
-        },
-        {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-06-30T14:25:00-04:00",
-            "2026-07-01T11:55:00-04:00",
-            "2026-07-01T14:25:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-30"
         },
@@ -371,6 +343,14 @@
             "2026-07-01T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-06-30"
+        },
+        {
+          "title": "PETER ASHER: EVERYWHERE MAN",
+          "showtimes": [
+            "2026-07-01T11:55:00-04:00",
+            "2026-07-01T14:25:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-01"
         }
       ]
     },
@@ -379,13 +359,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Belle de Jour",
-          "showtimes": [
-            "2026-06-30T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2709/seats"
-        },
         {
           "title": "Eyes Wide Shut",
           "showtimes": [
