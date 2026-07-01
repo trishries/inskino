@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T04:54:05-04:00",
+  "lastUpdated": "2026-07-01T09:31:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -277,6 +277,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30301"
         },
         {
+          "title": "LOVE LETTER",
+          "showtimes": [
+            "2026-07-01T17:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30304"
+        },
+        {
           "title": "EMPIRE OF THE SUN",
           "showtimes": [
             "2026-07-01T19:30:00-04:00"
@@ -289,6 +296,14 @@
             "2026-07-01T22:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30302"
+        },
+        {
+          "title": "BOUCHRA",
+          "showtimes": [
+            "2026-07-01T22:30:00-04:00",
+            "2026-07-02T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30303"
         },
         {
           "title": "COME AND SEE",
