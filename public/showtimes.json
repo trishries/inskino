@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T08:53:29-04:00",
+  "lastUpdated": "2026-07-02T12:56:21-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -383,25 +383,11 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30310"
         },
         {
-          "title": "BOUCHRA",
-          "showtimes": [
-            "2026-07-02T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30308"
-        },
-        {
           "title": "THE DECAMERON",
           "showtimes": [
             "2026-07-02T21:35:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30311"
-        },
-        {
-          "title": "BEFORE SUNRISE",
-          "showtimes": [
-            "2026-07-03T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30225"
         },
         {
           "title": "YOJIMBO",
@@ -451,13 +437,6 @@
             "2026-07-03T19:50:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30229"
-        },
-        {
-          "title": "ADOLESCENCE OF UTENA",
-          "showtimes": [
-            "2026-07-03T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30232"
         },
         {
           "title": "GOOD TIME",
@@ -553,13 +532,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Marriage Story",
-          "showtimes": [
-            "2026-07-02T11:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2755/seats"
-        },
         {
           "title": "Eyes Wide Shut",
           "showtimes": [
