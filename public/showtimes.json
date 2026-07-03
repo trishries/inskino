@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T08:51:50-04:00",
+  "lastUpdated": "2026-07-03T12:41:12-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -135,7 +135,9 @@
           "showtimes": [
             "2026-07-03T10:40:00-04:00",
             "2026-07-03T11:10:00-04:00",
+            "2026-07-03T12:50:00-04:00",
             "2026-07-03T13:45:00-04:00",
+            "2026-07-03T14:55:00-04:00",
             "2026-07-03T16:10:00-04:00",
             "2026-07-03T18:40:00-04:00",
             "2026-07-03T19:30:00-04:00",
@@ -323,6 +325,14 @@
       "status": "ok",
       "films": [
         {
+          "title": "BEFORE SUNRISE",
+          "showtimes": [
+            "2026-07-03T13:00:00-04:00",
+            "2026-07-04T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30225"
+        },
+        {
           "title": "YOJIMBO",
           "showtimes": [
             "2026-07-03T13:15:00-04:00"
@@ -359,12 +369,27 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30228"
         },
         {
+          "title": "TOUTE UNE NUIT",
+          "showtimes": [
+            "2026-07-03T18:50:00-04:00",
+            "2026-07-04T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30231"
+        },
+        {
           "title": "TERMINATOR 2: JUDGMENT DAY [35TH ANNIVERSARY]",
           "showtimes": [
             "2026-07-03T19:50:00-04:00",
             "2026-07-04T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30229"
+        },
+        {
+          "title": "ADOLESCENCE OF UTENA",
+          "showtimes": [
+            "2026-07-03T20:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30232"
         },
         {
           "title": "GOOD TIME",
@@ -415,13 +440,6 @@
             "2026-07-04T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30240"
-        },
-        {
-          "title": "TOUTE UNE NUIT",
-          "showtimes": [
-            "2026-07-04T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30243"
         },
         {
           "title": "POSSESSION",
