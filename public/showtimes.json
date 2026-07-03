@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T04:23:35-04:00",
+  "lastUpdated": "2026-07-03T08:51:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -359,14 +359,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30228"
         },
         {
-          "title": "TOUTE UNE NUIT",
-          "showtimes": [
-            "2026-07-03T18:50:00-04:00",
-            "2026-07-04T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30231"
-        },
-        {
           "title": "TERMINATOR 2: JUDGMENT DAY [35TH ANNIVERSARY]",
           "showtimes": [
             "2026-07-03T19:50:00-04:00",
@@ -423,6 +415,13 @@
             "2026-07-04T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30240"
+        },
+        {
+          "title": "TOUTE UNE NUIT",
+          "showtimes": [
+            "2026-07-04T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30243"
         },
         {
           "title": "POSSESSION",
