@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-07-04T16:08:03-04:00",
+  "lastUpdated": "2026-07-04T19:58:02-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "QUICK BILLY",
-          "showtimes": [
-            "2026-07-04T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5439?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "RACETRACK",
-          "showtimes": [
-            "2026-07-04T18:00:00-04:00",
-            "2026-07-05T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5440?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "HORSE",
-          "showtimes": [
-            "2026-07-04T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5441?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BLACK GOLD",
           "showtimes": [
@@ -69,6 +47,13 @@
             "2026-07-05T20:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5447?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "RACETRACK",
+          "showtimes": [
+            "2026-07-05T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5448?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -449,7 +434,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-07-04T14:30:00-04:00",
             "2026-07-04T16:45:00-04:00",
             "2026-07-04T19:00:00-04:00",
             "2026-07-04T21:25:00-04:00",
@@ -463,7 +447,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-07-04T14:15:00-04:00",
             "2026-07-04T16:40:00-04:00",
             "2026-07-04T19:05:00-04:00",
             "2026-07-04T21:15:00-04:00",
@@ -477,7 +460,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-04T14:40:00-04:00",
             "2026-07-04T16:50:00-04:00",
             "2026-07-04T19:15:00-04:00",
             "2026-07-04T21:20:00-04:00",
@@ -491,7 +473,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-04T14:35:00-04:00",
             "2026-07-04T17:00:00-04:00",
             "2026-07-04T19:10:00-04:00",
             "2026-07-04T21:30:00-04:00",
@@ -515,13 +496,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Field of Dreams",
-          "showtimes": [
-            "2026-07-04T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2765/seats"
-        },
         {
           "title": "Eyes Wide Shut",
           "showtimes": [
