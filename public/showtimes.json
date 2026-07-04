@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T04:02:28-04:00",
+  "lastUpdated": "2026-07-04T08:01:23-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -402,6 +402,13 @@
             "2026-07-04T18:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30242"
+        },
+        {
+          "title": "TOUTE UNE NUIT",
+          "showtimes": [
+            "2026-07-04T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30243"
         },
         {
           "title": "MY HEART IS THAT ETERNAL ROSE",
