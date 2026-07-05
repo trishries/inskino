@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T08:09:40-04:00",
+  "lastUpdated": "2026-07-05T12:15:01-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -290,20 +290,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30247"
         },
         {
-          "title": "LAST YEAR AT MARIENBAD",
-          "showtimes": [
-            "2026-07-05T11:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30248"
-        },
-        {
-          "title": "ADOLESCENCE OF UTENA",
-          "showtimes": [
-            "2026-07-05T13:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30257"
-        },
-        {
           "title": "A FISTFUL OF DOLLARS",
           "showtimes": [
             "2026-07-05T14:00:00-04:00"
@@ -313,7 +299,8 @@
         {
           "title": "TOTAL RECALL",
           "showtimes": [
-            "2026-07-05T15:50:00-04:00"
+            "2026-07-05T15:50:00-04:00",
+            "2026-07-06T22:10:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30256"
         },
@@ -327,7 +314,8 @@
         {
           "title": "THE TRAVELER",
           "showtimes": [
-            "2026-07-05T18:10:00-04:00"
+            "2026-07-05T18:10:00-04:00",
+            "2026-07-06T18:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30255"
         },
@@ -341,7 +329,8 @@
         {
           "title": "LA HAINE",
           "showtimes": [
-            "2026-07-05T21:45:00-04:00"
+            "2026-07-05T21:45:00-04:00",
+            "2026-07-06T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30252"
         },
@@ -351,6 +340,20 @@
             "2026-07-05T21:50:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30253"
+        },
+        {
+          "title": "EAT DRINK MAN WOMAN",
+          "showtimes": [
+            "2026-07-06T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30346"
+        },
+        {
+          "title": "COME AND SEE",
+          "showtimes": [
+            "2026-07-06T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30347"
         }
       ]
     },
@@ -428,13 +431,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Nazarin",
-          "showtimes": [
-            "2026-07-05T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2710/seats"
-        },
         {
           "title": "Viridiana",
           "showtimes": [
