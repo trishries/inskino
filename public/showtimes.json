@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:02:11-04:00",
+  "lastUpdated": "2026-07-06T05:08:20-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -19,6 +19,20 @@
             "2026-07-06T20:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5450?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "MOUSTAPHA ALASSANE + KEVIN JEROME EVERSON",
+          "showtimes": [
+            "2026-07-07T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5451?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "WILD GUNMAN + HORSEOPERA",
+          "showtimes": [
+            "2026-07-07T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5452?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -30,52 +44,34 @@
         {
           "title": "CAMP",
           "showtimes": [
-            "2026-07-05T22:00:00-04:00",
             "2026-07-06T11:00:00-04:00",
-            "2026-07-06T22:00:00-04:00"
+            "2026-07-06T22:00:00-04:00",
+            "2026-07-07T21:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566732~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "CAMP (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-07-05T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566740~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566733~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "CANE RIVER",
           "showtimes": [
-            "2026-07-05T12:45:00-04:00",
             "2026-07-06T16:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563970~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563971~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "DRUNKEN NOODLES",
           "showtimes": [
-            "2026-07-05T13:15:00-04:00",
-            "2026-07-05T17:45:00-04:00",
-            "2026-07-05T21:55:00-04:00",
             "2026-07-06T13:15:00-04:00",
             "2026-07-06T17:45:00-04:00",
-            "2026-07-06T21:55:00-04:00"
+            "2026-07-06T21:55:00-04:00",
+            "2026-07-07T13:15:00-04:00",
+            "2026-07-07T17:45:00-04:00",
+            "2026-07-07T19:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566749~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566752~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MADDIE'S SECRET",
           "showtimes": [
-            "2026-07-05T10:40:00-04:00",
-            "2026-07-05T11:10:00-04:00",
-            "2026-07-05T12:50:00-04:00",
-            "2026-07-05T13:45:00-04:00",
-            "2026-07-05T15:10:00-04:00",
-            "2026-07-05T16:10:00-04:00",
-            "2026-07-05T17:30:00-04:00",
-            "2026-07-05T18:40:00-04:00",
-            "2026-07-05T19:45:00-04:00",
-            "2026-07-05T21:10:00-04:00",
             "2026-07-06T10:40:00-04:00",
             "2026-07-06T11:10:00-04:00",
             "2026-07-06T12:50:00-04:00",
@@ -85,73 +81,64 @@
             "2026-07-06T17:30:00-04:00",
             "2026-07-06T18:40:00-04:00",
             "2026-07-06T19:45:00-04:00",
-            "2026-07-06T21:10:00-04:00"
+            "2026-07-06T21:10:00-04:00",
+            "2026-07-07T10:40:00-04:00",
+            "2026-07-07T13:45:00-04:00",
+            "2026-07-07T15:35:00-04:00",
+            "2026-07-07T17:30:00-04:00",
+            "2026-07-07T19:45:00-04:00",
+            "2026-07-07T21:15:00-04:00",
+            "2026-07-07T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566788~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MALA NOCHE",
-          "showtimes": [
-            "2026-07-05T19:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563980~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566798~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-07-05T10:35:00-04:00",
-            "2026-07-05T14:00:00-04:00",
-            "2026-07-05T16:20:00-04:00",
-            "2026-07-05T18:45:00-04:00",
-            "2026-07-05T21:05:00-04:00",
             "2026-07-06T10:35:00-04:00",
             "2026-07-06T14:00:00-04:00",
             "2026-07-06T16:20:00-04:00",
             "2026-07-06T18:45:00-04:00",
-            "2026-07-06T21:05:00-04:00"
+            "2026-07-06T21:05:00-04:00",
+            "2026-07-07T10:35:00-04:00",
+            "2026-07-07T14:00:00-04:00",
+            "2026-07-07T16:20:00-04:00",
+            "2026-07-07T18:45:00-04:00",
+            "2026-07-07T21:05:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566836~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "PERMANENT VACATION",
-          "showtimes": [
-            "2026-07-05T21:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563984~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566838~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "RATE IT X",
           "showtimes": [
-            "2026-07-05T14:55:00-04:00",
             "2026-07-06T19:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563985~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563986~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "ROGER & ME",
           "showtimes": [
-            "2026-07-05T17:25:00-04:00",
             "2026-07-06T14:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563987~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563989~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "ROSE OF NEVADA",
           "showtimes": [
-            "2026-07-05T11:15:00-04:00",
-            "2026-07-05T15:15:00-04:00",
             "2026-07-06T11:15:00-04:00",
-            "2026-07-06T15:15:00-04:00"
+            "2026-07-06T15:15:00-04:00",
+            "2026-07-07T11:15:00-04:00",
+            "2026-07-07T15:15:00-04:00",
+            "2026-07-07T18:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566856~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566858~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-07-05T19:40:00-04:00",
             "2026-07-06T19:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566868~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566869~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "SEX, LIES, AND VIDEOTAPE",
@@ -163,9 +150,52 @@
         {
           "title": "SMITHEREENS",
           "showtimes": [
-            "2026-07-06T21:45:00-04:00"
+            "2026-07-06T21:45:00-04:00",
+            "2026-07-07T12:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563995~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "BORN IN FLAMES",
+          "showtimes": [
+            "2026-07-07T19:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563968~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "CAMP (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-07-07T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566741~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "CINEVET SHOWCASE",
+          "showtimes": [
+            "2026-07-07T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567738~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MALA NOCHE",
+          "showtimes": [
+            "2026-07-07T21:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563981~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE THIN BLUE LINE",
+          "showtimes": [
+            "2026-07-07T16:55:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563997~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "VARIETY",
+          "showtimes": [
+            "2026-07-07T14:40:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564003~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -177,66 +207,66 @@
         {
           "title": "SHERMAN’S MARCH",
           "showtimes": [
-            "2026-07-05T15:45:00-04:00",
-            "2026-07-05T19:00:00-04:00",
             "2026-07-06T15:45:00-04:00",
-            "2026-07-06T19:00:00-04:00"
+            "2026-07-06T19:00:00-04:00",
+            "2026-07-07T12:30:00-04:00",
+            "2026-07-07T15:45:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/shermans-march"
         },
         {
           "title": "ROMERÍA",
           "showtimes": [
-            "2026-07-05T12:20:00-04:00",
-            "2026-07-05T14:45:00-04:00",
-            "2026-07-05T17:30:00-04:00",
-            "2026-07-05T20:00:00-04:00",
             "2026-07-06T12:20:00-04:00",
             "2026-07-06T14:45:00-04:00",
             "2026-07-06T17:30:00-04:00",
-            "2026-07-06T20:00:00-04:00"
+            "2026-07-06T20:00:00-04:00",
+            "2026-07-07T12:20:00-04:00",
+            "2026-07-07T14:45:00-04:00",
+            "2026-07-07T17:30:00-04:00",
+            "2026-07-07T20:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/romeria"
         },
         {
           "title": "CAREFUL",
           "showtimes": [
-            "2026-07-05T19:00:00-04:00",
-            "2026-07-06T19:00:00-04:00"
+            "2026-07-06T19:00:00-04:00",
+            "2026-07-07T19:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/careful"
         },
         {
           "title": "THE THIRD MAN",
           "showtimes": [
-            "2026-07-05T12:40:00-04:00",
-            "2026-07-05T15:10:00-04:00",
-            "2026-07-05T17:40:00-04:00",
-            "2026-07-05T20:10:00-04:00",
             "2026-07-06T12:40:00-04:00",
             "2026-07-06T15:10:00-04:00",
             "2026-07-06T17:40:00-04:00",
-            "2026-07-06T20:10:00-04:00"
+            "2026-07-06T20:10:00-04:00",
+            "2026-07-07T12:40:00-04:00",
+            "2026-07-07T15:10:00-04:00",
+            "2026-07-07T17:40:00-04:00",
+            "2026-07-07T20:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-third-man-2026"
         },
         {
           "title": "DAYS AND NIGHTS IN THE FOREST",
           "showtimes": [
-            "2026-07-05T12:15:00-04:00",
-            "2026-07-06T12:15:00-04:00"
+            "2026-07-06T12:15:00-04:00",
+            "2026-07-07T12:15:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/days-and-nights-in-the-forest"
         },
         {
           "title": "NO PICNIC",
           "showtimes": [
-            "2026-07-05T14:40:00-04:00",
-            "2026-07-05T16:45:00-04:00",
-            "2026-07-05T21:10:00-04:00",
             "2026-07-06T14:40:00-04:00",
             "2026-07-06T16:45:00-04:00",
-            "2026-07-06T21:10:00-04:00"
+            "2026-07-06T21:10:00-04:00",
+            "2026-07-07T14:40:00-04:00",
+            "2026-07-07T16:45:00-04:00",
+            "2026-07-07T21:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/no-picnic"
         }
@@ -247,65 +277,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "YOJIMBO",
-          "showtimes": [
-            "2026-07-05T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30247"
-        },
-        {
-          "title": "A FISTFUL OF DOLLARS",
-          "showtimes": [
-            "2026-07-05T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30249"
-        },
-        {
-          "title": "TOTAL RECALL",
-          "showtimes": [
-            "2026-07-05T15:50:00-04:00",
-            "2026-07-06T22:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30256"
-        },
-        {
-          "title": "FOR A FEW DOLLARS MORE",
-          "showtimes": [
-            "2026-07-05T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30250"
-        },
-        {
-          "title": "THE TRAVELER",
-          "showtimes": [
-            "2026-07-05T18:10:00-04:00",
-            "2026-07-06T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30255"
-        },
-        {
-          "title": "TERMINATOR 2: JUDGMENT DAY [35TH ANNIVERSARY]",
-          "showtimes": [
-            "2026-07-05T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30251"
-        },
-        {
-          "title": "LA HAINE",
-          "showtimes": [
-            "2026-07-05T21:45:00-04:00",
-            "2026-07-06T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30252"
-        },
-        {
-          "title": "UNIVERSAL SOLDIER",
-          "showtimes": [
-            "2026-07-05T21:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30253"
-        },
         {
           "title": "EAT DRINK MAN WOMAN",
           "showtimes": [
@@ -319,6 +290,76 @@
             "2026-07-06T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30347"
+        },
+        {
+          "title": "THE TRAVELER",
+          "showtimes": [
+            "2026-07-06T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30348"
+        },
+        {
+          "title": "LA HAINE",
+          "showtimes": [
+            "2026-07-06T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30351"
+        },
+        {
+          "title": "TOTAL RECALL",
+          "showtimes": [
+            "2026-07-06T22:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30350"
+        },
+        {
+          "title": "BEFORE SUNRISE",
+          "showtimes": [
+            "2026-07-07T15:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30352"
+        },
+        {
+          "title": "FAREWELL MY CONCUBINE",
+          "showtimes": [
+            "2026-07-07T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30356"
+        },
+        {
+          "title": "GRAND BUDAPEST HOTEL PRECEDED BY HOTEL CHEVALIER",
+          "showtimes": [
+            "2026-07-07T17:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30353"
+        },
+        {
+          "title": "FELLINI SATYRICON",
+          "showtimes": [
+            "2026-07-07T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30357"
+        },
+        {
+          "title": "TAMPOPO",
+          "showtimes": [
+            "2026-07-07T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30354"
+        },
+        {
+          "title": "UNIVERSAL SOLDIER",
+          "showtimes": [
+            "2026-07-07T21:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30358"
+        },
+        {
+          "title": "ADOLESCENCE OF UTENA",
+          "showtimes": [
+            "2026-07-07T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30355"
         }
       ]
     },
@@ -330,56 +371,70 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-07-05T16:40:00-04:00",
-            "2026-07-05T19:25:00-04:00",
             "2026-07-06T12:15:00-04:00",
             "2026-07-06T14:35:00-04:00",
             "2026-07-06T17:10:00-04:00",
-            "2026-07-06T19:30:00-04:00"
+            "2026-07-06T19:30:00-04:00",
+            "2026-07-07T12:30:00-04:00",
+            "2026-07-07T14:45:00-04:00",
+            "2026-07-07T17:10:00-04:00",
+            "2026-07-07T19:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-06"
         },
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-07-05T16:50:00-04:00",
-            "2026-07-05T19:15:00-04:00",
             "2026-07-06T11:55:00-04:00",
             "2026-07-06T14:15:00-04:00",
             "2026-07-06T16:35:00-04:00",
-            "2026-07-06T19:00:00-04:00"
+            "2026-07-06T19:00:00-04:00",
+            "2026-07-07T11:55:00-04:00",
+            "2026-07-07T14:15:00-04:00",
+            "2026-07-07T16:35:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-06"
         },
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-05T17:00:00-04:00",
-            "2026-07-05T19:20:00-04:00",
             "2026-07-06T12:00:00-04:00",
             "2026-07-06T14:25:00-04:00",
             "2026-07-06T16:45:00-04:00",
-            "2026-07-06T19:10:00-04:00"
+            "2026-07-06T19:10:00-04:00",
+            "2026-07-07T12:00:00-04:00",
+            "2026-07-07T14:25:00-04:00",
+            "2026-07-07T16:45:00-04:00",
+            "2026-07-07T19:10:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-05"
-        },
-        {
-          "title": "TUNER",
-          "showtimes": [
-            "2026-07-05T17:15:00-04:00",
-            "2026-07-05T19:30:00-04:00",
-            "2026-07-06T12:15:00-04:00",
-            "2026-07-06T17:00:00-04:00",
-            "2026-07-06T19:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-06"
         },
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-07-06T14:30:00-04:00"
+            "2026-07-06T14:30:00-04:00",
+            "2026-07-07T14:35:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-06"
+        },
+        {
+          "title": "TUNER",
+          "showtimes": [
+            "2026-07-06T12:15:00-04:00",
+            "2026-07-06T17:00:00-04:00",
+            "2026-07-06T19:20:00-04:00",
+            "2026-07-07T12:15:00-04:00",
+            "2026-07-07T17:00:00-04:00",
+            "2026-07-07T19:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-06"
+        },
+        {
+          "title": "PARIS, TEXAS",
+          "showtimes": [
+            "2026-07-07T19:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-07"
         }
       ]
     },
@@ -391,10 +446,10 @@
         {
           "title": "A League of Their Own",
           "showtimes": [
-            "2026-07-05T20:00:00-04:00",
-            "2026-07-06T12:30:00-04:00"
+            "2026-07-06T12:30:00-04:00",
+            "2026-07-07T21:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2768/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2769/seats"
         },
         {
           "title": "42",
@@ -413,9 +468,24 @@
         {
           "title": "Field of Dreams",
           "showtimes": [
-            "2026-07-06T21:40:00-04:00"
+            "2026-07-06T21:40:00-04:00",
+            "2026-07-07T16:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2771/seats"
+        },
+        {
+          "title": "The Sandlot",
+          "showtimes": [
+            "2026-07-07T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2772/seats"
+        },
+        {
+          "title": "Tristana",
+          "showtimes": [
+            "2026-07-07T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2713/seats"
         }
       ]
     },
