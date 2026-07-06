@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T10:22:03-04:00",
+  "lastUpdated": "2026-07-06T13:48:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -444,14 +444,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "A League of Their Own",
-          "showtimes": [
-            "2026-07-06T12:30:00-04:00",
-            "2026-07-07T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2769/seats"
-        },
-        {
           "title": "42",
           "showtimes": [
             "2026-07-06T15:45:00-04:00"
@@ -486,6 +478,13 @@
             "2026-07-07T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2713/seats"
+        },
+        {
+          "title": "A League of Their Own",
+          "showtimes": [
+            "2026-07-07T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2774/seats"
         }
       ]
     },
