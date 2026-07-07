@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T09:11:37-04:00",
+  "lastUpdated": "2026-07-07T13:23:18-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -294,13 +294,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30353"
         },
         {
-          "title": "FELLINI SATYRICON",
-          "showtimes": [
-            "2026-07-07T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30357"
-        },
-        {
           "title": "TAMPOPO",
           "showtimes": [
             "2026-07-07T19:30:00-04:00"
@@ -334,13 +327,6 @@
             "2026-07-08T16:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30360"
-        },
-        {
-          "title": "TOUTE UNE NUIT",
-          "showtimes": [
-            "2026-07-08T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30363"
         },
         {
           "title": "GOOD TIME",
