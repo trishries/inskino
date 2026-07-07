@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-07-07T16:48:44-04:00",
+  "lastUpdated": "2026-07-07T19:54:41-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MOUSTAPHA ALASSANE + KEVIN JEROME EVERSON",
-          "showtimes": [
-            "2026-07-07T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5451?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "WILD GUNMAN + HORSEOPERA",
           "showtimes": [
@@ -281,7 +274,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-07-07T14:45:00-04:00",
             "2026-07-07T17:10:00-04:00",
             "2026-07-07T19:30:00-04:00",
             "2026-07-08T12:30:00-04:00",
@@ -292,20 +284,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-07"
         },
         {
-          "title": "FOR THE LOVE OF A WOMAN",
-          "showtimes": [
-            "2026-07-07T14:15:00-04:00",
-            "2026-07-07T16:35:00-04:00",
-            "2026-07-08T11:55:00-04:00",
-            "2026-07-08T14:15:00-04:00",
-            "2026-07-08T16:35:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-07"
-        },
-        {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-07T14:25:00-04:00",
             "2026-07-07T16:45:00-04:00",
             "2026-07-07T19:10:00-04:00",
             "2026-07-08T11:55:00-04:00",
@@ -324,14 +304,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-07"
         },
         {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-07-07T14:35:00-04:00",
-            "2026-07-08T14:35:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-07"
-        },
-        {
           "title": "TUNER",
           "showtimes": [
             "2026-07-07T17:00:00-04:00",
@@ -341,6 +313,22 @@
             "2026-07-08T19:20:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-07"
+        },
+        {
+          "title": "FOR THE LOVE OF A WOMAN",
+          "showtimes": [
+            "2026-07-08T11:55:00-04:00",
+            "2026-07-08T14:15:00-04:00",
+            "2026-07-08T16:35:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-08"
+        },
+        {
+          "title": "PETER ASHER: EVERYWHERE MAN",
+          "showtimes": [
+            "2026-07-08T14:35:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-08"
         }
       ]
     },
@@ -349,13 +337,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Tristana",
-          "showtimes": [
-            "2026-07-07T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2713/seats"
-        },
         {
           "title": "A League of Their Own",
           "showtimes": [
