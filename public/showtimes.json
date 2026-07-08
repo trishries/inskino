@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T08:14:30-04:00",
+  "lastUpdated": "2026-07-08T12:44:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -271,8 +271,58 @@
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
-      "status": "empty",
-      "films": []
+      "status": "ok",
+      "films": [
+        {
+          "title": "A FISTFUL OF DOLLARS",
+          "showtimes": [
+            "2026-07-08T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30359"
+        },
+        {
+          "title": "ALL ABOUT LILY CHOU-CHOU",
+          "showtimes": [
+            "2026-07-08T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30360"
+        },
+        {
+          "title": "TOUTE UNE NUIT",
+          "showtimes": [
+            "2026-07-08T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30363"
+        },
+        {
+          "title": "GOOD TIME",
+          "showtimes": [
+            "2026-07-08T19:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30361"
+        },
+        {
+          "title": "ONDA NOVA",
+          "showtimes": [
+            "2026-07-08T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30364"
+        },
+        {
+          "title": "TERMINATOR 2: JUDGMENT DAY [35TH ANNIVERSARY]",
+          "showtimes": [
+            "2026-07-08T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30362"
+        },
+        {
+          "title": "FALLEN ANGELS",
+          "showtimes": [
+            "2026-07-08T22:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30365"
+        }
+      ]
     },
     {
       "name": "Quad Cinema",
