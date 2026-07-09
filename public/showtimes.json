@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T13:24:26-04:00",
+  "lastUpdated": "2026-07-09T16:45:47-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -424,7 +424,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-07-09T11:40:00-04:00",
             "2026-07-09T14:05:00-04:00",
             "2026-07-09T16:30:00-04:00",
             "2026-07-10T13:55:00-04:00",
@@ -436,7 +435,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-09T12:20:00-04:00",
             "2026-07-09T14:40:00-04:00",
             "2026-07-09T17:00:00-04:00",
             "2026-07-09T19:20:00-04:00",
@@ -466,7 +464,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-09T12:00:00-04:00",
             "2026-07-09T16:50:00-04:00",
             "2026-07-09T19:10:00-04:00",
             "2026-07-10T12:10:00-04:00",
@@ -496,19 +493,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "A Man and a Woman",
-          "showtimes": [
-            "2026-07-09T16:00:00-04:00",
-            "2026-07-09T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2779/seats"
-        },
-        {
           "title": "Muriel's Wedding",
           "showtimes": [
             "2026-07-09T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2784/seats"
+        },
+        {
+          "title": "A Man and a Woman",
+          "showtimes": [
+            "2026-07-09T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2781/seats"
         },
         {
           "title": "42",
