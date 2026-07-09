@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T09:43:54-04:00",
+  "lastUpdated": "2026-07-09T13:24:26-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -376,6 +376,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30262"
         },
         {
+          "title": "MEANTIME",
+          "showtimes": [
+            "2026-07-10T20:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30263"
+        },
+        {
           "title": "DO YOU LOVE ME",
           "showtimes": [
             "2026-07-10T20:35:00-04:00"
@@ -488,13 +495,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "A League of Their Own",
-          "showtimes": [
-            "2026-07-09T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2778/seats"
-        },
         {
           "title": "A Man and a Woman",
           "showtimes": [
