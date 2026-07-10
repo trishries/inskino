@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-07-09T16:45:47-04:00",
+  "lastUpdated": "2026-07-09T20:00:30-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "QUICK BILLY",
-          "showtimes": [
-            "2026-07-09T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5455?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "HORSE",
-          "showtimes": [
-            "2026-07-09T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5456?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE JOY OF LIFE",
           "showtimes": [
@@ -104,7 +90,7 @@
             "2026-07-10T13:45:00-04:00",
             "2026-07-10T16:10:00-04:00",
             "2026-07-10T18:40:00-04:00",
-            "2026-07-10T21:10:00-04:00"
+            "2026-07-10T21:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566824~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -413,8 +399,6 @@
         {
           "title": "CIELO",
           "showtimes": [
-            "2026-07-09T12:45:00-04:00",
-            "2026-07-09T15:00:00-04:00",
             "2026-07-09T17:15:00-04:00",
             "2026-07-09T19:30:00-04:00",
             "2026-07-10T11:40:00-04:00"
@@ -424,7 +408,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-07-09T14:05:00-04:00",
             "2026-07-09T16:30:00-04:00",
             "2026-07-10T13:55:00-04:00",
             "2026-07-10T18:45:00-04:00",
@@ -435,7 +418,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-09T14:40:00-04:00",
             "2026-07-09T17:00:00-04:00",
             "2026-07-09T19:20:00-04:00",
             "2026-07-10T11:45:00-04:00",
@@ -450,14 +432,6 @@
           "title": "PARIS, TEXAS",
           "showtimes": [
             "2026-07-09T19:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-09"
-        },
-        {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-07-09T14:20:00-04:00",
-            "2026-07-10T16:20:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-09"
         },
@@ -484,6 +458,13 @@
             "2026-07-10T21:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-10"
+        },
+        {
+          "title": "PETER ASHER: EVERYWHERE MAN",
+          "showtimes": [
+            "2026-07-10T16:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-10"
         }
       ]
     },
@@ -492,13 +473,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Muriel's Wedding",
-          "showtimes": [
-            "2026-07-09T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2784/seats"
-        },
         {
           "title": "A Man and a Woman",
           "showtimes": [
