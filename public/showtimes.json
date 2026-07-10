@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T13:02:38-04:00",
+  "lastUpdated": "2026-07-10T16:21:21-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -105,13 +105,12 @@
         {
           "title": "MACHO DANCER",
           "showtimes": [
-            "2026-07-10T15:50:00-04:00",
             "2026-07-10T18:50:00-04:00",
             "2026-07-11T12:45:00-04:00",
             "2026-07-11T15:50:00-04:00",
             "2026-07-11T18:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567667~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567668~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MADDIE'S SECRET",
@@ -419,13 +418,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30273"
         },
         {
-          "title": "MY HEART IS THAT ETERNAL ROSE",
-          "showtimes": [
-            "2026-07-11T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30279"
-        },
-        {
           "title": "SID AND NANCY",
           "showtimes": [
             "2026-07-11T22:50:00-04:00"
@@ -447,17 +439,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "CIELO",
-          "showtimes": [
-            "2026-07-10T11:40:00-04:00",
-            "2026-07-11T11:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-10"
-        },
-        {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-10T12:00:00-04:00",
             "2026-07-10T14:15:00-04:00",
             "2026-07-10T16:30:00-04:00",
             "2026-07-10T19:00:00-04:00",
@@ -485,7 +468,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-10T11:45:00-04:00",
             "2026-07-10T14:05:00-04:00",
             "2026-07-10T16:25:00-04:00",
             "2026-07-10T18:50:00-04:00",
@@ -509,7 +491,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-10T12:10:00-04:00",
             "2026-07-10T14:25:00-04:00",
             "2026-07-10T16:45:00-04:00",
             "2026-07-10T19:10:00-04:00",
@@ -521,6 +502,13 @@
             "2026-07-11T21:25:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-10"
+        },
+        {
+          "title": "CIELO",
+          "showtimes": [
+            "2026-07-11T11:40:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-11"
         }
       ]
     },
@@ -529,13 +517,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Sandlot",
-          "showtimes": [
-            "2026-07-10T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2783/seats"
-        },
         {
           "title": "Double Feature: Blues in The Night & Black Angel",
           "showtimes": [
