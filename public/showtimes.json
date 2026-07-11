@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T07:44:31-04:00",
+  "lastUpdated": "2026-07-11T12:00:41-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -527,13 +527,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "All Night Long",
-          "showtimes": [
-            "2026-07-11T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2653/seats"
-        },
         {
           "title": "The Man I Love",
           "showtimes": [
