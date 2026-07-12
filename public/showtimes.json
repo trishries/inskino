@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T12:03:48-04:00",
+  "lastUpdated": "2026-07-12T16:05:29-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -404,7 +404,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-12T12:10:00-04:00",
             "2026-07-12T14:20:00-04:00",
             "2026-07-12T16:30:00-04:00",
             "2026-07-12T19:00:00-04:00",
@@ -418,7 +417,6 @@
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-07-12T12:00:00-04:00",
             "2026-07-12T14:25:00-04:00",
             "2026-07-12T19:10:00-04:00",
             "2026-07-13T11:50:00-04:00",
@@ -429,7 +427,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-12T12:05:00-04:00",
             "2026-07-12T14:30:00-04:00",
             "2026-07-12T16:55:00-04:00",
             "2026-07-12T19:20:00-04:00",
@@ -451,7 +448,6 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-12T12:20:00-04:00",
             "2026-07-12T17:10:00-04:00",
             "2026-07-12T19:30:00-04:00",
             "2026-07-13T11:55:00-04:00",
@@ -474,13 +470,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Crimson Canary",
-          "showtimes": [
-            "2026-07-12T13:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2659/seats"
-        },
         {
           "title": "Gilda",
           "showtimes": [
