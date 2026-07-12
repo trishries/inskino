@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T07:52:48-04:00",
+  "lastUpdated": "2026-07-12T12:03:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -475,14 +475,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "A Man Called Adam",
-          "showtimes": [
-            "2026-07-12T11:00:00-04:00",
-            "2026-07-13T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2658/seats"
-        },
-        {
           "title": "The Crimson Canary",
           "showtimes": [
             "2026-07-12T13:45:00-04:00"
@@ -509,6 +501,13 @@
             "2026-07-12T22:15:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2662/seats"
+        },
+        {
+          "title": "A Man Called Adam",
+          "showtimes": [
+            "2026-07-13T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2714/seats"
         },
         {
           "title": "Black Angel",
