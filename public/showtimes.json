@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T16:13:15-04:00",
+  "lastUpdated": "2026-07-13T19:50:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,28 +7,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "SOMETHING SPECIAL (WILLY/MILLY)",
-          "showtimes": [
-            "2026-07-13T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5471?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "BLACK CHARIOT",
-          "showtimes": [
-            "2026-07-13T18:45:00-04:00",
-            "2026-07-13T21:00:00-04:00",
-            "2026-07-14T18:45:00-04:00",
-            "2026-07-14T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5473?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "DESIRE LINES",
           "showtimes": [
             "2026-07-13T20:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5472?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "BLACK CHARIOT",
+          "showtimes": [
+            "2026-07-13T21:00:00-04:00",
+            "2026-07-14T18:45:00-04:00",
+            "2026-07-14T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5474?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -369,14 +361,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "CIELO",
-          "showtimes": [
-            "2026-07-13T14:15:00-04:00",
-            "2026-07-14T14:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
-        },
-        {
           "title": "DOGVILLE",
           "showtimes": [
             "2026-07-13T19:00:00-04:00",
@@ -387,8 +371,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-13T13:50:00-04:00",
-            "2026-07-13T15:55:00-04:00",
             "2026-07-13T18:00:00-04:00",
             "2026-07-14T12:45:00-04:00",
             "2026-07-14T15:00:00-04:00",
@@ -409,21 +391,12 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-13T14:35:00-04:00",
             "2026-07-13T17:00:00-04:00",
             "2026-07-13T19:30:00-04:00",
             "2026-07-14T12:10:00-04:00",
             "2026-07-14T14:35:00-04:00",
             "2026-07-14T17:00:00-04:00",
             "2026-07-14T19:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
-        },
-        {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-07-13T14:10:00-04:00",
-            "2026-07-14T14:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
         },
@@ -437,6 +410,20 @@
             "2026-07-14T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
+        },
+        {
+          "title": "CIELO",
+          "showtimes": [
+            "2026-07-14T14:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
+        },
+        {
+          "title": "PETER ASHER: EVERYWHERE MAN",
+          "showtimes": [
+            "2026-07-14T14:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         }
       ]
     },
@@ -445,20 +432,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "All Night Long",
-          "showtimes": [
-            "2026-07-13T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2665/seats"
-        },
-        {
-          "title": "Love Me or Leave Me",
-          "showtimes": [
-            "2026-07-13T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2666/seats"
-        },
         {
           "title": "Cry of the City",
           "showtimes": [
