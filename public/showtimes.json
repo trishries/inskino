@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T04:26:28-04:00",
+  "lastUpdated": "2026-07-13T09:12:35-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -304,6 +304,21 @@
             "2026-07-13T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30431"
+        },
+        {
+          "title": "LA HAINE",
+          "showtimes": [
+            "2026-07-13T20:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30433"
+        },
+        {
+          "title": "DO YOU LOVE ME",
+          "showtimes": [
+            "2026-07-13T20:20:00-04:00",
+            "2026-07-14T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30434"
         },
         {
           "title": "SID AND NANCY",
