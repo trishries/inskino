@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T08:05:44-04:00",
+  "lastUpdated": "2026-07-14T12:20:54-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -287,14 +287,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30438"
         },
         {
-          "title": "DO YOU LOVE ME",
-          "showtimes": [
-            "2026-07-14T20:30:00-04:00",
-            "2026-07-15T17:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30441"
-        },
-        {
           "title": "ADOLESCENCE OF UTENA",
           "showtimes": [
             "2026-07-14T22:10:00-04:00"
@@ -445,13 +437,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Gilda",
-          "showtimes": [
-            "2026-07-14T11:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2668/seats"
-        },
         {
           "title": "The Yellow Canary",
           "showtimes": [
