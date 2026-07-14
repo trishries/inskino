@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T19:50:27-04:00",
+  "lastUpdated": "2026-07-14T03:18:58-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,20 +7,21 @@
       "status": "ok",
       "films": [
         {
-          "title": "DESIRE LINES",
-          "showtimes": [
-            "2026-07-13T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5472?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "BLACK CHARIOT",
           "showtimes": [
-            "2026-07-13T21:00:00-04:00",
             "2026-07-14T18:45:00-04:00",
-            "2026-07-14T21:00:00-04:00"
+            "2026-07-14T21:00:00-04:00",
+            "2026-07-15T18:45:00-04:00",
+            "2026-07-15T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5474?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5475?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "HUAQUERO",
+          "showtimes": [
+            "2026-07-15T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5479?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -32,115 +33,18 @@
         {
           "title": "BARRIO TRISTE",
           "showtimes": [
-            "2026-07-13T12:35:00-04:00",
-            "2026-07-13T14:45:00-04:00",
-            "2026-07-13T16:55:00-04:00",
-            "2026-07-13T19:15:00-04:00",
-            "2026-07-13T21:35:00-04:00",
             "2026-07-14T12:35:00-04:00",
             "2026-07-14T14:45:00-04:00",
             "2026-07-14T16:55:00-04:00",
             "2026-07-14T19:15:00-04:00",
-            "2026-07-14T21:35:00-04:00"
+            "2026-07-14T21:35:00-04:00",
+            "2026-07-15T12:35:00-04:00",
+            "2026-07-15T14:45:00-04:00",
+            "2026-07-15T16:55:00-04:00",
+            "2026-07-15T19:15:00-04:00",
+            "2026-07-15T21:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566456~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "DRUNKEN NOODLES",
-          "showtimes": [
-            "2026-07-13T10:35:00-04:00",
-            "2026-07-13T16:50:00-04:00",
-            "2026-07-13T21:25:00-04:00",
-            "2026-07-14T10:35:00-04:00",
-            "2026-07-14T16:50:00-04:00",
-            "2026-07-14T21:25:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567918~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MACHO DANCER",
-          "showtimes": [
-            "2026-07-13T12:45:00-04:00",
-            "2026-07-13T15:50:00-04:00",
-            "2026-07-13T18:50:00-04:00",
-            "2026-07-14T12:45:00-04:00",
-            "2026-07-14T15:50:00-04:00",
-            "2026-07-14T18:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567677~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MADDIE'S SECRET",
-          "showtimes": [
-            "2026-07-13T11:10:00-04:00",
-            "2026-07-13T13:45:00-04:00",
-            "2026-07-13T16:10:00-04:00",
-            "2026-07-13T18:40:00-04:00",
-            "2026-07-13T21:10:00-04:00",
-            "2026-07-14T11:10:00-04:00",
-            "2026-07-14T13:45:00-04:00",
-            "2026-07-14T16:10:00-04:00",
-            "2026-07-14T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567946~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
-          "showtimes": [
-            "2026-07-13T10:40:00-04:00",
-            "2026-07-13T14:15:00-04:00",
-            "2026-07-13T16:40:00-04:00",
-            "2026-07-13T19:05:00-04:00",
-            "2026-07-13T21:20:00-04:00",
-            "2026-07-14T10:40:00-04:00",
-            "2026-07-14T14:15:00-04:00",
-            "2026-07-14T16:40:00-04:00",
-            "2026-07-14T19:05:00-04:00",
-            "2026-07-14T21:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567980~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "NIGHT NURSE",
-          "showtimes": [
-            "2026-07-13T10:45:00-04:00",
-            "2026-07-13T12:10:00-04:00",
-            "2026-07-14T10:45:00-04:00",
-            "2026-07-14T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568007~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "NIGHT NURSE (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-07-13T21:45:00-04:00",
-            "2026-07-14T12:10:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568093~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ROSE OF NEVADA",
-          "showtimes": [
-            "2026-07-13T11:30:00-04:00",
-            "2026-07-14T11:40:00-04:00",
-            "2026-07-14T14:20:00-04:00",
-            "2026-07-14T18:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568029~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-07-13T14:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568039~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SEOUL STATION",
-          "showtimes": [
-            "2026-07-13T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564718~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566457~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "DAYLIGHT",
@@ -148,6 +52,102 @@
             "2026-07-14T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=559401~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "DRUNKEN NOODLES",
+          "showtimes": [
+            "2026-07-14T10:35:00-04:00",
+            "2026-07-14T16:50:00-04:00",
+            "2026-07-14T21:25:00-04:00",
+            "2026-07-15T10:35:00-04:00",
+            "2026-07-15T16:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567921~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MACHO DANCER",
+          "showtimes": [
+            "2026-07-14T12:45:00-04:00",
+            "2026-07-14T15:50:00-04:00",
+            "2026-07-14T18:50:00-04:00",
+            "2026-07-15T12:45:00-04:00",
+            "2026-07-15T15:50:00-04:00",
+            "2026-07-15T18:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567678~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MADDIE'S SECRET",
+          "showtimes": [
+            "2026-07-14T11:10:00-04:00",
+            "2026-07-14T13:45:00-04:00",
+            "2026-07-14T16:10:00-04:00",
+            "2026-07-14T20:30:00-04:00",
+            "2026-07-15T11:10:00-04:00",
+            "2026-07-15T13:45:00-04:00",
+            "2026-07-15T16:10:00-04:00",
+            "2026-07-15T18:40:00-04:00",
+            "2026-07-15T21:10:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567952~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
+          "showtimes": [
+            "2026-07-14T10:40:00-04:00",
+            "2026-07-14T14:15:00-04:00",
+            "2026-07-14T16:40:00-04:00",
+            "2026-07-14T19:05:00-04:00",
+            "2026-07-14T21:20:00-04:00",
+            "2026-07-15T14:15:00-04:00",
+            "2026-07-15T16:40:00-04:00",
+            "2026-07-15T19:05:00-04:00",
+            "2026-07-15T21:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567985~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "NIGHT NURSE",
+          "showtimes": [
+            "2026-07-14T10:45:00-04:00",
+            "2026-07-14T21:45:00-04:00",
+            "2026-07-15T10:45:00-04:00",
+            "2026-07-15T12:10:00-04:00",
+            "2026-07-15T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568010~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "NIGHT NURSE (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-07-14T12:10:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568094~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ROSE OF NEVADA",
+          "showtimes": [
+            "2026-07-14T11:40:00-04:00",
+            "2026-07-14T14:20:00-04:00",
+            "2026-07-14T18:50:00-04:00",
+            "2026-07-15T11:45:00-04:00",
+            "2026-07-15T14:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568030~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MON-RAK TRANSISTOR",
+          "showtimes": [
+            "2026-07-15T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564717~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-07-15T21:05:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568040~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -159,80 +159,45 @@
         {
           "title": "REMAKE",
           "showtimes": [
-            "2026-07-13T14:50:00-04:00",
-            "2026-07-13T17:30:00-04:00",
-            "2026-07-13T20:00:00-04:00",
             "2026-07-14T12:20:00-04:00",
             "2026-07-14T14:50:00-04:00",
-            "2026-07-14T17:30:00-04:00"
+            "2026-07-14T17:30:00-04:00",
+            "2026-07-15T12:20:00-04:00",
+            "2026-07-15T14:50:00-04:00",
+            "2026-07-15T17:30:00-04:00",
+            "2026-07-15T20:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/remake"
         },
         {
           "title": "SHERMAN'S MARCH",
           "showtimes": [
-            "2026-07-13T12:30:00-04:00",
-            "2026-07-13T15:45:00-04:00",
-            "2026-07-13T19:00:00-04:00",
             "2026-07-14T15:45:00-04:00",
-            "2026-07-14T19:00:00-04:00"
+            "2026-07-14T19:00:00-04:00",
+            "2026-07-15T12:30:00-04:00",
+            "2026-07-15T15:45:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/shermans-march"
         },
         {
           "title": "ROMERÍA",
           "showtimes": [
-            "2026-07-13T15:20:00-04:00",
-            "2026-07-13T18:00:00-04:00",
             "2026-07-14T15:20:00-04:00",
-            "2026-07-14T20:15:00-04:00"
+            "2026-07-14T20:15:00-04:00",
+            "2026-07-15T12:45:00-04:00",
+            "2026-07-15T15:20:00-04:00",
+            "2026-07-15T20:15:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/romeria"
         },
         {
           "title": "THE THIRD MAN",
           "showtimes": [
-            "2026-07-13T13:00:00-04:00",
-            "2026-07-13T20:30:00-04:00",
             "2026-07-14T13:00:00-04:00",
-            "2026-07-14T18:00:00-04:00"
+            "2026-07-14T18:00:00-04:00",
+            "2026-07-15T18:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-third-man-2026"
-        },
-        {
-          "title": "BLOCK-HEADS WITH BLOTTO",
-          "showtimes": [
-            "2026-07-13T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/block-heads-laurel-hardy"
-        },
-        {
-          "title": "TALKIE SHORTS PROGRAM 2",
-          "showtimes": [
-            "2026-07-13T14:20:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/talkie-shorts-program-2-laurel-hardy"
-        },
-        {
-          "title": "SILENT SHORTS PROGRAM 2",
-          "showtimes": [
-            "2026-07-13T16:10:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/silent-shorts-program-2-laurel-hardy"
-        },
-        {
-          "title": "DE BOTE EN BOTE (PARDON US)",
-          "showtimes": [
-            "2026-07-13T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/de-bote-en-bote-laurel-hardy"
-        },
-        {
-          "title": "PARDON US WITH GOING BYE-BYE",
-          "showtimes": [
-            "2026-07-13T19:40:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/pardon-us-laurel-hardy"
         },
         {
           "title": "SONS OF THE DESERT WITH BUSY BODIES",
@@ -251,14 +216,16 @@
         {
           "title": "THE FLYING DEUCES WITH TIT FOR TAT",
           "showtimes": [
-            "2026-07-14T16:00:00-04:00"
+            "2026-07-14T16:00:00-04:00",
+            "2026-07-15T18:40:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-flying-deuces-laurel-hardy"
         },
         {
           "title": "THE BOHEMIAN GIRL WITH HOG WILD",
           "showtimes": [
-            "2026-07-14T18:00:00-04:00"
+            "2026-07-14T18:00:00-04:00",
+            "2026-07-15T12:15:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-bohemian-girl-laurel-hardy"
         },
@@ -268,6 +235,21 @@
             "2026-07-14T20:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/fra-diavolo-laurel-hardy"
+        },
+        {
+          "title": "A CHUMP AT OXFORD WITH BEAU HUNKS",
+          "showtimes": [
+            "2026-07-15T14:15:00-04:00",
+            "2026-07-15T20:40:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/a-chump-at-oxford-laurel-hardy"
+        },
+        {
+          "title": "TALKIE SHORTS PROGRAM 3",
+          "showtimes": [
+            "2026-07-15T16:35:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/talkie-shorts-program-3-laurel-hardy"
         }
       ]
     },
@@ -276,41 +258,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "EAT DRINK MAN WOMAN",
-          "showtimes": [
-            "2026-07-13T15:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30453"
-        },
-        {
-          "title": "BEFORE SUNRISE",
-          "showtimes": [
-            "2026-07-13T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30429"
-        },
-        {
-          "title": "ASHES OF TIME REDUX",
-          "showtimes": [
-            "2026-07-13T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30431"
-        },
-        {
-          "title": "SID AND NANCY",
-          "showtimes": [
-            "2026-07-13T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30435"
-        },
-        {
-          "title": "FALLEN ANGELS",
-          "showtimes": [
-            "2026-07-13T22:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30436"
-        },
         {
           "title": "THE GOOD, THE BAD AND THE UGLY",
           "showtimes": [
@@ -340,6 +287,14 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30438"
         },
         {
+          "title": "DO YOU LOVE ME",
+          "showtimes": [
+            "2026-07-14T20:30:00-04:00",
+            "2026-07-15T17:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30441"
+        },
+        {
           "title": "ADOLESCENCE OF UTENA",
           "showtimes": [
             "2026-07-14T22:10:00-04:00"
@@ -352,6 +307,55 @@
             "2026-07-14T22:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30439"
+        },
+        {
+          "title": "YOJIMBO",
+          "showtimes": [
+            "2026-07-15T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30444"
+        },
+        {
+          "title": "DAUGHTERS OF DARKNESS",
+          "showtimes": [
+            "2026-07-15T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30445"
+        },
+        {
+          "title": "MY NIGHT AT MAUD'S",
+          "showtimes": [
+            "2026-07-15T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30447"
+        },
+        {
+          "title": "A FISTFUL OF DOLLARS",
+          "showtimes": [
+            "2026-07-15T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30450"
+        },
+        {
+          "title": "BOUCHRA",
+          "showtimes": [
+            "2026-07-15T20:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30448"
+        },
+        {
+          "title": "FOR A FEW DOLLARS MORE",
+          "showtimes": [
+            "2026-07-15T21:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30451"
+        },
+        {
+          "title": "LA HAINE",
+          "showtimes": [
+            "2026-07-15T22:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30449"
         }
       ]
     },
@@ -361,67 +365,76 @@
       "status": "ok",
       "films": [
         {
+          "title": "CIELO",
+          "showtimes": [
+            "2026-07-14T14:20:00-04:00",
+            "2026-07-15T14:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
+        },
+        {
           "title": "DOGVILLE",
           "showtimes": [
-            "2026-07-13T19:00:00-04:00",
-            "2026-07-14T19:00:00-04:00"
+            "2026-07-14T19:00:00-04:00",
+            "2026-07-15T19:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         },
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-13T18:00:00-04:00",
             "2026-07-14T12:45:00-04:00",
             "2026-07-14T15:00:00-04:00",
             "2026-07-14T17:15:00-04:00",
-            "2026-07-14T19:30:00-04:00"
+            "2026-07-14T19:30:00-04:00",
+            "2026-07-15T12:45:00-04:00",
+            "2026-07-15T15:00:00-04:00",
+            "2026-07-15T17:15:00-04:00",
+            "2026-07-15T19:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         },
         {
           "title": "FOR THE LOVE OF A WOMAN",
           "showtimes": [
-            "2026-07-13T16:30:00-04:00",
             "2026-07-14T11:55:00-04:00",
-            "2026-07-14T16:35:00-04:00"
+            "2026-07-14T16:35:00-04:00",
+            "2026-07-15T11:55:00-04:00",
+            "2026-07-15T16:35:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         },
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-13T17:00:00-04:00",
-            "2026-07-13T19:30:00-04:00",
             "2026-07-14T12:10:00-04:00",
             "2026-07-14T14:35:00-04:00",
             "2026-07-14T17:00:00-04:00",
-            "2026-07-14T19:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
-        },
-        {
-          "title": "TUNER",
-          "showtimes": [
-            "2026-07-13T16:35:00-04:00",
-            "2026-07-13T20:05:00-04:00",
-            "2026-07-14T12:00:00-04:00",
-            "2026-07-14T16:50:00-04:00",
-            "2026-07-14T19:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-13"
-        },
-        {
-          "title": "CIELO",
-          "showtimes": [
-            "2026-07-14T14:20:00-04:00"
+            "2026-07-14T19:20:00-04:00",
+            "2026-07-15T12:10:00-04:00",
+            "2026-07-15T14:35:00-04:00",
+            "2026-07-15T17:00:00-04:00",
+            "2026-07-15T19:20:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         },
         {
           "title": "PETER ASHER: EVERYWHERE MAN",
           "showtimes": [
-            "2026-07-14T14:15:00-04:00"
+            "2026-07-14T14:15:00-04:00",
+            "2026-07-15T14:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
+        },
+        {
+          "title": "TUNER",
+          "showtimes": [
+            "2026-07-14T12:00:00-04:00",
+            "2026-07-14T16:50:00-04:00",
+            "2026-07-14T19:10:00-04:00",
+            "2026-07-15T12:00:00-04:00",
+            "2026-07-15T16:50:00-04:00",
+            "2026-07-15T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         }
@@ -432,13 +445,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Cry of the City",
-          "showtimes": [
-            "2026-07-13T21:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2667/seats"
-        },
         {
           "title": "Gilda",
           "showtimes": [
@@ -463,16 +469,39 @@
         {
           "title": "Nora Prentiss",
           "showtimes": [
-            "2026-07-14T19:00:00-04:00"
+            "2026-07-14T19:00:00-04:00",
+            "2026-07-15T11:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2671/seats"
         },
         {
           "title": "Killer's Kiss",
           "showtimes": [
-            "2026-07-14T21:55:00-04:00"
+            "2026-07-14T21:55:00-04:00",
+            "2026-07-15T16:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2672/seats"
+        },
+        {
+          "title": "Young Man with a Horn",
+          "showtimes": [
+            "2026-07-15T13:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2674/seats"
+        },
+        {
+          "title": "King Creole",
+          "showtimes": [
+            "2026-07-15T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2676/seats"
+        },
+        {
+          "title": "The Big Clock",
+          "showtimes": [
+            "2026-07-15T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2697/seats"
         }
       ]
     },
