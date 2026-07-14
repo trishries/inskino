@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T16:08:59-04:00",
+  "lastUpdated": "2026-07-14T19:49:28-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,12 +9,11 @@
         {
           "title": "BLACK CHARIOT",
           "showtimes": [
-            "2026-07-14T18:45:00-04:00",
             "2026-07-14T21:00:00-04:00",
             "2026-07-15T18:45:00-04:00",
             "2026-07-15T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5475?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5476?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "HUAQUERO",
@@ -287,6 +286,14 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30438"
         },
         {
+          "title": "DO YOU LOVE ME",
+          "showtimes": [
+            "2026-07-14T20:30:00-04:00",
+            "2026-07-15T17:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30441"
+        },
+        {
           "title": "ADOLESCENCE OF UTENA",
           "showtimes": [
             "2026-07-14T22:10:00-04:00"
@@ -357,14 +364,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "CIELO",
-          "showtimes": [
-            "2026-07-14T14:20:00-04:00",
-            "2026-07-15T14:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
-        },
-        {
           "title": "DOGVILLE",
           "showtimes": [
             "2026-07-14T19:00:00-04:00",
@@ -375,7 +374,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-14T15:00:00-04:00",
             "2026-07-14T17:15:00-04:00",
             "2026-07-14T19:30:00-04:00",
             "2026-07-15T12:45:00-04:00",
@@ -397,21 +395,12 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-14T14:35:00-04:00",
             "2026-07-14T17:00:00-04:00",
             "2026-07-14T19:20:00-04:00",
             "2026-07-15T12:10:00-04:00",
             "2026-07-15T14:35:00-04:00",
             "2026-07-15T17:00:00-04:00",
             "2026-07-15T19:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
-        },
-        {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-07-14T14:15:00-04:00",
-            "2026-07-15T14:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
         },
@@ -425,6 +414,20 @@
             "2026-07-15T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-14"
+        },
+        {
+          "title": "CIELO",
+          "showtimes": [
+            "2026-07-15T14:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-15"
+        },
+        {
+          "title": "PETER ASHER: EVERYWHERE MAN",
+          "showtimes": [
+            "2026-07-15T14:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-15"
         }
       ]
     },
@@ -434,27 +437,19 @@
       "status": "ok",
       "films": [
         {
-          "title": "The Man I Love",
-          "showtimes": [
-            "2026-07-14T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2670/seats"
-        },
-        {
-          "title": "Nora Prentiss",
-          "showtimes": [
-            "2026-07-14T19:00:00-04:00",
-            "2026-07-15T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2671/seats"
-        },
-        {
           "title": "Killer's Kiss",
           "showtimes": [
             "2026-07-14T21:55:00-04:00",
             "2026-07-15T16:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2672/seats"
+        },
+        {
+          "title": "Nora Prentiss",
+          "showtimes": [
+            "2026-07-15T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2673/seats"
         },
         {
           "title": "Young Man with a Horn",
