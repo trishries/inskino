@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T16:06:57-04:00",
+  "lastUpdated": "2026-07-15T19:55:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,19 +9,11 @@
         {
           "title": "BLACK CHARIOT",
           "showtimes": [
-            "2026-07-15T18:45:00-04:00",
             "2026-07-15T21:00:00-04:00",
             "2026-07-16T18:45:00-04:00",
             "2026-07-16T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5477?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "HUAQUERO",
-          "showtimes": [
-            "2026-07-15T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5479?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5478?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "YOU SHOOT I SHOOT",
@@ -335,14 +327,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "CIELO",
-          "showtimes": [
-            "2026-07-15T14:20:00-04:00",
-            "2026-07-16T11:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-15"
-        },
-        {
           "title": "DOGVILLE",
           "showtimes": [
             "2026-07-15T19:00:00-04:00"
@@ -352,7 +336,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-15T15:00:00-04:00",
             "2026-07-15T17:15:00-04:00",
             "2026-07-15T19:30:00-04:00",
             "2026-07-16T11:45:00-04:00",
@@ -373,21 +356,12 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-15T14:35:00-04:00",
             "2026-07-15T17:00:00-04:00",
             "2026-07-15T19:20:00-04:00",
             "2026-07-16T13:30:00-04:00",
             "2026-07-16T15:50:00-04:00",
             "2026-07-16T18:10:00-04:00",
             "2026-07-16T20:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-15"
-        },
-        {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-07-15T14:15:00-04:00",
-            "2026-07-16T11:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-15"
         },
@@ -400,6 +374,13 @@
             "2026-07-16T20:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-15"
+        },
+        {
+          "title": "CIELO",
+          "showtimes": [
+            "2026-07-16T11:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
         },
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
@@ -417,6 +398,13 @@
             "2026-07-16T20:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
+        },
+        {
+          "title": "PETER ASHER: EVERYWHERE MAN",
+          "showtimes": [
+            "2026-07-16T11:30:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
         }
       ]
     },
@@ -425,21 +413,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Killer's Kiss",
-          "showtimes": [
-            "2026-07-15T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2715/seats"
-        },
-        {
-          "title": "King Creole",
-          "showtimes": [
-            "2026-07-15T19:00:00-04:00",
-            "2026-07-16T16:10:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2676/seats"
-        },
         {
           "title": "The Big Clock",
           "showtimes": [
@@ -460,6 +433,13 @@
             "2026-07-16T13:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2678/seats"
+        },
+        {
+          "title": "King Creole",
+          "showtimes": [
+            "2026-07-16T16:10:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2679/seats"
         },
         {
           "title": "Sweet Smell of Success",
