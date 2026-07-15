@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T08:09:46-04:00",
+  "lastUpdated": "2026-07-15T12:38:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -429,13 +429,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Nora Prentiss",
-          "showtimes": [
-            "2026-07-15T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2673/seats"
-        },
         {
           "title": "Young Man with a Horn",
           "showtimes": [
