@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T03:22:30-04:00",
+  "lastUpdated": "2026-07-15T08:09:46-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -284,6 +284,13 @@
             "2026-07-15T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30445"
+        },
+        {
+          "title": "DO YOU LOVE ME",
+          "showtimes": [
+            "2026-07-15T17:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30446"
         },
         {
           "title": "MY NIGHT AT MAUD'S",
