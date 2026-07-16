@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T12:23:30-04:00",
+  "lastUpdated": "2026-07-16T16:01:35-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -428,16 +428,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "CIELO",
-          "showtimes": [
-            "2026-07-16T11:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
-        },
-        {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-16T11:45:00-04:00",
             "2026-07-16T13:50:00-04:00",
             "2026-07-16T15:55:00-04:00",
             "2026-07-16T18:00:00-04:00",
@@ -445,13 +437,6 @@
             "2026-07-17T14:20:00-04:00",
             "2026-07-17T16:30:00-04:00",
             "2026-07-17T18:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
-        },
-        {
-          "title": "FOR THE LOVE OF A WOMAN",
-          "showtimes": [
-            "2026-07-16T11:05:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
         },
@@ -493,13 +478,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
         },
         {
-          "title": "PETER ASHER: EVERYWHERE MAN",
-          "showtimes": [
-            "2026-07-16T11:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-16"
-        },
-        {
           "title": "TUNER",
           "showtimes": [
             "2026-07-16T13:15:00-04:00",
@@ -515,13 +493,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Love Me or Leave Me",
-          "showtimes": [
-            "2026-07-16T13:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2678/seats"
-        },
         {
           "title": "King Creole",
           "showtimes": [
