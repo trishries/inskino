@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T08:02:26-04:00",
+  "lastUpdated": "2026-07-17T12:21:28-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -545,13 +545,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Sweet Smell of Success",
-          "showtimes": [
-            "2026-07-17T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2682/seats"
-        },
         {
           "title": "Hangover Square",
           "showtimes": [
