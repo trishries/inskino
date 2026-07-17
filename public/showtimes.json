@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-07-17T16:04:57-04:00",
+  "lastUpdated": "2026-07-17T19:48:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "SHAOLIN SOCCER",
-          "showtimes": [
-            "2026-07-17T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5483?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EXPERIMENTAL WESTERNS: FOUND FOOTAGE PGM",
-          "showtimes": [
-            "2026-07-17T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5485?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "WOMEN’S HAPPY TIME COMMUNE",
           "showtimes": [
@@ -488,7 +474,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-17T14:20:00-04:00",
             "2026-07-17T16:30:00-04:00",
             "2026-07-17T18:40:00-04:00",
             "2026-07-18T12:10:00-04:00",
@@ -520,8 +505,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-17T13:00:00-04:00",
-            "2026-07-17T14:00:00-04:00",
             "2026-07-17T16:30:00-04:00",
             "2026-07-17T17:30:00-04:00",
             "2026-07-17T20:00:00-04:00",
@@ -549,20 +532,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Gilda",
-          "showtimes": [
-            "2026-07-17T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2684/seats"
-        },
-        {
-          "title": "Out of the Past",
-          "showtimes": [
-            "2026-07-17T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2685/seats"
-        },
         {
           "title": "Blast of Silence",
           "showtimes": [
