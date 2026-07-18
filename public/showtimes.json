@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T03:05:47-04:00",
+  "lastUpdated": "2026-07-18T07:44:46-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -331,6 +331,13 @@
       "status": "ok",
       "films": [
         {
+          "title": "THE BAKERY GIRL OF MONCEAU + SUZANNE'S CAREER",
+          "showtimes": [
+            "2026-07-18T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30322"
+        },
+        {
           "title": "THE KID",
           "showtimes": [
             "2026-07-18T12:00:00-04:00"
@@ -345,11 +352,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30325"
         },
         {
+          "title": "LA COLLECTIONNEUSE",
+          "showtimes": [
+            "2026-07-18T13:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30323"
+        },
+        {
           "title": "THE GREAT SILENCE",
           "showtimes": [
             "2026-07-18T15:35:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30326"
+        },
+        {
+          "title": "CLAIRE'S KNEE",
+          "showtimes": [
+            "2026-07-18T15:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30329"
         },
         {
           "title": "THE PINK PANTHER",
@@ -444,6 +465,13 @@
             "2026-07-19T19:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30338"
+        },
+        {
+          "title": "BELLE DE JOUR",
+          "showtimes": [
+            "2026-07-19T19:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30341"
         },
         {
           "title": "3 WOMEN",
