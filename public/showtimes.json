@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-07-18T16:02:44-04:00",
+  "lastUpdated": "2026-07-18T19:49:21-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE LAST MOVIE",
-          "showtimes": [
-            "2026-07-18T18:00:00-04:00",
-            "2026-07-19T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5488?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BULLETS FOR BREAKFAST",
           "showtimes": [
@@ -48,6 +40,13 @@
             "2026-07-19T19:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5493?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "THE LAST MOVIE",
+          "showtimes": [
+            "2026-07-19T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5495?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -462,8 +461,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-18T14:20:00-04:00",
-            "2026-07-18T16:30:00-04:00",
             "2026-07-18T18:40:00-04:00",
             "2026-07-19T11:55:00-04:00",
             "2026-07-19T14:00:00-04:00",
@@ -494,8 +491,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-18T13:00:00-04:00",
-            "2026-07-18T14:00:00-04:00",
             "2026-07-18T16:30:00-04:00",
             "2026-07-18T17:30:00-04:00",
             "2026-07-18T20:00:00-04:00",
@@ -522,20 +517,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Window",
-          "showtimes": [
-            "2026-07-18T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2689/seats"
-        },
-        {
-          "title": "Stranger on the Third Floor",
-          "showtimes": [
-            "2026-07-18T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2691/seats"
-        },
         {
           "title": "Force of Evil",
           "showtimes": [
