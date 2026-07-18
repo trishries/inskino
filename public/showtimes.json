@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T12:02:22-04:00",
+  "lastUpdated": "2026-07-18T16:02:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,26 +7,12 @@
       "status": "ok",
       "films": [
         {
-          "title": "GREASER’S PALACE (35mm)",
-          "showtimes": [
-            "2026-07-18T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5487?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "THE LAST MOVIE",
           "showtimes": [
             "2026-07-18T18:00:00-04:00",
             "2026-07-19T20:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5488?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MY SASSY GIRL",
-          "showtimes": [
-            "2026-07-18T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5490?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "BULLETS FOR BREAKFAST",
@@ -140,6 +126,18 @@
             "2026-07-19T21:10:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568822~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
+          "showtimes": [
+            "2026-07-18T10:35:00-04:00",
+            "2026-07-18T14:10:00-04:00",
+            "2026-07-18T19:00:00-04:00",
+            "2026-07-19T10:35:00-04:00",
+            "2026-07-19T14:10:00-04:00",
+            "2026-07-19T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568820~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MIAMI VICE",
@@ -319,6 +317,13 @@
       "status": "ok",
       "films": [
         {
+          "title": "THE BAKERY GIRL OF MONCEAU + SUZANNE'S CAREER",
+          "showtimes": [
+            "2026-07-18T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30322"
+        },
+        {
           "title": "THE KID",
           "showtimes": [
             "2026-07-18T12:00:00-04:00"
@@ -434,6 +439,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30338"
         },
         {
+          "title": "BELLE DE JOUR",
+          "showtimes": [
+            "2026-07-19T19:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30341"
+        },
+        {
           "title": "3 WOMEN",
           "showtimes": [
             "2026-07-19T21:50:00-04:00"
@@ -450,7 +462,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-18T12:10:00-04:00",
             "2026-07-18T14:20:00-04:00",
             "2026-07-18T16:30:00-04:00",
             "2026-07-18T18:40:00-04:00",
@@ -472,7 +483,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-18T12:00:00-04:00",
             "2026-07-18T15:30:00-04:00",
             "2026-07-18T19:00:00-04:00",
             "2026-07-19T12:00:00-04:00",
@@ -501,10 +511,9 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-18T11:45:00-04:00",
             "2026-07-19T12:10:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-18"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-19"
         }
       ]
     },
@@ -513,13 +522,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Phantom Lady",
-          "showtimes": [
-            "2026-07-18T13:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2688/seats"
-        },
         {
           "title": "The Window",
           "showtimes": [
