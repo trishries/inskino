@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-07-19T16:05:53-04:00",
+  "lastUpdated": "2026-07-19T19:52:59-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE SEVENTH VICTIM",
-          "showtimes": [
-            "2026-07-19T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5492?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE DOUBLE-BARRELLED DETECTIVE STORY",
-          "showtimes": [
-            "2026-07-19T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5494?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "LET IT RIDE + Herzog + Sipowicz",
-          "showtimes": [
-            "2026-07-19T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5493?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE LAST MOVIE",
           "showtimes": [
@@ -124,7 +103,7 @@
             "2026-07-19T21:40:00-04:00",
             "2026-07-20T12:40:00-04:00",
             "2026-07-20T19:25:00-04:00",
-            "2026-07-20T21:40:00-04:00"
+            "2026-07-20T21:10:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568406~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -359,8 +338,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-19T14:00:00-04:00",
-            "2026-07-19T16:05:00-04:00",
             "2026-07-19T18:10:00-04:00",
             "2026-07-20T11:55:00-04:00",
             "2026-07-20T14:00:00-04:00",
@@ -391,8 +368,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-19T13:00:00-04:00",
-            "2026-07-19T14:30:00-04:00",
             "2026-07-19T16:30:00-04:00",
             "2026-07-19T18:00:00-04:00",
             "2026-07-19T20:00:00-04:00",
@@ -418,20 +393,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Sorry, Wrong Number",
-          "showtimes": [
-            "2026-07-19T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2694/seats"
-        },
-        {
-          "title": "Double Indemnity",
-          "showtimes": [
-            "2026-07-19T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2695/seats"
-        },
         {
           "title": "Touch of Evil",
           "showtimes": [
