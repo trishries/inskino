@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T16:19:05-04:00",
+  "lastUpdated": "2026-07-20T19:53:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -48,7 +48,11 @@
           "title": "MADDIE'S SECRET",
           "showtimes": [
             "2026-07-20T14:10:00-04:00",
+            "2026-07-20T19:15:00-04:00",
             "2026-07-20T21:30:00-04:00",
+            "2026-07-21T11:10:00-04:00",
+            "2026-07-21T13:40:00-04:00",
+            "2026-07-21T16:10:00-04:00",
             "2026-07-21T18:40:00-04:00",
             "2026-07-21T21:15:00-04:00"
           ],
@@ -59,7 +63,8 @@
           "showtimes": [
             "2026-07-20T15:00:00-04:00",
             "2026-07-20T19:00:00-04:00",
-            "2026-07-21T10:35:00-04:00"
+            "2026-07-21T10:35:00-04:00",
+            "2026-07-21T14:05:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569489~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -67,6 +72,9 @@
           "title": "ROSE OF NEVADA",
           "showtimes": [
             "2026-07-20T16:50:00-04:00",
+            "2026-07-20T21:35:00-04:00",
+            "2026-07-21T11:30:00-04:00",
+            "2026-07-21T16:20:00-04:00",
             "2026-07-21T21:05:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568863~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -243,6 +251,27 @@
       "status": "ok",
       "films": [
         {
+          "title": "HAPPY TOGETHER",
+          "showtimes": [
+            "2026-07-20T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30478"
+        },
+        {
+          "title": "CLAIRE'S KNEE",
+          "showtimes": [
+            "2026-07-20T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30477"
+        },
+        {
+          "title": "ONCE UPON A TIME IN BEIRUT",
+          "showtimes": [
+            "2026-07-20T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30455"
+        },
+        {
           "title": "LAST YEAR AT MARIENBAD",
           "showtimes": [
             "2026-07-20T16:15:00-04:00"
@@ -343,8 +372,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-20T14:00:00-04:00",
-            "2026-07-20T16:05:00-04:00",
             "2026-07-20T18:10:00-04:00",
             "2026-07-21T11:40:00-04:00",
             "2026-07-21T13:45:00-04:00",
@@ -374,8 +401,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-20T13:00:00-04:00",
-            "2026-07-20T14:30:00-04:00",
             "2026-07-20T16:30:00-04:00",
             "2026-07-20T18:00:00-04:00",
             "2026-07-20T20:00:00-04:00",
