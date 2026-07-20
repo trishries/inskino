@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T04:16:03-04:00",
+  "lastUpdated": "2026-07-20T09:00:54-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -243,18 +243,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "CLAIRE'S KNEE",
-          "showtimes": [
-            "2026-07-20T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30477"
-        },
-        {
           "title": "HAPPY TOGETHER",
           "showtimes": [
             "2026-07-20T14:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30478"
+        },
+        {
+          "title": "CLAIRE'S KNEE",
+          "showtimes": [
+            "2026-07-20T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30477"
         },
         {
           "title": "ONCE UPON A TIME IN BEIRUT",
