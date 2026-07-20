@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T12:37:52-04:00",
+  "lastUpdated": "2026-07-20T16:19:05-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -95,7 +95,7 @@
         {
           "title": "TALLY BROWN, NEW YORK",
           "showtimes": [
-            "2026-07-20T16:40:00-04:00",
+            "2026-07-20T16:45:00-04:00",
             "2026-07-20T21:20:00-04:00",
             "2026-07-21T16:40:00-04:00",
             "2026-07-21T21:20:00-04:00"
@@ -243,27 +243,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-07-20T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30478"
-        },
-        {
-          "title": "CLAIRE'S KNEE",
-          "showtimes": [
-            "2026-07-20T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30477"
-        },
-        {
-          "title": "ONCE UPON A TIME IN BEIRUT",
-          "showtimes": [
-            "2026-07-20T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30455"
-        },
-        {
           "title": "LAST YEAR AT MARIENBAD",
           "showtimes": [
             "2026-07-20T16:15:00-04:00"
@@ -364,7 +343,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-20T11:55:00-04:00",
             "2026-07-20T14:00:00-04:00",
             "2026-07-20T16:05:00-04:00",
             "2026-07-20T18:10:00-04:00",
@@ -385,7 +363,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-20T12:00:00-04:00",
             "2026-07-20T15:30:00-04:00",
             "2026-07-20T19:00:00-04:00",
             "2026-07-21T12:00:00-04:00",
@@ -413,10 +390,9 @@
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-20T12:10:00-04:00",
             "2026-07-21T12:10:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-20"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
           "title": "ZABRISKIE POINT",
