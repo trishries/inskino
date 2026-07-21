@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T16:17:30-04:00",
+  "lastUpdated": "2026-07-21T19:52:37-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -113,6 +113,7 @@
             "2026-07-21T11:30:00-04:00",
             "2026-07-21T16:20:00-04:00",
             "2026-07-21T21:05:00-04:00",
+            "2026-07-22T16:20:00-04:00",
             "2026-07-22T21:05:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569996~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -153,8 +154,7 @@
         {
           "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-07-22T11:30:00-04:00",
-            "2026-07-22T16:20:00-04:00"
+            "2026-07-22T11:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568888~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
@@ -339,18 +339,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30465"
         },
         {
-          "title": "LA COLLECTIONNEUSE",
-          "showtimes": [
-            "2026-07-22T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30475"
-        },
-        {
           "title": "GOODBYE, DRAGON INN",
           "showtimes": [
             "2026-07-22T14:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30476"
+        },
+        {
+          "title": "LA COLLECTIONNEUSE",
+          "showtimes": [
+            "2026-07-22T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30475"
         },
         {
           "title": "FOR A FEW DOLLARS MORE",
@@ -379,13 +379,6 @@
             "2026-07-22T19:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30469"
-        },
-        {
-          "title": "BOUCHRA",
-          "showtimes": [
-            "2026-07-22T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30472"
         },
         {
           "title": "3 WOMEN",
@@ -419,14 +412,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
-          "title": "I LOVE BOOSTERS",
-          "showtimes": [
-            "2026-07-21T15:50:00-04:00",
-            "2026-07-22T15:50:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
-        },
-        {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
             "2026-07-21T15:30:00-04:00",
@@ -440,8 +425,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-21T13:00:00-04:00",
-            "2026-07-21T14:30:00-04:00",
             "2026-07-21T16:30:00-04:00",
             "2026-07-21T18:00:00-04:00",
             "2026-07-21T20:00:00-04:00",
@@ -460,6 +443,13 @@
             "2026-07-22T20:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
+        },
+        {
+          "title": "I LOVE BOOSTERS",
+          "showtimes": [
+            "2026-07-22T15:50:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-22"
         },
         {
           "title": "TUNER",
