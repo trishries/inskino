@@ -1,115 +1,39 @@
 {
-  "lastUpdated": "2026-07-20T19:53:33-04:00",
+  "lastUpdated": "2026-07-21T03:41:08-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "empty",
-      "films": []
+      "status": "ok",
+      "films": [
+        {
+          "title": "THE SKY TREMBLES AND THE EARTH IS AFRAID AND THE T",
+          "showtimes": [
+            "2026-07-22T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5496?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "LET IT RIDE + Herzog + Sipowicz",
+          "showtimes": [
+            "2026-07-22T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5498?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "MIMOSAS",
+          "showtimes": [
+            "2026-07-22T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5497?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        }
+      ]
     },
     {
       "name": "IFC Center",
       "url": "https://www.ifccenter.com",
       "status": "ok",
       "films": [
-        {
-          "title": "BARRIO TRISTE",
-          "showtimes": [
-            "2026-07-20T10:45:00-04:00",
-            "2026-07-21T14:25:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568867~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE KIDNAPPING OF ARABELLA",
-          "showtimes": [
-            "2026-07-20T10:50:00-04:00",
-            "2026-07-20T13:25:00-04:00",
-            "2026-07-20T16:00:00-04:00",
-            "2026-07-20T18:45:00-04:00",
-            "2026-07-20T21:25:00-04:00",
-            "2026-07-21T10:50:00-04:00",
-            "2026-07-21T13:25:00-04:00",
-            "2026-07-21T16:05:00-04:00",
-            "2026-07-21T18:45:00-04:00",
-            "2026-07-21T21:25:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568856~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MACHO DANCER",
-          "showtimes": [
-            "2026-07-20T11:45:00-04:00",
-            "2026-07-21T11:25:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568860~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MADDIE'S SECRET",
-          "showtimes": [
-            "2026-07-20T14:10:00-04:00",
-            "2026-07-20T19:15:00-04:00",
-            "2026-07-20T21:30:00-04:00",
-            "2026-07-21T11:10:00-04:00",
-            "2026-07-21T13:40:00-04:00",
-            "2026-07-21T16:10:00-04:00",
-            "2026-07-21T18:40:00-04:00",
-            "2026-07-21T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568859~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
-          "showtimes": [
-            "2026-07-20T15:00:00-04:00",
-            "2026-07-20T19:00:00-04:00",
-            "2026-07-21T10:35:00-04:00",
-            "2026-07-21T14:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569489~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ROSE OF NEVADA",
-          "showtimes": [
-            "2026-07-20T16:50:00-04:00",
-            "2026-07-20T21:35:00-04:00",
-            "2026-07-21T11:30:00-04:00",
-            "2026-07-21T16:20:00-04:00",
-            "2026-07-21T21:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568863~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SHEEP IN THE BOX",
-          "showtimes": [
-            "2026-07-20T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568557~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SUMMER TOUR",
-          "showtimes": [
-            "2026-07-20T12:40:00-04:00",
-            "2026-07-20T19:25:00-04:00",
-            "2026-07-20T21:10:00-04:00",
-            "2026-07-21T12:40:00-04:00",
-            "2026-07-21T14:55:00-04:00",
-            "2026-07-21T17:15:00-04:00",
-            "2026-07-21T19:25:00-04:00",
-            "2026-07-21T21:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568411~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "TALLY BROWN, NEW YORK",
-          "showtimes": [
-            "2026-07-20T16:45:00-04:00",
-            "2026-07-20T21:20:00-04:00",
-            "2026-07-21T16:40:00-04:00",
-            "2026-07-21T21:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568864~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
@@ -118,11 +42,121 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=559400~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "BARRIO TRISTE",
+          "showtimes": [
+            "2026-07-21T14:25:00-04:00",
+            "2026-07-22T14:50:00-04:00",
+            "2026-07-22T19:05:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568875~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE KIDNAPPING OF ARABELLA",
+          "showtimes": [
+            "2026-07-21T10:50:00-04:00",
+            "2026-07-21T13:25:00-04:00",
+            "2026-07-21T16:05:00-04:00",
+            "2026-07-21T18:45:00-04:00",
+            "2026-07-21T21:25:00-04:00",
+            "2026-07-22T10:50:00-04:00",
+            "2026-07-22T13:25:00-04:00",
+            "2026-07-22T16:05:00-04:00",
+            "2026-07-22T18:45:00-04:00",
+            "2026-07-22T21:25:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568870~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MACHO DANCER",
+          "showtimes": [
+            "2026-07-21T11:25:00-04:00",
+            "2026-07-22T12:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568872~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MADDIE'S SECRET",
+          "showtimes": [
+            "2026-07-21T11:10:00-04:00",
+            "2026-07-21T13:40:00-04:00",
+            "2026-07-21T16:10:00-04:00",
+            "2026-07-21T18:40:00-04:00",
+            "2026-07-21T21:15:00-04:00",
+            "2026-07-22T11:10:00-04:00",
+            "2026-07-22T13:40:00-04:00",
+            "2026-07-22T16:10:00-04:00",
+            "2026-07-22T18:50:00-04:00",
+            "2026-07-22T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568873~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
+          "showtimes": [
+            "2026-07-21T10:35:00-04:00",
+            "2026-07-21T14:05:00-04:00",
+            "2026-07-22T10:35:00-04:00",
+            "2026-07-22T14:05:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568871~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "THE OUTWATERS",
           "showtimes": [
             "2026-07-21T19:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568703~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ROSE OF NEVADA",
+          "showtimes": [
+            "2026-07-21T11:30:00-04:00",
+            "2026-07-21T16:20:00-04:00",
+            "2026-07-21T21:05:00-04:00",
+            "2026-07-22T21:05:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569996~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "SUMMER TOUR",
+          "showtimes": [
+            "2026-07-21T12:40:00-04:00",
+            "2026-07-21T14:55:00-04:00",
+            "2026-07-21T17:15:00-04:00",
+            "2026-07-21T19:25:00-04:00",
+            "2026-07-21T21:55:00-04:00",
+            "2026-07-22T12:40:00-04:00",
+            "2026-07-22T14:55:00-04:00",
+            "2026-07-22T17:15:00-04:00",
+            "2026-07-22T19:25:00-04:00",
+            "2026-07-22T22:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568417~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "TALLY BROWN, NEW YORK",
+          "showtimes": [
+            "2026-07-21T16:40:00-04:00",
+            "2026-07-21T21:20:00-04:00",
+            "2026-07-22T16:40:00-04:00",
+            "2026-07-22T21:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568878~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MANILA'S FINEST",
+          "showtimes": [
+            "2026-07-22T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564716~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ROSE OF NEVADA (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-07-22T11:30:00-04:00",
+            "2026-07-22T16:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568888~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -134,79 +168,46 @@
         {
           "title": "AMERICAN PACHUCO",
           "showtimes": [
-            "2026-07-20T12:15:00-04:00",
-            "2026-07-20T14:20:00-04:00",
-            "2026-07-20T16:30:00-04:00",
-            "2026-07-20T18:40:00-04:00",
             "2026-07-21T12:15:00-04:00",
             "2026-07-21T14:20:00-04:00",
             "2026-07-21T16:30:00-04:00",
             "2026-07-21T18:40:00-04:00",
-            "2026-07-21T20:50:00-04:00"
+            "2026-07-21T20:50:00-04:00",
+            "2026-07-22T12:15:00-04:00",
+            "2026-07-22T14:20:00-04:00",
+            "2026-07-22T16:30:00-04:00",
+            "2026-07-22T21:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/american-pachuco"
         },
         {
           "title": "REMAKE",
           "showtimes": [
-            "2026-07-20T12:30:00-04:00",
-            "2026-07-20T15:00:00-04:00",
             "2026-07-21T15:00:00-04:00",
-            "2026-07-21T20:00:00-04:00"
+            "2026-07-21T20:00:00-04:00",
+            "2026-07-22T12:30:00-04:00",
+            "2026-07-22T15:00:00-04:00",
+            "2026-07-22T20:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/remake"
         },
         {
           "title": "SHERMAN'S MARCH",
           "showtimes": [
-            "2026-07-20T16:15:00-04:00",
             "2026-07-21T12:30:00-04:00",
-            "2026-07-21T15:45:00-04:00"
+            "2026-07-21T15:45:00-04:00",
+            "2026-07-22T15:15:00-04:00",
+            "2026-07-22T18:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/shermans-march"
         },
         {
           "title": "ROMERÍA",
           "showtimes": [
-            "2026-07-20T17:30:00-04:00",
-            "2026-07-21T17:30:00-04:00"
+            "2026-07-21T17:30:00-04:00",
+            "2026-07-22T17:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/romeria"
-        },
-        {
-          "title": "THE THIRD MAN",
-          "showtimes": [
-            "2026-07-20T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/the-third-man-2026"
-        },
-        {
-          "title": "IT'S A MAD, MAD, MAD, MAD WORLD",
-          "showtimes": [
-            "2026-07-20T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/its-a-mad-mad-mad-mad-world-2026"
-        },
-        {
-          "title": "BONNIE SCOTLAND WITH HELPMATES",
-          "showtimes": [
-            "2026-07-20T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/bonnie-scotland-laurel-hardy"
-        },
-        {
-          "title": "STAN & OLLIE",
-          "showtimes": [
-            "2026-07-20T14:40:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/stan-ollie-laurel-hardy"
-        },
-        {
-          "title": "FRA DIAVOLO (THE DEVIL’S BROTHER) WITH COME CLEAN",
-          "showtimes": [
-            "2026-07-20T16:50:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/fra-diavolo-laurel-hardy"
         },
         {
           "title": "OUR RELATIONS WITH THEIR FIRST MISTAKE",
@@ -218,7 +219,8 @@
         {
           "title": "SWISS MISS WITH THEM THAR HILLS",
           "showtimes": [
-            "2026-07-21T14:20:00-04:00"
+            "2026-07-21T14:20:00-04:00",
+            "2026-07-22T20:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/swiss-miss-laurel-hardy"
         },
@@ -239,9 +241,39 @@
         {
           "title": "SAPS AT SEA WITH ANOTHER FINE MESS",
           "showtimes": [
-            "2026-07-21T20:30:00-04:00"
+            "2026-07-21T20:30:00-04:00",
+            "2026-07-22T12:20:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/saps-at-sea-laurel-hardy"
+        },
+        {
+          "title": "THE THIRD MAN",
+          "showtimes": [
+            "2026-07-22T12:30:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-third-man-2026"
+        },
+        {
+          "title": "RASQUACHISMO: THE EARLY WORK OF LUIS VALDEZ",
+          "showtimes": [
+            "2026-07-22T18:40:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/rasquachismo-the-early-work-of-luis-valdez"
+        },
+        {
+          "title": "TALKIE SHORTS PROGRAM 4",
+          "showtimes": [
+            "2026-07-22T14:20:00-04:00",
+            "2026-07-22T18:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/talkie-shorts-program-4-laurel-hardy"
+        },
+        {
+          "title": "SONS OF THE DESERT WITH BUSY BODIES",
+          "showtimes": [
+            "2026-07-22T16:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/sons-of-the-desert-laurel-hardy"
         }
       ]
     },
@@ -250,62 +282,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-07-20T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30478"
-        },
-        {
-          "title": "CLAIRE'S KNEE",
-          "showtimes": [
-            "2026-07-20T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30477"
-        },
-        {
-          "title": "ONCE UPON A TIME IN BEIRUT",
-          "showtimes": [
-            "2026-07-20T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30455"
-        },
-        {
-          "title": "LAST YEAR AT MARIENBAD",
-          "showtimes": [
-            "2026-07-20T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30454"
-        },
-        {
-          "title": "THE GOOD, THE BAD AND THE UGLY",
-          "showtimes": [
-            "2026-07-20T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30456"
-        },
-        {
-          "title": "WHAT DO WE SEE WHEN WE LOOK AT THE SKY?",
-          "showtimes": [
-            "2026-07-20T18:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30457"
-        },
-        {
-          "title": "35 SHOTS OF RUM",
-          "showtimes": [
-            "2026-07-20T21:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30459"
-        },
-        {
-          "title": "MY HEART IS THAT ETERNAL ROSE",
-          "showtimes": [
-            "2026-07-20T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30458"
-        },
         {
           "title": "THE TRAVELER",
           "showtimes": [
@@ -361,6 +337,62 @@
             "2026-07-21T21:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30465"
+        },
+        {
+          "title": "GOODBYE, DRAGON INN",
+          "showtimes": [
+            "2026-07-22T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30476"
+        },
+        {
+          "title": "LA COLLECTIONNEUSE",
+          "showtimes": [
+            "2026-07-22T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30475"
+        },
+        {
+          "title": "FOR A FEW DOLLARS MORE",
+          "showtimes": [
+            "2026-07-22T15:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30474"
+        },
+        {
+          "title": "FAREWELL MY CONCUBINE",
+          "showtimes": [
+            "2026-07-22T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30468"
+        },
+        {
+          "title": "THE BAKERY GIRL OF MONCEAU + SUZANNE'S CAREER",
+          "showtimes": [
+            "2026-07-22T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30473"
+        },
+        {
+          "title": "EAT DRINK MAN WOMAN",
+          "showtimes": [
+            "2026-07-22T19:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30469"
+        },
+        {
+          "title": "3 WOMEN",
+          "showtimes": [
+            "2026-07-22T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30470"
+        },
+        {
+          "title": "GOOD TIME",
+          "showtimes": [
+            "2026-07-22T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30471"
         }
       ]
     },
@@ -372,57 +404,64 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-20T18:10:00-04:00",
             "2026-07-21T11:40:00-04:00",
             "2026-07-21T13:45:00-04:00",
-            "2026-07-21T18:10:00-04:00"
+            "2026-07-21T18:10:00-04:00",
+            "2026-07-22T11:40:00-04:00",
+            "2026-07-22T13:45:00-04:00",
+            "2026-07-22T18:10:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-20"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-07-20T20:15:00-04:00",
-            "2026-07-21T15:50:00-04:00"
+            "2026-07-21T15:50:00-04:00",
+            "2026-07-22T15:50:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-20"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-20T15:30:00-04:00",
-            "2026-07-20T19:00:00-04:00",
             "2026-07-21T12:00:00-04:00",
             "2026-07-21T15:30:00-04:00",
-            "2026-07-21T19:00:00-04:00"
+            "2026-07-21T19:00:00-04:00",
+            "2026-07-22T12:00:00-04:00",
+            "2026-07-22T15:30:00-04:00",
+            "2026-07-22T19:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-20"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-20T16:30:00-04:00",
-            "2026-07-20T18:00:00-04:00",
-            "2026-07-20T20:00:00-04:00",
             "2026-07-21T13:00:00-04:00",
             "2026-07-21T14:30:00-04:00",
             "2026-07-21T16:30:00-04:00",
             "2026-07-21T18:00:00-04:00",
-            "2026-07-21T20:00:00-04:00"
+            "2026-07-21T20:00:00-04:00",
+            "2026-07-22T13:00:00-04:00",
+            "2026-07-22T14:30:00-04:00",
+            "2026-07-22T16:30:00-04:00",
+            "2026-07-22T18:00:00-04:00",
+            "2026-07-22T20:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-20"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
           "title": "TUNER",
           "showtimes": [
-            "2026-07-21T12:10:00-04:00"
+            "2026-07-21T12:10:00-04:00",
+            "2026-07-22T12:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         },
         {
           "title": "ZABRISKIE POINT",
           "showtimes": [
-            "2026-07-21T20:15:00-04:00"
+            "2026-07-21T20:15:00-04:00",
+            "2026-07-22T20:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-21"
         }
@@ -431,8 +470,37 @@
     {
       "name": "Paris Theater",
       "url": "https://www.paristheaternyc.com",
-      "status": "empty",
-      "films": []
+      "status": "ok",
+      "films": [
+        {
+          "title": "Ordinary People",
+          "showtimes": [
+            "2026-07-22T12:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2820/seats"
+        },
+        {
+          "title": "Leave Her to Heaven",
+          "showtimes": [
+            "2026-07-22T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2821/seats"
+        },
+        {
+          "title": "Monsieur Verdoux",
+          "showtimes": [
+            "2026-07-22T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2822/seats"
+        },
+        {
+          "title": "An Unmarried Woman",
+          "showtimes": [
+            "2026-07-22T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2823/seats"
+        }
+      ]
     },
     {
       "name": "Cherry Lane Theatre",
