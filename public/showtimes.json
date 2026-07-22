@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T08:22:11-04:00",
+  "lastUpdated": "2026-07-22T12:25:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -334,13 +334,6 @@
             "2026-07-22T21:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30470"
-        },
-        {
-          "title": "GOOD TIME",
-          "showtimes": [
-            "2026-07-22T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30471"
         },
         {
           "title": "ADOLESCENCE OF UTENA",
