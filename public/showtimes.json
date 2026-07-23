@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-07-23T16:10:38-04:00",
+  "lastUpdated": "2026-07-23T19:56:02-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MIMOSAS",
-          "showtimes": [
-            "2026-07-23T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5499?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE SKY TREMBLES AND THE EARTH IS AFRAID AND THE T",
           "showtimes": [
@@ -472,20 +465,11 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-23T13:45:00-04:00",
             "2026-07-23T18:10:00-04:00",
             "2026-07-24T12:15:00-04:00",
             "2026-07-24T14:30:00-04:00",
             "2026-07-24T16:40:00-04:00",
             "2026-07-24T18:50:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-23"
-        },
-        {
-          "title": "I LOVE BOOSTERS",
-          "showtimes": [
-            "2026-07-23T15:50:00-04:00",
-            "2026-07-24T21:20:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-23"
         },
@@ -503,8 +487,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-23T13:00:00-04:00",
-            "2026-07-23T14:30:00-04:00",
             "2026-07-23T16:30:00-04:00",
             "2026-07-23T18:00:00-04:00",
             "2026-07-23T20:00:00-04:00",
@@ -532,6 +514,13 @@
             "2026-07-24T21:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-24"
+        },
+        {
+          "title": "I LOVE BOOSTERS",
+          "showtimes": [
+            "2026-07-24T21:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-24"
         }
       ]
     },
@@ -540,20 +529,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "An Unmarried Woman",
-          "showtimes": [
-            "2026-07-23T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2791/seats"
-        },
-        {
-          "title": "C'mon C'mon",
-          "showtimes": [
-            "2026-07-23T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2792/seats"
-        },
         {
           "title": "Rebecca",
           "showtimes": [
