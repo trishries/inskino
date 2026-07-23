@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T12:41:10-04:00",
+  "lastUpdated": "2026-07-23T16:10:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -472,7 +472,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-23T11:40:00-04:00",
             "2026-07-23T13:45:00-04:00",
             "2026-07-23T18:10:00-04:00",
             "2026-07-24T12:15:00-04:00",
@@ -493,7 +492,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-23T12:00:00-04:00",
             "2026-07-23T15:30:00-04:00",
             "2026-07-23T19:00:00-04:00",
             "2026-07-24T12:30:00-04:00",
@@ -514,13 +512,6 @@
             "2026-07-24T14:45:00-04:00",
             "2026-07-24T18:00:00-04:00",
             "2026-07-24T21:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-23"
-        },
-        {
-          "title": "TUNER",
-          "showtimes": [
-            "2026-07-23T12:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-23"
         },
@@ -549,13 +540,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Lunchbox",
-          "showtimes": [
-            "2026-07-23T12:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2790/seats"
-        },
         {
           "title": "An Unmarried Woman",
           "showtimes": [
