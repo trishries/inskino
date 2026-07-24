@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T12:47:49-04:00",
+  "lastUpdated": "2026-07-24T16:18:17-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -437,7 +437,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-24T12:00:00-04:00",
             "2026-07-24T14:15:00-04:00",
             "2026-07-24T16:30:00-04:00",
             "2026-07-24T19:00:00-04:00",
@@ -453,7 +452,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-24T12:15:00-04:00",
             "2026-07-24T14:30:00-04:00",
             "2026-07-24T16:40:00-04:00",
             "2026-07-24T18:50:00-04:00",
@@ -486,7 +484,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-24T11:30:00-04:00",
             "2026-07-24T14:45:00-04:00",
             "2026-07-24T18:00:00-04:00",
             "2026-07-24T21:00:00-04:00",
@@ -512,21 +509,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Brief Encounter",
-          "showtimes": [
-            "2026-07-24T13:00:00-04:00",
-            "2026-07-25T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2794/seats"
-        },
-        {
-          "title": "Terms of Endearment",
-          "showtimes": [
-            "2026-07-24T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2795/seats"
-        },
-        {
           "title": "In the Mood for Love",
           "showtimes": [
             "2026-07-24T19:00:00-04:00"
@@ -546,6 +528,13 @@
             "2026-07-25T12:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2798/seats"
+        },
+        {
+          "title": "Brief Encounter",
+          "showtimes": [
+            "2026-07-25T15:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2799/seats"
         },
         {
           "title": "Mildred Pierce",
