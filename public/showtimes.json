@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T16:09:31-04:00",
+  "lastUpdated": "2026-07-25T19:55:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,26 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "EC: A MAN ESCAPED, OR THE WIND BLOWS WHERE IT LIST",
-          "showtimes": [
-            "2026-07-25T16:30:00-04:00",
-            "2026-07-26T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5504?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "WILD GUNMAN + HORSEOPERA",
-          "showtimes": [
-            "2026-07-25T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5505?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "LONESOME COWBOYS",
           "showtimes": [
             "2026-07-25T20:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5506?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: A MAN ESCAPED, OR THE WIND BLOWS WHERE IT LIST",
+          "showtimes": [
+            "2026-07-26T17:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5507?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "CREMASTER 2",
@@ -418,7 +410,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-25T14:20:00-04:00",
             "2026-07-25T16:40:00-04:00",
             "2026-07-25T19:00:00-04:00",
             "2026-07-25T21:30:00-04:00",
@@ -432,7 +423,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-25T14:00:00-04:00",
             "2026-07-25T16:20:00-04:00",
             "2026-07-26T11:40:00-04:00",
             "2026-07-26T13:45:00-04:00",
@@ -451,7 +441,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-25T12:30:00-04:00",
             "2026-07-25T16:00:00-04:00",
             "2026-07-25T19:30:00-04:00",
             "2026-07-26T12:00:00-04:00",
@@ -486,13 +475,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Mildred Pierce",
-          "showtimes": [
-            "2026-07-25T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2800/seats"
-        },
         {
           "title": "Rebecca",
           "showtimes": [
