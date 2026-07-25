@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T12:08:48-04:00",
+  "lastUpdated": "2026-07-25T16:09:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -418,7 +418,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-25T12:00:00-04:00",
             "2026-07-25T14:20:00-04:00",
             "2026-07-25T16:40:00-04:00",
             "2026-07-25T19:00:00-04:00",
@@ -433,7 +432,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-25T11:45:00-04:00",
             "2026-07-25T14:00:00-04:00",
             "2026-07-25T16:20:00-04:00",
             "2026-07-26T11:40:00-04:00",
@@ -465,7 +463,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-25T11:30:00-04:00",
             "2026-07-25T14:45:00-04:00",
             "2026-07-25T18:00:00-04:00",
             "2026-07-25T21:00:00-04:00",
@@ -489,20 +486,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Ordinary People",
-          "showtimes": [
-            "2026-07-25T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2798/seats"
-        },
-        {
-          "title": "Brief Encounter",
-          "showtimes": [
-            "2026-07-25T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2799/seats"
-        },
         {
           "title": "Mildred Pierce",
           "showtimes": [
