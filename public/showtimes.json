@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T03:26:26-04:00",
+  "lastUpdated": "2026-07-25T07:56:30-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -329,13 +329,6 @@
             "2026-07-26T19:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30384"
-        },
-        {
-          "title": "BOUCHRA",
-          "showtimes": [
-            "2026-07-25T17:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30493"
         },
         {
           "title": "THE LIMITS OF CONTROL",
