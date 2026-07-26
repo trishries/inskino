@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-07-26T16:07:50-04:00",
+  "lastUpdated": "2026-07-26T19:56:15-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: A MAN ESCAPED, OR THE WIND BLOWS WHERE IT LIST",
-          "showtimes": [
-            "2026-07-26T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5507?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CREMASTER 2",
-          "showtimes": [
-            "2026-07-26T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5509?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Pickpocket",
-          "showtimes": [
-            "2026-07-26T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5508?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "MOUSTAPHA ALASSANE + KEVIN JEROME EVERSON",
           "showtimes": [
@@ -249,6 +228,41 @@
       "status": "ok",
       "films": [
         {
+          "title": "ONE HUNDRED AND ONE DALMATIANS",
+          "showtimes": [
+            "2026-07-26T11:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30387"
+        },
+        {
+          "title": "THE TRIPLETS OF BELLEVILLE",
+          "showtimes": [
+            "2026-07-26T11:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30392"
+        },
+        {
+          "title": "EL TOPO",
+          "showtimes": [
+            "2026-07-26T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30388"
+        },
+        {
+          "title": "DARKEST HOUR",
+          "showtimes": [
+            "2026-07-26T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30393"
+        },
+        {
+          "title": "SOLARIS PRECEDED BY THE WORKING END",
+          "showtimes": [
+            "2026-07-26T15:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30389"
+        },
+        {
           "title": "MY LITTLE LOVES",
           "showtimes": [
             "2026-07-26T17:50:00-04:00"
@@ -262,6 +276,13 @@
             "2026-07-27T19:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30390"
+        },
+        {
+          "title": "L'ARGENT",
+          "showtimes": [
+            "2026-07-26T20:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30396"
         },
         {
           "title": "BASIC INSTINCT",
@@ -290,6 +311,13 @@
             "2026-07-27T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30503"
+        },
+        {
+          "title": "THE SEVENTH BULLET",
+          "showtimes": [
+            "2026-07-27T17:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30502"
         },
         {
           "title": "DO YOU LOVE ME",
@@ -329,24 +357,12 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-26T14:40:00-04:00",
             "2026-07-26T17:15:00-04:00",
             "2026-07-26T19:30:00-04:00",
             "2026-07-27T12:45:00-04:00",
             "2026-07-27T15:00:00-04:00",
             "2026-07-27T17:15:00-04:00",
             "2026-07-27T19:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-26"
-        },
-        {
-          "title": "THE FLOATERS",
-          "showtimes": [
-            "2026-07-26T13:45:00-04:00",
-            "2026-07-26T15:50:00-04:00",
-            "2026-07-27T11:40:00-04:00",
-            "2026-07-27T13:45:00-04:00",
-            "2026-07-27T15:50:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-26"
         },
@@ -361,7 +377,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-26T12:00:00-04:00",
             "2026-07-26T15:30:00-04:00",
             "2026-07-26T19:00:00-04:00",
             "2026-07-27T12:00:00-04:00",
@@ -373,7 +388,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-26T13:15:00-04:00",
             "2026-07-26T16:30:00-04:00",
             "2026-07-26T18:00:00-04:00",
             "2026-07-27T13:15:00-04:00",
@@ -381,6 +395,15 @@
             "2026-07-27T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-26"
+        },
+        {
+          "title": "THE FLOATERS",
+          "showtimes": [
+            "2026-07-27T11:40:00-04:00",
+            "2026-07-27T13:45:00-04:00",
+            "2026-07-27T15:50:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-27"
         }
       ]
     },
@@ -389,13 +412,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Leave Her to Heaven",
-          "showtimes": [
-            "2026-07-26T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2804/seats"
-        },
         {
           "title": "The Kids Are All Right",
           "showtimes": [
