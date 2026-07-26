@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T07:56:32-04:00",
+  "lastUpdated": "2026-07-26T12:08:35-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -263,18 +263,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30392"
         },
         {
-          "title": "DARKEST HOUR",
-          "showtimes": [
-            "2026-07-26T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30393"
-        },
-        {
           "title": "EL TOPO",
           "showtimes": [
             "2026-07-26T13:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30388"
+        },
+        {
+          "title": "DARKEST HOUR",
+          "showtimes": [
+            "2026-07-26T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30393"
         },
         {
           "title": "SOLARIS PRECEDED BY THE WORKING END",
@@ -332,6 +332,13 @@
             "2026-07-27T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30503"
+        },
+        {
+          "title": "THE SEVENTH BULLET",
+          "showtimes": [
+            "2026-07-27T17:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30502"
         },
         {
           "title": "DO YOU LOVE ME",
@@ -433,13 +440,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Crimes and Misdemeanors",
-          "showtimes": [
-            "2026-07-26T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2802/seats"
-        },
         {
           "title": "The Lunchbox",
           "showtimes": [
