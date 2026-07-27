@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T13:03:33-04:00",
+  "lastUpdated": "2026-07-27T16:20:41-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -266,6 +266,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30498"
         },
         {
+          "title": "HAPPY TOGETHER",
+          "showtimes": [
+            "2026-07-27T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30500"
+        },
+        {
           "title": "BOUCHRA",
           "showtimes": [
             "2026-07-27T21:50:00-04:00",
@@ -325,7 +332,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-27T12:45:00-04:00",
             "2026-07-27T15:00:00-04:00",
             "2026-07-27T17:15:00-04:00",
             "2026-07-27T19:30:00-04:00",
@@ -339,7 +345,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-27T11:40:00-04:00",
             "2026-07-27T13:45:00-04:00",
             "2026-07-27T15:50:00-04:00",
             "2026-07-28T11:30:00-04:00",
@@ -358,7 +363,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-27T12:00:00-04:00",
             "2026-07-27T15:30:00-04:00",
             "2026-07-27T19:00:00-04:00",
             "2026-07-28T11:45:00-04:00",
@@ -393,13 +397,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "In the Mood for Love",
-          "showtimes": [
-            "2026-07-27T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2806/seats"
-        },
         {
           "title": "Brief Encounter",
           "showtimes": [
