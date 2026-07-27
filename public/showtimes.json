@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T09:32:18-04:00",
+  "lastUpdated": "2026-07-27T13:03:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -264,13 +264,6 @@
             "2026-07-28T17:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30498"
-        },
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-07-27T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30500"
         },
         {
           "title": "BOUCHRA",
