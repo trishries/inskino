@@ -1,26 +1,11 @@
 {
-  "lastUpdated": "2026-07-29T16:11:30-04:00",
+  "lastUpdated": "2026-07-29T19:57:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Pickpocket",
-          "showtimes": [
-            "2026-07-29T18:30:00-04:00",
-            "2026-07-30T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5511?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "IN THE BATTLEFIELDS",
-          "showtimes": [
-            "2026-07-29T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5513?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: A MAN ESCAPED, OR THE WIND BLOWS WHERE IT LIST",
           "showtimes": [
@@ -35,6 +20,13 @@
             "2026-07-30T19:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5514?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: Pickpocket",
+          "showtimes": [
+            "2026-07-30T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5516?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -257,31 +249,12 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-29T14:45:00-04:00",
             "2026-07-29T17:00:00-04:00",
             "2026-07-29T19:15:00-04:00",
             "2026-07-30T12:30:00-04:00",
             "2026-07-30T14:45:00-04:00",
             "2026-07-30T17:00:00-04:00",
             "2026-07-30T19:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-29"
-        },
-        {
-          "title": "I LOVE BOOSTERS",
-          "showtimes": [
-            "2026-07-29T15:40:00-04:00",
-            "2026-07-30T15:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-29"
-        },
-        {
-          "title": "THE ODYSSEY (35MM SCREENING)",
-          "showtimes": [
-            "2026-07-29T15:10:00-04:00",
-            "2026-07-30T11:45:00-04:00",
-            "2026-07-30T15:10:00-04:00",
-            "2026-07-30T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-29"
         },
@@ -311,6 +284,22 @@
             "2026-07-30T13:35:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-30"
+        },
+        {
+          "title": "I LOVE BOOSTERS",
+          "showtimes": [
+            "2026-07-30T15:40:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-30"
+        },
+        {
+          "title": "THE ODYSSEY (35MM SCREENING)",
+          "showtimes": [
+            "2026-07-30T11:45:00-04:00",
+            "2026-07-30T15:10:00-04:00",
+            "2026-07-30T19:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-30"
         }
       ]
     },
@@ -320,26 +309,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "The Kids Are All Right",
-          "showtimes": [
-            "2026-07-29T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2813/seats"
-        },
-        {
-          "title": "Mildred Pierce",
-          "showtimes": [
-            "2026-07-29T19:00:00-04:00",
-            "2026-07-30T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2814/seats"
-        },
-        {
           "title": "The Lunchbox",
           "showtimes": [
             "2026-07-29T21:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2815/seats"
+        },
+        {
+          "title": "Mildred Pierce",
+          "showtimes": [
+            "2026-07-30T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2816/seats"
         },
         {
           "title": "Bride of Chucky",
