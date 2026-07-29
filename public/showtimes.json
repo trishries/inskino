@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T12:26:59-04:00",
+  "lastUpdated": "2026-07-29T16:11:30-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -257,7 +257,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-29T12:30:00-04:00",
             "2026-07-29T14:45:00-04:00",
             "2026-07-29T17:00:00-04:00",
             "2026-07-29T19:15:00-04:00",
@@ -265,16 +264,6 @@
             "2026-07-30T14:45:00-04:00",
             "2026-07-30T17:00:00-04:00",
             "2026-07-30T19:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-29"
-        },
-        {
-          "title": "THE FLOATERS",
-          "showtimes": [
-            "2026-07-29T11:30:00-04:00",
-            "2026-07-29T13:35:00-04:00",
-            "2026-07-30T11:30:00-04:00",
-            "2026-07-30T13:35:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-29"
         },
@@ -289,7 +278,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-07-29T11:45:00-04:00",
             "2026-07-29T15:10:00-04:00",
             "2026-07-30T11:45:00-04:00",
             "2026-07-30T15:10:00-04:00",
@@ -300,7 +288,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-07-29T12:45:00-04:00",
             "2026-07-29T16:10:00-04:00",
             "2026-07-29T18:00:00-04:00",
             "2026-07-30T12:45:00-04:00",
@@ -316,6 +303,14 @@
             "2026-07-30T19:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-29"
+        },
+        {
+          "title": "THE FLOATERS",
+          "showtimes": [
+            "2026-07-30T11:30:00-04:00",
+            "2026-07-30T13:35:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-07-30"
         }
       ]
     },
@@ -324,13 +319,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Leave Her to Heaven",
-          "showtimes": [
-            "2026-07-29T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2812/seats"
-        },
         {
           "title": "The Kids Are All Right",
           "showtimes": [
