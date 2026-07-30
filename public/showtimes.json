@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T12:41:19-04:00",
+  "lastUpdated": "2026-07-30T16:13:05-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -155,13 +155,6 @@
             "2026-07-31T23:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571022~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "GUMMO",
-          "showtimes": [
-            "2026-07-31T23:59:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=570875~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "HEAT",
@@ -327,13 +320,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30404"
         },
         {
-          "title": "THE NIGHT IS SHORT, WALK ON GIRL",
-          "showtimes": [
-            "2026-07-31T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30401"
-        },
-        {
           "title": "THE GREEN ROOM",
           "showtimes": [
             "2026-07-31T19:10:00-04:00"
@@ -434,13 +420,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Mildred Pierce",
-          "showtimes": [
-            "2026-07-30T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2816/seats"
-        },
         {
           "title": "Bride of Chucky",
           "showtimes": [
