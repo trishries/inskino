@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T12:49:21-04:00",
+  "lastUpdated": "2026-07-31T16:18:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -284,20 +284,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "IN THE MOOD FOR LOVE",
-          "showtimes": [
-            "2026-07-31T14:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30399"
-        },
-        {
-          "title": "BOYFRIENDS AND GIRLFRIENDS",
-          "showtimes": [
-            "2026-07-31T14:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30403"
-        },
-        {
           "title": "REBECCA",
           "showtimes": [
             "2026-07-31T16:20:00-04:00",
@@ -318,13 +304,6 @@
             "2026-07-31T19:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30401"
-        },
-        {
-          "title": "THE GREEN ROOM",
-          "showtimes": [
-            "2026-07-31T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30405"
         },
         {
           "title": "WAKE IN FRIGHT",
@@ -420,7 +399,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-07-31T12:30:00-04:00",
             "2026-07-31T14:45:00-04:00",
             "2026-07-31T17:00:00-04:00",
             "2026-07-31T19:15:00-04:00",
@@ -436,7 +414,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-07-31T12:15:00-04:00",
             "2026-07-31T16:40:00-04:00",
             "2026-08-01T12:15:00-04:00",
             "2026-08-01T16:40:00-04:00"
@@ -487,14 +464,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "The Unbearable Lightness of Being",
-          "showtimes": [
-            "2026-07-31T14:30:00-04:00",
-            "2026-08-01T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2825/seats"
-        },
-        {
           "title": "One Flew over the Cuckoo's Nest",
           "showtimes": [
             "2026-07-31T18:45:00-04:00"
@@ -528,6 +497,13 @@
             "2026-08-01T17:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2830/seats"
+        },
+        {
+          "title": "The Unbearable Lightness of Being",
+          "showtimes": [
+            "2026-08-01T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2831/seats"
         }
       ]
     },
