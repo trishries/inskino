@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T08:50:46-04:00",
+  "lastUpdated": "2026-07-31T12:49:21-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -486,13 +486,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Salesman",
-          "showtimes": [
-            "2026-07-31T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2824/seats"
-        },
         {
           "title": "The Unbearable Lightness of Being",
           "showtimes": [
