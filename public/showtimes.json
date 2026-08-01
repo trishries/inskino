@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-08-01T16:08:37-04:00",
+  "lastUpdated": "2026-08-01T19:52:56-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Buñuel/Dalí",
-          "showtimes": [
-            "2026-08-01T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5519?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: L'Âge d'Or",
-          "showtimes": [
-            "2026-08-01T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5520?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "DUCHAMP PGM 3",
-          "showtimes": [
-            "2026-08-01T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5522?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE SALAMANDER",
           "showtimes": [
@@ -407,7 +386,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-01T14:45:00-04:00",
             "2026-08-01T17:00:00-04:00",
             "2026-08-01T19:15:00-04:00",
             "2026-08-01T21:30:00-04:00",
@@ -430,7 +408,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-08-01T14:20:00-04:00",
             "2026-08-01T18:45:00-04:00",
             "2026-08-02T15:00:00-04:00",
             "2026-08-02T19:30:00-04:00"
@@ -440,7 +417,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-01T12:00:00-04:00",
             "2026-08-01T15:30:00-04:00",
             "2026-08-01T19:00:00-04:00",
             "2026-08-02T12:20:00-04:00",
@@ -452,7 +428,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-01T13:10:00-04:00",
             "2026-08-01T16:30:00-04:00",
             "2026-08-01T20:00:00-04:00",
             "2026-08-01T21:00:00-04:00",
@@ -469,13 +444,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Misfits",
-          "showtimes": [
-            "2026-08-01T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2830/seats"
-        },
         {
           "title": "The Unbearable Lightness of Being",
           "showtimes": [
