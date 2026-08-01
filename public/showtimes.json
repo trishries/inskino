@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T03:36:44-04:00",
+  "lastUpdated": "2026-08-01T07:55:53-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -299,14 +299,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "L'ARGENT",
-          "showtimes": [
-            "2026-08-01T11:30:00-04:00",
-            "2026-08-02T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30407"
-        },
-        {
           "title": "JFK",
           "showtimes": [
             "2026-08-01T12:00:00-04:00"
@@ -399,18 +391,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30419"
         },
         {
-          "title": "ARABESQUE",
-          "showtimes": [
-            "2026-08-02T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30425"
-        },
-        {
           "title": "FC LIVE: JONAH WHO WILL BE 25 IN THE YEAR 2000",
           "showtimes": [
             "2026-08-02T17:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30420"
+        },
+        {
+          "title": "L'ARGENT",
+          "showtimes": [
+            "2026-08-02T17:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30426"
         },
         {
           "title": "THE EIGHT DIAGRAM POLE FIGHTER",
