@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T03:39:23-04:00",
+  "lastUpdated": "2026-08-02T07:54:22-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -270,11 +270,11 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30418"
         },
         {
-          "title": "SHOLAY",
+          "title": "THE TRIPLETS OF BELLEVILLE",
           "showtimes": [
-            "2026-08-02T13:00:00-04:00"
+            "2026-08-02T11:15:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30419"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30423"
         },
         {
           "title": "STAVISKY",
@@ -284,11 +284,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30424"
         },
         {
+          "title": "SHOLAY",
+          "showtimes": [
+            "2026-08-02T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30419"
+        },
+        {
           "title": "FC LIVE: JONAH WHO WILL BE 25 IN THE YEAR 2000",
           "showtimes": [
             "2026-08-02T17:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30420"
+        },
+        {
+          "title": "L'ARGENT",
+          "showtimes": [
+            "2026-08-02T17:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30426"
         },
         {
           "title": "THE EIGHT DIAGRAM POLE FIGHTER",
