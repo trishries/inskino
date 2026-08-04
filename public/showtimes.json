@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-08-03T16:25:50-04:00",
+  "lastUpdated": "2026-08-03T20:04:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE SEASONS IN QUINCY: FOUR PORTRAITS OF JOHN BERG",
-          "showtimes": [
-            "2026-08-03T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5529?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "DUCHAMP PGM 7",
-          "showtimes": [
-            "2026-08-03T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5531?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "DUCHAMP PGM 8",
-          "showtimes": [
-            "2026-08-03T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5532?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "WALK THE WALK",
-          "showtimes": [
-            "2026-08-03T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5530?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: SHORT FILMS BY CHARLIE CHAPLIN",
           "showtimes": [
@@ -369,22 +341,12 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-03T14:30:00-04:00",
             "2026-08-03T16:45:00-04:00",
             "2026-08-03T19:15:00-04:00",
             "2026-08-04T12:30:00-04:00",
             "2026-08-04T14:45:00-04:00",
             "2026-08-04T17:00:00-04:00",
             "2026-08-04T19:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-03"
-        },
-        {
-          "title": "THE FLOATERS",
-          "showtimes": [
-            "2026-08-03T14:20:00-04:00",
-            "2026-08-04T13:40:00-04:00",
-            "2026-08-04T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-03"
         },
@@ -400,7 +362,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-03T12:20:00-04:00",
             "2026-08-03T15:40:00-04:00",
             "2026-08-03T19:00:00-04:00",
             "2026-08-04T12:10:00-04:00",
@@ -412,7 +373,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-03T14:40:00-04:00",
             "2026-08-03T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-03"
@@ -421,6 +381,14 @@
           "title": "THE ASPHALT JUNGLE",
           "showtimes": [
             "2026-08-04T20:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-04"
+        },
+        {
+          "title": "THE FLOATERS",
+          "showtimes": [
+            "2026-08-04T13:40:00-04:00",
+            "2026-08-04T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-04"
         }
@@ -432,20 +400,19 @@
       "status": "ok",
       "films": [
         {
-          "title": "The Misfits",
-          "showtimes": [
-            "2026-08-03T18:45:00-04:00",
-            "2026-08-04T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2840/seats"
-        },
-        {
           "title": "The Front Page",
           "showtimes": [
             "2026-08-03T21:45:00-04:00",
             "2026-08-04T13:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2841/seats"
+        },
+        {
+          "title": "The Misfits",
+          "showtimes": [
+            "2026-08-04T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2843/seats"
         },
         {
           "title": "The Tune",
