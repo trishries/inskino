@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T12:46:23-04:00",
+  "lastUpdated": "2026-08-05T16:25:15-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -291,7 +291,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-05T12:30:00-04:00",
             "2026-08-05T14:45:00-04:00",
             "2026-08-05T17:00:00-04:00",
             "2026-08-05T19:15:00-04:00",
@@ -313,7 +312,6 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-08-05T13:40:00-04:00",
             "2026-08-05T18:00:00-04:00",
             "2026-08-06T13:40:00-04:00",
             "2026-08-06T18:00:00-04:00"
@@ -323,7 +321,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-08-05T11:25:00-04:00",
             "2026-08-05T15:45:00-04:00",
             "2026-08-06T11:25:00-04:00",
             "2026-08-06T15:45:00-04:00"
@@ -333,7 +330,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-05T12:10:00-04:00",
             "2026-08-05T15:30:00-04:00",
             "2026-08-05T19:00:00-04:00",
             "2026-08-06T12:10:00-04:00",
@@ -349,13 +345,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Unbearable Lightness of Being",
-          "showtimes": [
-            "2026-08-05T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2845/seats"
-        },
         {
           "title": "Common Threads: Stories from the Quilt",
           "showtimes": [
