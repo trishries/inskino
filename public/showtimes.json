@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:38:10-04:00",
+  "lastUpdated": "2026-08-07T12:01:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -342,6 +342,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30516"
         },
         {
+          "title": "PARANOID PARK",
+          "showtimes": [
+            "2026-08-07T18:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30518"
+        },
+        {
           "title": "COLLATERAL",
           "showtimes": [
             "2026-08-07T19:15:00-04:00"
@@ -403,6 +410,13 @@
             "2026-08-08T16:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30528"
+        },
+        {
+          "title": "FIRST BLOOD",
+          "showtimes": [
+            "2026-08-08T18:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30530"
         },
         {
           "title": "THE NIGHT IS SHORT, WALK ON GIRL",
