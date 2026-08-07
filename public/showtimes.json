@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-08-06T08:50:51-04:00",
+  "lastUpdated": "2026-08-06T20:39:49-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: The Gold Rush",
-          "showtimes": [
-            "2026-08-06T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5539?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "SODA POP JOE",
-          "showtimes": [
-            "2026-08-06T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5541?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: CITY LIGHTS",
-          "showtimes": [
-            "2026-08-06T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5540?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MAN WITH A SHOTGUN",
-          "showtimes": [
-            "2026-08-06T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5542?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: The Blood of a Poet",
           "showtimes": [
@@ -445,9 +417,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-06T12:30:00-04:00",
-            "2026-08-06T14:45:00-04:00",
-            "2026-08-06T17:00:00-04:00",
             "2026-08-06T19:15:00-04:00",
             "2026-08-07T13:00:00-04:00",
             "2026-08-07T14:45:00-04:00",
@@ -467,32 +436,27 @@
         {
           "title": "THE FLOATERS",
           "showtimes": [
-            "2026-08-06T13:40:00-04:00",
             "2026-08-06T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-06"
-        },
-        {
-          "title": "I LOVE BOOSTERS",
-          "showtimes": [
-            "2026-08-06T11:25:00-04:00",
-            "2026-08-06T15:45:00-04:00",
-            "2026-08-07T12:00:00-04:00",
-            "2026-08-07T18:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-06"
         },
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-06T12:10:00-04:00",
-            "2026-08-06T15:30:00-04:00",
             "2026-08-06T19:00:00-04:00",
             "2026-08-07T12:50:00-04:00",
             "2026-08-07T16:10:00-04:00",
             "2026-08-07T19:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-06"
+        },
+        {
+          "title": "I LOVE BOOSTERS",
+          "showtimes": [
+            "2026-08-07T12:00:00-04:00",
+            "2026-08-07T18:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-07"
         },
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
@@ -520,27 +484,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "One Flew over the Cuckoo's Nest",
-          "showtimes": [
-            "2026-08-06T12:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2849/seats"
-        },
-        {
-          "title": "Just Another Girl on the I.R.T. (4K restoration)",
-          "showtimes": [
-            "2026-08-06T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2850/seats"
-        },
-        {
-          "title": "The Last House",
-          "showtimes": [
-            "2026-08-06T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2851/seats"
-        },
         {
           "title": "The Misfits",
           "showtimes": [
