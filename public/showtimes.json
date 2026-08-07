@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-08-07T15:51:21-04:00",
+  "lastUpdated": "2026-08-07T19:28:51-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: The Blood of a Poet",
-          "showtimes": [
-            "2026-08-07T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5543?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE SHOOTING",
-          "showtimes": [
-            "2026-08-07T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5545?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Beauty and the Beast",
           "showtimes": [
@@ -194,7 +180,7 @@
             "2026-08-07T15:35:00-04:00",
             "2026-08-07T18:40:00-04:00",
             "2026-08-07T21:00:00-04:00",
-            "2026-08-08T12:30:00-04:00",
+            "2026-08-08T12:35:00-04:00",
             "2026-08-08T15:35:00-04:00",
             "2026-08-08T18:40:00-04:00",
             "2026-08-08T21:00:00-04:00"
@@ -205,7 +191,7 @@
           "title": "THIEF",
           "showtimes": [
             "2026-08-07T23:40:00-04:00",
-            "2026-08-08T23:40:00-04:00"
+            "2026-08-08T23:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571929~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -327,14 +313,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30515"
         },
         {
-          "title": "CHOCOLAT",
-          "showtimes": [
-            "2026-08-07T16:30:00-04:00",
-            "2026-08-08T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30517"
-        },
-        {
           "title": "CONVERSATION PIECE",
           "showtimes": [
             "2026-08-07T16:35:00-04:00"
@@ -391,6 +369,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30525"
         },
         {
+          "title": "CHOCOLAT",
+          "showtimes": [
+            "2026-08-08T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30526"
+        },
+        {
           "title": "THE CHASER",
           "showtimes": [
             "2026-08-08T15:50:00-04:00"
@@ -403,13 +388,6 @@
             "2026-08-08T16:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30528"
-        },
-        {
-          "title": "THE NIGHT IS SHORT, WALK ON GIRL",
-          "showtimes": [
-            "2026-08-08T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30607"
         },
         {
           "title": "GIRLHOOD",
@@ -449,7 +427,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-07T13:00:00-04:00",
             "2026-08-07T14:45:00-04:00",
             "2026-08-07T17:00:00-04:00",
             "2026-08-07T19:15:00-04:00",
@@ -465,7 +442,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-08-07T12:00:00-04:00",
             "2026-08-07T18:45:00-04:00",
             "2026-08-08T12:00:00-04:00",
             "2026-08-08T18:45:00-04:00"
@@ -475,7 +451,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-07T12:50:00-04:00",
             "2026-08-07T16:10:00-04:00",
             "2026-08-07T19:30:00-04:00",
             "2026-08-08T12:50:00-04:00",
@@ -497,7 +472,6 @@
         {
           "title": "OLMO",
           "showtimes": [
-            "2026-08-07T12:55:00-04:00",
             "2026-08-07T15:15:00-04:00",
             "2026-08-07T17:05:00-04:00",
             "2026-08-07T19:00:00-04:00",
@@ -520,7 +494,6 @@
         {
           "title": "A Child of My Own (Un Hijo Propio)",
           "showtimes": [
-            "2026-08-07T16:30:00-04:00",
             "2026-08-07T19:00:00-04:00",
             "2026-08-07T21:30:00-04:00",
             "2026-08-08T11:30:00-04:00",
@@ -528,7 +501,7 @@
             "2026-08-08T19:00:00-04:00",
             "2026-08-08T21:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2951/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2952/seats"
         },
         {
           "title": "The Mole Agent",
