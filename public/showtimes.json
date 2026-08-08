@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T11:36:19-04:00",
+  "lastUpdated": "2026-08-08T15:27:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -505,24 +505,22 @@
       "status": "ok",
       "films": [
         {
+          "title": "The Mole Agent",
+          "showtimes": [
+            "2026-08-08T16:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2964/seats"
+        },
+        {
           "title": "A Child of My Own (Un Hijo Propio)",
           "showtimes": [
-            "2026-08-08T11:30:00-04:00",
-            "2026-08-08T14:00:00-04:00",
             "2026-08-08T19:00:00-04:00",
             "2026-08-08T21:30:00-04:00",
             "2026-08-09T11:30:00-04:00",
             "2026-08-09T19:00:00-04:00",
             "2026-08-09T21:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2958/seats"
-        },
-        {
-          "title": "The Mole Agent",
-          "showtimes": [
-            "2026-08-08T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2964/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2955/seats"
         },
         {
           "title": "The Eternal Memory",
