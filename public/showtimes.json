@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-08-09T15:30:58-04:00",
+  "lastUpdated": "2026-08-09T19:25:28-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE BELLE STARR STORY",
-          "showtimes": [
-            "2026-08-09T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5552?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Beauty and the Beast",
-          "showtimes": [
-            "2026-08-09T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5554?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "CEMETERY WITHOUT CROSSES",
           "showtimes": [
@@ -391,7 +377,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-09T12:45:00-04:00",
             "2026-08-09T15:00:00-04:00",
             "2026-08-09T17:15:00-04:00",
             "2026-08-09T19:30:00-04:00",
@@ -405,7 +390,6 @@
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-08-09T12:15:00-04:00",
             "2026-08-09T19:20:00-04:00",
             "2026-08-10T12:15:00-04:00",
             "2026-08-10T19:20:00-04:00"
@@ -415,7 +399,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-09T12:20:00-04:00",
             "2026-08-09T15:40:00-04:00",
             "2026-08-09T19:00:00-04:00",
             "2026-08-10T12:20:00-04:00",
@@ -437,8 +420,6 @@
         {
           "title": "OLMO",
           "showtimes": [
-            "2026-08-09T12:30:00-04:00",
-            "2026-08-09T14:20:00-04:00",
             "2026-08-09T16:10:00-04:00",
             "2026-08-09T18:00:00-04:00",
             "2026-08-10T12:30:00-04:00",
@@ -455,13 +436,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "In Her Place",
-          "showtimes": [
-            "2026-08-09T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2966/seats"
-        },
         {
           "title": "A Child of My Own (Un Hijo Propio)",
           "showtimes": [
