@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T11:38:11-04:00",
+  "lastUpdated": "2026-08-09T15:30:58-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -456,27 +456,19 @@
       "status": "ok",
       "films": [
         {
-          "title": "A Child of My Own (Un Hijo Propio)",
-          "showtimes": [
-            "2026-08-09T11:30:00-04:00",
-            "2026-08-09T19:00:00-04:00",
-            "2026-08-09T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2963/seats"
-        },
-        {
-          "title": "The Eternal Memory",
-          "showtimes": [
-            "2026-08-09T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2965/seats"
-        },
-        {
           "title": "In Her Place",
           "showtimes": [
             "2026-08-09T16:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2966/seats"
+        },
+        {
+          "title": "A Child of My Own (Un Hijo Propio)",
+          "showtimes": [
+            "2026-08-09T19:00:00-04:00",
+            "2026-08-09T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2960/seats"
         }
       ]
     },
