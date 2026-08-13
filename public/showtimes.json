@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-08-12T19:35:47-04:00",
+  "lastUpdated": "2026-08-13T02:40:58-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE BELLE STARR STORY",
-          "showtimes": [
-            "2026-08-12T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5561?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE UNCLE’S REQUEST",
           "showtimes": [
@@ -33,6 +26,34 @@
             "2026-08-13T20:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5564?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "QUEEN OF THURSDAYS",
+          "showtimes": [
+            "2026-08-14T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5565?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "BLACK GOD, WHITE DEVIL",
+          "showtimes": [
+            "2026-08-14T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5566?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "I LOVE YOU AND I’LL TAKE YOU TO THE MOVIES",
+          "showtimes": [
+            "2026-08-14T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5567?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "CEMETERY WITHOUT CROSSES",
+          "showtimes": [
+            "2026-08-14T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5568?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -44,121 +65,168 @@
         {
           "title": "THE BIG CHEESE",
           "showtimes": [
-            "2026-08-12T10:40:00-04:00",
-            "2026-08-12T12:50:00-04:00",
-            "2026-08-12T17:25:00-04:00",
-            "2026-08-12T19:35:00-04:00",
             "2026-08-13T10:40:00-04:00",
             "2026-08-13T13:30:00-04:00",
             "2026-08-13T17:25:00-04:00",
-            "2026-08-13T19:35:00-04:00"
+            "2026-08-13T19:35:00-04:00",
+            "2026-08-14T12:40:00-04:00",
+            "2026-08-14T21:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571528~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571529~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "A CHILD OF MY OWN",
           "showtimes": [
-            "2026-08-12T10:45:00-04:00",
-            "2026-08-12T12:45:00-04:00",
-            "2026-08-12T19:15:00-04:00",
             "2026-08-13T10:45:00-04:00",
             "2026-08-13T12:45:00-04:00",
             "2026-08-13T19:15:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572022~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572043~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE FENCE",
           "showtimes": [
-            "2026-08-12T12:05:00-04:00",
-            "2026-08-12T21:35:00-04:00",
             "2026-08-13T13:05:00-04:00",
             "2026-08-13T21:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572024~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572044~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "JIMMY",
           "showtimes": [
-            "2026-08-12T10:35:00-04:00",
-            "2026-08-12T17:30:00-04:00",
             "2026-08-13T10:35:00-04:00",
             "2026-08-13T17:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572020~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572042~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "JULIAN",
           "showtimes": [
-            "2026-08-12T13:40:00-04:00",
-            "2026-08-12T21:35:00-04:00",
             "2026-08-13T13:30:00-04:00",
             "2026-08-13T21:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571746~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571747~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MADDIE'S SECRET",
           "showtimes": [
-            "2026-08-12T10:50:00-04:00",
-            "2026-08-12T15:00:00-04:00",
-            "2026-08-12T21:20:00-04:00",
             "2026-08-13T11:10:00-04:00",
             "2026-08-13T15:00:00-04:00",
-            "2026-08-13T21:30:00-04:00"
+            "2026-08-13T21:30:00-04:00",
+            "2026-08-14T10:45:00-04:00",
+            "2026-08-14T16:05:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572021~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572041~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-12T15:05:00-04:00",
             "2026-08-13T15:10:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572028~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572048~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MICHAEL MANN'S MANHUNTER: THE FINAL CUT",
           "showtimes": [
-            "2026-08-12T15:45:00-04:00",
-            "2026-08-12T21:40:00-04:00",
             "2026-08-13T15:45:00-04:00",
-            "2026-08-13T21:40:00-04:00"
+            "2026-08-13T21:40:00-04:00",
+            "2026-08-14T15:45:00-04:00",
+            "2026-08-14T23:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572031~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572046~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE SAMURAI AND THE PRISONER",
           "showtimes": [
-            "2026-08-12T12:30:00-04:00",
-            "2026-08-12T15:35:00-04:00",
-            "2026-08-12T18:40:00-04:00",
             "2026-08-13T15:35:00-04:00",
             "2026-08-13T18:40:00-04:00",
-            "2026-08-13T21:20:00-04:00"
+            "2026-08-13T21:20:00-04:00",
+            "2026-08-14T10:35:00-04:00",
+            "2026-08-14T12:45:00-04:00",
+            "2026-08-14T16:30:00-04:00",
+            "2026-08-14T20:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572025~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "WILD INSIDE",
-          "showtimes": [
-            "2026-08-12T11:50:00-04:00",
-            "2026-08-12T14:35:00-04:00",
-            "2026-08-12T16:50:00-04:00",
-            "2026-08-12T19:05:00-04:00",
-            "2026-08-12T21:30:00-04:00",
-            "2026-08-13T14:35:00-04:00",
-            "2026-08-13T16:50:00-04:00",
-            "2026-08-13T19:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572023~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572049~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "UNION COUNTY",
           "showtimes": [
-            "2026-08-13T19:00:00-04:00"
+            "2026-08-13T19:00:00-04:00",
+            "2026-08-14T11:30:00-04:00",
+            "2026-08-14T14:30:00-04:00",
+            "2026-08-14T16:30:00-04:00",
+            "2026-08-14T19:00:00-04:00",
+            "2026-08-14T21:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569493~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "WILD INSIDE",
+          "showtimes": [
+            "2026-08-13T14:35:00-04:00",
+            "2026-08-13T16:50:00-04:00",
+            "2026-08-13T19:05:00-04:00",
+            "2026-08-14T10:45:00-04:00",
+            "2026-08-14T14:20:00-04:00",
+            "2026-08-14T18:25:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572047~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "ADDAMS FAMILY VALUES",
+          "showtimes": [
+            "2026-08-14T23:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573220~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "BATTLE ROYALE",
+          "showtimes": [
+            "2026-08-14T23:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573431~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "FREEFALL: A RECKONING FOR BOEING",
+          "showtimes": [
+            "2026-08-14T10:35:00-04:00",
+            "2026-08-14T12:25:00-04:00",
+            "2026-08-14T19:25:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573202~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "GHOST IN THE SHELL",
+          "showtimes": [
+            "2026-08-14T23:59:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573426~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MYSTERIOUS SKIN",
+          "showtimes": [
+            "2026-08-14T14:05:00-04:00",
+            "2026-08-14T16:40:00-04:00",
+            "2026-08-14T19:15:00-04:00",
+            "2026-08-14T21:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573203~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE PANIC IN NEEDLE PARK",
+          "showtimes": [
+            "2026-08-14T23:55:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573423~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "TRAIN TO BUSAN",
+          "showtimes": [
+            "2026-08-14T13:15:00-04:00",
+            "2026-08-14T18:50:00-04:00",
+            "2026-08-14T21:40:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569187~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -170,35 +238,34 @@
         {
           "title": "LATE FAME",
           "showtimes": [
-            "2026-08-12T12:15:00-04:00",
-            "2026-08-12T14:25:00-04:00",
-            "2026-08-12T16:40:00-04:00",
-            "2026-08-12T18:50:00-04:00",
-            "2026-08-12T21:00:00-04:00",
             "2026-08-13T12:15:00-04:00",
             "2026-08-13T14:25:00-04:00",
             "2026-08-13T16:40:00-04:00",
             "2026-08-13T18:50:00-04:00",
-            "2026-08-13T21:00:00-04:00"
+            "2026-08-13T21:00:00-04:00",
+            "2026-08-14T12:15:00-04:00",
+            "2026-08-14T14:25:00-04:00",
+            "2026-08-14T16:40:00-04:00",
+            "2026-08-14T18:50:00-04:00",
+            "2026-08-14T21:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/late-fame"
         },
         {
           "title": "CENTER STAGE",
           "showtimes": [
-            "2026-08-12T13:00:00-04:00",
-            "2026-08-12T16:10:00-04:00",
-            "2026-08-12T19:20:00-04:00",
             "2026-08-13T13:00:00-04:00",
             "2026-08-13T16:10:00-04:00",
-            "2026-08-13T19:20:00-04:00"
+            "2026-08-13T19:20:00-04:00",
+            "2026-08-14T13:00:00-04:00",
+            "2026-08-14T16:10:00-04:00",
+            "2026-08-14T19:20:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/center-stage"
         },
         {
           "title": "DREAD BEAT AN BLOOD",
           "showtimes": [
-            "2026-08-12T21:30:00-04:00",
             "2026-08-13T21:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/dread-beat-an-blood"
@@ -206,9 +273,6 @@
         {
           "title": "WHITE NIGHTS",
           "showtimes": [
-            "2026-08-12T12:20:00-04:00",
-            "2026-08-12T14:35:00-04:00",
-            "2026-08-12T16:50:00-04:00",
             "2026-08-13T12:20:00-04:00",
             "2026-08-13T14:35:00-04:00",
             "2026-08-13T16:50:00-04:00",
@@ -219,7 +283,6 @@
         {
           "title": "REMAKE",
           "showtimes": [
-            "2026-08-12T12:50:00-04:00",
             "2026-08-13T12:50:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/remake"
@@ -227,19 +290,9 @@
         {
           "title": "SHERMAN'S MARCH",
           "showtimes": [
-            "2026-08-12T15:20:00-04:00",
-            "2026-08-12T18:40:00-04:00",
             "2026-08-13T15:20:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/shermans-march"
-        },
-        {
-          "title": "RIVERDOGS",
-          "showtimes": [
-            "2026-08-12T19:00:00-04:00",
-            "2026-08-12T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/riverdogs"
         },
         {
           "title": "THE SAME RIVER TWICE",
@@ -247,6 +300,28 @@
             "2026-08-13T18:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-same-river-twice"
+        },
+        {
+          "title": "THE BEND IN THE RIVER",
+          "showtimes": [
+            "2026-08-14T12:20:00-04:00",
+            "2026-08-14T14:15:00-04:00",
+            "2026-08-14T16:10:00-04:00",
+            "2026-08-14T18:10:00-04:00",
+            "2026-08-14T20:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-bend-in-the-river"
+        },
+        {
+          "title": "BILLY LIAR",
+          "showtimes": [
+            "2026-08-14T12:30:00-04:00",
+            "2026-08-14T14:40:00-04:00",
+            "2026-08-14T16:50:00-04:00",
+            "2026-08-14T19:00:00-04:00",
+            "2026-08-14T21:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/billy-liar"
         }
       ]
     },
@@ -255,41 +330,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "SOLARIS",
-          "showtimes": [
-            "2026-08-12T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30686"
-        },
-        {
-          "title": "MOUNTAINS OF THE MOON",
-          "showtimes": [
-            "2026-08-12T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30691"
-        },
-        {
-          "title": "TAKE CARE OF MY CAT",
-          "showtimes": [
-            "2026-08-12T19:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30690"
-        },
-        {
-          "title": "STATE OF GRACE",
-          "showtimes": [
-            "2026-08-12T21:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30689"
-        },
-        {
-          "title": "EL TOPO",
-          "showtimes": [
-            "2026-08-12T21:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30688"
-        },
         {
           "title": "LA HAINE",
           "showtimes": [
@@ -338,6 +378,62 @@
             "2026-08-13T19:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30698"
+        },
+        {
+          "title": "LES BONNES FEMMES",
+          "showtimes": [
+            "2026-08-14T13:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30545"
+        },
+        {
+          "title": "THE WARRIORS",
+          "showtimes": [
+            "2026-08-14T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30546"
+        },
+        {
+          "title": "LA NOTTE",
+          "showtimes": [
+            "2026-08-14T15:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30548"
+        },
+        {
+          "title": "DELIVERANCE",
+          "showtimes": [
+            "2026-08-14T16:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30547"
+        },
+        {
+          "title": "NIL BY MOUTH",
+          "showtimes": [
+            "2026-08-14T18:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30549"
+        },
+        {
+          "title": "WALKABOUT",
+          "showtimes": [
+            "2026-08-14T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30550"
+        },
+        {
+          "title": "OBSESSION",
+          "showtimes": [
+            "2026-08-14T20:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30552"
+        },
+        {
+          "title": "CHUNGKING EXPRESS",
+          "showtimes": [
+            "2026-08-14T22:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30553"
         }
       ]
     },
@@ -349,74 +445,102 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-12T15:45:00-04:00",
-            "2026-08-12T18:00:00-04:00",
-            "2026-08-12T20:45:00-04:00",
             "2026-08-13T11:15:00-04:00",
             "2026-08-13T13:30:00-04:00",
             "2026-08-13T15:45:00-04:00",
             "2026-08-13T18:00:00-04:00",
-            "2026-08-13T20:45:00-04:00"
+            "2026-08-13T20:45:00-04:00",
+            "2026-08-14T12:00:00-04:00",
+            "2026-08-14T14:20:00-04:00",
+            "2026-08-14T18:45:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-12"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-13"
         },
         {
           "title": "I LOVE BOOSTERS",
           "showtimes": [
-            "2026-08-12T18:30:00-04:00",
             "2026-08-13T11:30:00-04:00",
             "2026-08-13T18:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-12"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-13"
         },
         {
           "title": "THE MISFITS",
           "showtimes": [
-            "2026-08-12T20:00:00-04:00",
             "2026-08-13T20:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-12"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-13"
         },
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-12T15:40:00-04:00",
-            "2026-08-12T19:00:00-04:00",
             "2026-08-13T12:20:00-04:00",
             "2026-08-13T15:40:00-04:00",
-            "2026-08-13T19:00:00-04:00"
+            "2026-08-13T19:00:00-04:00",
+            "2026-08-14T15:00:00-04:00",
+            "2026-08-14T18:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-12"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-13"
         },
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-12T14:30:00-04:00",
-            "2026-08-12T20:15:00-04:00",
             "2026-08-13T14:30:00-04:00",
-            "2026-08-13T20:15:00-04:00"
+            "2026-08-13T20:15:00-04:00",
+            "2026-08-14T11:30:00-04:00",
+            "2026-08-14T14:00:00-04:00",
+            "2026-08-14T21:05:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-12"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-13"
         },
         {
           "title": "OLMO",
           "showtimes": [
-            "2026-08-12T16:15:00-04:00",
-            "2026-08-12T18:10:00-04:00",
             "2026-08-13T12:25:00-04:00",
             "2026-08-13T14:20:00-04:00",
             "2026-08-13T16:15:00-04:00",
-            "2026-08-13T18:10:00-04:00"
+            "2026-08-13T18:10:00-04:00",
+            "2026-08-14T16:45:00-04:00",
+            "2026-08-14T22:20:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-12"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-13"
+        },
+        {
+          "title": "GYPSY 83: THE DIRECTOR’S CUT",
+          "showtimes": [
+            "2026-08-14T12:50:00-04:00",
+            "2026-08-14T15:50:00-04:00",
+            "2026-08-14T19:10:00-04:00",
+            "2026-08-14T21:50:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-14"
+        },
+        {
+          "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
+          "showtimes": [
+            "2026-08-14T11:45:00-04:00",
+            "2026-08-14T17:45:00-04:00",
+            "2026-08-14T19:45:00-04:00",
+            "2026-08-14T21:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-14"
         }
       ]
     },
     {
       "name": "Paris Theater",
       "url": "https://www.paristheaternyc.com",
-      "status": "empty",
-      "films": []
+      "status": "ok",
+      "films": [
+        {
+          "title": "Freefall: A Reckoning for Boeing",
+          "showtimes": [
+            "2026-08-14T19:00:00-04:00",
+            "2026-08-14T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2985/seats"
+        }
+      ]
     },
     {
       "name": "Cherry Lane Theatre",
