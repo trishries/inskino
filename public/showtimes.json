@@ -1,26 +1,11 @@
 {
-  "lastUpdated": "2026-08-14T15:46:03-04:00",
+  "lastUpdated": "2026-08-14T19:16:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "QUEEN OF THURSDAYS",
-          "showtimes": [
-            "2026-08-14T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5565?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "BLACK GOD, WHITE DEVIL",
-          "showtimes": [
-            "2026-08-14T18:30:00-04:00",
-            "2026-08-15T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5566?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "I LOVE YOU AND I’LL TAKE YOU TO THE MOVIES",
           "showtimes": [
@@ -56,6 +41,13 @@
             "2026-08-15T19:15:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5573?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "BLACK GOD, WHITE DEVIL",
+          "showtimes": [
+            "2026-08-15T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5571?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -349,11 +341,27 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30550"
         },
         {
+          "title": "OBSESSION",
+          "showtimes": [
+            "2026-08-14T20:50:00-04:00",
+            "2026-08-15T20:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30552"
+        },
+        {
           "title": "CHUNGKING EXPRESS",
           "showtimes": [
-            "2026-08-14T22:50:00-04:00"
+            "2026-08-14T22:50:00-04:00",
+            "2026-08-15T22:25:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30553"
+        },
+        {
+          "title": "THE DARK KNIGHT",
+          "showtimes": [
+            "2026-08-15T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30555"
         },
         {
           "title": "A DAY IN THE COUNTRY + PEOPLE ON SUNDAY",
@@ -361,6 +369,13 @@
             "2026-08-15T12:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30556"
+        },
+        {
+          "title": "TWO BY ROBB MOSS",
+          "showtimes": [
+            "2026-08-15T15:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30558"
         },
         {
           "title": "HANNIBAL",
@@ -375,13 +390,6 @@
             "2026-08-15T20:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30561"
-        },
-        {
-          "title": "OBSESSION",
-          "showtimes": [
-            "2026-08-15T20:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30562"
         },
         {
           "title": "IRREVERSIBLE",
@@ -400,7 +408,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-14T14:20:00-04:00",
             "2026-08-14T18:45:00-04:00",
             "2026-08-15T12:00:00-04:00",
             "2026-08-15T14:20:00-04:00",
@@ -411,7 +418,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-14T12:50:00-04:00",
             "2026-08-14T15:50:00-04:00",
             "2026-08-14T19:10:00-04:00",
             "2026-08-14T21:50:00-04:00",
@@ -448,7 +454,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-14T14:00:00-04:00",
             "2026-08-14T21:05:00-04:00",
             "2026-08-15T11:30:00-04:00",
             "2026-08-15T14:00:00-04:00",
