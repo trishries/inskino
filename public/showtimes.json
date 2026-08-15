@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-08-15T15:19:43-04:00",
+  "lastUpdated": "2026-08-15T19:15:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MAN WITH A SHOTGUN",
-          "showtimes": [
-            "2026-08-15T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5569?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE WALKER",
-          "showtimes": [
-            "2026-08-15T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5572?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CEMETERY WITHOUT CROSSES",
-          "showtimes": [
-            "2026-08-15T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5570?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ADIÓS CUBA",
-          "showtimes": [
-            "2026-08-15T19:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5573?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BLACK GOD, WHITE DEVIL",
           "showtimes": [
@@ -348,13 +320,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30561"
         },
         {
-          "title": "OBSESSION",
-          "showtimes": [
-            "2026-08-15T20:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30562"
-        },
-        {
           "title": "IRREVERSIBLE",
           "showtimes": [
             "2026-08-15T22:30:00-04:00"
@@ -395,13 +360,6 @@
             "2026-08-16T15:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30569"
-        },
-        {
-          "title": "PARANOID PARK",
-          "showtimes": [
-            "2026-08-16T15:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30576"
         },
         {
           "title": "THERE ONCE WAS A SINGING BLACKBIRD",
@@ -448,8 +406,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-15T12:00:00-04:00",
-            "2026-08-15T14:20:00-04:00",
             "2026-08-15T18:45:00-04:00",
             "2026-08-16T15:00:00-04:00",
             "2026-08-16T19:30:00-04:00"
@@ -459,7 +415,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-15T12:50:00-04:00",
             "2026-08-15T15:50:00-04:00",
             "2026-08-15T19:10:00-04:00",
             "2026-08-15T21:50:00-04:00",
@@ -473,7 +428,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-15T11:45:00-04:00",
             "2026-08-15T17:45:00-04:00",
             "2026-08-15T19:45:00-04:00",
             "2026-08-15T21:45:00-04:00",
@@ -486,7 +440,6 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-15T15:00:00-04:00",
             "2026-08-15T18:30:00-04:00",
             "2026-08-16T15:30:00-04:00",
             "2026-08-16T19:00:00-04:00"
@@ -496,8 +449,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-15T11:30:00-04:00",
-            "2026-08-15T14:00:00-04:00",
             "2026-08-15T21:05:00-04:00",
             "2026-08-16T12:00:00-04:00",
             "2026-08-16T14:00:00-04:00"
@@ -524,14 +475,13 @@
         {
           "title": "Freefall: A Reckoning for Boeing",
           "showtimes": [
-            "2026-08-15T16:30:00-04:00",
             "2026-08-15T19:00:00-04:00",
             "2026-08-15T21:30:00-04:00",
             "2026-08-16T15:30:00-04:00",
             "2026-08-16T18:00:00-04:00",
             "2026-08-16T20:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2990/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2989/seats"
         },
         {
           "title": "A Clockwork Orange",
