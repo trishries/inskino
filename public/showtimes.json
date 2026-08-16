@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-08-16T15:19:24-04:00",
+  "lastUpdated": "2026-08-16T19:14:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE WIND BLOWS UNDER YOUR FEET",
-          "showtimes": [
-            "2026-08-16T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5574?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "BEHIND MY EYES",
-          "showtimes": [
-            "2026-08-16T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5577?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "SODA POP JOE",
-          "showtimes": [
-            "2026-08-16T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5575?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "COMANDANTE FRITZ",
-          "showtimes": [
-            "2026-08-16T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5578?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "TIME TO DIE",
           "showtimes": [
@@ -391,7 +363,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-16T15:00:00-04:00",
             "2026-08-16T19:30:00-04:00",
             "2026-08-17T16:15:00-04:00",
             "2026-08-17T17:45:00-04:00"
@@ -401,8 +372,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-16T11:35:00-04:00",
-            "2026-08-16T14:20:00-04:00",
             "2026-08-16T17:05:00-04:00",
             "2026-08-16T19:50:00-04:00",
             "2026-08-17T11:35:00-04:00",
@@ -415,7 +384,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-16T11:45:00-04:00",
             "2026-08-16T17:45:00-04:00",
             "2026-08-16T19:45:00-04:00",
             "2026-08-17T13:45:00-04:00",
@@ -435,18 +403,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-16"
         },
         {
-          "title": "THE ODYSSEY (DIGITAL SCREENING)",
-          "showtimes": [
-            "2026-08-16T12:00:00-04:00",
-            "2026-08-16T14:00:00-04:00",
-            "2026-08-17T12:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-16"
-        },
-        {
           "title": "OLMO",
           "showtimes": [
-            "2026-08-16T13:00:00-04:00",
             "2026-08-16T17:30:00-04:00",
             "2026-08-17T11:45:00-04:00",
             "2026-08-17T14:30:00-04:00"
@@ -466,6 +424,13 @@
             "2026-08-17T19:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-17"
+        },
+        {
+          "title": "THE ODYSSEY (DIGITAL SCREENING)",
+          "showtimes": [
+            "2026-08-17T12:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-17"
         }
       ]
     },
@@ -477,11 +442,9 @@
         {
           "title": "Freefall: A Reckoning for Boeing",
           "showtimes": [
-            "2026-08-16T15:30:00-04:00",
-            "2026-08-16T18:00:00-04:00",
             "2026-08-16T20:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2994/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2993/seats"
         }
       ]
     },
