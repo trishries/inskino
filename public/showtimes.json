@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T07:11:26-04:00",
+  "lastUpdated": "2026-08-16T11:28:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -284,6 +284,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30569"
         },
         {
+          "title": "PARANOID PARK",
+          "showtimes": [
+            "2026-08-16T15:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30576"
+        },
+        {
           "title": "THERE ONCE WAS A SINGING BLACKBIRD",
           "showtimes": [
             "2026-08-16T17:00:00-04:00"
@@ -303,6 +310,13 @@
             "2026-08-16T19:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30571"
+        },
+        {
+          "title": "LES BONNES FEMMES",
+          "showtimes": [
+            "2026-08-16T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30574"
         },
         {
           "title": "CHUNGKING EXPRESS",
