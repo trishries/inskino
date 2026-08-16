@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T11:28:06-04:00",
+  "lastUpdated": "2026-08-16T15:19:24-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -474,13 +474,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "A Clockwork Orange",
-          "showtimes": [
-            "2026-08-16T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2948/seats"
-        },
         {
           "title": "Freefall: A Reckoning for Boeing",
           "showtimes": [
