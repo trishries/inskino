@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T11:31:43-04:00",
+  "lastUpdated": "2026-08-17T15:25:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -225,13 +225,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "3 WOMEN",
-          "showtimes": [
-            "2026-08-17T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30705"
-        },
-        {
           "title": "MY LITTLE LOVES",
           "showtimes": [
             "2026-08-17T15:10:00-04:00"
@@ -244,13 +237,6 @@
             "2026-08-17T17:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30706"
-        },
-        {
-          "title": "L'ARGENT",
-          "showtimes": [
-            "2026-08-17T17:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30711"
         },
         {
           "title": "JACOB'S LADDER",
