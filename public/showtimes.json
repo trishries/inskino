@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T07:16:21-04:00",
+  "lastUpdated": "2026-08-19T11:37:45-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -267,6 +267,13 @@
             "2026-08-19T18:10:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30723"
+        },
+        {
+          "title": "JFK",
+          "showtimes": [
+            "2026-08-19T18:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30724"
         },
         {
           "title": "LA HAINE",
