@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-08-19T15:22:21-04:00",
+  "lastUpdated": "2026-08-19T19:18:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "A GIRL IS A GUN",
-          "showtimes": [
-            "2026-08-19T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5581?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "FUTURE FUTURE",
-          "showtimes": [
-            "2026-08-19T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5583?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "DEADLOCK",
           "showtimes": [
@@ -248,27 +234,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "WHITE MATERIAL",
-          "showtimes": [
-            "2026-08-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30721"
-        },
-        {
-          "title": "DRUNKEN MASTER II",
-          "showtimes": [
-            "2026-08-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30722"
-        },
-        {
-          "title": "SHOLAY",
-          "showtimes": [
-            "2026-08-19T18:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30723"
-        },
-        {
           "title": "LA HAINE",
           "showtimes": [
             "2026-08-19T22:00:00-04:00"
@@ -295,13 +260,6 @@
             "2026-08-20T16:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30727"
-        },
-        {
-          "title": "PARANOID PARK",
-          "showtimes": [
-            "2026-08-20T18:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30732"
         },
         {
           "title": "REBECCA",
@@ -357,16 +315,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-19"
         },
         {
-          "title": "GREEN BORDER",
-          "showtimes": [
-            "2026-08-19T12:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-19"
-        },
-        {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-19T11:35:00-04:00",
             "2026-08-19T14:20:00-04:00",
             "2026-08-19T17:05:00-04:00",
             "2026-08-19T19:50:00-04:00",
@@ -380,7 +330,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-19T13:45:00-04:00",
             "2026-08-19T15:45:00-04:00",
             "2026-08-19T20:00:00-04:00",
             "2026-08-20T11:45:00-04:00",
@@ -411,19 +360,17 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-19T12:00:00-04:00",
             "2026-08-20T12:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-19"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-20"
         },
         {
           "title": "OLMO",
           "showtimes": [
-            "2026-08-19T11:45:00-04:00",
             "2026-08-20T12:30:00-04:00",
             "2026-08-20T16:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-19"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-20"
         }
       ]
     },
