@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-08-20T15:28:48-04:00",
+  "lastUpdated": "2026-08-20T19:20:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Joseph Cornell",
-          "showtimes": [
-            "2026-08-20T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5584?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE WIND BLOWS UNDER YOUR FEET",
-          "showtimes": [
-            "2026-08-20T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5586?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Conner / Conrad",
           "showtimes": [
@@ -425,7 +411,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-20T14:15:00-04:00",
             "2026-08-20T18:20:00-04:00",
             "2026-08-21T14:30:00-04:00",
             "2026-08-21T18:45:00-04:00"
@@ -442,7 +427,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-20T14:20:00-04:00",
             "2026-08-20T17:05:00-04:00",
             "2026-08-20T19:50:00-04:00",
             "2026-08-21T12:30:00-04:00",
@@ -454,8 +438,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-20T13:45:00-04:00",
-            "2026-08-20T15:45:00-04:00",
             "2026-08-20T17:45:00-04:00",
             "2026-08-20T19:45:00-04:00",
             "2026-08-21T12:05:00-04:00",
@@ -467,26 +449,8 @@
         {
           "title": "THE ODYSSEY (35MM SCREENING)",
           "showtimes": [
-            "2026-08-20T15:30:00-04:00",
             "2026-08-20T19:00:00-04:00",
             "2026-08-21T19:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-20"
-        },
-        {
-          "title": "THE ODYSSEY (DIGITAL SCREENING)",
-          "showtimes": [
-            "2026-08-20T12:00:00-04:00",
-            "2026-08-21T12:15:00-04:00",
-            "2026-08-21T15:45:00-04:00",
-            "2026-08-21T20:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-20"
-        },
-        {
-          "title": "OLMO",
-          "showtimes": [
-            "2026-08-20T16:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-20"
         },
@@ -498,6 +462,15 @@
             "2026-08-21T16:30:00-04:00",
             "2026-08-21T19:00:00-04:00",
             "2026-08-21T21:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-21"
+        },
+        {
+          "title": "THE ODYSSEY (DIGITAL SCREENING)",
+          "showtimes": [
+            "2026-08-21T12:15:00-04:00",
+            "2026-08-21T15:45:00-04:00",
+            "2026-08-21T20:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-21"
         }
