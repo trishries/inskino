@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T11:39:51-04:00",
+  "lastUpdated": "2026-08-20T15:28:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -40,13 +40,6 @@
             "2026-08-21T19:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5588?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "Narrow Rooms: STRANGERS ON A TRAIN",
-          "showtimes": [
-            "2026-08-21T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5590?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "WHITE SUN OF THE DESERT",
@@ -332,13 +325,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30727"
         },
         {
-          "title": "PARANOID PARK",
-          "showtimes": [
-            "2026-08-20T18:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30732"
-        },
-        {
           "title": "REBECCA",
           "showtimes": [
             "2026-08-20T19:15:00-04:00"
@@ -402,13 +388,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30579"
         },
         {
-          "title": "LA NOTTE",
-          "showtimes": [
-            "2026-08-21T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30584"
-        },
-        {
           "title": "WHAT LIES BENEATH",
           "showtimes": [
             "2026-08-21T20:15:00-04:00"
@@ -463,7 +442,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-20T11:35:00-04:00",
             "2026-08-20T14:20:00-04:00",
             "2026-08-20T17:05:00-04:00",
             "2026-08-20T19:50:00-04:00",
@@ -476,7 +454,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-20T11:45:00-04:00",
             "2026-08-20T13:45:00-04:00",
             "2026-08-20T15:45:00-04:00",
             "2026-08-20T17:45:00-04:00",
@@ -509,7 +486,6 @@
         {
           "title": "OLMO",
           "showtimes": [
-            "2026-08-20T12:30:00-04:00",
             "2026-08-20T16:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-20"
