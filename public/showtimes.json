@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T07:18:02-04:00",
+  "lastUpdated": "2026-08-20T11:39:51-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -332,6 +332,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30727"
         },
         {
+          "title": "PARANOID PARK",
+          "showtimes": [
+            "2026-08-20T18:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30732"
+        },
+        {
           "title": "REBECCA",
           "showtimes": [
             "2026-08-20T19:15:00-04:00"
@@ -393,6 +400,13 @@
             "2026-08-21T17:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30579"
+        },
+        {
+          "title": "LA NOTTE",
+          "showtimes": [
+            "2026-08-21T17:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30584"
         },
         {
           "title": "WHAT LIES BENEATH",
