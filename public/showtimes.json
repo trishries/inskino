@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T11:40:19-04:00",
+  "lastUpdated": "2026-08-21T15:23:58-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -352,6 +352,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30577"
         },
         {
+          "title": "WITHNAIL AND I",
+          "showtimes": [
+            "2026-08-21T13:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30582"
+        },
+        {
           "title": "IN THE MOOD FOR LOVE",
           "showtimes": [
             "2026-08-21T15:00:00-04:00"
@@ -375,7 +382,8 @@
         {
           "title": "WHAT LIES BENEATH",
           "showtimes": [
-            "2026-08-21T20:15:00-04:00"
+            "2026-08-21T20:15:00-04:00",
+            "2026-08-22T19:50:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30585"
         },
@@ -527,13 +535,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Back to the Future",
-          "showtimes": [
-            "2026-08-21T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2855/seats"
-        },
         {
           "title": "Speed Racer",
           "showtimes": [
