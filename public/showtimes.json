@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T07:17:15-04:00",
+  "lastUpdated": "2026-08-21T11:40:19-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -375,8 +375,7 @@
         {
           "title": "WHAT LIES BENEATH",
           "showtimes": [
-            "2026-08-21T20:15:00-04:00",
-            "2026-08-22T19:50:00-04:00"
+            "2026-08-21T20:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30585"
         },
