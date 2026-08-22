@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T01:37:53-04:00",
+  "lastUpdated": "2026-08-22T07:12:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -386,13 +386,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30593"
         },
         {
-          "title": "WHAT LIES BENEATH",
-          "showtimes": [
-            "2026-08-22T19:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30589"
-        },
-        {
           "title": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
           "showtimes": [
             "2026-08-22T22:30:00-04:00"
@@ -433,13 +426,6 @@
             "2026-08-23T14:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30602"
-        },
-        {
-          "title": "WITHNAIL AND I",
-          "showtimes": [
-            "2026-08-23T16:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30603"
         },
         {
           "title": "PASTORALE",
