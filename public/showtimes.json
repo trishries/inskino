@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T11:27:56-04:00",
+  "lastUpdated": "2026-08-22T15:20:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -537,20 +537,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Alice in Wonderland (1951)",
-          "showtimes": [
-            "2026-08-22T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2858/seats"
-        },
-        {
-          "title": "Lawrence of Arabia",
-          "showtimes": [
-            "2026-08-22T13:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2859/seats"
-        },
         {
           "title": "Aliens",
           "showtimes": [
