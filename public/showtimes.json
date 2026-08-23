@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T11:28:51-04:00",
+  "lastUpdated": "2026-08-23T15:20:25-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -471,7 +471,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-23T12:05:00-04:00",
             "2026-08-23T14:35:00-04:00",
             "2026-08-23T17:20:00-04:00",
             "2026-08-24T12:05:00-04:00",
@@ -505,20 +504,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Barbie",
-          "showtimes": [
-            "2026-08-23T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2863/seats"
-        },
-        {
-          "title": "Aliens",
-          "showtimes": [
-            "2026-08-23T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2967/seats"
-        },
         {
           "title": "2001: A Space Odyssey",
           "showtimes": [
