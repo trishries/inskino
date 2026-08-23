@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-08-23T15:20:25-04:00",
+  "lastUpdated": "2026-08-23T19:15:42-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "APACHES",
-          "showtimes": [
-            "2026-08-23T15:45:00-04:00",
-            "2026-08-24T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5596?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "NO MORE EXCUSES",
-          "showtimes": [
-            "2026-08-23T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5599?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MAD DOG MORGAN",
-          "showtimes": [
-            "2026-08-23T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5597?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "ABEL RAISES CAIN",
           "showtimes": [
@@ -48,6 +26,13 @@
             "2026-08-24T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5601?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "APACHES",
+          "showtimes": [
+            "2026-08-24T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5602?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -435,7 +420,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-23T12:30:00-04:00",
             "2026-08-23T19:20:00-04:00",
             "2026-08-24T12:30:00-04:00",
             "2026-08-24T19:20:00-04:00"
@@ -445,7 +429,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-23T12:00:00-04:00",
             "2026-08-23T14:45:00-04:00",
             "2026-08-23T16:35:00-04:00",
             "2026-08-23T19:10:00-04:00",
@@ -459,7 +442,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-23T14:00:00-04:00",
             "2026-08-23T16:45:00-04:00",
             "2026-08-23T19:30:00-04:00",
             "2026-08-24T14:00:00-04:00",
@@ -471,7 +453,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-23T14:35:00-04:00",
             "2026-08-23T17:20:00-04:00",
             "2026-08-24T12:05:00-04:00",
             "2026-08-24T14:35:00-04:00",
@@ -490,7 +471,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-23T12:20:00-04:00",
             "2026-08-23T15:40:00-04:00",
             "2026-08-24T12:20:00-04:00",
             "2026-08-24T15:40:00-04:00"
@@ -504,13 +484,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "2001: A Space Odyssey",
-          "showtimes": [
-            "2026-08-23T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2865/seats"
-        },
         {
           "title": "Panic Room",
           "showtimes": [
