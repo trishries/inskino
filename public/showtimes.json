@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T01:39:42-04:00",
+  "lastUpdated": "2026-08-23T07:12:30-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -307,13 +307,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30595"
         },
         {
-          "title": "THE JUNGLE BOOK",
-          "showtimes": [
-            "2026-08-23T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30600"
-        },
-        {
           "title": "WHEN MARNIE WAS THERE",
           "showtimes": [
             "2026-08-23T12:40:00-04:00"
@@ -328,13 +321,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30596"
         },
         {
-          "title": "PETITE MAMAN",
-          "showtimes": [
-            "2026-08-23T14:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30602"
-        },
-        {
           "title": "PASTORALE",
           "showtimes": [
             "2026-08-23T16:30:00-04:00"
@@ -347,13 +333,6 @@
             "2026-08-23T18:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30598"
-        },
-        {
-          "title": "CHASING BUTTERFLIES",
-          "showtimes": [
-            "2026-08-23T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30604"
         },
         {
           "title": "IN MY SKIN",
