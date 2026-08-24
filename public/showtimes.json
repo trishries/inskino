@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T11:46:20-04:00",
+  "lastUpdated": "2026-08-24T15:27:05-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -129,7 +129,7 @@
             "2026-08-24T15:55:00-04:00",
             "2026-08-24T19:05:00-04:00",
             "2026-08-24T21:20:00-04:00",
-            "2026-08-25T11:55:00-04:00",
+            "2026-08-25T11:35:00-04:00",
             "2026-08-25T13:50:00-04:00",
             "2026-08-25T16:05:00-04:00",
             "2026-08-25T18:30:00-04:00",
@@ -305,13 +305,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30737"
         },
         {
-          "title": "THERE ONCE WAS A SINGING BLACKBIRD",
-          "showtimes": [
-            "2026-08-24T19:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30739"
-        },
-        {
           "title": "HOUSE",
           "showtimes": [
             "2026-08-24T19:45:00-04:00"
@@ -377,7 +370,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-24T12:05:00-04:00",
             "2026-08-24T14:35:00-04:00",
             "2026-08-24T17:20:00-04:00",
             "2026-08-25T11:40:00-04:00",
