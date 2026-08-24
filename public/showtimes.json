@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-08-24T15:27:05-04:00",
+  "lastUpdated": "2026-08-24T19:18:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "A GIRL IS A GUN",
-          "showtimes": [
-            "2026-08-24T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5601?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "APACHES",
           "showtimes": [
@@ -305,6 +298,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30737"
         },
         {
+          "title": "THERE ONCE WAS A SINGING BLACKBIRD",
+          "showtimes": [
+            "2026-08-24T19:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30739"
+        },
+        {
           "title": "HOUSE",
           "showtimes": [
             "2026-08-24T19:45:00-04:00"
@@ -335,7 +335,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-24T12:30:00-04:00",
             "2026-08-24T19:20:00-04:00",
             "2026-08-25T15:15:00-04:00",
             "2026-08-25T19:10:00-04:00"
@@ -345,8 +344,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-24T12:00:00-04:00",
-            "2026-08-24T14:45:00-04:00",
             "2026-08-24T16:35:00-04:00",
             "2026-08-24T19:10:00-04:00",
             "2026-08-25T11:50:00-04:00",
@@ -359,7 +356,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-24T14:00:00-04:00",
             "2026-08-24T16:45:00-04:00",
             "2026-08-24T19:30:00-04:00",
             "2026-08-25T13:40:00-04:00",
@@ -370,7 +366,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-24T14:35:00-04:00",
             "2026-08-24T17:20:00-04:00",
             "2026-08-25T11:40:00-04:00",
             "2026-08-25T17:30:00-04:00"
@@ -388,7 +383,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-24T12:20:00-04:00",
             "2026-08-24T15:40:00-04:00",
             "2026-08-25T12:20:00-04:00",
             "2026-08-25T15:40:00-04:00"
