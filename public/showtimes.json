@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T11:50:31-04:00",
+  "lastUpdated": "2026-08-25T15:29:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -354,7 +354,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-25T11:50:00-04:00",
             "2026-08-25T14:20:00-04:00",
             "2026-08-25T16:50:00-04:00",
             "2026-08-25T19:20:00-04:00",
@@ -378,7 +377,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-25T11:40:00-04:00",
             "2026-08-25T17:30:00-04:00",
             "2026-08-26T12:05:00-04:00",
             "2026-08-26T14:35:00-04:00"
@@ -417,13 +415,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Fight Club ",
-          "showtimes": [
-            "2026-08-25T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2867/seats"
-        },
         {
           "title": "Die Hard",
           "showtimes": [
