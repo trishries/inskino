@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-08-25T15:29:31-04:00",
+  "lastUpdated": "2026-08-25T19:20:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MAD DOG MORGAN",
-          "showtimes": [
-            "2026-08-25T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5603?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "DEADLOCK",
           "showtimes": [
@@ -64,7 +57,7 @@
             "2026-08-25T21:30:00-04:00",
             "2026-08-26T12:35:00-04:00",
             "2026-08-26T14:40:00-04:00",
-            "2026-08-26T16:50:00-04:00",
+            "2026-08-26T16:40:00-04:00",
             "2026-08-26T19:10:00-04:00",
             "2026-08-26T21:30:00-04:00"
           ],
@@ -336,7 +329,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-25T15:15:00-04:00",
             "2026-08-25T19:10:00-04:00",
             "2026-08-26T11:55:00-04:00",
             "2026-08-26T16:40:00-04:00"
@@ -354,7 +346,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-25T14:20:00-04:00",
             "2026-08-25T16:50:00-04:00",
             "2026-08-25T19:20:00-04:00",
             "2026-08-26T12:00:00-04:00",
@@ -367,7 +358,6 @@
         {
           "title": "GYPSY 83: THE DIRECTOR’S CUT",
           "showtimes": [
-            "2026-08-25T13:40:00-04:00",
             "2026-08-25T16:25:00-04:00",
             "2026-08-26T14:00:00-04:00",
             "2026-08-26T16:45:00-04:00"
@@ -394,7 +384,6 @@
         {
           "title": "THE ODYSSEY (DIGITAL SCREENING)",
           "showtimes": [
-            "2026-08-25T12:20:00-04:00",
             "2026-08-25T15:40:00-04:00",
             "2026-08-26T12:10:00-04:00",
             "2026-08-26T15:30:00-04:00"
@@ -415,13 +404,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Die Hard",
-          "showtimes": [
-            "2026-08-25T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2868/seats"
-        },
         {
           "title": "MICHAEL MANN’S MANHUNTER: THE FINAL CUT ",
           "showtimes": [
