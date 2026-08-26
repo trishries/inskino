@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T12:23:21-04:00",
+  "lastUpdated": "2026-08-26T17:39:17-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -99,6 +99,7 @@
             "2026-08-26T12:10:00-04:00",
             "2026-08-26T14:10:00-04:00",
             "2026-08-26T21:25:00-04:00",
+            "2026-08-27T11:00:00-04:00",
             "2026-08-27T13:00:00-04:00",
             "2026-08-27T19:15:00-04:00",
             "2026-08-27T21:45:00-04:00"
@@ -225,14 +226,14 @@
           "showtimes": [
             "2026-08-26T14:45:00-04:00"
           ],
-          "ticketUrl": "https://filmforum.org/now-playing"
+          "ticketUrl": "https://my.filmforum.org/events/the-godfather-part-ii-coppola"
         },
         {
           "title": "YOU'RE A BIG BOY NOW",
           "showtimes": [
             "2026-08-26T18:45:00-04:00"
           ],
-          "ticketUrl": "https://my.filmforum.org/events/youre-a-big-boy-now-coppola-coppola"
+          "ticketUrl": "https://my.filmforum.org/events/youre-a-big-boy-now-coppola"
         },
         {
           "title": "PEGGY SUE GOT MARRIED",
@@ -278,18 +279,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "GIRLHOOD",
-          "showtimes": [
-            "2026-08-26T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30744"
-        },
-        {
           "title": "LA NOTTE",
           "showtimes": [
             "2026-08-26T14:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30743"
+        },
+        {
+          "title": "GIRLHOOD",
+          "showtimes": [
+            "2026-08-26T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30744"
         },
         {
           "title": "LES BONNES FEMMES",
@@ -318,6 +319,13 @@
             "2026-08-26T18:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30746"
+        },
+        {
+          "title": "JE TU IL ELLE",
+          "showtimes": [
+            "2026-08-26T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30749"
         },
         {
           "title": "SOLARIS",
@@ -399,7 +407,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-26T11:55:00-04:00",
             "2026-08-26T16:40:00-04:00",
             "2026-08-27T12:30:00-04:00",
             "2026-08-27T19:20:00-04:00"
@@ -424,7 +431,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-26T12:00:00-04:00",
             "2026-08-26T14:10:00-04:00",
             "2026-08-26T16:35:00-04:00",
             "2026-08-26T19:10:00-04:00",
@@ -448,7 +454,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-26T12:05:00-04:00",
             "2026-08-26T14:35:00-04:00",
             "2026-08-27T12:05:00-04:00",
             "2026-08-27T14:35:00-04:00",
@@ -481,20 +486,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Speed Racer",
-          "showtimes": [
-            "2026-08-26T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2871/seats"
-        },
-        {
-          "title": "Panic Room",
-          "showtimes": [
-            "2026-08-26T15:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2872/seats"
-        },
         {
           "title": "Babylon",
           "showtimes": [
