@@ -1,26 +1,11 @@
 {
-  "lastUpdated": "2026-08-28T17:17:04-04:00",
+  "lastUpdated": "2026-08-28T19:58:49-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MEEK’S CUTOFF",
-          "showtimes": [
-            "2026-08-28T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5611?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "GANZ & STREETER PGM 1: NEW DISCOVERIES",
-          "showtimes": [
-            "2026-08-28T19:30:00-04:00",
-            "2026-08-29T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5613?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "STRAIGHT TO HELL (director’s cut)",
           "showtimes": [
@@ -49,6 +34,13 @@
             "2026-08-29T18:15:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5615?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "GANZ & STREETER PGM 1: NEW DISCOVERIES",
+          "showtimes": [
+            "2026-08-29T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5618?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -431,13 +423,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30650"
         },
         {
-          "title": "MULHOLLAND DRIVE [35MM]",
-          "showtimes": [
-            "2026-08-29T22:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30651"
-        },
-        {
           "title": "TRUE ROMANCE",
           "showtimes": [
             "2026-08-29T22:45:00-04:00"
@@ -454,8 +439,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-28T14:25:00-04:00",
-            "2026-08-28T16:40:00-04:00",
             "2026-08-28T18:55:00-04:00",
             "2026-08-28T21:10:00-04:00",
             "2026-08-29T12:10:00-04:00",
@@ -467,8 +450,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-08-28T14:35:00-04:00",
-            "2026-08-28T16:50:00-04:00",
             "2026-08-28T18:45:00-04:00",
             "2026-08-28T21:00:00-04:00",
             "2026-08-29T12:20:00-04:00",
@@ -482,7 +463,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-28T15:50:00-04:00",
             "2026-08-28T18:20:00-04:00",
             "2026-08-28T20:50:00-04:00",
             "2026-08-29T12:15:00-04:00",
@@ -496,8 +476,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-28T14:45:00-04:00",
-            "2026-08-28T16:45:00-04:00",
             "2026-08-28T19:05:00-04:00",
             "2026-08-28T21:15:00-04:00",
             "2026-08-29T14:45:00-04:00",
@@ -522,13 +500,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Boogie Nights",
-          "showtimes": [
-            "2026-08-28T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2881/seats"
-        },
         {
           "title": "Mad Max: Fury Road",
           "showtimes": [
