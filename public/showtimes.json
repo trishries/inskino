@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T02:28:11-04:00",
+  "lastUpdated": "2026-08-28T13:23:49-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -561,13 +561,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Die Hard",
-          "showtimes": [
-            "2026-08-28T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2879/seats"
-        },
         {
           "title": "Heat",
           "showtimes": [
