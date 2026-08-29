@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-08-29T14:18:05-04:00",
+  "lastUpdated": "2026-08-29T17:30:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE BALLAD OF LITTLE JO",
-          "showtimes": [
-            "2026-08-29T15:30:00-04:00",
-            "2026-08-30T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5614?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "GANZ & STREETER PGM 2: ENCORE SCREENINGS",
           "showtimes": [
@@ -51,6 +43,13 @@
             "2026-08-30T15:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5619?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "THE BALLAD OF LITTLE JO",
+          "showtimes": [
+            "2026-08-30T17:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5620?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -449,8 +448,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-29T12:10:00-04:00",
-            "2026-08-29T14:25:00-04:00",
             "2026-08-29T16:40:00-04:00",
             "2026-08-30T12:00:00-04:00",
             "2026-08-30T14:15:00-04:00",
@@ -462,7 +459,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-08-29T12:20:00-04:00",
             "2026-08-29T14:35:00-04:00",
             "2026-08-29T16:50:00-04:00",
             "2026-08-29T18:45:00-04:00",
@@ -477,8 +473,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-29T12:15:00-04:00",
-            "2026-08-29T13:15:00-04:00",
             "2026-08-29T15:45:00-04:00",
             "2026-08-29T18:15:00-04:00",
             "2026-08-29T20:45:00-04:00",
@@ -518,13 +512,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Kill Bill: The Whole Bloody Affair",
-          "showtimes": [
-            "2026-08-29T15:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2884/seats"
-        },
         {
           "title": "Heat",
           "showtimes": [
