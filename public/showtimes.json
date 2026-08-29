@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T11:22:45-04:00",
+  "lastUpdated": "2026-08-29T14:18:05-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -518,13 +518,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Back to the Future",
-          "showtimes": [
-            "2026-08-29T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2883/seats"
-        },
         {
           "title": "Kill Bill: The Whole Bloody Affair",
           "showtimes": [
