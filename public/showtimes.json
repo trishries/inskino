@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T06:27:17-04:00",
+  "lastUpdated": "2026-08-30T11:06:55-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -349,14 +349,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30659"
         },
         {
-          "title": "DER FAN",
-          "showtimes": [
-            "2026-08-30T15:15:00-04:00",
-            "2026-08-31T21:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30665"
-        },
-        {
           "title": "EVE'S BAYOU",
           "showtimes": [
             "2026-08-30T17:15:00-04:00"
@@ -418,6 +410,13 @@
             "2026-08-31T21:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30863"
+        },
+        {
+          "title": "DER FAN",
+          "showtimes": [
+            "2026-08-31T21:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30862"
         }
       ]
     },
