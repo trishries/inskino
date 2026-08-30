@@ -1,42 +1,11 @@
 {
-  "lastUpdated": "2026-08-29T17:30:06-04:00",
+  "lastUpdated": "2026-08-29T20:58:19-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "GANZ & STREETER PGM 2: ENCORE SCREENINGS",
-          "showtimes": [
-            "2026-08-29T18:00:00-04:00",
-            "2026-08-30T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5617?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "DEAD MAN",
-          "showtimes": [
-            "2026-08-29T18:15:00-04:00",
-            "2026-08-30T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5615?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "GANZ & STREETER PGM 1: NEW DISCOVERIES",
-          "showtimes": [
-            "2026-08-29T20:00:00-04:00",
-            "2026-08-30T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5618?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "STRAIGHT TO HELL (director’s cut)",
-          "showtimes": [
-            "2026-08-29T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5616?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "SEARCHERS",
           "showtimes": [
@@ -50,6 +19,27 @@
             "2026-08-30T17:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5620?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "GANZ & STREETER PGM 2: ENCORE SCREENINGS",
+          "showtimes": [
+            "2026-08-30T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5622?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "GANZ & STREETER PGM 1: NEW DISCOVERIES",
+          "showtimes": [
+            "2026-08-30T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5623?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "DEAD MAN",
+          "showtimes": [
+            "2026-08-30T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5621?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -337,35 +327,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "OLD JOY",
-          "showtimes": [
-            "2026-08-29T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30646"
-        },
-        {
-          "title": "PETITE MAMAN",
-          "showtimes": [
-            "2026-08-29T11:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30652"
-        },
-        {
-          "title": "STAND BY ME",
-          "showtimes": [
-            "2026-08-29T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30648"
-        },
-        {
-          "title": "IN MY SKIN",
-          "showtimes": [
-            "2026-08-29T15:50:00-04:00",
-            "2026-08-30T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30654"
-        },
-        {
           "title": "2046",
           "showtimes": [
             "2026-08-29T17:40:00-04:00",
@@ -387,14 +348,6 @@
             "2026-08-29T20:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30650"
-        },
-        {
-          "title": "DER FAN",
-          "showtimes": [
-            "2026-08-29T20:30:00-04:00",
-            "2026-08-30T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30656"
         },
         {
           "title": "TRUE ROMANCE",
@@ -432,11 +385,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30666"
         },
         {
+          "title": "JENNIFER'S BODY",
+          "showtimes": [
+            "2026-08-30T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30667"
+        },
+        {
           "title": "AFTER HOURS",
           "showtimes": [
             "2026-08-30T21:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30662"
+        },
+        {
+          "title": "IN MY SKIN",
+          "showtimes": [
+            "2026-08-30T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30668"
         }
       ]
     },
@@ -446,21 +413,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "A SAD AND BEAUTIFUL WORLD",
-          "showtimes": [
-            "2026-08-29T16:40:00-04:00",
-            "2026-08-30T12:00:00-04:00",
-            "2026-08-30T14:15:00-04:00",
-            "2026-08-30T17:00:00-04:00",
-            "2026-08-30T19:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-29"
-        },
-        {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-08-29T14:35:00-04:00",
-            "2026-08-29T16:50:00-04:00",
             "2026-08-29T18:45:00-04:00",
             "2026-08-29T21:00:00-04:00",
             "2026-08-30T12:30:00-04:00",
@@ -473,7 +427,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-29T15:45:00-04:00",
             "2026-08-29T18:15:00-04:00",
             "2026-08-29T20:45:00-04:00",
             "2026-08-30T11:55:00-04:00",
@@ -486,8 +439,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-29T14:45:00-04:00",
-            "2026-08-29T16:45:00-04:00",
             "2026-08-29T19:05:00-04:00",
             "2026-08-29T21:15:00-04:00",
             "2026-08-30T12:40:00-04:00",
@@ -504,6 +455,16 @@
             "2026-08-29T21:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-29"
+        },
+        {
+          "title": "A SAD AND BEAUTIFUL WORLD",
+          "showtimes": [
+            "2026-08-30T12:00:00-04:00",
+            "2026-08-30T14:15:00-04:00",
+            "2026-08-30T17:00:00-04:00",
+            "2026-08-30T19:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-08-30"
         }
       ]
     },
