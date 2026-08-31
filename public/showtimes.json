@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T13:46:02-04:00",
+  "lastUpdated": "2026-08-31T16:44:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -399,7 +399,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-31T12:20:00-04:00",
             "2026-08-31T14:40:00-04:00",
             "2026-08-31T17:00:00-04:00",
             "2026-08-31T19:20:00-04:00",
@@ -413,7 +412,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-08-31T12:10:00-04:00",
             "2026-08-31T14:30:00-04:00",
             "2026-08-31T16:50:00-04:00",
             "2026-08-31T19:10:00-04:00",
@@ -427,7 +425,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-31T12:25:00-04:00",
             "2026-08-31T14:35:00-04:00",
             "2026-08-31T16:55:00-04:00",
             "2026-08-31T19:00:00-04:00",
@@ -441,7 +438,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-31T12:40:00-04:00",
             "2026-08-31T14:55:00-04:00",
             "2026-08-31T17:05:00-04:00",
             "2026-08-31T19:30:00-04:00",
@@ -465,13 +461,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Fight Club ",
-          "showtimes": [
-            "2026-08-31T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2890/seats"
-        },
         {
           "title": "Morvern Callar",
           "showtimes": [
