@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T17:50:04-04:00",
+  "lastUpdated": "2026-08-30T21:02:40-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,27 +7,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "GANZ & STREETER PGM 2: ENCORE SCREENINGS",
-          "showtimes": [
-            "2026-08-30T18:00:00-04:00",
-            "2026-08-31T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5622?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "GANZ & STREETER PGM 1: NEW DISCOVERIES",
           "showtimes": [
-            "2026-08-30T20:00:00-04:00",
             "2026-08-31T18:30:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5623?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "DEAD MAN",
-          "showtimes": [
-            "2026-08-30T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5621?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5624?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "STRAIGHT TO HELL (director’s cut)",
@@ -35,6 +19,13 @@
             "2026-08-31T18:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5626?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "GANZ & STREETER PGM 2: ENCORE SCREENINGS",
+          "showtimes": [
+            "2026-08-31T20:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5625?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "MEEK’S CUTOFF",
@@ -307,6 +298,20 @@
       "status": "ok",
       "films": [
         {
+          "title": "LADY IN THE WATER",
+          "showtimes": [
+            "2026-08-30T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30664"
+        },
+        {
+          "title": "BRAM STOKER'S DRACULA",
+          "showtimes": [
+            "2026-08-30T13:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30659"
+        },
+        {
           "title": "EVE'S BAYOU",
           "showtimes": [
             "2026-08-30T17:15:00-04:00"
@@ -319,6 +324,13 @@
             "2026-08-30T19:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30661"
+        },
+        {
+          "title": "JENNIFER'S BODY",
+          "showtimes": [
+            "2026-08-30T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30667"
         },
         {
           "title": "AFTER HOURS",
@@ -386,7 +398,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-08-30T17:00:00-04:00",
             "2026-08-30T19:20:00-04:00",
             "2026-08-31T12:20:00-04:00",
             "2026-08-31T14:40:00-04:00",
@@ -398,8 +409,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-08-30T14:50:00-04:00",
-            "2026-08-30T17:10:00-04:00",
             "2026-08-30T18:45:00-04:00",
             "2026-08-31T12:10:00-04:00",
             "2026-08-31T14:30:00-04:00",
@@ -411,8 +420,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-08-30T14:30:00-04:00",
-            "2026-08-30T16:30:00-04:00",
             "2026-08-30T19:00:00-04:00",
             "2026-08-31T12:25:00-04:00",
             "2026-08-31T14:35:00-04:00",
@@ -424,7 +431,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-08-30T16:40:00-04:00",
             "2026-08-30T19:30:00-04:00",
             "2026-08-31T12:40:00-04:00",
             "2026-08-31T14:55:00-04:00",
