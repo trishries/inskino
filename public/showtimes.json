@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T06:00:46-04:00",
+  "lastUpdated": "2026-09-01T11:18:51-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -96,17 +96,6 @@
             "2026-09-02T11:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576494~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MYSTERIOUS SKIN",
-          "showtimes": [
-            "2026-09-01T12:35:00-04:00",
-            "2026-09-01T16:05:00-04:00",
-            "2026-09-01T21:35:00-04:00",
-            "2026-09-02T16:10:00-04:00",
-            "2026-09-02T21:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576499~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE SAMURAI AND THE PRISONER",
@@ -282,7 +271,7 @@
           "showtimes": [
             "2026-09-02T19:30:00-04:00"
           ],
-          "ticketUrl": "https://filmforum.org/now-playing"
+          "ticketUrl": "https://my.filmforum.org/events/the-godfather-part-ii-coppola"
         }
       ]
     },
