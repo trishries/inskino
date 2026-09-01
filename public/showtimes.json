@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T14:19:28-04:00",
+  "lastUpdated": "2026-09-01T17:35:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -321,13 +321,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30865"
         },
         {
-          "title": "CLAIRE'S KNEE",
-          "showtimes": [
-            "2026-09-01T19:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30868"
-        },
-        {
           "title": "TAMPOPO",
           "showtimes": [
             "2026-09-01T21:45:00-04:00"
@@ -337,8 +330,7 @@
         {
           "title": "DER FAN",
           "showtimes": [
-            "2026-09-01T22:00:00-04:00",
-            "2026-09-02T20:00:00-04:00"
+            "2026-09-01T22:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30867"
         },
@@ -394,7 +386,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-09-01T12:20:00-04:00",
             "2026-09-01T14:40:00-04:00",
             "2026-09-01T17:00:00-04:00",
             "2026-09-01T19:20:00-04:00",
@@ -408,7 +399,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-01T12:10:00-04:00",
             "2026-09-01T14:30:00-04:00",
             "2026-09-01T16:50:00-04:00",
             "2026-09-01T19:10:00-04:00",
@@ -422,7 +412,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-01T11:55:00-04:00",
             "2026-09-01T14:25:00-04:00",
             "2026-09-01T16:55:00-04:00",
             "2026-09-01T19:30:00-04:00",
@@ -436,7 +425,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-09-01T12:00:00-04:00",
             "2026-09-01T14:00:00-04:00",
             "2026-09-01T18:15:00-04:00",
             "2026-09-02T12:00:00-04:00",
@@ -461,13 +449,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Barbie",
-          "showtimes": [
-            "2026-09-01T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2894/seats"
-        },
         {
           "title": "The Razor's Edge",
           "showtimes": [
