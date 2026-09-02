@@ -1,11 +1,19 @@
 {
-  "lastUpdated": "2026-09-02T10:48:40-04:00",
+  "lastUpdated": "2026-09-02T14:31:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "empty",
-      "films": []
+      "status": "ok",
+      "films": [
+        {
+          "title": "WELFARE",
+          "showtimes": [
+            "2026-09-02T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5788?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        }
+      ]
     },
     {
       "name": "IFC Center",
@@ -299,11 +307,26 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30872"
         },
         {
+          "title": "DER FAN",
+          "showtimes": [
+            "2026-09-02T20:00:00-04:00",
+            "2026-09-03T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30873"
+        },
+        {
           "title": "LA HAINE",
           "showtimes": [
             "2026-09-02T20:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30887"
+        },
+        {
+          "title": "JENNIFER'S BODY",
+          "showtimes": [
+            "2026-09-02T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30875"
         },
         {
           "title": "IRREVERSIBLE",
@@ -439,13 +462,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Mad Max: Fury Road",
-          "showtimes": [
-            "2026-09-02T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2977/seats"
-        },
         {
           "title": "Alice in Wonderland (1951)",
           "showtimes": [
