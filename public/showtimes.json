@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-09-02T14:31:38-04:00",
+  "lastUpdated": "2026-09-02T17:35:45-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "ok",
-      "films": [
-        {
-          "title": "WELFARE",
-          "showtimes": [
-            "2026-09-02T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5788?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        }
-      ]
+      "status": "empty",
+      "films": []
     },
     {
       "name": "IFC Center",
@@ -279,20 +271,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "TRUE ROMANCE",
-          "showtimes": [
-            "2026-09-02T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30871"
-        },
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-09-02T15:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30878"
-        },
-        {
           "title": "WHAT LIES BENEATH",
           "showtimes": [
             "2026-09-02T17:25:00-04:00"
@@ -305,28 +283,6 @@
             "2026-09-02T17:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30872"
-        },
-        {
-          "title": "DER FAN",
-          "showtimes": [
-            "2026-09-02T20:00:00-04:00",
-            "2026-09-03T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30873"
-        },
-        {
-          "title": "LA HAINE",
-          "showtimes": [
-            "2026-09-02T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30887"
-        },
-        {
-          "title": "JENNIFER'S BODY",
-          "showtimes": [
-            "2026-09-02T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30875"
         },
         {
           "title": "IRREVERSIBLE",
@@ -394,7 +350,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-09-02T12:20:00-04:00",
             "2026-09-02T14:40:00-04:00",
             "2026-09-02T17:00:00-04:00",
             "2026-09-02T19:20:00-04:00",
@@ -408,7 +363,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-02T12:10:00-04:00",
             "2026-09-02T14:30:00-04:00",
             "2026-09-02T16:50:00-04:00",
             "2026-09-02T19:10:00-04:00",
@@ -422,7 +376,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-02T11:55:00-04:00",
             "2026-09-02T14:25:00-04:00",
             "2026-09-02T16:55:00-04:00",
             "2026-09-02T19:30:00-04:00",
@@ -436,7 +389,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-09-02T12:00:00-04:00",
             "2026-09-02T14:00:00-04:00",
             "2026-09-02T16:00:00-04:00",
             "2026-09-02T18:00:00-04:00",
@@ -462,13 +414,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Alice in Wonderland (1951)",
-          "showtimes": [
-            "2026-09-02T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2898/seats"
-        },
         {
           "title": "Stepping Into the Unknown: ",
           "showtimes": [
