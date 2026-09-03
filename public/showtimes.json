@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T14:28:05-04:00",
+  "lastUpdated": "2026-09-03T17:33:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -160,6 +160,13 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577552~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "FREE LYRIC",
+          "showtimes": [
+            "2026-09-04T10:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578418~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "HEATHERS",
           "showtimes": [
             "2026-09-04T14:00:00-04:00",
@@ -168,6 +175,13 @@
             "2026-09-04T21:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577314~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "LIGHTNING BUG",
+          "showtimes": [
+            "2026-09-04T10:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578417~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "STOP MAKING SENSE",
@@ -428,7 +442,6 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-09-03T12:20:00-04:00",
             "2026-09-03T14:40:00-04:00",
             "2026-09-03T17:00:00-04:00",
             "2026-09-03T19:20:00-04:00",
@@ -439,7 +452,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-03T12:10:00-04:00",
             "2026-09-03T14:30:00-04:00",
             "2026-09-03T16:50:00-04:00",
             "2026-09-03T19:10:00-04:00",
@@ -452,7 +464,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-03T11:55:00-04:00",
             "2026-09-03T14:25:00-04:00",
             "2026-09-03T16:55:00-04:00",
             "2026-09-03T19:30:00-04:00",
@@ -464,8 +475,6 @@
         {
           "title": "MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD",
           "showtimes": [
-            "2026-09-03T12:00:00-04:00",
-            "2026-09-03T14:00:00-04:00",
             "2026-09-03T16:00:00-04:00",
             "2026-09-03T18:00:00-04:00"
           ],
@@ -516,13 +525,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "MICHAEL MANN’S MANHUNTER: THE FINAL CUT ",
-          "showtimes": [
-            "2026-09-03T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2978/seats"
-        },
         {
           "title": "The Master",
           "showtimes": [
