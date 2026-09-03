@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T10:48:57-04:00",
+  "lastUpdated": "2026-09-03T14:28:05-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -102,7 +102,7 @@
           "title": "MADDIE'S SECRET",
           "showtimes": [
             "2026-09-03T11:00:00-04:00",
-            "2026-09-04T11:15:00-04:00"
+            "2026-09-04T11:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576525~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -179,7 +179,7 @@
         {
           "title": "THE SUN NEVER SETS",
           "showtimes": [
-            "2026-09-04T14:00:00-04:00",
+            "2026-09-04T13:35:00-04:00",
             "2026-09-04T16:10:00-04:00",
             "2026-09-04T18:45:00-04:00",
             "2026-09-04T21:20:00-04:00"
@@ -516,13 +516,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Atomic Blonde",
-          "showtimes": [
-            "2026-09-03T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2901/seats"
-        },
         {
           "title": "MICHAEL MANN’S MANHUNTER: THE FINAL CUT ",
           "showtimes": [
