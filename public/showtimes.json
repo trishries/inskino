@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T04:59:36-04:00",
+  "lastUpdated": "2026-09-05T09:36:29-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -367,6 +367,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30769"
         },
         {
+          "title": "WISEMAN'S NYC: MODEL",
+          "showtimes": [
+            "2026-09-05T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30704"
+        },
+        {
           "title": "OLD JOY",
           "showtimes": [
             "2026-09-05T19:10:00-04:00"
@@ -379,6 +386,13 @@
             "2026-09-05T20:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30773"
+        },
+        {
+          "title": "DAUGHTER OF THE NILE",
+          "showtimes": [
+            "2026-09-05T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30774"
         },
         {
           "title": "JENNIFER'S BODY",
@@ -416,13 +430,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30781"
         },
         {
-          "title": "THE TREASURE OF BITCH ISLANDS",
-          "showtimes": [
-            "2026-09-06T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30783"
-        },
-        {
           "title": "THE HUNGER",
           "showtimes": [
             "2026-09-06T17:00:00-04:00"
@@ -430,11 +437,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30888"
         },
         {
+          "title": "THE TREASURE OF BITCH ISLANDS",
+          "showtimes": [
+            "2026-09-06T17:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30783"
+        },
+        {
           "title": "TROY",
           "showtimes": [
             "2026-09-06T19:10:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30784"
+        },
+        {
+          "title": "2046",
+          "showtimes": [
+            "2026-09-06T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30785"
         },
         {
           "title": "DER FAN",
