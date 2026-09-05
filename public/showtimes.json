@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T09:36:29-04:00",
+  "lastUpdated": "2026-09-05T13:14:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -556,13 +556,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Lord of the Rings: Fellowship of the Ring",
-          "showtimes": [
-            "2026-09-05T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2909/seats"
-        },
         {
           "title": "2001: A Space Odyssey",
           "showtimes": [
