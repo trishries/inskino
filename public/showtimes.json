@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T17:14:06-04:00",
+  "lastUpdated": "2026-09-04T20:34:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,17 +9,9 @@
         {
           "title": "WHAT GODMILOW TAUGHT",
           "showtimes": [
-            "2026-09-04T18:45:00-04:00",
             "2026-09-05T18:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5699?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "WHAT FAROCKI TAUGHT + SCUM MANIFESTO",
-          "showtimes": [
-            "2026-09-04T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5701?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5700?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ROY COHN/JACK SMITH",
@@ -462,7 +454,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-04T16:00:00-04:00",
             "2026-09-04T20:45:00-04:00",
             "2026-09-05T16:00:00-04:00",
             "2026-09-05T20:45:00-04:00"
@@ -483,7 +474,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-04T14:30:00-04:00",
             "2026-09-04T17:00:00-04:00",
             "2026-09-05T13:15:00-04:00",
             "2026-09-05T14:30:00-04:00",
@@ -494,8 +484,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-04T14:45:00-04:00",
-            "2026-09-04T16:50:00-04:00",
             "2026-09-04T19:20:00-04:00",
             "2026-09-04T21:30:00-04:00",
             "2026-09-05T12:10:00-04:00",
@@ -509,8 +497,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-04T14:55:00-04:00",
-            "2026-09-04T17:05:00-04:00",
             "2026-09-04T19:00:00-04:00",
             "2026-09-04T21:25:00-04:00",
             "2026-09-05T12:45:00-04:00",
@@ -528,13 +514,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Batman",
-          "showtimes": [
-            "2026-09-04T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2907/seats"
-        },
         {
           "title": "Panic Room",
           "showtimes": [
