@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T13:14:31-04:00",
+  "lastUpdated": "2026-09-05T16:55:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -63,13 +63,6 @@
             "2026-09-06T18:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577569~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "BULLY",
-          "showtimes": [
-            "2026-09-05T23:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577672~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "COLONY",
@@ -360,20 +353,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30771"
         },
         {
-          "title": "A BRIGHTER SUMMER DAY",
-          "showtimes": [
-            "2026-09-05T13:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30769"
-        },
-        {
-          "title": "WISEMAN'S NYC: MODEL",
-          "showtimes": [
-            "2026-09-05T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30704"
-        },
-        {
           "title": "OLD JOY",
           "showtimes": [
             "2026-09-05T19:10:00-04:00"
@@ -386,13 +365,6 @@
             "2026-09-05T20:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30773"
-        },
-        {
-          "title": "DAUGHTER OF THE NILE",
-          "showtimes": [
-            "2026-09-05T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30774"
         },
         {
           "title": "JENNIFER'S BODY",
@@ -430,13 +402,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30781"
         },
         {
-          "title": "THE HUNGER",
-          "showtimes": [
-            "2026-09-06T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30888"
-        },
-        {
           "title": "THE TREASURE OF BITCH ISLANDS",
           "showtimes": [
             "2026-09-06T17:00:00-04:00"
@@ -444,18 +409,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30783"
         },
         {
+          "title": "THE HUNGER",
+          "showtimes": [
+            "2026-09-06T17:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30888"
+        },
+        {
           "title": "TROY",
           "showtimes": [
             "2026-09-06T19:10:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30784"
-        },
-        {
-          "title": "2046",
-          "showtimes": [
-            "2026-09-06T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30785"
         },
         {
           "title": "DER FAN",
@@ -500,7 +465,6 @@
         {
           "title": "BRAILLED IT",
           "showtimes": [
-            "2026-09-05T12:50:00-04:00",
             "2026-09-05T19:40:00-04:00",
             "2026-09-05T21:35:00-04:00",
             "2026-09-06T15:05:00-04:00",
@@ -511,7 +475,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-05T13:15:00-04:00",
             "2026-09-05T14:30:00-04:00",
             "2026-09-05T17:00:00-04:00",
             "2026-09-06T12:30:00-04:00",
@@ -522,7 +485,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-05T12:10:00-04:00",
             "2026-09-05T14:55:00-04:00",
             "2026-09-05T16:50:00-04:00",
             "2026-09-05T19:20:00-04:00",
@@ -537,8 +499,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-05T12:45:00-04:00",
-            "2026-09-05T14:15:00-04:00",
             "2026-09-05T17:00:00-04:00",
             "2026-09-05T19:00:00-04:00",
             "2026-09-05T21:25:00-04:00",
@@ -556,13 +516,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "2001: A Space Odyssey",
-          "showtimes": [
-            "2026-09-05T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2910/seats"
-        },
         {
           "title": "Vertigo",
           "showtimes": [
