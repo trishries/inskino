@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T20:31:44-04:00",
+  "lastUpdated": "2026-09-06T05:21:34-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -37,172 +37,150 @@
         {
           "title": "2026 SUNDANCE FESTIVAL SHORT FILM TOUR (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-09-05T11:30:00-04:00",
             "2026-09-06T11:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577557~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577578~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "2026 SUNDANCE FILM FESTIVAL SHORT FILM TOUR",
           "showtimes": [
-            "2026-09-05T18:55:00-04:00",
-            "2026-09-06T18:55:00-04:00"
+            "2026-09-06T18:55:00-04:00",
+            "2026-09-07T11:30:00-04:00",
+            "2026-09-07T18:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577569~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577590~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "COLONY",
           "showtimes": [
-            "2026-09-05T13:20:00-04:00",
-            "2026-09-05T21:00:00-04:00",
-            "2026-09-05T23:35:00-04:00",
             "2026-09-06T13:20:00-04:00",
-            "2026-09-06T21:05:00-04:00"
+            "2026-09-06T21:05:00-04:00",
+            "2026-09-07T13:20:00-04:00",
+            "2026-09-07T21:05:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577563~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "DEAD RINGERS",
-          "showtimes": [
-            "2026-09-05T23:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577573~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577584~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "FREE LYRIC",
           "showtimes": [
-            "2026-09-05T10:35:00-04:00",
-            "2026-09-06T10:35:00-04:00"
+            "2026-09-06T10:35:00-04:00",
+            "2026-09-07T10:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578355~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578356~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "GANDAHAR",
           "showtimes": [
-            "2026-09-05T13:25:00-04:00",
-            "2026-09-05T18:50:00-04:00",
             "2026-09-06T13:25:00-04:00",
-            "2026-09-06T18:50:00-04:00"
+            "2026-09-06T18:50:00-04:00",
+            "2026-09-07T13:25:00-04:00",
+            "2026-09-07T18:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577558~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577579~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "HEATHERS",
           "showtimes": [
-            "2026-09-05T14:00:00-04:00",
-            "2026-09-05T16:30:00-04:00",
-            "2026-09-05T19:00:00-04:00",
-            "2026-09-05T21:30:00-04:00",
             "2026-09-06T14:00:00-04:00",
             "2026-09-06T16:30:00-04:00",
             "2026-09-06T19:00:00-04:00",
-            "2026-09-06T21:30:00-04:00"
+            "2026-09-06T21:30:00-04:00",
+            "2026-09-07T14:00:00-04:00",
+            "2026-09-07T16:30:00-04:00",
+            "2026-09-07T19:00:00-04:00",
+            "2026-09-07T21:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577315~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577316~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "HOW TO DIVORCE DURING THE WAR",
           "showtimes": [
-            "2026-09-05T10:55:00-04:00",
-            "2026-09-05T16:15:00-04:00",
             "2026-09-06T10:55:00-04:00",
-            "2026-09-06T16:15:00-04:00"
+            "2026-09-06T16:15:00-04:00",
+            "2026-09-07T10:55:00-04:00",
+            "2026-09-07T16:15:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577555~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577576~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "LIGHTNING BUG",
           "showtimes": [
-            "2026-09-05T10:50:00-04:00",
-            "2026-09-06T10:50:00-04:00"
+            "2026-09-06T10:50:00-04:00",
+            "2026-09-07T10:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578349~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578350~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MADDIE'S SECRET",
           "showtimes": [
-            "2026-09-05T11:00:00-04:00",
-            "2026-09-06T11:00:00-04:00"
+            "2026-09-06T11:00:00-04:00",
+            "2026-09-07T11:00:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577554~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MICHAEL MANN'S MANHUNTER: THE FINAL CUT",
-          "showtimes": [
-            "2026-09-05T23:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578305~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577575~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MYSTERIOUS SKIN",
           "showtimes": [
-            "2026-09-05T13:50:00-04:00",
-            "2026-09-05T21:15:00-04:00",
             "2026-09-06T13:50:00-04:00",
-            "2026-09-06T21:15:00-04:00"
+            "2026-09-06T21:15:00-04:00",
+            "2026-09-07T13:50:00-04:00",
+            "2026-09-07T21:15:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577561~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577582~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE SAMURAI AND THE PRISONER",
           "showtimes": [
-            "2026-09-05T15:40:00-04:00",
-            "2026-09-05T20:55:00-04:00",
             "2026-09-06T15:40:00-04:00",
-            "2026-09-06T20:55:00-04:00"
+            "2026-09-06T20:55:00-04:00",
+            "2026-09-07T15:40:00-04:00",
+            "2026-09-07T20:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577562~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "STOP MAKING SENSE",
-          "showtimes": [
-            "2026-09-05T23:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577674~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577583~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE SUN NEVER SETS",
           "showtimes": [
-            "2026-09-05T16:10:00-04:00",
-            "2026-09-05T18:45:00-04:00",
-            "2026-09-05T21:20:00-04:00",
             "2026-09-06T16:10:00-04:00",
             "2026-09-06T18:45:00-04:00",
-            "2026-09-06T21:20:00-04:00"
+            "2026-09-06T21:20:00-04:00",
+            "2026-09-07T13:35:00-04:00",
+            "2026-09-07T16:10:00-04:00",
+            "2026-09-07T18:45:00-04:00",
+            "2026-09-07T21:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577560~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577581~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE SUN NEVER SETS (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-09-05T13:35:00-04:00",
             "2026-09-06T13:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577693~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578622~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "UNION COUNTY",
           "showtimes": [
-            "2026-09-05T18:35:00-04:00",
-            "2026-09-06T18:35:00-04:00"
+            "2026-09-06T18:35:00-04:00",
+            "2026-09-07T11:40:00-04:00",
+            "2026-09-07T18:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577853~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577854~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "UNION COUNTY (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-09-05T11:40:00-04:00",
             "2026-09-06T11:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577851~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577852~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "WILD INSIDE",
           "showtimes": [
-            "2026-09-05T16:05:00-04:00",
-            "2026-09-06T16:05:00-04:00"
+            "2026-09-06T16:05:00-04:00",
+            "2026-09-07T16:05:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577676~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577677~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -214,80 +192,46 @@
         {
           "title": "BARBARA FOREVER",
           "showtimes": [
-            "2026-09-05T13:00:00-04:00",
-            "2026-09-05T15:15:00-04:00",
-            "2026-09-05T19:30:00-04:00",
             "2026-09-06T12:45:00-04:00",
             "2026-09-06T15:10:00-04:00",
             "2026-09-06T18:00:00-04:00",
-            "2026-09-06T20:15:00-04:00"
+            "2026-09-06T20:15:00-04:00",
+            "2026-09-07T12:45:00-04:00",
+            "2026-09-07T15:10:00-04:00",
+            "2026-09-07T17:30:00-04:00",
+            "2026-09-07T19:45:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/barbara-forever"
         },
         {
-          "title": "BARBARA HAMMER: LOVE IS WHERE YOU FIND IT",
-          "showtimes": [
-            "2026-09-05T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/barbara-hammer-love-is-where-you-find-it"
-        },
-        {
           "title": "FILIPIÑANA",
           "showtimes": [
-            "2026-09-05T12:20:00-04:00",
-            "2026-09-05T14:30:00-04:00",
-            "2026-09-05T16:45:00-04:00",
-            "2026-09-05T19:00:00-04:00",
-            "2026-09-05T20:10:00-04:00",
-            "2026-09-05T21:10:00-04:00",
             "2026-09-06T12:20:00-04:00",
             "2026-09-06T14:30:00-04:00",
             "2026-09-06T16:45:00-04:00",
             "2026-09-06T19:00:00-04:00",
             "2026-09-06T20:10:00-04:00",
-            "2026-09-06T21:10:00-04:00"
+            "2026-09-06T21:10:00-04:00",
+            "2026-09-07T12:20:00-04:00",
+            "2026-09-07T14:30:00-04:00",
+            "2026-09-07T16:45:00-04:00",
+            "2026-09-07T19:00:00-04:00",
+            "2026-09-07T20:10:00-04:00",
+            "2026-09-07T21:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/filipinana"
         },
         {
           "title": "LATE FAME",
           "showtimes": [
-            "2026-09-05T13:00:00-04:00",
-            "2026-09-05T15:15:00-04:00",
-            "2026-09-05T18:00:00-04:00",
             "2026-09-06T13:00:00-04:00",
             "2026-09-06T15:15:00-04:00",
-            "2026-09-06T18:00:00-04:00"
+            "2026-09-06T18:00:00-04:00",
+            "2026-09-07T13:00:00-04:00",
+            "2026-09-07T15:15:00-04:00",
+            "2026-09-07T18:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/late-fame"
-        },
-        {
-          "title": "GARDENS OF STONE",
-          "showtimes": [
-            "2026-09-05T12:20:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/gardens-of-stone-coppola"
-        },
-        {
-          "title": "HEARTS OF DARKNESS: A FILMMAKER’S APOCALYPSE",
-          "showtimes": [
-            "2026-09-05T14:40:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/hearts-of-darkness-a-filmmakers-apocalypse-coppola"
-        },
-        {
-          "title": "APOCALYPSE NOW: FINAL CUT",
-          "showtimes": [
-            "2026-09-05T16:50:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/apocalypse-now-final-cut-coppola"
-        },
-        {
-          "title": "BRAM STOKER'S DRACULA",
-          "showtimes": [
-            "2026-09-05T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/bram-stokers-dracula-coppola"
         },
         {
           "title": "YOUTH WITHOUT YOUTH",
@@ -316,6 +260,27 @@
             "2026-09-06T20:20:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/rumble-fish-coppola"
+        },
+        {
+          "title": "THE CONVERSATION",
+          "showtimes": [
+            "2026-09-07T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-conversation-coppola"
+        },
+        {
+          "title": "THE GODFATHER",
+          "showtimes": [
+            "2026-09-07T15:30:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-godfather-coppola"
+        },
+        {
+          "title": "THE GODFATHER PART II",
+          "showtimes": [
+            "2026-09-07T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-godfather-part-ii-coppola"
         }
       ]
     },
@@ -324,41 +289,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "PLAYTIME",
-          "showtimes": [
-            "2026-09-05T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30768"
-        },
-        {
-          "title": "E.T. THE EXTRA-TERRESTRIAL",
-          "showtimes": [
-            "2026-09-05T11:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30771"
-        },
-        {
-          "title": "OLD JOY",
-          "showtimes": [
-            "2026-09-05T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30772"
-        },
-        {
-          "title": "AFTER HOURS",
-          "showtimes": [
-            "2026-09-05T20:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30773"
-        },
-        {
-          "title": "JENNIFER'S BODY",
-          "showtimes": [
-            "2026-09-05T23:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30777"
-        },
         {
           "title": "SHANGHAI BLUES",
           "showtimes": [
@@ -376,7 +306,8 @@
         {
           "title": "BRAZIL",
           "showtimes": [
-            "2026-09-06T14:10:00-04:00"
+            "2026-09-06T14:10:00-04:00",
+            "2026-09-07T14:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30780"
         },
@@ -388,13 +319,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30781"
         },
         {
-          "title": "THE TREASURE OF BITCH ISLANDS",
-          "showtimes": [
-            "2026-09-06T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30783"
-        },
-        {
           "title": "THE HUNGER",
           "showtimes": [
             "2026-09-06T17:00:00-04:00"
@@ -402,11 +326,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30888"
         },
         {
+          "title": "THE TREASURE OF BITCH ISLANDS",
+          "showtimes": [
+            "2026-09-06T17:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30783"
+        },
+        {
           "title": "TROY",
           "showtimes": [
             "2026-09-06T19:10:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30784"
+        },
+        {
+          "title": "2046",
+          "showtimes": [
+            "2026-09-06T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30785"
         },
         {
           "title": "DER FAN",
@@ -421,6 +359,62 @@
             "2026-09-06T22:25:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30787"
+        },
+        {
+          "title": "PLAYTIME",
+          "showtimes": [
+            "2026-09-07T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30788"
+        },
+        {
+          "title": "MILLENNIUM MAMBO",
+          "showtimes": [
+            "2026-09-07T12:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30796"
+        },
+        {
+          "title": "THE APARTMENT",
+          "showtimes": [
+            "2026-09-07T14:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30789"
+        },
+        {
+          "title": "A BRIGHTER SUMMER DAY",
+          "showtimes": [
+            "2026-09-07T17:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30790"
+        },
+        {
+          "title": "DELICATESSEN",
+          "showtimes": [
+            "2026-09-07T17:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30794"
+        },
+        {
+          "title": "THE CITY OF LOST CHILDREN",
+          "showtimes": [
+            "2026-09-07T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30793"
+        },
+        {
+          "title": "PEKING OPERA BLUES",
+          "showtimes": [
+            "2026-09-07T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30791"
+        },
+        {
+          "title": "RAW",
+          "showtimes": [
+            "2026-09-07T21:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30792"
         }
       ]
     },
@@ -432,60 +426,68 @@
         {
           "title": "A SAD AND BEAUTIFUL WORLD",
           "showtimes": [
-            "2026-09-05T18:30:00-04:00",
-            "2026-09-06T16:55:00-04:00"
+            "2026-09-06T16:55:00-04:00",
+            "2026-09-07T16:55:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-06"
         },
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-05T20:45:00-04:00",
             "2026-09-06T12:25:00-04:00",
             "2026-09-06T14:40:00-04:00",
-            "2026-09-06T19:10:00-04:00"
+            "2026-09-06T19:10:00-04:00",
+            "2026-09-07T12:25:00-04:00",
+            "2026-09-07T14:40:00-04:00",
+            "2026-09-07T19:10:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-06"
         },
         {
           "title": "BRAILLED IT",
           "showtimes": [
-            "2026-09-05T19:40:00-04:00",
-            "2026-09-05T21:35:00-04:00",
             "2026-09-06T15:05:00-04:00",
-            "2026-09-06T19:30:00-04:00"
+            "2026-09-06T19:30:00-04:00",
+            "2026-09-07T15:05:00-04:00",
+            "2026-09-07T19:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-05"
-        },
-        {
-          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
-          "showtimes": [
-            "2026-09-05T19:20:00-04:00",
-            "2026-09-05T21:30:00-04:00",
-            "2026-09-06T12:45:00-04:00",
-            "2026-09-06T15:00:00-04:00",
-            "2026-09-06T17:00:00-04:00",
-            "2026-09-06T19:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-05"
-        },
-        {
-          "title": "THE WORK IN PROGRESS",
-          "showtimes": [
-            "2026-09-05T19:00:00-04:00",
-            "2026-09-05T21:25:00-04:00",
-            "2026-09-06T12:40:00-04:00",
-            "2026-09-06T14:45:00-04:00",
-            "2026-09-06T17:05:00-04:00",
-            "2026-09-06T19:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-06"
         },
         {
           "title": "FRANZ",
           "showtimes": [
             "2026-09-06T12:30:00-04:00",
-            "2026-09-06T16:45:00-04:00"
+            "2026-09-06T16:45:00-04:00",
+            "2026-09-07T12:30:00-04:00",
+            "2026-09-07T16:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-06"
+        },
+        {
+          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
+          "showtimes": [
+            "2026-09-06T12:45:00-04:00",
+            "2026-09-06T15:00:00-04:00",
+            "2026-09-06T17:00:00-04:00",
+            "2026-09-06T19:20:00-04:00",
+            "2026-09-07T12:45:00-04:00",
+            "2026-09-07T15:00:00-04:00",
+            "2026-09-07T17:00:00-04:00",
+            "2026-09-07T19:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-06"
+        },
+        {
+          "title": "THE WORK IN PROGRESS",
+          "showtimes": [
+            "2026-09-06T12:40:00-04:00",
+            "2026-09-06T14:45:00-04:00",
+            "2026-09-06T17:05:00-04:00",
+            "2026-09-06T19:00:00-04:00",
+            "2026-09-07T12:40:00-04:00",
+            "2026-09-07T14:45:00-04:00",
+            "2026-09-07T17:05:00-04:00",
+            "2026-09-07T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-06"
         }
@@ -496,13 +498,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Sorcerer",
-          "showtimes": [
-            "2026-09-05T22:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2912/seats"
-        },
         {
           "title": "Lord of the Rings: The Two Towers",
           "showtimes": [
@@ -530,6 +525,34 @@
             "2026-09-06T21:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2984/seats"
+        },
+        {
+          "title": "Lord of the Rings: Return of the King",
+          "showtimes": [
+            "2026-09-07T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2915/seats"
+        },
+        {
+          "title": "Once Upon a Time in... Hollywood",
+          "showtimes": [
+            "2026-09-07T15:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2980/seats"
+        },
+        {
+          "title": "Blade Runner: The Final Cut",
+          "showtimes": [
+            "2026-09-07T19:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2979/seats"
+        },
+        {
+          "title": "Die Hard",
+          "showtimes": [
+            "2026-09-07T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2921/seats"
         }
       ]
     },
