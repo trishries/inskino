@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T09:50:52-04:00",
+  "lastUpdated": "2026-09-06T13:34:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -290,20 +290,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "SHANGHAI BLUES",
-          "showtimes": [
-            "2026-09-06T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30779"
-        },
-        {
-          "title": "JASON AND THE ARGONAUTS",
-          "showtimes": [
-            "2026-09-06T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30778"
-        },
-        {
           "title": "BRAZIL",
           "showtimes": [
             "2026-09-06T14:10:00-04:00",
@@ -477,13 +463,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Lord of the Rings: The Two Towers",
-          "showtimes": [
-            "2026-09-06T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2916/seats"
-        },
         {
           "title": "Batman",
           "showtimes": [
