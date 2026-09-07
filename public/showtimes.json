@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T15:04:40-04:00",
+  "lastUpdated": "2026-09-07T17:54:37-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -274,20 +274,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "BRAZIL",
-          "showtimes": [
-            "2026-09-07T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30795"
-        },
-        {
-          "title": "THE APARTMENT",
-          "showtimes": [
-            "2026-09-07T14:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30789"
-        },
-        {
           "title": "A BRIGHTER SUMMER DAY",
           "showtimes": [
             "2026-09-07T17:15:00-04:00"
@@ -295,11 +281,11 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30790"
         },
         {
-          "title": "DELICATESSEN",
+          "title": "THE CITY OF LOST CHILDREN",
           "showtimes": [
-            "2026-09-07T17:20:00-04:00"
+            "2026-09-07T19:30:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30794"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30793"
         },
         {
           "title": "PEKING OPERA BLUES",
@@ -333,7 +319,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-07T12:25:00-04:00",
             "2026-09-07T14:40:00-04:00",
             "2026-09-07T19:10:00-04:00",
             "2026-09-08T13:00:00-04:00",
@@ -355,7 +340,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-07T12:30:00-04:00",
             "2026-09-07T16:45:00-04:00",
             "2026-09-08T12:40:00-04:00",
             "2026-09-08T15:10:00-04:00"
@@ -365,7 +349,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-07T12:45:00-04:00",
             "2026-09-07T15:00:00-04:00",
             "2026-09-07T17:00:00-04:00",
             "2026-09-07T19:20:00-04:00",
@@ -379,7 +362,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-07T12:40:00-04:00",
             "2026-09-07T14:45:00-04:00",
             "2026-09-07T17:05:00-04:00",
             "2026-09-07T19:00:00-04:00",
@@ -404,13 +386,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Once Upon a Time in... Hollywood",
-          "showtimes": [
-            "2026-09-07T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2980/seats"
-        },
         {
           "title": "Blade Runner: The Final Cut",
           "showtimes": [
