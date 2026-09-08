@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T17:54:37-04:00",
+  "lastUpdated": "2026-09-07T20:52:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -274,27 +274,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "A BRIGHTER SUMMER DAY",
-          "showtimes": [
-            "2026-09-07T17:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30790"
-        },
-        {
-          "title": "THE CITY OF LOST CHILDREN",
-          "showtimes": [
-            "2026-09-07T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30793"
-        },
-        {
-          "title": "PEKING OPERA BLUES",
-          "showtimes": [
-            "2026-09-07T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30791"
-        },
-        {
           "title": "RAW",
           "showtimes": [
             "2026-09-07T21:50:00-04:00"
@@ -309,17 +288,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "A SAD AND BEAUTIFUL WORLD",
-          "showtimes": [
-            "2026-09-07T16:55:00-04:00",
-            "2026-09-08T17:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-07"
-        },
-        {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-07T14:40:00-04:00",
             "2026-09-07T19:10:00-04:00",
             "2026-09-08T13:00:00-04:00",
             "2026-09-08T15:20:00-04:00",
@@ -330,7 +300,6 @@
         {
           "title": "BRAILLED IT",
           "showtimes": [
-            "2026-09-07T15:05:00-04:00",
             "2026-09-07T19:30:00-04:00",
             "2026-09-08T14:50:00-04:00",
             "2026-09-08T18:30:00-04:00"
@@ -338,19 +307,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-07"
         },
         {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-07T16:45:00-04:00",
-            "2026-09-08T12:40:00-04:00",
-            "2026-09-08T15:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-07"
-        },
-        {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-07T15:00:00-04:00",
-            "2026-09-07T17:00:00-04:00",
             "2026-09-07T19:20:00-04:00",
             "2026-09-08T12:50:00-04:00",
             "2026-09-08T16:30:00-04:00",
@@ -362,8 +320,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-07T14:45:00-04:00",
-            "2026-09-07T17:05:00-04:00",
             "2026-09-07T19:00:00-04:00",
             "2026-09-08T13:20:00-04:00",
             "2026-09-08T15:40:00-04:00",
@@ -371,6 +327,21 @@
             "2026-09-08T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-07"
+        },
+        {
+          "title": "A SAD AND BEAUTIFUL WORLD",
+          "showtimes": [
+            "2026-09-08T17:40:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-08"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-08T12:40:00-04:00",
+            "2026-09-08T15:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-08"
         },
         {
           "title": "THE VIRGIN SUICIDES",
@@ -387,14 +358,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Blade Runner: The Final Cut",
-          "showtimes": [
-            "2026-09-07T19:15:00-04:00",
-            "2026-09-08T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2979/seats"
-        },
-        {
           "title": "Die Hard",
           "showtimes": [
             "2026-09-07T22:00:00-04:00"
@@ -407,6 +370,13 @@
             "2026-09-08T11:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2922/seats"
+        },
+        {
+          "title": "Blade Runner: The Final Cut",
+          "showtimes": [
+            "2026-09-08T15:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2923/seats"
         },
         {
           "title": "Star Trek: The Motion Picture",
