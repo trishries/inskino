@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T10:49:29-04:00",
+  "lastUpdated": "2026-09-08T14:28:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -432,13 +432,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Lord of the Rings: Fellowship of the Ring",
-          "showtimes": [
-            "2026-09-08T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2922/seats"
-        },
         {
           "title": "Blade Runner: The Final Cut",
           "showtimes": [
