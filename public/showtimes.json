@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T05:38:36-04:00",
+  "lastUpdated": "2026-09-09T10:55:00-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -414,13 +414,6 @@
             "2026-09-10T22:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30900"
-        },
-        {
-          "title": "CHUNGKING EXPRESS",
-          "showtimes": [
-            "2026-09-10T22:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30901"
         }
       ]
     },
