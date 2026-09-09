@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-09-08T17:33:40-04:00",
+  "lastUpdated": "2026-09-08T20:59:20-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "TRUE NORTH",
-          "showtimes": [
-            "2026-09-08T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5790?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "Choy: TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
           "showtimes": [
@@ -360,7 +353,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-08T15:20:00-04:00",
             "2026-09-08T19:55:00-04:00",
             "2026-09-09T13:00:00-04:00",
             "2026-09-09T15:20:00-04:00",
@@ -378,15 +370,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-08"
         },
         {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-08T15:10:00-04:00",
-            "2026-09-09T12:40:00-04:00",
-            "2026-09-09T15:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-08"
-        },
-        {
           "title": "THE VIRGIN SUICIDES",
           "showtimes": [
             "2026-09-08T20:15:00-04:00",
@@ -397,7 +380,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-08T16:30:00-04:00",
             "2026-09-08T18:00:00-04:00",
             "2026-09-08T20:05:00-04:00",
             "2026-09-09T12:50:00-04:00",
@@ -410,7 +392,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-08T15:40:00-04:00",
             "2026-09-08T17:45:00-04:00",
             "2026-09-08T20:00:00-04:00",
             "2026-09-09T13:20:00-04:00",
@@ -419,22 +400,22 @@
             "2026-09-09T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-08"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-09T12:40:00-04:00",
+            "2026-09-09T15:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-09"
         }
       ]
     },
     {
       "name": "Paris Theater",
       "url": "https://www.paristheaternyc.com",
-      "status": "ok",
-      "films": [
-        {
-          "title": "Star Trek: The Motion Picture",
-          "showtimes": [
-            "2026-09-08T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2924/seats"
-        }
-      ]
+      "status": "empty",
+      "films": []
     },
     {
       "name": "Cherry Lane Theatre",
