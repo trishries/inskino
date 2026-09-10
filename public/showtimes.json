@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T10:42:02-04:00",
+  "lastUpdated": "2026-09-10T14:16:22-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -388,13 +388,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30899"
         },
         {
-          "title": "WAKE IN FRIGHT",
-          "showtimes": [
-            "2026-09-10T20:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30902"
-        },
-        {
           "title": "JENNIFER'S BODY",
           "showtimes": [
             "2026-09-10T22:15:00-04:00"
@@ -414,6 +407,13 @@
             "2026-09-11T15:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30798"
+        },
+        {
+          "title": "WIVES (HUSTRUER)",
+          "showtimes": [
+            "2026-09-11T18:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30799"
         },
         {
           "title": "PEKING OPERA BLUES",
@@ -549,13 +549,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Lord of the Rings: The Two Towers",
-          "showtimes": [
-            "2026-09-10T10:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2926/seats"
-        },
         {
           "title": "Barbie",
           "showtimes": [
