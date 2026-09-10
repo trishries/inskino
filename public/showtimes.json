@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-09-09T17:29:31-04:00",
+  "lastUpdated": "2026-09-09T20:46:24-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "Choy: TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
-          "showtimes": [
-            "2026-09-09T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5674?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Earth / Zemlya",
-          "showtimes": [
-            "2026-09-09T19:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5631?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "Choy: FROM SPIKES TO SPINDLES + FEI TIEN",
-          "showtimes": [
-            "2026-09-09T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5676?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: The Parson's Widow",
           "showtimes": [
@@ -440,7 +419,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-09T15:20:00-04:00",
             "2026-09-09T19:55:00-04:00",
             "2026-09-10T13:00:00-04:00"
           ],
@@ -449,18 +427,9 @@
         {
           "title": "BRAILLED IT",
           "showtimes": [
-            "2026-09-09T14:50:00-04:00",
             "2026-09-09T18:30:00-04:00",
             "2026-09-10T14:50:00-04:00",
             "2026-09-10T18:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-09"
-        },
-        {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-09T15:10:00-04:00",
-            "2026-09-10T15:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-09"
         },
@@ -475,7 +444,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-09T16:30:00-04:00",
             "2026-09-09T18:00:00-04:00",
             "2026-09-09T20:05:00-04:00",
             "2026-09-10T12:50:00-04:00",
@@ -488,7 +456,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-09T15:40:00-04:00",
             "2026-09-09T17:45:00-04:00",
             "2026-09-09T20:00:00-04:00",
             "2026-09-10T13:20:00-04:00",
@@ -497,6 +464,13 @@
             "2026-09-10T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-09"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-10T15:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-10"
         }
       ]
     },
@@ -518,13 +492,6 @@
             "2026-09-10T14:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2927/seats"
-        },
-        {
-          "title": "Marie Antoinette",
-          "showtimes": [
-            "2026-09-10T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2928/seats"
         }
       ]
     },
