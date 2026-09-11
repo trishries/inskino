@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T14:20:27-04:00",
+  "lastUpdated": "2026-09-11T17:32:13-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -439,14 +439,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
-          "showtimes": [
-            "2026-09-11T13:05:00-04:00",
-            "2026-09-12T13:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-11"
-        },
-        {
           "title": "BLACK ZOMBIE",
           "showtimes": [
             "2026-09-11T13:10:00-04:00",
@@ -490,7 +482,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-11T13:00:00-04:00",
             "2026-09-11T14:45:00-04:00",
             "2026-09-11T20:30:00-04:00",
             "2026-09-12T13:00:00-04:00",
@@ -525,6 +516,13 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-11"
         },
         {
+          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
+          "showtimes": [
+            "2026-09-12T13:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-12"
+        },
+        {
           "title": "I WALKED WITH A ZOMBIE",
           "showtimes": [
             "2026-09-12T21:30:00-04:00"
@@ -538,13 +536,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "West Side Story",
-          "showtimes": [
-            "2026-09-11T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2971/seats"
-        },
         {
           "title": "Lawrence of Arabia",
           "showtimes": [
