@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T10:42:26-04:00",
+  "lastUpdated": "2026-09-11T14:20:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -12,6 +12,13 @@
             "2026-09-11T18:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5680?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: The Passion of Joan of Arc",
+          "showtimes": [
+            "2026-09-11T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5634?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "Choy: TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
@@ -531,13 +538,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Lord of the Rings: Return of the King",
-          "showtimes": [
-            "2026-09-11T10:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2930/seats"
-        },
         {
           "title": "West Side Story",
           "showtimes": [
