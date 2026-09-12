@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-09-12T13:43:24-04:00",
+  "lastUpdated": "2026-09-12T17:12:29-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "Choy: NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRI",
-          "showtimes": [
-            "2026-09-12T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5798?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Vampyr",
           "showtimes": [
@@ -466,14 +459,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
-          "showtimes": [
-            "2026-09-12T13:05:00-04:00",
-            "2026-09-13T13:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-12"
-        },
-        {
           "title": "BLACK ZOMBIE",
           "showtimes": [
             "2026-09-12T13:10:00-04:00",
@@ -516,7 +501,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-12T13:00:00-04:00",
             "2026-09-12T14:45:00-04:00",
             "2026-09-12T20:30:00-04:00",
             "2026-09-13T13:00:00-04:00",
@@ -528,7 +512,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-12T12:55:00-04:00",
             "2026-09-12T17:15:00-04:00",
             "2026-09-12T19:20:00-04:00",
             "2026-09-12T21:35:00-04:00",
@@ -551,6 +534,13 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-12"
         },
         {
+          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
+          "showtimes": [
+            "2026-09-13T13:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-13"
+        },
+        {
           "title": "ATLANTIQUE",
           "showtimes": [
             "2026-09-13T17:30:00-04:00"
@@ -564,13 +554,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Sweet Charity (Roadshow Version)",
-          "showtimes": [
-            "2026-09-12T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2935/seats"
-        },
         {
           "title": "New York, New York",
           "showtimes": [
