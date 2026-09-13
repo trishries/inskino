@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-09-12T17:12:29-04:00",
+  "lastUpdated": "2026-09-12T20:34:08-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Vampyr",
-          "showtimes": [
-            "2026-09-12T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5635?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "Choy: HA HA SHANGHAI",
-          "showtimes": [
-            "2026-09-12T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5684?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Day of Wrath",
-          "showtimes": [
-            "2026-09-12T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5636?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Ordet",
           "showtimes": [
@@ -317,49 +296,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE SANDWICH MAN",
-          "showtimes": [
-            "2026-09-12T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30805"
-        },
-        {
-          "title": "STEALING BEAUTY",
-          "showtimes": [
-            "2026-09-12T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30806"
-        },
-        {
-          "title": "DON'T PLAY WITH FIRE",
-          "showtimes": [
-            "2026-09-12T14:15:00-04:00",
-            "2026-09-13T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30807"
-        },
-        {
-          "title": "GAMES OF LOVE AND LONELINESS",
-          "showtimes": [
-            "2026-09-12T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30816"
-        },
-        {
-          "title": "ORPHEUS",
-          "showtimes": [
-            "2026-09-12T16:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30808"
-        },
-        {
-          "title": "WIVES: TEN YEARS AFTER",
-          "showtimes": [
-            "2026-09-12T17:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30815"
-        },
-        {
           "title": "BLACK ORPHEUS",
           "showtimes": [
             "2026-09-12T18:25:00-04:00"
@@ -431,6 +367,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30826"
         },
         {
+          "title": "DON'T PLAY WITH FIRE",
+          "showtimes": [
+            "2026-09-13T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30822"
+        },
+        {
           "title": "THE WITCH HUNT",
           "showtimes": [
             "2026-09-13T19:00:00-04:00"
@@ -461,8 +404,6 @@
         {
           "title": "BLACK ZOMBIE",
           "showtimes": [
-            "2026-09-12T13:10:00-04:00",
-            "2026-09-12T15:10:00-04:00",
             "2026-09-12T17:10:00-04:00",
             "2026-09-12T19:15:00-04:00",
             "2026-09-13T13:30:00-04:00",
@@ -474,7 +415,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-12T14:55:00-04:00",
             "2026-09-12T21:20:00-04:00",
             "2026-09-13T15:00:00-04:00"
           ],
@@ -501,7 +441,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-12T14:45:00-04:00",
             "2026-09-12T20:30:00-04:00",
             "2026-09-13T13:00:00-04:00",
             "2026-09-13T17:40:00-04:00",
@@ -525,7 +464,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-12T13:30:00-04:00",
             "2026-09-12T16:00:00-04:00",
             "2026-09-12T18:15:00-04:00",
             "2026-09-13T17:20:00-04:00",
@@ -554,13 +492,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "New York, New York",
-          "showtimes": [
-            "2026-09-12T19:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2936/seats"
-        },
         {
           "title": "Vertigo",
           "showtimes": [
