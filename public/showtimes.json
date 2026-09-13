@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T10:44:28-04:00",
+  "lastUpdated": "2026-09-13T14:03:07-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -192,7 +192,7 @@
             "2026-09-14T15:50:00-04:00",
             "2026-09-14T18:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578192~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579185~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "WHO MOVES AMERICA (OPEN CAPTIONING)",
@@ -510,13 +510,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Vertigo",
-          "showtimes": [
-            "2026-09-13T11:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2937/seats"
-        },
         {
           "title": "All That Jazz",
           "showtimes": [
