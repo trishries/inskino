@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-09-13T14:03:07-04:00",
+  "lastUpdated": "2026-09-13T17:14:22-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Ordet",
-          "showtimes": [
-            "2026-09-13T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5639?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "Choy: FROM SPIKES TO SPINDLES + FEI TIEN",
           "showtimes": [
@@ -192,7 +185,7 @@
             "2026-09-14T15:50:00-04:00",
             "2026-09-14T18:40:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579185~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578192~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "WHO MOVES AMERICA (OPEN CAPTIONING)",
@@ -406,14 +399,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
-          "showtimes": [
-            "2026-09-13T13:05:00-04:00",
-            "2026-09-14T11:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-13"
-        },
-        {
           "title": "ATLANTIQUE",
           "showtimes": [
             "2026-09-13T17:30:00-04:00"
@@ -456,7 +441,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-13T13:00:00-04:00",
             "2026-09-13T17:40:00-04:00",
             "2026-09-13T20:15:00-04:00",
             "2026-09-14T11:50:00-04:00",
@@ -468,7 +452,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-13T12:15:00-04:00",
             "2026-09-13T14:15:00-04:00",
             "2026-09-13T16:15:00-04:00",
             "2026-09-13T18:15:00-04:00",
@@ -488,6 +471,13 @@
             "2026-09-14T19:40:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-13"
+        },
+        {
+          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
+          "showtimes": [
+            "2026-09-14T11:40:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-14"
         },
         {
           "title": "ELEPHANT",
@@ -511,14 +501,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "All That Jazz",
-          "showtimes": [
-            "2026-09-13T14:30:00-04:00",
-            "2026-09-14T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2938/seats"
-        },
-        {
           "title": "Spartacus",
           "showtimes": [
             "2026-09-13T17:45:00-04:00"
@@ -538,6 +520,13 @@
             "2026-09-14T13:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2969/seats"
+        },
+        {
+          "title": "All That Jazz",
+          "showtimes": [
+            "2026-09-14T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2942/seats"
         },
         {
           "title": "One From the Heart",
