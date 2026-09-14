@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T15:47:57-04:00",
+  "lastUpdated": "2026-09-14T18:15:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -270,13 +270,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE NIGHT IS SHORT, WALK ON GIRL",
-          "showtimes": [
-            "2026-09-14T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30955"
-        },
-        {
           "title": "OLD JOY",
           "showtimes": [
             "2026-09-14T16:20:00-04:00"
@@ -442,13 +435,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "All That Jazz",
-          "showtimes": [
-            "2026-09-14T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2942/seats"
-        },
         {
           "title": "One From the Heart",
           "showtimes": [
