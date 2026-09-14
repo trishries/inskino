@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T12:42:22-04:00",
+  "lastUpdated": "2026-09-14T15:47:57-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -355,7 +355,6 @@
         {
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
-            "2026-09-14T12:05:00-04:00",
             "2026-09-14T15:45:00-04:00",
             "2026-09-15T12:05:00-04:00",
             "2026-09-15T15:45:00-04:00"
@@ -392,7 +391,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-14T11:50:00-04:00",
             "2026-09-14T14:05:00-04:00",
             "2026-09-14T18:00:00-04:00",
             "2026-09-15T11:50:00-04:00",
@@ -404,7 +402,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-14T11:45:00-04:00",
             "2026-09-14T13:45:00-04:00",
             "2026-09-14T18:00:00-04:00",
             "2026-09-15T11:45:00-04:00",
@@ -416,7 +413,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-14T11:55:00-04:00",
             "2026-09-14T15:50:00-04:00",
             "2026-09-14T19:40:00-04:00",
             "2026-09-15T11:55:00-04:00",
@@ -446,13 +442,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Phantom of the Paradise",
-          "showtimes": [
-            "2026-09-14T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2969/seats"
-        },
         {
           "title": "All That Jazz",
           "showtimes": [
