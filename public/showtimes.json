@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T11:20:39-04:00",
+  "lastUpdated": "2026-09-15T14:51:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -368,14 +368,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
-          "showtimes": [
-            "2026-09-15T11:40:00-04:00",
-            "2026-09-16T18:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
           "title": "BLACK ZOMBIE",
           "showtimes": [
             "2026-09-15T13:30:00-04:00",
@@ -461,6 +453,13 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
         },
         {
+          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
+          "showtimes": [
+            "2026-09-16T18:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
           "title": "LIVE AND LET DIE",
           "showtimes": [
             "2026-09-16T17:30:00-04:00"
@@ -474,13 +473,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "New York, New York",
-          "showtimes": [
-            "2026-09-15T11:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2945/seats"
-        },
         {
           "title": "Sweet Charity (Roadshow Version)",
           "showtimes": [
