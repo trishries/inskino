@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T21:06:06-04:00",
+  "lastUpdated": "2026-09-16T05:52:56-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -26,6 +26,20 @@
             "2026-09-16T20:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5687?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "JACKIE RAYNAL PGM 4",
+          "showtimes": [
+            "2026-09-17T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5688?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "GO GO GO SLOW",
+          "showtimes": [
+            "2026-09-17T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5791?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -37,145 +51,54 @@
         {
           "title": "2026 SUNDANCE FESTIVAL SHORT FILM TOUR (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-09-15T19:00:00-04:00",
             "2026-09-16T15:00:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578987~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578988~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "2026 SUNDANCE FILM FESTIVAL SHORT FILM TOUR",
           "showtimes": [
-            "2026-09-15T10:35:00-04:00",
-            "2026-09-15T15:00:00-04:00",
             "2026-09-16T10:35:00-04:00",
-            "2026-09-16T19:35:00-04:00"
+            "2026-09-16T19:35:00-04:00",
+            "2026-09-17T14:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578947~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578944~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "A CLOCKWORK ORANGE",
           "showtimes": [
-            "2026-09-15T11:30:00-04:00",
-            "2026-09-16T11:30:00-04:00"
+            "2026-09-16T11:30:00-04:00",
+            "2026-09-17T11:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578958~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578962~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "COLONY",
           "showtimes": [
-            "2026-09-15T21:25:00-04:00",
-            "2026-09-16T21:25:00-04:00"
+            "2026-09-16T21:25:00-04:00",
+            "2026-09-17T21:25:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578904~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578920~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "GANDAHAR",
           "showtimes": [
-            "2026-09-15T12:55:00-04:00",
-            "2026-09-15T17:30:00-04:00",
             "2026-09-16T12:55:00-04:00",
-            "2026-09-16T17:30:00-04:00"
+            "2026-09-16T17:30:00-04:00",
+            "2026-09-17T12:55:00-04:00",
+            "2026-09-17T16:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578896~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578910~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "HEATHERS",
           "showtimes": [
-            "2026-09-15T14:00:00-04:00",
-            "2026-09-15T19:30:00-04:00",
-            "2026-09-15T21:50:00-04:00",
             "2026-09-16T16:30:00-04:00",
-            "2026-09-16T21:50:00-04:00"
+            "2026-09-16T21:50:00-04:00",
+            "2026-09-17T16:30:00-04:00",
+            "2026-09-17T21:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578895~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MADDIE'S SECRET",
-          "showtimes": [
-            "2026-09-15T11:00:00-04:00",
-            "2026-09-16T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578894~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MYSTERIOUS SKIN",
-          "showtimes": [
-            "2026-09-15T16:30:00-04:00",
-            "2026-09-15T21:30:00-04:00",
-            "2026-09-16T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578898~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE SAMURAI AND THE PRISONER",
-          "showtimes": [
-            "2026-09-15T15:50:00-04:00",
-            "2026-09-16T15:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578899~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SERPENT'S PATH",
-          "showtimes": [
-            "2026-09-15T13:20:00-04:00",
-            "2026-09-15T16:00:00-04:00",
-            "2026-09-15T18:40:00-04:00",
-            "2026-09-15T21:20:00-04:00",
-            "2026-09-16T13:20:00-04:00",
-            "2026-09-16T16:00:00-04:00",
-            "2026-09-16T18:40:00-04:00",
-            "2026-09-16T21:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578427~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SOUL PATROL",
-          "showtimes": [
-            "2026-09-15T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573729~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "STOP MAKING SENSE",
-          "showtimes": [
-            "2026-09-15T11:45:00-04:00",
-            "2026-09-16T11:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578971~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE SUN NEVER SETS",
-          "showtimes": [
-            "2026-09-15T13:25:00-04:00",
-            "2026-09-16T13:25:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578897~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "UNION COUNTY",
-          "showtimes": [
-            "2026-09-15T11:05:00-04:00",
-            "2026-09-15T21:15:00-04:00",
-            "2026-09-16T21:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578893~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "WHO MOVES AMERICA",
-          "showtimes": [
-            "2026-09-15T14:25:00-04:00",
-            "2026-09-15T16:35:00-04:00",
-            "2026-09-16T14:25:00-04:00",
-            "2026-09-16T16:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578199~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "WHO MOVES AMERICA (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-09-15T18:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579187~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578913~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE HISTORY OF CONCRETE",
@@ -188,9 +111,49 @@
           "title": "THE KINGDOM",
           "showtimes": [
             "2026-09-16T14:00:00-04:00",
-            "2026-09-16T19:05:00-04:00"
+            "2026-09-16T19:05:00-04:00",
+            "2026-09-17T14:00:00-04:00",
+            "2026-09-17T19:05:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578909~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MADDIE'S SECRET",
+          "showtimes": [
+            "2026-09-16T11:00:00-04:00",
+            "2026-09-17T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578907~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MYSTERIOUS SKIN",
+          "showtimes": [
+            "2026-09-16T21:30:00-04:00",
+            "2026-09-17T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578918~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE SAMURAI AND THE PRISONER",
+          "showtimes": [
+            "2026-09-16T15:50:00-04:00",
+            "2026-09-17T15:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578914~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "SERPENT'S PATH",
+          "showtimes": [
+            "2026-09-16T13:20:00-04:00",
+            "2026-09-16T16:00:00-04:00",
+            "2026-09-16T18:40:00-04:00",
+            "2026-09-16T21:20:00-04:00",
+            "2026-09-17T13:20:00-04:00",
+            "2026-09-17T16:00:00-04:00",
+            "2026-09-17T18:40:00-04:00",
+            "2026-09-17T21:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578428~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "STOLEN TIME",
@@ -200,6 +163,23 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578972~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "STOP MAKING SENSE",
+          "showtimes": [
+            "2026-09-16T11:45:00-04:00",
+            "2026-09-17T11:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578974~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE SUN NEVER SETS",
+          "showtimes": [
+            "2026-09-16T13:25:00-04:00",
+            "2026-09-17T13:25:00-04:00",
+            "2026-09-17T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578911~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "THE SUN NEVER SETS (OPEN CAPTIONING)",
           "showtimes": [
             "2026-09-16T19:00:00-04:00"
@@ -207,11 +187,37 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578917~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "UNION COUNTY",
+          "showtimes": [
+            "2026-09-16T21:35:00-04:00",
+            "2026-09-17T11:05:00-04:00",
+            "2026-09-17T21:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578919~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "UNION COUNTY (OPEN CAPTIONING)",
           "showtimes": [
             "2026-09-16T11:05:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578906~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "WHO MOVES AMERICA",
+          "showtimes": [
+            "2026-09-16T14:25:00-04:00",
+            "2026-09-16T16:35:00-04:00",
+            "2026-09-17T14:25:00-04:00",
+            "2026-09-17T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578908~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "KNIFE: THE ATTEMPTED MURDER OF SALMAN RUSHDIE",
+          "showtimes": [
+            "2026-09-17T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578167~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -223,63 +229,56 @@
         {
           "title": "KWAIDAN",
           "showtimes": [
-            "2026-09-15T12:15:00-04:00",
-            "2026-09-15T15:50:00-04:00",
             "2026-09-16T12:15:00-04:00",
             "2026-09-16T15:50:00-04:00",
-            "2026-09-16T19:30:00-04:00"
+            "2026-09-16T19:30:00-04:00",
+            "2026-09-17T12:15:00-04:00",
+            "2026-09-17T15:50:00-04:00",
+            "2026-09-17T19:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/kwaidan-2026"
         },
         {
           "title": "BARBARA FOREVER",
           "showtimes": [
-            "2026-09-15T12:45:00-04:00",
-            "2026-09-15T15:10:00-04:00",
-            "2026-09-15T17:30:00-04:00",
-            "2026-09-15T19:45:00-04:00",
             "2026-09-16T12:45:00-04:00",
             "2026-09-16T15:10:00-04:00",
             "2026-09-16T17:30:00-04:00",
-            "2026-09-16T19:45:00-04:00"
+            "2026-09-16T19:45:00-04:00",
+            "2026-09-17T12:45:00-04:00",
+            "2026-09-17T15:10:00-04:00",
+            "2026-09-17T17:30:00-04:00",
+            "2026-09-17T19:45:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/barbara-forever"
         },
         {
           "title": "FILIPIÑANA",
           "showtimes": [
-            "2026-09-15T12:20:00-04:00",
-            "2026-09-15T14:30:00-04:00",
-            "2026-09-15T16:45:00-04:00",
-            "2026-09-15T19:00:00-04:00",
-            "2026-09-15T20:10:00-04:00",
-            "2026-09-15T21:10:00-04:00",
             "2026-09-16T12:20:00-04:00",
             "2026-09-16T14:30:00-04:00",
             "2026-09-16T16:45:00-04:00",
             "2026-09-16T19:00:00-04:00",
-            "2026-09-16T21:10:00-04:00"
+            "2026-09-16T21:10:00-04:00",
+            "2026-09-17T12:20:00-04:00",
+            "2026-09-17T14:30:00-04:00",
+            "2026-09-17T16:45:00-04:00",
+            "2026-09-17T19:00:00-04:00",
+            "2026-09-17T21:10:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/filipinana"
         },
         {
           "title": "LATE FAME",
           "showtimes": [
-            "2026-09-15T13:00:00-04:00",
-            "2026-09-15T15:15:00-04:00",
-            "2026-09-15T18:00:00-04:00",
             "2026-09-16T13:00:00-04:00",
             "2026-09-16T15:15:00-04:00",
-            "2026-09-16T21:00:00-04:00"
+            "2026-09-16T21:00:00-04:00",
+            "2026-09-17T13:00:00-04:00",
+            "2026-09-17T15:15:00-04:00",
+            "2026-09-17T21:15:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/late-fame"
-        },
-        {
-          "title": "THE INCIDENT",
-          "showtimes": [
-            "2026-09-15T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/the-incident-nyc-in-transit"
         },
         {
           "title": "THE YOUNG FILM FORUM (YFF) ARCHIVE DIVE: PIN: A PLASTIC NIGHTMARE",
@@ -287,6 +286,13 @@
             "2026-09-16T18:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/pin-yff-archive-dive"
+        },
+        {
+          "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION…",
+          "showtimes": [
+            "2026-09-17T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/you-had-to-be-there"
         }
       ]
     },
@@ -352,75 +358,22 @@
       "status": "ok",
       "films": [
         {
-          "title": "BLACK ZOMBIE",
-          "showtimes": [
-            "2026-09-15T19:45:00-04:00",
-            "2026-09-16T13:30:00-04:00",
-            "2026-09-16T15:30:00-04:00",
-            "2026-09-16T19:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "ELEPHANT",
-          "showtimes": [
-            "2026-09-15T20:00:00-04:00",
-            "2026-09-16T20:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-15T16:50:00-04:00",
-            "2026-09-15T19:20:00-04:00",
-            "2026-09-16T13:45:00-04:00",
-            "2026-09-16T16:15:00-04:00",
-            "2026-09-16T19:35:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "NIGHT OF THE LIVING DEAD",
-          "showtimes": [
-            "2026-09-15T17:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "ON A STRING",
-          "showtimes": [
-            "2026-09-15T18:00:00-04:00",
-            "2026-09-16T11:50:00-04:00",
-            "2026-09-16T14:05:00-04:00",
-            "2026-09-16T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
-          "showtimes": [
-            "2026-09-15T18:00:00-04:00",
-            "2026-09-16T11:45:00-04:00",
-            "2026-09-16T13:45:00-04:00",
-            "2026-09-16T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "THE WORK IN PROGRESS",
-          "showtimes": [
-            "2026-09-15T19:50:00-04:00",
-            "2026-09-16T11:55:00-04:00",
-            "2026-09-16T15:50:00-04:00",
-            "2026-09-16T19:40:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
           "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
           "showtimes": [
-            "2026-09-16T18:45:00-04:00"
+            "2026-09-16T18:45:00-04:00",
+            "2026-09-17T11:50:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "BLACK ZOMBIE",
+          "showtimes": [
+            "2026-09-16T13:30:00-04:00",
+            "2026-09-16T15:30:00-04:00",
+            "2026-09-16T19:55:00-04:00",
+            "2026-09-17T14:20:00-04:00",
+            "2026-09-17T16:20:00-04:00",
+            "2026-09-17T19:55:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
         },
@@ -428,7 +381,27 @@
           "title": "BOORMAN AND THE DEVIL",
           "showtimes": [
             "2026-09-16T11:30:00-04:00",
-            "2026-09-16T15:45:00-04:00"
+            "2026-09-16T15:45:00-04:00",
+            "2026-09-17T12:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "ELEPHANT",
+          "showtimes": [
+            "2026-09-16T20:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-16T13:45:00-04:00",
+            "2026-09-16T16:15:00-04:00",
+            "2026-09-16T19:35:00-04:00",
+            "2026-09-17T14:30:00-04:00",
+            "2026-09-17T17:00:00-04:00",
+            "2026-09-17T19:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
         },
@@ -438,6 +411,56 @@
             "2026-09-16T17:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "ON A STRING",
+          "showtimes": [
+            "2026-09-16T11:50:00-04:00",
+            "2026-09-16T14:05:00-04:00",
+            "2026-09-16T18:00:00-04:00",
+            "2026-09-17T12:30:00-04:00",
+            "2026-09-17T14:05:00-04:00",
+            "2026-09-17T20:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
+          "showtimes": [
+            "2026-09-16T11:45:00-04:00",
+            "2026-09-16T13:45:00-04:00",
+            "2026-09-16T18:00:00-04:00",
+            "2026-09-17T12:10:00-04:00",
+            "2026-09-17T14:10:00-04:00",
+            "2026-09-17T16:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "THE WORK IN PROGRESS",
+          "showtimes": [
+            "2026-09-16T11:55:00-04:00",
+            "2026-09-16T15:50:00-04:00",
+            "2026-09-16T19:40:00-04:00",
+            "2026-09-17T11:55:00-04:00",
+            "2026-09-17T15:50:00-04:00",
+            "2026-09-17T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "CHECKOUT",
+          "showtimes": [
+            "2026-09-17T19:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
+        },
+        {
+          "title": "I WALKED WITH A ZOMBIE",
+          "showtimes": [
+            "2026-09-17T18:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
         }
       ]
     },
@@ -447,11 +470,32 @@
       "status": "ok",
       "films": [
         {
-          "title": "Blade Runner: The Final Cut",
+          "title": "The Tree of Life",
           "showtimes": [
-            "2026-09-15T22:30:00-04:00"
+            "2026-09-17T11:30:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3000/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3001/seats"
+        },
+        {
+          "title": "Boogie Nights",
+          "showtimes": [
+            "2026-09-17T14:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3002/seats"
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "showtimes": [
+            "2026-09-17T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3003/seats"
+        },
+        {
+          "title": "Scott Pilgrim vs. the World",
+          "showtimes": [
+            "2026-09-17T22:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3004/seats"
         }
       ]
     },
