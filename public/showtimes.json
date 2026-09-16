@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T17:54:55-04:00",
+  "lastUpdated": "2026-09-15T21:06:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,26 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "JACKIE RAYNAL PGM 1",
-          "showtimes": [
-            "2026-09-15T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5685?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Day of Wrath",
-          "showtimes": [
-            "2026-09-15T21:00:00-04:00",
-            "2026-09-16T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5637?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "JACKIE RAYNAL PGM 2",
           "showtimes": [
             "2026-09-16T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5686?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: Day of Wrath",
+          "showtimes": [
+            "2026-09-16T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5638?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "JACKIE RAYNAL PGM 3",
@@ -301,9 +293,58 @@
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
-      "status": "error",
-      "films": [],
-      "error": "Metrograph HTTP 403"
+      "status": "ok",
+      "films": [
+        {
+          "title": "2046",
+          "showtimes": [
+            "2026-09-16T15:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30966"
+        },
+        {
+          "title": "CHASING BUTTERFLIES",
+          "showtimes": [
+            "2026-09-16T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30967"
+        },
+        {
+          "title": "OUT OF THE BLUE",
+          "showtimes": [
+            "2026-09-16T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30968"
+        },
+        {
+          "title": "A BRIGHTER SUMMER DAY",
+          "showtimes": [
+            "2026-09-16T18:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30972"
+        },
+        {
+          "title": "DON'T PLAY WITH FIRE",
+          "showtimes": [
+            "2026-09-16T20:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30969"
+        },
+        {
+          "title": "WITHNAIL AND I",
+          "showtimes": [
+            "2026-09-16T22:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30970"
+        },
+        {
+          "title": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
+          "showtimes": [
+            "2026-09-16T22:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30971"
+        }
+      ]
     },
     {
       "name": "Quad Cinema",
@@ -313,21 +354,10 @@
         {
           "title": "BLACK ZOMBIE",
           "showtimes": [
-            "2026-09-15T13:30:00-04:00",
-            "2026-09-15T15:30:00-04:00",
             "2026-09-15T19:45:00-04:00",
             "2026-09-16T13:30:00-04:00",
             "2026-09-16T15:30:00-04:00",
             "2026-09-16T19:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
-        },
-        {
-          "title": "BOORMAN AND THE DEVIL",
-          "showtimes": [
-            "2026-09-15T15:45:00-04:00",
-            "2026-09-16T11:30:00-04:00",
-            "2026-09-16T15:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-15"
         },
@@ -342,7 +372,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-15T14:20:00-04:00",
             "2026-09-15T16:50:00-04:00",
             "2026-09-15T19:20:00-04:00",
             "2026-09-16T13:45:00-04:00",
@@ -361,7 +390,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-15T14:05:00-04:00",
             "2026-09-15T18:00:00-04:00",
             "2026-09-16T11:50:00-04:00",
             "2026-09-16T14:05:00-04:00",
@@ -372,7 +400,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-15T13:45:00-04:00",
             "2026-09-15T18:00:00-04:00",
             "2026-09-16T11:45:00-04:00",
             "2026-09-16T13:45:00-04:00",
@@ -383,7 +410,6 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-15T15:50:00-04:00",
             "2026-09-15T19:50:00-04:00",
             "2026-09-16T11:55:00-04:00",
             "2026-09-16T15:50:00-04:00",
@@ -395,6 +421,14 @@
           "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
           "showtimes": [
             "2026-09-16T18:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "BOORMAN AND THE DEVIL",
+          "showtimes": [
+            "2026-09-16T11:30:00-04:00",
+            "2026-09-16T15:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
         },
@@ -412,13 +446,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "White Nights",
-          "showtimes": [
-            "2026-09-15T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2968/seats"
-        },
         {
           "title": "Blade Runner: The Final Cut",
           "showtimes": [
