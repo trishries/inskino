@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T14:54:50-04:00",
+  "lastUpdated": "2026-09-17T17:55:23-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -368,15 +368,8 @@
           "showtimes": [
             "2026-09-17T14:20:00-04:00",
             "2026-09-17T16:20:00-04:00",
-            "2026-09-17T19:55:00-04:00",
+            "2026-09-17T20:10:00-04:00",
             "2026-09-18T21:25:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
-        },
-        {
-          "title": "BOORMAN AND THE DEVIL",
-          "showtimes": [
-            "2026-09-17T12:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
         },
@@ -414,7 +407,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-17T12:30:00-04:00",
             "2026-09-17T14:05:00-04:00",
             "2026-09-17T20:15:00-04:00"
           ],
@@ -423,7 +415,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-17T12:10:00-04:00",
             "2026-09-17T14:10:00-04:00",
             "2026-09-17T16:10:00-04:00",
             "2026-09-18T16:55:00-04:00"
@@ -433,9 +424,8 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-17T11:55:00-04:00",
             "2026-09-17T15:50:00-04:00",
-            "2026-09-17T18:00:00-04:00"
+            "2026-09-17T18:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
         },
@@ -469,14 +459,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Boogie Nights",
-          "showtimes": [
-            "2026-09-17T14:45:00-04:00",
-            "2026-09-18T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3002/seats"
-        },
-        {
           "title": "2001: A Space Odyssey",
           "showtimes": [
             "2026-09-17T18:30:00-04:00"
@@ -496,6 +478,13 @@
             "2026-09-18T11:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3005/seats"
+        },
+        {
+          "title": "Boogie Nights",
+          "showtimes": [
+            "2026-09-18T15:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3006/seats"
         },
         {
           "title": "Lawrence of Arabia",
