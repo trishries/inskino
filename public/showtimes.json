@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T05:56:44-04:00",
+  "lastUpdated": "2026-09-17T11:22:13-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -46,7 +46,7 @@
           "showtimes": [
             "2026-09-17T10:35:00-04:00",
             "2026-09-17T14:55:00-04:00",
-            "2026-09-18T12:30:00-04:00",
+            "2026-09-18T12:50:00-04:00",
             "2026-09-18T19:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578950~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -98,7 +98,7 @@
           "showtimes": [
             "2026-09-17T19:30:00-04:00",
             "2026-09-18T11:05:00-04:00",
-            "2026-09-18T13:20:00-04:00",
+            "2026-09-18T13:25:00-04:00",
             "2026-09-18T15:55:00-04:00",
             "2026-09-18T18:30:00-04:00"
           ],
@@ -166,6 +166,7 @@
           "showtimes": [
             "2026-09-17T14:25:00-04:00",
             "2026-09-17T16:15:00-04:00",
+            "2026-09-18T12:30:00-04:00",
             "2026-09-18T17:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578925~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -181,7 +182,7 @@
           "title": "ARSA",
           "showtimes": [
             "2026-09-18T11:00:00-04:00",
-            "2026-09-18T14:00:00-04:00",
+            "2026-09-18T14:10:00-04:00",
             "2026-09-18T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579455~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -326,13 +327,6 @@
             "2026-09-18T15:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30828"
-        },
-        {
-          "title": "STRAY DOGS",
-          "showtimes": [
-            "2026-09-18T18:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30830"
         },
         {
           "title": "THE BLADE",
