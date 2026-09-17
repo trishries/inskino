@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:22:13-04:00",
+  "lastUpdated": "2026-09-17T14:54:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -364,13 +364,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ANYONE LIVED IN A PRETTY HOW TOWN",
-          "showtimes": [
-            "2026-09-17T11:50:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
-        },
-        {
           "title": "BLACK ZOMBIE",
           "showtimes": [
             "2026-09-17T14:20:00-04:00",
@@ -475,13 +468,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Tree of Life",
-          "showtimes": [
-            "2026-09-17T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3001/seats"
-        },
         {
           "title": "Boogie Nights",
           "showtimes": [
