@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-09-16T17:52:36-04:00",
+  "lastUpdated": "2026-09-16T21:03:07-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "JACKIE RAYNAL PGM 2",
-          "showtimes": [
-            "2026-09-16T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5686?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Day of Wrath",
-          "showtimes": [
-            "2026-09-16T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5638?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "JACKIE RAYNAL PGM 3",
-          "showtimes": [
-            "2026-09-16T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5687?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "JACKIE RAYNAL PGM 4",
           "showtimes": [
@@ -60,6 +39,7 @@
           "showtimes": [
             "2026-09-16T10:35:00-04:00",
             "2026-09-16T19:35:00-04:00",
+            "2026-09-17T10:35:00-04:00",
             "2026-09-17T14:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578944~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -368,20 +348,10 @@
         {
           "title": "BLACK ZOMBIE",
           "showtimes": [
-            "2026-09-16T13:30:00-04:00",
-            "2026-09-16T15:30:00-04:00",
             "2026-09-16T19:55:00-04:00",
             "2026-09-17T14:20:00-04:00",
             "2026-09-17T16:20:00-04:00",
             "2026-09-17T19:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
-        },
-        {
-          "title": "BOORMAN AND THE DEVIL",
-          "showtimes": [
-            "2026-09-16T15:45:00-04:00",
-            "2026-09-17T12:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
         },
@@ -395,7 +365,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-16T13:45:00-04:00",
             "2026-09-16T16:15:00-04:00",
             "2026-09-16T19:35:00-04:00",
             "2026-09-17T14:30:00-04:00",
@@ -414,7 +383,6 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-16T14:05:00-04:00",
             "2026-09-16T18:00:00-04:00",
             "2026-09-17T12:30:00-04:00",
             "2026-09-17T14:05:00-04:00",
@@ -425,7 +393,6 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-16T13:45:00-04:00",
             "2026-09-16T18:00:00-04:00",
             "2026-09-17T12:10:00-04:00",
             "2026-09-17T14:10:00-04:00",
@@ -436,13 +403,19 @@
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-16T15:50:00-04:00",
             "2026-09-16T19:40:00-04:00",
             "2026-09-17T11:55:00-04:00",
             "2026-09-17T15:50:00-04:00",
             "2026-09-17T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-16"
+        },
+        {
+          "title": "BOORMAN AND THE DEVIL",
+          "showtimes": [
+            "2026-09-17T12:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
         },
         {
           "title": "CHECKOUT",
