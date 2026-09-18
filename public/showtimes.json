@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T05:40:22-04:00",
+  "lastUpdated": "2026-09-18T10:42:06-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -117,7 +117,9 @@
             "2026-09-19T18:20:00-04:00",
             "2026-09-19T19:15:00-04:00",
             "2026-09-19T20:45:00-04:00",
-            "2026-09-19T21:45:00-04:00"
+            "2026-09-19T21:10:00-04:00",
+            "2026-09-19T21:45:00-04:00",
+            "2026-09-19T23:40:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579906~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -127,7 +129,7 @@
             "2026-09-18T16:20:00-04:00",
             "2026-09-18T21:05:00-04:00",
             "2026-09-19T16:20:00-04:00",
-            "2026-09-19T21:05:00-04:00"
+            "2026-09-19T21:50:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579910~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -148,7 +150,7 @@
           "title": "POPSTAR: NEVER STOP NEVER STOPPING",
           "showtimes": [
             "2026-09-18T23:50:00-04:00",
-            "2026-09-19T23:45:00-04:00"
+            "2026-09-19T23:50:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580048~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -288,115 +290,9 @@
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
-      "status": "ok",
-      "films": [
-        {
-          "title": "CHUNGKING EXPRESS",
-          "showtimes": [
-            "2026-09-18T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31035"
-        },
-        {
-          "title": "CLASH OF THE TITANS",
-          "showtimes": [
-            "2026-09-18T12:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31036"
-        },
-        {
-          "title": "EVITA",
-          "showtimes": [
-            "2026-09-18T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30828"
-        },
-        {
-          "title": "THE BLADE",
-          "showtimes": [
-            "2026-09-18T20:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30831"
-        },
-        {
-          "title": "THE WITCH HUNT",
-          "showtimes": [
-            "2026-09-18T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30832"
-        },
-        {
-          "title": "KNOCK OFF",
-          "showtimes": [
-            "2026-09-18T23:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30833"
-        },
-        {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
-          "showtimes": [
-            "2026-09-18T23:00:00-04:00",
-            "2026-09-19T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30834"
-        },
-        {
-          "title": "PAPRIKA",
-          "showtimes": [
-            "2026-09-19T11:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30835"
-        },
-        {
-          "title": "OEDIPUS REX",
-          "showtimes": [
-            "2026-09-19T12:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30845"
-        },
-        {
-          "title": "ZU: WARRIORS FROM THE MAGIC MOUNTAIN",
-          "showtimes": [
-            "2026-09-19T13:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30846"
-        },
-        {
-          "title": "NOTES TOWARD AN AFRICAN ORESTES",
-          "showtimes": [
-            "2026-09-19T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30844"
-        },
-        {
-          "title": "GAMES OF LOVE AND LONELINESS",
-          "showtimes": [
-            "2026-09-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30843"
-        },
-        {
-          "title": "NEXT OF KIN",
-          "showtimes": [
-            "2026-09-19T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30842"
-        },
-        {
-          "title": "DON'T PLAY WITH FIRE",
-          "showtimes": [
-            "2026-09-19T22:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30840"
-        },
-        {
-          "title": "THE WARRIORS",
-          "showtimes": [
-            "2026-09-19T22:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30839"
-        }
-      ]
+      "status": "error",
+      "films": [],
+      "error": "Metrograph HTTP 403"
     },
     {
       "name": "Quad Cinema",
