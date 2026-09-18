@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-09-17T17:55:23-04:00",
+  "lastUpdated": "2026-09-17T20:57:52-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "JACKIE RAYNAL PGM 4",
-          "showtimes": [
-            "2026-09-17T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5688?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "GO GO GO SLOW",
-          "showtimes": [
-            "2026-09-17T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5791?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "RUBBLE ON SCREEN PGM 1",
           "showtimes": [
@@ -329,6 +315,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30828"
         },
         {
+          "title": "STRAY DOGS",
+          "showtimes": [
+            "2026-09-18T18:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30830"
+        },
+        {
           "title": "THE BLADE",
           "showtimes": [
             "2026-09-18T20:50:00-04:00"
@@ -366,8 +359,6 @@
         {
           "title": "BLACK ZOMBIE",
           "showtimes": [
-            "2026-09-17T14:20:00-04:00",
-            "2026-09-17T16:20:00-04:00",
             "2026-09-17T20:10:00-04:00",
             "2026-09-18T21:25:00-04:00"
           ],
@@ -388,7 +379,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-17T14:30:00-04:00",
             "2026-09-17T17:00:00-04:00",
             "2026-09-17T19:30:00-04:00",
             "2026-09-18T11:55:00-04:00",
@@ -407,24 +397,13 @@
         {
           "title": "ON A STRING",
           "showtimes": [
-            "2026-09-17T14:05:00-04:00",
             "2026-09-17T20:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
-        },
-        {
-          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
-          "showtimes": [
-            "2026-09-17T14:10:00-04:00",
-            "2026-09-17T16:10:00-04:00",
-            "2026-09-18T16:55:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
         },
         {
           "title": "THE WORK IN PROGRESS",
           "showtimes": [
-            "2026-09-17T15:50:00-04:00",
             "2026-09-17T18:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-17"
@@ -450,6 +429,13 @@
             "2026-09-18T21:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-18"
+        },
+        {
+          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
+          "showtimes": [
+            "2026-09-18T16:55:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-18"
         }
       ]
     },
@@ -458,13 +444,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "2001: A Space Odyssey",
-          "showtimes": [
-            "2026-09-17T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3003/seats"
-        },
         {
           "title": "Scott Pilgrim vs. the World",
           "showtimes": [
