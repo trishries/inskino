@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-09-19T13:54:37-04:00",
+  "lastUpdated": "2026-09-19T17:17:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE GLORIA OF YOUR IMAGINATION",
-          "showtimes": [
-            "2026-09-19T17:15:00-04:00",
-            "2026-09-20T19:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5690?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "RUBBLE ON SCREEN PGM 2",
           "showtimes": [
@@ -50,6 +42,13 @@
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5693?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
+          "title": "THE GLORIA OF YOUR IMAGINATION",
+          "showtimes": [
+            "2026-09-20T19:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5691?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
           "title": "RUBBLE ON SCREEN PGM 5",
           "showtimes": [
             "2026-09-20T20:00:00-04:00"
@@ -81,7 +80,7 @@
         {
           "title": "ANGEL'S EGG",
           "showtimes": [
-            "2026-09-19T23:35:00-04:00"
+            "2026-09-19T23:50:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580046~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -107,7 +106,7 @@
         {
           "title": "HEATHERS",
           "showtimes": [
-            "2026-09-19T21:20:00-04:00",
+            "2026-09-19T21:25:00-04:00",
             "2026-09-20T11:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579934~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -127,6 +126,7 @@
             "2026-09-19T20:45:00-04:00",
             "2026-09-19T21:10:00-04:00",
             "2026-09-19T21:45:00-04:00",
+            "2026-09-19T22:00:00-04:00",
             "2026-09-19T23:40:00-04:00",
             "2026-09-20T10:45:00-04:00",
             "2026-09-20T11:10:00-04:00",
@@ -140,6 +140,7 @@
             "2026-09-20T18:15:00-04:00",
             "2026-09-20T19:15:00-04:00",
             "2026-09-20T20:45:00-04:00",
+            "2026-09-20T21:15:00-04:00",
             "2026-09-20T21:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579924~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -148,9 +149,7 @@
           "title": "THE KINGDOM",
           "showtimes": [
             "2026-09-19T16:20:00-04:00",
-            "2026-09-19T21:50:00-04:00",
-            "2026-09-20T16:20:00-04:00",
-            "2026-09-20T21:05:00-04:00"
+            "2026-09-20T16:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579928~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -176,7 +175,7 @@
         {
           "title": "POPSTAR: NEVER STOP NEVER STOPPING",
           "showtimes": [
-            "2026-09-19T23:50:00-04:00"
+            "2026-09-19T23:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580049~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -184,8 +183,7 @@
           "title": "SERPENT'S PATH",
           "showtimes": [
             "2026-09-19T14:50:00-04:00",
-            "2026-09-20T14:50:00-04:00",
-            "2026-09-20T21:50:00-04:00"
+            "2026-09-20T14:50:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579929~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -322,13 +320,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30835"
         },
         {
-          "title": "OEDIPUS REX",
-          "showtimes": [
-            "2026-09-19T12:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30845"
-        },
-        {
           "title": "ZU: WARRIORS FROM THE MAGIC MOUNTAIN",
           "showtimes": [
             "2026-09-19T13:50:00-04:00"
@@ -420,13 +411,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30856"
         },
         {
-          "title": "STRAY DOGS",
-          "showtimes": [
-            "2026-09-20T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30855"
-        },
-        {
           "title": "SE7EN",
           "showtimes": [
             "2026-09-20T20:50:00-04:00"
@@ -443,7 +427,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-19T12:20:00-04:00",
             "2026-09-19T14:30:00-04:00",
             "2026-09-19T16:45:00-04:00",
             "2026-09-19T19:00:00-04:00",
@@ -466,7 +449,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-19T12:05:00-04:00",
             "2026-09-19T14:10:00-04:00",
             "2026-09-19T16:15:00-04:00",
             "2026-09-19T18:20:00-04:00",
@@ -481,7 +463,6 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-19T12:00:00-04:00",
             "2026-09-19T14:15:00-04:00",
             "2026-09-19T16:30:00-04:00",
             "2026-09-19T18:45:00-04:00",
@@ -496,7 +477,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-19T11:55:00-04:00",
             "2026-09-19T14:25:00-04:00",
             "2026-09-19T18:55:00-04:00",
             "2026-09-20T14:35:00-04:00",
@@ -519,13 +499,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Letty Lynton",
-          "showtimes": [
-            "2026-09-19T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2995/seats"
-        },
         {
           "title": "Babylon",
           "showtimes": [
