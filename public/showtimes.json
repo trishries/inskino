@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T05:25:43-04:00",
+  "lastUpdated": "2026-09-19T10:02:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -348,13 +348,6 @@
             "2026-09-19T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30842"
-        },
-        {
-          "title": "ZIDANE: A 21ST CENTURY PORTRAIT",
-          "showtimes": [
-            "2026-09-19T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30837"
         },
         {
           "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
