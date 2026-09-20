@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-09-19T17:17:44-04:00",
+  "lastUpdated": "2026-09-19T20:36:03-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "RUBBLE ON SCREEN PGM 2",
-          "showtimes": [
-            "2026-09-19T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5705?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "RUBBLE ON SCREEN PGM 3",
-          "showtimes": [
-            "2026-09-19T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5706?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "WHEN IT WAS BLUE",
-          "showtimes": [
-            "2026-09-19T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5692?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "RUBBLE ON SCREEN PGM 4",
           "showtimes": [
@@ -427,7 +406,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-19T14:30:00-04:00",
             "2026-09-19T16:45:00-04:00",
             "2026-09-19T19:00:00-04:00",
             "2026-09-19T21:05:00-04:00",
@@ -449,8 +427,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-19T14:10:00-04:00",
-            "2026-09-19T16:15:00-04:00",
             "2026-09-19T18:20:00-04:00",
             "2026-09-19T20:30:00-04:00",
             "2026-09-20T13:15:00-04:00",
@@ -463,7 +439,6 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-19T14:15:00-04:00",
             "2026-09-19T16:30:00-04:00",
             "2026-09-19T18:45:00-04:00",
             "2026-09-19T21:15:00-04:00",
@@ -477,7 +452,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-19T14:25:00-04:00",
             "2026-09-19T18:55:00-04:00",
             "2026-09-20T14:35:00-04:00",
             "2026-09-20T19:00:00-04:00"
@@ -499,13 +473,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Babylon",
-          "showtimes": [
-            "2026-09-19T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3009/seats"
-        },
         {
           "title": "Sorcerer",
           "showtimes": [
