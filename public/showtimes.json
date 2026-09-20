@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-09-20T14:09:50-04:00",
+  "lastUpdated": "2026-09-20T17:09:54-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "RUBBLE ON SCREEN PGM 4",
-          "showtimes": [
-            "2026-09-20T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5708?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "Jennifer Reeves Short Film Program",
           "showtimes": [
@@ -277,6 +270,13 @@
       "status": "ok",
       "films": [
         {
+          "title": "THE LITTLE MERMAID",
+          "showtimes": [
+            "2026-09-20T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30847"
+        },
+        {
           "title": "MEDEA (1969)",
           "showtimes": [
             "2026-09-20T12:50:00-04:00"
@@ -303,13 +303,6 @@
             "2026-09-20T17:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30857"
-        },
-        {
-          "title": "YI YI",
-          "showtimes": [
-            "2026-09-20T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30853"
         },
         {
           "title": "WIVES III",
@@ -391,7 +384,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-20T13:00:00-04:00",
             "2026-09-20T15:10:00-04:00",
             "2026-09-20T17:15:00-04:00",
             "2026-09-20T19:20:00-04:00",
@@ -413,7 +405,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-20T13:15:00-04:00",
             "2026-09-20T15:20:00-04:00",
             "2026-09-20T17:25:00-04:00",
             "2026-09-20T19:30:00-04:00",
@@ -427,7 +418,6 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-20T12:40:00-04:00",
             "2026-09-20T14:50:00-04:00",
             "2026-09-20T17:00:00-04:00",
             "2026-09-20T19:10:00-04:00",
@@ -451,10 +441,9 @@
         {
           "title": "VIRGINIA WOOLF’S NIGHT & DAY",
           "showtimes": [
-            "2026-09-20T12:35:00-04:00",
             "2026-09-21T12:35:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-20"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-21"
         }
       ]
     },
@@ -463,13 +452,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Barry Lyndon",
-          "showtimes": [
-            "2026-09-20T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3012/seats"
-        },
         {
           "title": "Mad Max: Fury Road",
           "showtimes": [
