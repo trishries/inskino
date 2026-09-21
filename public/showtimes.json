@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-09-20T17:09:54-04:00",
+  "lastUpdated": "2026-09-20T20:47:17-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "Jennifer Reeves Short Film Program",
-          "showtimes": [
-            "2026-09-20T17:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5693?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE GLORIA OF YOUR IMAGINATION",
-          "showtimes": [
-            "2026-09-20T19:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5691?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "RUBBLE ON SCREEN PGM 5",
-          "showtimes": [
-            "2026-09-20T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5710?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "RUBBLE ON SCREEN PGM 6",
           "showtimes": [
@@ -384,7 +363,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-20T15:10:00-04:00",
             "2026-09-20T17:15:00-04:00",
             "2026-09-20T19:20:00-04:00",
             "2026-09-21T13:00:00-04:00",
@@ -405,7 +383,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-20T15:20:00-04:00",
             "2026-09-20T17:25:00-04:00",
             "2026-09-20T19:30:00-04:00",
             "2026-09-21T13:15:00-04:00",
@@ -418,7 +395,6 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-20T14:50:00-04:00",
             "2026-09-20T17:00:00-04:00",
             "2026-09-20T19:10:00-04:00",
             "2026-09-21T12:40:00-04:00",
@@ -431,7 +407,6 @@
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-20T14:35:00-04:00",
             "2026-09-20T19:00:00-04:00",
             "2026-09-21T14:35:00-04:00",
             "2026-09-21T19:00:00-04:00"
