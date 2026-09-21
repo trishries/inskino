@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T12:42:25-04:00",
+  "lastUpdated": "2026-09-21T15:55:59-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -327,17 +327,16 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-21"
         },
         {
-          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
-          "showtimes": [
-            "2026-09-21T12:35:00-04:00",
-            "2026-09-22T17:35:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-21"
-        },
-        {
           "title": "TOTALLY F***ED UP",
           "showtimes": [
             "2026-09-22T20:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-22"
+        },
+        {
+          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
+          "showtimes": [
+            "2026-09-22T17:35:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-22"
         }
@@ -348,13 +347,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "All That Jazz",
-          "showtimes": [
-            "2026-09-21T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3015/seats"
-        },
         {
           "title": "The Bridge on the River Kwai",
           "showtimes": [
