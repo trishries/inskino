@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T06:37:48-04:00",
+  "lastUpdated": "2026-09-21T12:42:25-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -259,114 +259,9 @@
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
-      "status": "ok",
-      "films": [
-        {
-          "title": "A BRIGHTER SUMMER DAY",
-          "showtimes": [
-            "2026-09-21T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31003"
-        },
-        {
-          "title": "JASON AND THE ARGONAUTS",
-          "showtimes": [
-            "2026-09-21T15:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31004"
-        },
-        {
-          "title": "DAYS AND NIGHTS IN THE FOREST",
-          "showtimes": [
-            "2026-09-21T17:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31005"
-        },
-        {
-          "title": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
-          "showtimes": [
-            "2026-09-21T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31007"
-        },
-        {
-          "title": "PEKING OPERA BLUES",
-          "showtimes": [
-            "2026-09-21T19:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31006"
-        },
-        {
-          "title": "UNCUT GEMS",
-          "showtimes": [
-            "2026-09-21T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31008"
-        },
-        {
-          "title": "DELICATESSEN",
-          "showtimes": [
-            "2026-09-21T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31009"
-        },
-        {
-          "title": "PETITE MAMAN",
-          "showtimes": [
-            "2026-09-22T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31010"
-        },
-        {
-          "title": "LA HAINE",
-          "showtimes": [
-            "2026-09-22T14:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31017"
-        },
-        {
-          "title": "L'ARGENT",
-          "showtimes": [
-            "2026-09-22T15:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31011"
-        },
-        {
-          "title": "ORPHEUS",
-          "showtimes": [
-            "2026-09-22T16:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31016"
-        },
-        {
-          "title": "WAKE IN FRIGHT",
-          "showtimes": [
-            "2026-09-22T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31012"
-        },
-        {
-          "title": "THE CITY OF LOST CHILDREN",
-          "showtimes": [
-            "2026-09-22T19:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31013"
-        },
-        {
-          "title": "OFFICE SPACE",
-          "showtimes": [
-            "2026-09-22T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31015"
-        },
-        {
-          "title": "SPIDER BABY",
-          "showtimes": [
-            "2026-09-22T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31014"
-        }
-      ]
+      "status": "error",
+      "films": [],
+      "error": "Metrograph HTTP 403"
     },
     {
       "name": "Quad Cinema",
@@ -454,14 +349,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Heat",
-          "showtimes": [
-            "2026-09-21T11:30:00-04:00",
-            "2026-09-22T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3014/seats"
-        },
-        {
           "title": "All That Jazz",
           "showtimes": [
             "2026-09-21T15:15:00-04:00"
@@ -495,6 +382,13 @@
             "2026-09-22T16:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3019/seats"
+        },
+        {
+          "title": "Heat",
+          "showtimes": [
+            "2026-09-22T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3020/seats"
         },
         {
           "title": "Back to the Future",
