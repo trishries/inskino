@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T11:16:05-04:00",
+  "lastUpdated": "2026-09-22T14:42:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -487,13 +487,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Tree of Life",
-          "showtimes": [
-            "2026-09-22T12:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3018/seats"
-        },
         {
           "title": "Elevator to the Gallows",
           "showtimes": [
