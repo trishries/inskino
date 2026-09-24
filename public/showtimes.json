@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T14:58:42-04:00",
+  "lastUpdated": "2026-09-24T17:57:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -439,7 +439,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-24T13:00:00-04:00",
             "2026-09-24T15:10:00-04:00",
             "2026-09-24T17:20:00-04:00",
             "2026-09-24T19:30:00-04:00",
@@ -452,17 +451,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
         },
         {
-          "title": "BLACK ZOMBIE",
-          "showtimes": [
-            "2026-09-24T13:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
-        },
-        {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-24T12:00:00-04:00",
-            "2026-09-24T14:00:00-04:00",
             "2026-09-24T16:00:00-04:00",
             "2026-09-25T12:15:00-04:00",
             "2026-09-25T19:10:00-04:00"
@@ -472,7 +462,6 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-24T12:30:00-04:00",
             "2026-09-24T14:45:00-04:00",
             "2026-09-24T17:00:00-04:00",
             "2026-09-24T19:15:00-04:00",
@@ -494,13 +483,6 @@
           "showtimes": [
             "2026-09-24T18:20:00-04:00",
             "2026-09-24T20:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
-        },
-        {
-          "title": "VIRGINIA WOOLF’S NIGHT & DAY",
-          "showtimes": [
-            "2026-09-24T11:55:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
         },
@@ -533,13 +515,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Sorcerer",
-          "showtimes": [
-            "2026-09-24T15:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3023/seats"
-        },
         {
           "title": "Boogie Nights",
           "showtimes": [
