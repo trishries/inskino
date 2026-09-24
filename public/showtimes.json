@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T11:35:36-04:00",
+  "lastUpdated": "2026-09-24T14:58:42-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -315,9 +315,121 @@
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
-      "status": "error",
-      "films": [],
-      "error": "Metrograph HTTP 403"
+      "status": "ok",
+      "films": [
+        {
+          "title": "CLASH OF THE TITANS",
+          "showtimes": [
+            "2026-09-24T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31027"
+        },
+        {
+          "title": "REBELS OF THE NEON GOD",
+          "showtimes": [
+            "2026-09-24T14:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31028"
+        },
+        {
+          "title": "LA NOTTE",
+          "showtimes": [
+            "2026-09-24T16:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31030"
+        },
+        {
+          "title": "PLAYTIME",
+          "showtimes": [
+            "2026-09-24T16:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31029"
+        },
+        {
+          "title": "TROY",
+          "showtimes": [
+            "2026-09-24T18:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31031"
+        },
+        {
+          "title": "BRAZIL",
+          "showtimes": [
+            "2026-09-24T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31032"
+        },
+        {
+          "title": "TRUE ROMANCE",
+          "showtimes": [
+            "2026-09-24T21:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31033"
+        },
+        {
+          "title": "EVE'S BAYOU",
+          "showtimes": [
+            "2026-09-24T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31034"
+        },
+        {
+          "title": "FOUR ADVENTURES OF REINETTE AND MIRABELLE",
+          "showtimes": [
+            "2026-09-25T14:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30918"
+        },
+        {
+          "title": "THE WEDDING BANQUET",
+          "showtimes": [
+            "2026-09-25T14:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30914"
+        },
+        {
+          "title": "DAUGHTER'S DAUGHTER",
+          "showtimes": [
+            "2026-09-25T16:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30907"
+        },
+        {
+          "title": "THE BLADE",
+          "showtimes": [
+            "2026-09-25T17:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30915"
+        },
+        {
+          "title": "SE7EN",
+          "showtimes": [
+            "2026-09-25T19:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30916"
+        },
+        {
+          "title": "THIS LONG CENTURY PRESENTS: SALOMÉ LAMAS",
+          "showtimes": [
+            "2026-09-25T19:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30917"
+        },
+        {
+          "title": "THE NINTH GATE",
+          "showtimes": [
+            "2026-09-25T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30911"
+        },
+        {
+          "title": "A BETTER TOMORROW III: LOVE AND DEATH IN SAIGON",
+          "showtimes": [
+            "2026-09-25T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30912"
+        }
+      ]
     },
     {
       "name": "Quad Cinema",
