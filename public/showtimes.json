@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-09-23T18:03:38-04:00",
+  "lastUpdated": "2026-09-23T21:00:31-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "RUBBLE ON SCREEN PGM 3",
-          "showtimes": [
-            "2026-09-23T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5707?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "VALENTIN NOUJAÏM PGM 2",
-          "showtimes": [
-            "2026-09-23T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5794?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "RUBBLE ON SCREEN PGM 6",
-          "showtimes": [
-            "2026-09-23T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5713?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "RUBBLE ON SCREEN PGM 4",
           "showtimes": [
@@ -52,7 +31,7 @@
           "title": "2026 SUNDANCE FESTIVAL SHORT FILM TOUR (OPEN CAPTIONING)",
           "showtimes": [
             "2026-09-23T12:35:00-04:00",
-            "2026-09-24T12:25:00-04:00"
+            "2026-09-24T12:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580056~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -62,8 +41,8 @@
             "2026-09-23T11:05:00-04:00",
             "2026-09-23T14:00:00-04:00",
             "2026-09-23T19:00:00-04:00",
-            "2026-09-24T11:05:00-04:00",
-            "2026-09-24T14:00:00-04:00",
+            "2026-09-24T12:20:00-04:00",
+            "2026-09-24T14:05:00-04:00",
             "2026-09-24T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579459~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -118,7 +97,7 @@
             "2026-09-23T13:20:00-04:00",
             "2026-09-23T15:55:00-04:00",
             "2026-09-23T18:30:00-04:00",
-            "2026-09-24T13:20:00-04:00",
+            "2026-09-24T13:25:00-04:00",
             "2026-09-24T15:55:00-04:00",
             "2026-09-24T18:30:00-04:00"
           ],
@@ -387,7 +366,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-23T15:20:00-04:00",
             "2026-09-23T17:30:00-04:00",
             "2026-09-23T19:40:00-04:00",
             "2026-09-24T13:00:00-04:00",
@@ -408,7 +386,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-23T15:35:00-04:00",
             "2026-09-23T18:00:00-04:00",
             "2026-09-24T12:00:00-04:00",
             "2026-09-24T14:00:00-04:00",
@@ -419,7 +396,6 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-23T15:10:00-04:00",
             "2026-09-23T17:20:00-04:00",
             "2026-09-23T19:30:00-04:00",
             "2026-09-24T12:30:00-04:00",
