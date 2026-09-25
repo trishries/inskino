@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T06:08:44-04:00",
+  "lastUpdated": "2026-09-25T11:40:42-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -274,129 +274,9 @@
     {
       "name": "Metrograph",
       "url": "https://metrograph.com",
-      "status": "ok",
-      "films": [
-        {
-          "title": "FOUR ADVENTURES OF REINETTE AND MIRABELLE",
-          "showtimes": [
-            "2026-09-25T14:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30918"
-        },
-        {
-          "title": "THE WEDDING BANQUET",
-          "showtimes": [
-            "2026-09-25T14:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30914"
-        },
-        {
-          "title": "DAUGHTER'S DAUGHTER",
-          "showtimes": [
-            "2026-09-25T16:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30907"
-        },
-        {
-          "title": "THE BLADE",
-          "showtimes": [
-            "2026-09-25T17:00:00-04:00",
-            "2026-09-26T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30915"
-        },
-        {
-          "title": "SE7EN",
-          "showtimes": [
-            "2026-09-25T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30916"
-        },
-        {
-          "title": "THIS LONG CENTURY PRESENTS: SALOMÉ LAMAS",
-          "showtimes": [
-            "2026-09-25T19:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30917"
-        },
-        {
-          "title": "THE NINTH GATE",
-          "showtimes": [
-            "2026-09-25T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30911"
-        },
-        {
-          "title": "A BETTER TOMORROW III: LOVE AND DEATH IN SAIGON",
-          "showtimes": [
-            "2026-09-25T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30912"
-        },
-        {
-          "title": "THE WARRIORS",
-          "showtimes": [
-            "2026-09-26T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30919"
-        },
-        {
-          "title": "THE DOUBLE",
-          "showtimes": [
-            "2026-09-26T12:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30920"
-        },
-        {
-          "title": "TOKYO MELODY",
-          "showtimes": [
-            "2026-09-26T16:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30922"
-        },
-        {
-          "title": "ELECTRA, MY LOVE",
-          "showtimes": [
-            "2026-09-26T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30923"
-        },
-        {
-          "title": "RYUICHI SAKAMOTO: DIARIES",
-          "showtimes": [
-            "2026-09-26T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30925"
-        },
-        {
-          "title": "TIME AND TIDE",
-          "showtimes": [
-            "2026-09-26T18:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30930"
-        },
-        {
-          "title": "ALIEN: RESURRECTION",
-          "showtimes": [
-            "2026-09-26T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30929"
-        },
-        {
-          "title": "REBELS OF THE NEON GOD",
-          "showtimes": [
-            "2026-09-26T23:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30928"
-        },
-        {
-          "title": "PAPRIKA",
-          "showtimes": [
-            "2026-09-26T23:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30927"
-        }
-      ]
+      "status": "error",
+      "films": [],
+      "error": "Metrograph HTTP 403"
     },
     {
       "name": "Quad Cinema",
