@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-09-24T17:57:32-04:00",
+  "lastUpdated": "2026-09-24T21:06:27-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "RUBBLE ON SCREEN PGM 4",
-          "showtimes": [
-            "2026-09-24T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5709?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "Narrow Rooms: JERKER",
-          "showtimes": [
-            "2026-09-24T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5715?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "TONEY W. MERRITT PGM 1",
           "showtimes": [
@@ -318,34 +304,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "CLASH OF THE TITANS",
-          "showtimes": [
-            "2026-09-24T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31027"
-        },
-        {
-          "title": "REBELS OF THE NEON GOD",
-          "showtimes": [
-            "2026-09-24T14:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31028"
-        },
-        {
-          "title": "LA NOTTE",
-          "showtimes": [
-            "2026-09-24T16:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31030"
-        },
-        {
-          "title": "PLAYTIME",
-          "showtimes": [
-            "2026-09-24T16:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31029"
-        },
-        {
           "title": "TROY",
           "showtimes": [
             "2026-09-24T18:50:00-04:00"
@@ -439,8 +397,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-24T15:10:00-04:00",
-            "2026-09-24T17:20:00-04:00",
             "2026-09-24T19:30:00-04:00",
             "2026-09-25T12:30:00-04:00",
             "2026-09-25T14:40:00-04:00",
@@ -451,30 +407,11 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
         },
         {
-          "title": "CHECKOUT",
-          "showtimes": [
-            "2026-09-24T16:00:00-04:00",
-            "2026-09-25T12:15:00-04:00",
-            "2026-09-25T19:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
-        },
-        {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-24T14:45:00-04:00",
-            "2026-09-24T17:00:00-04:00",
             "2026-09-24T19:15:00-04:00",
             "2026-09-25T16:55:00-04:00",
             "2026-09-25T21:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
-        },
-        {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-24T15:50:00-04:00",
-            "2026-09-25T14:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-24"
         },
@@ -498,6 +435,21 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
         },
         {
+          "title": "CHECKOUT",
+          "showtimes": [
+            "2026-09-25T12:15:00-04:00",
+            "2026-09-25T19:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-25T14:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
+        },
+        {
           "title": "THE MARCHING BAND",
           "showtimes": [
             "2026-09-25T12:20:00-04:00",
@@ -515,13 +467,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Boogie Nights",
-          "showtimes": [
-            "2026-09-24T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3024/seats"
-        },
         {
           "title": "All That Jazz",
           "showtimes": [
