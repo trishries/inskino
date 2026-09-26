@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T21:07:54-04:00",
+  "lastUpdated": "2026-09-26T05:49:40-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -18,7 +18,10 @@
           "showtimes": [
             "2026-09-26T16:30:00-04:00",
             "2026-09-26T18:45:00-04:00",
-            "2026-09-26T21:00:00-04:00"
+            "2026-09-26T21:00:00-04:00",
+            "2026-09-27T16:30:00-04:00",
+            "2026-09-27T18:45:00-04:00",
+            "2026-09-27T21:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5665?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
@@ -28,6 +31,20 @@
             "2026-09-26T18:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5697?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "BO HARWOOD RECORD RELEASE EVENT: THE KILLING OF A",
+          "showtimes": [
+            "2026-09-27T15:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5800?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "TONEY W. MERRITT PGM 1",
+          "showtimes": [
+            "2026-09-27T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5695?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -39,64 +56,44 @@
         {
           "title": "2026 SUNDANCE FESTIVAL SHORT FILM TOUR (OPEN CAPTIONING)",
           "showtimes": [
-            "2026-09-25T11:05:00-04:00",
-            "2026-09-26T11:05:00-04:00"
+            "2026-09-26T11:05:00-04:00",
+            "2026-09-27T11:05:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581028~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581045~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "9 TO 5",
           "showtimes": [
-            "2026-09-25T18:45:00-04:00",
-            "2026-09-26T13:15:00-04:00"
+            "2026-09-26T13:15:00-04:00",
+            "2026-09-27T18:45:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580491~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580493~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "ANGEL'S EGG",
           "showtimes": [
-            "2026-09-25T23:55:00-04:00",
             "2026-09-26T23:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581040~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581057~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE BEST LITTLE WHOREHOUSE IN TEXAS",
           "showtimes": [
-            "2026-09-25T21:10:00-04:00",
-            "2026-09-26T18:45:00-04:00"
+            "2026-09-26T18:45:00-04:00",
+            "2026-09-27T21:10:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580486~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "A CLOCKWORK ORANGE",
-          "showtimes": [
-            "2026-09-25T23:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581042~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580487~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "DOG DAY AFTERNOON",
           "showtimes": [
-            "2026-09-25T23:50:00-04:00",
             "2026-09-26T23:45:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581198~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581199~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE HISTORY OF CONCRETE",
           "showtimes": [
-            "2026-09-25T10:35:00-04:00",
-            "2026-09-25T11:30:00-04:00",
-            "2026-09-25T13:00:00-04:00",
-            "2026-09-25T14:00:00-04:00",
-            "2026-09-25T15:40:00-04:00",
-            "2026-09-25T16:30:00-04:00",
-            "2026-09-25T18:20:00-04:00",
-            "2026-09-25T19:00:00-04:00",
-            "2026-09-25T20:50:00-04:00",
-            "2026-09-25T21:35:00-04:00",
-            "2026-09-25T23:25:00-04:00",
             "2026-09-26T10:35:00-04:00",
             "2026-09-26T11:30:00-04:00",
             "2026-09-26T13:10:00-04:00",
@@ -107,70 +104,43 @@
             "2026-09-26T19:00:00-04:00",
             "2026-09-26T20:50:00-04:00",
             "2026-09-26T21:35:00-04:00",
-            "2026-09-26T23:25:00-04:00"
+            "2026-09-26T23:25:00-04:00",
+            "2026-09-27T10:35:00-04:00",
+            "2026-09-27T11:30:00-04:00",
+            "2026-09-27T13:10:00-04:00",
+            "2026-09-27T14:00:00-04:00",
+            "2026-09-27T15:40:00-04:00",
+            "2026-09-27T16:10:00-04:00",
+            "2026-09-27T18:20:00-04:00",
+            "2026-09-27T19:00:00-04:00",
+            "2026-09-27T20:50:00-04:00",
+            "2026-09-27T21:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581027~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581043~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE INCOMER",
           "showtimes": [
-            "2026-09-25T10:45:00-04:00",
-            "2026-09-25T14:00:00-04:00",
-            "2026-09-25T16:35:00-04:00",
-            "2026-09-25T19:10:00-04:00",
-            "2026-09-25T21:45:00-04:00",
             "2026-09-26T10:45:00-04:00",
             "2026-09-26T14:05:00-04:00",
             "2026-09-26T16:35:00-04:00",
             "2026-09-26T19:10:00-04:00",
-            "2026-09-26T21:45:00-04:00"
+            "2026-09-26T21:45:00-04:00",
+            "2026-09-27T10:45:00-04:00",
+            "2026-09-27T14:00:00-04:00",
+            "2026-09-27T16:35:00-04:00",
+            "2026-09-27T19:10:00-04:00",
+            "2026-09-27T21:45:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580637~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580606~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "KNIFE: THE ATTEMPTED MURDER OF SALMAN RUSHDIE",
           "showtimes": [
-            "2026-09-25T11:35:00-04:00",
-            "2026-09-25T15:35:00-04:00",
-            "2026-09-26T15:35:00-04:00"
+            "2026-09-26T15:35:00-04:00",
+            "2026-09-27T15:35:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581025~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "PARIS IS BURNING",
-          "showtimes": [
-            "2026-09-25T23:45:00-04:00",
-            "2026-09-26T23:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581196~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SERPENT'S PATH",
-          "showtimes": [
-            "2026-09-25T20:35:00-04:00",
-            "2026-09-26T20:35:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581039~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "STEEL MAGNOLIAS",
-          "showtimes": [
-            "2026-09-25T13:15:00-04:00",
-            "2026-09-26T21:20:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580478~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "TAKE ME HOME",
-          "showtimes": [
-            "2026-09-25T13:20:00-04:00",
-            "2026-09-25T16:25:00-04:00",
-            "2026-09-25T18:15:00-04:00",
-            "2026-09-26T13:20:00-04:00",
-            "2026-09-26T16:25:00-04:00",
-            "2026-09-26T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580642~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581050~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "MAC AND ME",
@@ -182,9 +152,45 @@
         {
           "title": "NATIONAL THEATRE LIVE: THE MISANTHROPE",
           "showtimes": [
-            "2026-09-26T11:00:00-04:00"
+            "2026-09-26T11:00:00-04:00",
+            "2026-09-27T11:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572476~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "PARIS IS BURNING",
+          "showtimes": [
+            "2026-09-26T23:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581197~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "SERPENT'S PATH",
+          "showtimes": [
+            "2026-09-26T20:35:00-04:00",
+            "2026-09-27T20:35:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581055~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "STEEL MAGNOLIAS",
+          "showtimes": [
+            "2026-09-26T21:20:00-04:00",
+            "2026-09-27T13:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580479~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "TAKE ME HOME",
+          "showtimes": [
+            "2026-09-26T13:20:00-04:00",
+            "2026-09-26T16:25:00-04:00",
+            "2026-09-26T18:15:00-04:00",
+            "2026-09-27T13:20:00-04:00",
+            "2026-09-27T16:25:00-04:00",
+            "2026-09-27T18:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580643~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -196,68 +202,71 @@
         {
           "title": "THE SCOUT",
           "showtimes": [
-            "2026-09-25T12:15:00-04:00",
-            "2026-09-25T14:20:00-04:00",
-            "2026-09-25T16:25:00-04:00",
-            "2026-09-25T18:30:00-04:00",
-            "2026-09-25T21:10:00-04:00",
             "2026-09-26T14:20:00-04:00",
             "2026-09-26T16:25:00-04:00",
             "2026-09-26T18:30:00-04:00",
-            "2026-09-26T21:10:00-04:00"
+            "2026-09-26T21:10:00-04:00",
+            "2026-09-27T14:20:00-04:00",
+            "2026-09-27T16:25:00-04:00",
+            "2026-09-27T18:30:00-04:00",
+            "2026-09-27T20:35:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-scout"
         },
         {
           "title": "UNZIPPED",
           "showtimes": [
-            "2026-09-25T12:30:00-04:00",
-            "2026-09-25T14:15:00-04:00",
-            "2026-09-25T16:00:00-04:00",
-            "2026-09-25T18:00:00-04:00",
-            "2026-09-25T20:00:00-04:00",
             "2026-09-26T12:30:00-04:00",
             "2026-09-26T14:15:00-04:00",
             "2026-09-26T16:00:00-04:00",
             "2026-09-26T18:00:00-04:00",
-            "2026-09-26T20:00:00-04:00"
+            "2026-09-26T20:00:00-04:00",
+            "2026-09-27T13:15:00-04:00",
+            "2026-09-27T15:00:00-04:00",
+            "2026-09-27T17:40:00-04:00",
+            "2026-09-27T19:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
         },
         {
           "title": "YOU HAD TO BE THERE",
           "showtimes": [
-            "2026-09-25T12:15:00-04:00",
-            "2026-09-25T14:30:00-04:00",
-            "2026-09-25T16:45:00-04:00",
-            "2026-09-25T19:00:00-04:00",
-            "2026-09-25T21:15:00-04:00",
             "2026-09-26T12:15:00-04:00",
             "2026-09-26T16:45:00-04:00",
             "2026-09-26T19:00:00-04:00",
-            "2026-09-26T21:15:00-04:00"
+            "2026-09-26T21:15:00-04:00",
+            "2026-09-27T13:30:00-04:00",
+            "2026-09-27T18:00:00-04:00",
+            "2026-09-27T20:15:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/you-had-to-be-there"
         },
         {
           "title": "FILIPIÑANA",
           "showtimes": [
-            "2026-09-25T13:00:00-04:00",
-            "2026-09-25T15:15:00-04:00",
-            "2026-09-25T19:50:00-04:00",
             "2026-09-26T13:00:00-04:00",
             "2026-09-26T15:15:00-04:00",
-            "2026-09-26T19:50:00-04:00"
+            "2026-09-26T19:50:00-04:00",
+            "2026-09-27T13:00:00-04:00",
+            "2026-09-27T15:15:00-04:00",
+            "2026-09-27T19:50:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/filipinana"
         },
         {
           "title": "MY BROTHER'S WEDDING",
           "showtimes": [
-            "2026-09-25T17:50:00-04:00",
-            "2026-09-26T17:50:00-04:00"
+            "2026-09-26T17:50:00-04:00",
+            "2026-09-27T17:50:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/my-brothers-wedding"
+        },
+        {
+          "title": "FUNNY FACE",
+          "showtimes": [
+            "2026-09-27T23:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/funny-face-ffjr-2026"
         }
       ]
     },
@@ -266,63 +275,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "FOUR ADVENTURES OF REINETTE AND MIRABELLE",
-          "showtimes": [
-            "2026-09-25T14:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30918"
-        },
-        {
-          "title": "THE WEDDING BANQUET",
-          "showtimes": [
-            "2026-09-25T14:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30914"
-        },
-        {
-          "title": "DAUGHTER'S DAUGHTER",
-          "showtimes": [
-            "2026-09-25T16:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30907"
-        },
-        {
-          "title": "THE BLADE",
-          "showtimes": [
-            "2026-09-25T17:00:00-04:00",
-            "2026-09-26T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30915"
-        },
-        {
-          "title": "SE7EN",
-          "showtimes": [
-            "2026-09-25T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30916"
-        },
-        {
-          "title": "THIS LONG CENTURY PRESENTS: SALOMÉ LAMAS",
-          "showtimes": [
-            "2026-09-25T19:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30917"
-        },
-        {
-          "title": "THE NINTH GATE",
-          "showtimes": [
-            "2026-09-25T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30911"
-        },
-        {
-          "title": "A BETTER TOMORROW III: LOVE AND DEATH IN SAIGON",
-          "showtimes": [
-            "2026-09-25T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30912"
-        },
         {
           "title": "THE WARRIORS",
           "showtimes": [
@@ -338,6 +290,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30920"
         },
         {
+          "title": "THE BLADE",
+          "showtimes": [
+            "2026-09-26T14:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30921"
+        },
+        {
           "title": "TOKYO MELODY",
           "showtimes": [
             "2026-09-26T16:10:00-04:00"
@@ -350,13 +309,6 @@
             "2026-09-26T16:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30923"
-        },
-        {
-          "title": "RYUICHI SAKAMOTO: DIARIES",
-          "showtimes": [
-            "2026-09-26T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30925"
         },
         {
           "title": "TIME AND TIDE",
@@ -382,9 +334,80 @@
         {
           "title": "PAPRIKA",
           "showtimes": [
-            "2026-09-26T23:20:00-04:00"
+            "2026-09-26T23:20:00-04:00",
+            "2026-09-27T22:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30927"
+        },
+        {
+          "title": "GOODBYE, DRAGON INN",
+          "showtimes": [
+            "2026-09-27T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30932"
+        },
+        {
+          "title": "THE LITTLE MERMAID",
+          "showtimes": [
+            "2026-09-27T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30931"
+        },
+        {
+          "title": "A BETTER TOMORROW III: LOVE AND DEATH IN SAIGON",
+          "showtimes": [
+            "2026-09-27T12:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30933"
+        },
+        {
+          "title": "PUSHING HANDS",
+          "showtimes": [
+            "2026-09-27T12:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30934"
+        },
+        {
+          "title": "THE WEDDING BANQUET",
+          "showtimes": [
+            "2026-09-27T15:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30935"
+        },
+        {
+          "title": "RYUICHI SAKAMOTO | OPUS",
+          "showtimes": [
+            "2026-09-27T17:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30937"
+        },
+        {
+          "title": "STORY OF MOTHER",
+          "showtimes": [
+            "2026-09-27T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30942"
+        },
+        {
+          "title": "RYUICHI SAKAMOTO: CODA",
+          "showtimes": [
+            "2026-09-27T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30941"
+        },
+        {
+          "title": "FIREFLIES PRESS PRESENTS: MORVERN CALLAR",
+          "showtimes": [
+            "2026-09-27T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30938"
+        },
+        {
+          "title": "OEDIPUS REX",
+          "showtimes": [
+            "2026-09-27T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30940"
         }
       ]
     },
@@ -396,63 +419,71 @@
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
-            "2026-09-25T19:20:00-04:00",
-            "2026-09-25T21:20:00-04:00",
             "2026-09-26T13:20:00-04:00",
             "2026-09-26T15:20:00-04:00",
             "2026-09-26T17:20:00-04:00",
             "2026-09-26T19:20:00-04:00",
-            "2026-09-26T21:20:00-04:00"
+            "2026-09-26T21:20:00-04:00",
+            "2026-09-27T13:20:00-04:00",
+            "2026-09-27T15:20:00-04:00",
+            "2026-09-27T17:20:00-04:00",
+            "2026-09-27T19:20:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
         },
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-25T19:00:00-04:00",
-            "2026-09-25T21:10:00-04:00",
             "2026-09-26T12:30:00-04:00",
             "2026-09-26T14:40:00-04:00",
             "2026-09-26T16:50:00-04:00",
-            "2026-09-26T19:00:00-04:00"
+            "2026-09-26T19:00:00-04:00",
+            "2026-09-27T12:30:00-04:00",
+            "2026-09-27T14:40:00-04:00",
+            "2026-09-27T16:50:00-04:00",
+            "2026-09-27T19:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
         },
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-25T19:10:00-04:00",
             "2026-09-26T14:45:00-04:00",
-            "2026-09-26T19:15:00-04:00"
+            "2026-09-26T19:15:00-04:00",
+            "2026-09-27T14:25:00-04:00",
+            "2026-09-27T19:10:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
         },
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-09-25T21:15:00-04:00",
             "2026-09-26T16:55:00-04:00",
-            "2026-09-26T21:25:00-04:00"
+            "2026-09-26T21:25:00-04:00",
+            "2026-09-27T16:45:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
-        },
-        {
-          "title": "THE MARCHING BAND",
-          "showtimes": [
-            "2026-09-25T18:50:00-04:00",
-            "2026-09-25T21:00:00-04:00",
-            "2026-09-26T12:40:00-04:00",
-            "2026-09-26T14:50:00-04:00",
-            "2026-09-26T17:00:00-04:00",
-            "2026-09-26T19:10:00-04:00",
-            "2026-09-26T21:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-25"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
         },
         {
           "title": "FRANZ",
           "showtimes": [
-            "2026-09-26T12:10:00-04:00"
+            "2026-09-26T12:10:00-04:00",
+            "2026-09-27T11:55:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
+        },
+        {
+          "title": "THE MARCHING BAND",
+          "showtimes": [
+            "2026-09-26T12:40:00-04:00",
+            "2026-09-26T14:50:00-04:00",
+            "2026-09-26T17:00:00-04:00",
+            "2026-09-26T19:10:00-04:00",
+            "2026-09-26T21:30:00-04:00",
+            "2026-09-27T12:20:00-04:00",
+            "2026-09-27T14:30:00-04:00",
+            "2026-09-27T16:40:00-04:00",
+            "2026-09-27T18:50:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
         },
@@ -470,13 +501,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Scott Pilgrim vs. the World",
-          "showtimes": [
-            "2026-09-25T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3029/seats"
-        },
         {
           "title": "The Sound of Music",
           "showtimes": [
@@ -504,6 +528,20 @@
             "2026-09-26T22:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3032/seats"
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "showtimes": [
+            "2026-09-27T16:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3033/seats"
+        },
+        {
+          "title": "Barry Lyndon",
+          "showtimes": [
+            "2026-09-27T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3034/seats"
         }
       ]
     },
