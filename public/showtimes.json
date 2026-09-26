@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:48:44-04:00",
+  "lastUpdated": "2026-09-26T14:28:39-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -276,25 +276,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE WARRIORS",
-          "showtimes": [
-            "2026-09-26T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30919"
-        },
-        {
-          "title": "THE DOUBLE",
-          "showtimes": [
-            "2026-09-26T12:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30920"
-        },
-        {
           "title": "THE BLADE",
           "showtimes": [
             "2026-09-26T14:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30921"
+        },
+        {
+          "title": "IPHIGENIA",
+          "showtimes": [
+            "2026-09-26T14:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30924"
         },
         {
           "title": "TOKYO MELODY",
@@ -311,25 +304,11 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30923"
         },
         {
-          "title": "TIME AND TIDE",
-          "showtimes": [
-            "2026-09-26T18:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30930"
-        },
-        {
           "title": "ALIEN: RESURRECTION",
           "showtimes": [
             "2026-09-26T20:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30929"
-        },
-        {
-          "title": "REBELS OF THE NEON GOD",
-          "showtimes": [
-            "2026-09-26T23:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30928"
         },
         {
           "title": "PAPRIKA",
@@ -501,13 +480,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Sound of Music",
-          "showtimes": [
-            "2026-09-26T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3030/seats"
-        },
         {
           "title": "Elevator to the Gallows",
           "showtimes": [
