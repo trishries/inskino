@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T14:28:39-04:00",
+  "lastUpdated": "2026-09-26T17:49:30-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,30 +7,22 @@
       "status": "ok",
       "films": [
         {
-          "title": "TONEY W. MERRITT PGM 3",
+          "title": "TONEY W. MERRITT PGM 2",
           "showtimes": [
-            "2026-09-26T16:00:00-04:00"
+            "2026-09-26T18:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5698?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5697?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-09-26T16:30:00-04:00",
             "2026-09-26T18:45:00-04:00",
             "2026-09-26T21:00:00-04:00",
             "2026-09-27T16:30:00-04:00",
             "2026-09-27T18:45:00-04:00",
             "2026-09-27T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5665?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "TONEY W. MERRITT PGM 2",
-          "showtimes": [
-            "2026-09-26T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5697?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5653?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "BO HARWOOD RECORD RELEASE EVENT: THE KILLING OF A",
@@ -276,39 +268,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE BLADE",
+          "title": "RYUICHI SAKAMOTO: DIARIES",
           "showtimes": [
-            "2026-09-26T14:00:00-04:00"
+            "2026-09-26T17:45:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30921"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30925"
         },
         {
-          "title": "IPHIGENIA",
+          "title": "TIME AND TIDE",
           "showtimes": [
-            "2026-09-26T14:15:00-04:00"
+            "2026-09-26T18:20:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30924"
-        },
-        {
-          "title": "TOKYO MELODY",
-          "showtimes": [
-            "2026-09-26T16:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30922"
-        },
-        {
-          "title": "ELECTRA, MY LOVE",
-          "showtimes": [
-            "2026-09-26T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30923"
-        },
-        {
-          "title": "ALIEN: RESURRECTION",
-          "showtimes": [
-            "2026-09-26T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30929"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30930"
         },
         {
           "title": "PAPRIKA",
@@ -398,8 +369,6 @@
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
-            "2026-09-26T13:20:00-04:00",
-            "2026-09-26T15:20:00-04:00",
             "2026-09-26T17:20:00-04:00",
             "2026-09-26T19:20:00-04:00",
             "2026-09-26T21:20:00-04:00",
@@ -413,8 +382,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-26T12:30:00-04:00",
-            "2026-09-26T14:40:00-04:00",
             "2026-09-26T16:50:00-04:00",
             "2026-09-26T19:00:00-04:00",
             "2026-09-27T12:30:00-04:00",
@@ -427,7 +394,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-26T14:45:00-04:00",
             "2026-09-26T19:15:00-04:00",
             "2026-09-27T14:25:00-04:00",
             "2026-09-27T19:10:00-04:00"
@@ -444,18 +410,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
         },
         {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-26T12:10:00-04:00",
-            "2026-09-27T11:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
-        },
-        {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-09-26T12:40:00-04:00",
-            "2026-09-26T14:50:00-04:00",
             "2026-09-26T17:00:00-04:00",
             "2026-09-26T19:10:00-04:00",
             "2026-09-26T21:30:00-04:00",
@@ -472,6 +428,13 @@
             "2026-09-26T21:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-26"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-27T11:55:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-27"
         }
       ]
     },
@@ -480,13 +443,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Elevator to the Gallows",
-          "showtimes": [
-            "2026-09-26T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3031/seats"
-        },
         {
           "title": "Peppermint Candy",
           "showtimes": [
