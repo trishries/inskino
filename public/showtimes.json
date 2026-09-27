@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T14:57:16-04:00",
+  "lastUpdated": "2026-09-27T17:50:11-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,22 +7,14 @@
       "status": "ok",
       "films": [
         {
-          "title": "BO HARWOOD RECORD RELEASE EVENT: THE KILLING OF A",
-          "showtimes": [
-            "2026-09-27T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5800?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-09-27T16:30:00-04:00",
             "2026-09-27T18:45:00-04:00",
             "2026-09-27T21:00:00-04:00",
             "2026-09-28T18:45:00-04:00",
             "2026-09-28T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5666?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5655?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "TONEY W. MERRITT PGM 1",
@@ -231,18 +223,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "A BETTER TOMORROW III: LOVE AND DEATH IN SAIGON",
+          "title": "RYUICHI SAKAMOTO | OPUS",
           "showtimes": [
-            "2026-09-27T12:45:00-04:00"
+            "2026-09-27T17:15:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30933"
-        },
-        {
-          "title": "PUSHING HANDS",
-          "showtimes": [
-            "2026-09-27T12:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30934"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30937"
         },
         {
           "title": "STORY OF MOTHER",
@@ -250,6 +235,13 @@
             "2026-09-27T18:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30942"
+        },
+        {
+          "title": "RYUICHI SAKAMOTO: CODA",
+          "showtimes": [
+            "2026-09-27T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30941"
         },
         {
           "title": "PAPRIKA",
@@ -324,8 +316,6 @@
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
-            "2026-09-27T13:20:00-04:00",
-            "2026-09-27T15:20:00-04:00",
             "2026-09-27T17:20:00-04:00",
             "2026-09-27T19:20:00-04:00",
             "2026-09-28T13:20:00-04:00",
@@ -338,7 +328,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-27T14:40:00-04:00",
             "2026-09-27T16:50:00-04:00",
             "2026-09-27T19:00:00-04:00",
             "2026-09-28T12:30:00-04:00",
@@ -351,7 +340,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-27T14:25:00-04:00",
             "2026-09-27T19:10:00-04:00",
             "2026-09-28T14:50:00-04:00",
             "2026-09-28T19:30:00-04:00"
@@ -370,7 +358,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-09-27T14:30:00-04:00",
             "2026-09-27T16:40:00-04:00",
             "2026-09-27T18:50:00-04:00",
             "2026-09-28T14:30:00-04:00",
@@ -392,13 +379,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "2001: A Space Odyssey",
-          "showtimes": [
-            "2026-09-27T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3033/seats"
-        },
         {
           "title": "Barry Lyndon",
           "showtimes": [
