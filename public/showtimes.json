@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T06:31:00-04:00",
+  "lastUpdated": "2026-09-27T11:27:37-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -264,13 +264,6 @@
             "2026-09-27T18:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30942"
-        },
-        {
-          "title": "FIREFLIES PRESS PRESENTS: MORVERN CALLAR",
-          "showtimes": [
-            "2026-09-27T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30938"
         },
         {
           "title": "PAPRIKA",
