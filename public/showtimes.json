@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T07:38:13-04:00",
+  "lastUpdated": "2026-09-28T14:18:32-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -393,13 +393,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Speed Racer",
-          "showtimes": [
-            "2026-09-28T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3035/seats"
-        },
         {
           "title": "The Bridge on the River Kwai",
           "showtimes": [
