@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T17:10:34-04:00",
+  "lastUpdated": "2026-09-28T19:42:03-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,12 +9,11 @@
         {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-09-28T18:45:00-04:00",
             "2026-09-28T21:00:00-04:00",
             "2026-09-29T18:45:00-04:00",
             "2026-09-29T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5657?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5658?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -222,20 +221,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
-          "showtimes": [
-            "2026-09-28T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31069"
-        },
-        {
-          "title": "NOTES TOWARD AN AFRICAN ORESTES",
-          "showtimes": [
-            "2026-09-28T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31074"
-        },
-        {
           "title": "THE WARRIORS",
           "showtimes": [
             "2026-09-28T20:00:00-04:00"
@@ -308,7 +293,6 @@
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
-            "2026-09-28T15:20:00-04:00",
             "2026-09-28T17:20:00-04:00",
             "2026-09-28T19:20:00-04:00",
             "2026-09-29T13:20:00-04:00",
@@ -321,7 +305,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-28T14:40:00-04:00",
             "2026-09-28T16:50:00-04:00",
             "2026-09-28T19:00:00-04:00",
             "2026-09-29T12:30:00-04:00",
@@ -334,7 +317,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-28T14:50:00-04:00",
             "2026-09-28T19:30:00-04:00",
             "2026-09-29T14:25:00-04:00",
             "2026-09-29T19:10:00-04:00"
@@ -352,7 +334,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-09-28T14:30:00-04:00",
             "2026-09-28T19:10:00-04:00",
             "2026-09-29T12:20:00-04:00",
             "2026-09-29T14:30:00-04:00",
@@ -375,13 +356,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Master",
-          "showtimes": [
-            "2026-09-28T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3037/seats"
-        },
         {
           "title": "Scott Pilgrim vs. the World",
           "showtimes": [
