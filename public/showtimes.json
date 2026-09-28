@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T17:50:11-04:00",
+  "lastUpdated": "2026-09-27T21:21:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,19 +9,10 @@
         {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-09-27T18:45:00-04:00",
-            "2026-09-27T21:00:00-04:00",
             "2026-09-28T18:45:00-04:00",
             "2026-09-28T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5655?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "TONEY W. MERRITT PGM 1",
-          "showtimes": [
-            "2026-09-27T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5695?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5657?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -223,25 +214,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "RYUICHI SAKAMOTO | OPUS",
+          "title": "OEDIPUS REX",
           "showtimes": [
-            "2026-09-27T17:15:00-04:00"
+            "2026-09-27T22:00:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30937"
-        },
-        {
-          "title": "STORY OF MOTHER",
-          "showtimes": [
-            "2026-09-27T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30942"
-        },
-        {
-          "title": "RYUICHI SAKAMOTO: CODA",
-          "showtimes": [
-            "2026-09-27T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30941"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30940"
         },
         {
           "title": "PAPRIKA",
@@ -316,7 +293,6 @@
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
-            "2026-09-27T17:20:00-04:00",
             "2026-09-27T19:20:00-04:00",
             "2026-09-28T13:20:00-04:00",
             "2026-09-28T15:20:00-04:00",
@@ -328,7 +304,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-27T16:50:00-04:00",
             "2026-09-27T19:00:00-04:00",
             "2026-09-28T12:30:00-04:00",
             "2026-09-28T14:40:00-04:00",
@@ -347,23 +322,21 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-27"
         },
         {
-          "title": "THE FISHERMAN",
-          "showtimes": [
-            "2026-09-27T16:45:00-04:00",
-            "2026-09-28T12:10:00-04:00",
-            "2026-09-28T16:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-27"
-        },
-        {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-09-27T16:40:00-04:00",
             "2026-09-27T18:50:00-04:00",
             "2026-09-28T14:30:00-04:00",
             "2026-09-28T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-27"
+        },
+        {
+          "title": "THE FISHERMAN",
+          "showtimes": [
+            "2026-09-28T12:10:00-04:00",
+            "2026-09-28T16:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-28"
         },
         {
           "title": "FRANZ",
@@ -379,13 +352,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Barry Lyndon",
-          "showtimes": [
-            "2026-09-27T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3034/seats"
-        },
         {
           "title": "Speed Racer",
           "showtimes": [
