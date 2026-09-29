@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T07:19:15-04:00",
+  "lastUpdated": "2026-09-29T12:41:36-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -406,13 +406,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Scott Pilgrim vs. the World",
-          "showtimes": [
-            "2026-09-29T11:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3039/seats"
-        },
         {
           "title": "Barry Lyndon",
           "showtimes": [
