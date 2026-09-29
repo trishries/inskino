@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:41:36-04:00",
+  "lastUpdated": "2026-09-29T15:54:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -147,7 +147,7 @@
           "title": "THE LAST FIRST: WINTER K2",
           "showtimes": [
             "2026-09-30T10:50:00-04:00",
-            "2026-09-30T13:15:00-04:00",
+            "2026-09-30T13:25:00-04:00",
             "2026-09-30T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581097~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -281,6 +281,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31077"
         },
         {
+          "title": "THE NIGHT IS SHORT, WALK ON GIRL",
+          "showtimes": [
+            "2026-09-29T22:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31078"
+        },
+        {
           "title": "SOLARIS",
           "showtimes": [
             "2026-09-30T15:45:00-04:00"
@@ -406,13 +413,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Barry Lyndon",
-          "showtimes": [
-            "2026-09-29T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3040/seats"
-        },
         {
           "title": "Lawrence of Arabia",
           "showtimes": [
