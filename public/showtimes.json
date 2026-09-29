@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T15:54:44-04:00",
+  "lastUpdated": "2026-09-29T18:49:56-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,12 +9,11 @@
         {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-09-29T18:45:00-04:00",
             "2026-09-29T21:00:00-04:00",
             "2026-09-30T18:45:00-04:00",
             "2026-09-30T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5659?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5660?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "Lost & Found: A HEART AS WILLING",
@@ -41,7 +40,7 @@
           "title": "9 TO 5",
           "showtimes": [
             "2026-09-29T13:15:00-04:00",
-            "2026-09-30T13:15:00-04:00"
+            "2026-09-30T13:25:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580494~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -61,6 +60,7 @@
             "2026-09-30T13:10:00-04:00",
             "2026-09-30T14:00:00-04:00",
             "2026-09-30T15:40:00-04:00",
+            "2026-09-30T16:25:00-04:00",
             "2026-09-30T18:20:00-04:00",
             "2026-09-30T18:55:00-04:00",
             "2026-09-30T20:50:00-04:00",
@@ -78,7 +78,6 @@
             "2026-09-29T21:45:00-04:00",
             "2026-09-30T10:45:00-04:00",
             "2026-09-30T13:05:00-04:00",
-            "2026-09-30T16:30:00-04:00",
             "2026-09-30T19:15:00-04:00",
             "2026-09-30T21:40:00-04:00"
           ],
@@ -147,7 +146,7 @@
           "title": "THE LAST FIRST: WINTER K2",
           "showtimes": [
             "2026-09-30T10:50:00-04:00",
-            "2026-09-30T13:25:00-04:00",
+            "2026-09-30T15:35:00-04:00",
             "2026-09-30T19:00:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581097~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -253,20 +252,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "A BRIGHTER SUMMER DAY",
-          "showtimes": [
-            "2026-09-29T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31075"
-        },
-        {
-          "title": "STEALING BEAUTY",
-          "showtimes": [
-            "2026-09-29T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31079"
-        },
-        {
           "title": "RYUICHI SAKAMOTO: DIARIES",
           "showtimes": [
             "2026-09-29T20:10:00-04:00"
@@ -279,13 +264,6 @@
             "2026-09-29T22:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31077"
-        },
-        {
-          "title": "THE NIGHT IS SHORT, WALK ON GIRL",
-          "showtimes": [
-            "2026-09-29T22:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31078"
         },
         {
           "title": "SOLARIS",
@@ -339,7 +317,6 @@
         {
           "title": "AMERICAN DOCTOR",
           "showtimes": [
-            "2026-09-29T13:20:00-04:00",
             "2026-09-29T15:20:00-04:00",
             "2026-09-29T17:20:00-04:00",
             "2026-09-29T19:20:00-04:00",
@@ -353,7 +330,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-29T12:30:00-04:00",
             "2026-09-29T14:40:00-04:00",
             "2026-09-29T16:50:00-04:00",
             "2026-09-29T19:00:00-04:00",
@@ -384,17 +360,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-29"
         },
         {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-29T11:55:00-04:00",
-            "2026-09-30T14:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-29"
-        },
-        {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-09-29T12:20:00-04:00",
             "2026-09-29T14:30:00-04:00",
             "2026-09-29T16:40:00-04:00",
             "2026-09-29T18:50:00-04:00",
@@ -405,6 +372,13 @@
             "2026-09-30T20:05:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-29"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-09-30T14:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-30"
         }
       ]
     },
