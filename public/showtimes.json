@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T18:48:36-04:00",
+  "lastUpdated": "2026-09-30T21:45:53-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,20 +7,12 @@
       "status": "ok",
       "films": [
         {
-          "title": "Lost & Found: A HEART AS WILLING",
-          "showtimes": [
-            "2026-09-30T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5717?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-09-30T21:00:00-04:00",
             "2026-10-01T18:45:00-04:00",
             "2026-10-01T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5662?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5681?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -234,27 +226,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "UNCUT GEMS",
-          "showtimes": [
-            "2026-09-30T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31081"
-        },
-        {
-          "title": "FAREWELL, HOME SWEET HOME",
-          "showtimes": [
-            "2026-09-30T19:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31084"
-        },
-        {
-          "title": "WITHNAIL AND I",
-          "showtimes": [
-            "2026-09-30T21:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31083"
-        },
-        {
           "title": "REBELS OF THE NEON GOD",
           "showtimes": [
             "2026-09-30T21:45:00-04:00"
@@ -315,7 +286,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-09-30T16:00:00-04:00",
             "2026-09-30T18:05:00-04:00",
             "2026-10-01T12:30:00-04:00",
             "2026-10-01T14:40:00-04:00",
@@ -327,7 +297,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-09-30T16:10:00-04:00",
             "2026-09-30T20:10:00-04:00",
             "2026-10-01T14:25:00-04:00",
             "2026-10-01T19:10:00-04:00"
@@ -335,26 +304,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-30"
         },
         {
-          "title": "THE FISHERMAN",
-          "showtimes": [
-            "2026-09-30T16:40:00-04:00",
-            "2026-10-01T12:00:00-04:00",
-            "2026-10-01T16:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-30"
-        },
-        {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-09-30T14:10:00-04:00",
-            "2026-10-01T11:55:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-09-30"
-        },
-        {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-09-30T15:55:00-04:00",
             "2026-09-30T18:00:00-04:00",
             "2026-09-30T20:05:00-04:00",
             "2026-10-01T14:30:00-04:00",
@@ -369,6 +320,21 @@
             "2026-10-01T14:00:00-04:00",
             "2026-10-01T16:30:00-04:00",
             "2026-10-01T19:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
+        },
+        {
+          "title": "THE FISHERMAN",
+          "showtimes": [
+            "2026-10-01T12:00:00-04:00",
+            "2026-10-01T16:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
+        },
+        {
+          "title": "FRANZ",
+          "showtimes": [
+            "2026-10-01T11:55:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
         }
