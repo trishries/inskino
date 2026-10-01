@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T13:11:28-04:00",
+  "lastUpdated": "2026-10-01T16:16:41-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -393,16 +393,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "AMERICAN DOCTOR",
-          "showtimes": [
-            "2026-10-01T12:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
-        },
-        {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-01T12:30:00-04:00",
             "2026-10-01T14:40:00-04:00",
             "2026-10-01T16:50:00-04:00",
             "2026-10-01T19:00:00-04:00",
@@ -437,15 +429,7 @@
         {
           "title": "THE FISHERMAN",
           "showtimes": [
-            "2026-10-01T12:00:00-04:00",
             "2026-10-01T16:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
-        },
-        {
-          "title": "FRANZ",
-          "showtimes": [
-            "2026-10-01T11:55:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
         },
@@ -493,20 +477,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Days of Heaven",
-          "showtimes": [
-            "2026-10-01T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3049/seats"
-        },
-        {
-          "title": "Imitation of Life",
-          "showtimes": [
-            "2026-10-01T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3050/seats"
-        },
         {
           "title": "Splendor in the Grass",
           "showtimes": [
