@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T16:16:41-04:00",
+  "lastUpdated": "2026-10-01T18:59:24-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,10 +9,9 @@
         {
           "title": "SCREAMPLAY",
           "showtimes": [
-            "2026-10-01T18:45:00-04:00",
             "2026-10-01T21:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5681?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5682?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALANIS",
@@ -287,20 +286,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "YI YI",
-          "showtimes": [
-            "2026-10-01T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31086"
-        },
-        {
-          "title": "EVITA",
-          "showtimes": [
-            "2026-10-01T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31087"
-        },
         {
           "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
           "showtimes": [
