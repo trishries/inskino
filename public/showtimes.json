@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-02T15:51:02-04:00",
+  "lastUpdated": "2026-10-02T18:48:35-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "ALANIS",
-          "showtimes": [
-            "2026-10-02T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5730?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE TIME BENEATH THE CONCRETE",
           "showtimes": [
@@ -313,27 +306,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "TOKYO MELODY",
-          "showtimes": [
-            "2026-10-02T14:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30992"
-        },
-        {
-          "title": "OEDIPUS REX",
-          "showtimes": [
-            "2026-10-02T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30982"
-        },
-        {
-          "title": "ROBOCOP - THE DIRECTOR'S CUT",
-          "showtimes": [
-            "2026-10-02T15:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30976"
-        },
-        {
           "title": "DAUGHTER'S DAUGHTER",
           "showtimes": [
             "2026-10-02T17:50:00-04:00"
@@ -353,13 +325,6 @@
             "2026-10-02T20:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30979"
-        },
-        {
-          "title": "RYUICHI SAKAMOTO: CODA",
-          "showtimes": [
-            "2026-10-02T20:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30983"
         },
         {
           "title": "TRAIN TO BUSAN",
@@ -435,7 +400,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-02T13:50:00-04:00",
             "2026-10-02T15:55:00-04:00",
             "2026-10-02T18:00:00-04:00",
             "2026-10-03T13:50:00-04:00",
@@ -470,7 +434,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-02T12:50:00-04:00",
             "2026-10-02T14:55:00-04:00",
             "2026-10-02T17:00:00-04:00",
             "2026-10-02T19:10:00-04:00",
@@ -486,7 +449,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-02T12:45:00-04:00",
             "2026-10-02T16:50:00-04:00",
             "2026-10-02T18:55:00-04:00",
             "2026-10-03T12:45:00-04:00",
@@ -511,13 +473,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Under the Skin",
-          "showtimes": [
-            "2026-10-02T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3054/seats"
-        },
         {
           "title": "Klute",
           "showtimes": [
