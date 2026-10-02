@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-01T18:59:24-04:00",
+  "lastUpdated": "2026-10-01T21:56:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "SCREAMPLAY",
-          "showtimes": [
-            "2026-10-01T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5682?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "ALANIS",
           "showtimes": [
@@ -287,13 +280,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
-          "showtimes": [
-            "2026-10-01T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31186"
-        },
-        {
           "title": "FALLEN ANGELS",
           "showtimes": [
             "2026-10-01T21:40:00-04:00"
@@ -380,8 +366,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-01T14:40:00-04:00",
-            "2026-10-01T16:50:00-04:00",
             "2026-10-01T19:00:00-04:00",
             "2026-10-02T13:50:00-04:00",
             "2026-10-02T15:55:00-04:00",
@@ -392,7 +376,6 @@
         {
           "title": "CHECKOUT",
           "showtimes": [
-            "2026-10-01T14:25:00-04:00",
             "2026-10-01T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
@@ -400,8 +383,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-01T14:00:00-04:00",
-            "2026-10-01T16:30:00-04:00",
             "2026-10-01T19:05:00-04:00",
             "2026-10-02T13:40:00-04:00",
             "2026-10-02T16:20:00-04:00",
@@ -412,17 +393,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
         },
         {
-          "title": "THE FISHERMAN",
-          "showtimes": [
-            "2026-10-01T16:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-01"
-        },
-        {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-01T14:30:00-04:00",
-            "2026-10-01T16:40:00-04:00",
             "2026-10-01T19:00:00-04:00",
             "2026-10-02T12:45:00-04:00",
             "2026-10-02T16:50:00-04:00",
@@ -462,13 +434,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Splendor in the Grass",
-          "showtimes": [
-            "2026-10-01T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3051/seats"
-        },
         {
           "title": "Still Walking",
           "showtimes": [
