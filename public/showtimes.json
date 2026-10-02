@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T12:24:50-04:00",
+  "lastUpdated": "2026-10-02T15:51:02-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -313,13 +313,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "PAPRIKA",
-          "showtimes": [
-            "2026-10-02T13:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30974"
-        },
-        {
           "title": "TOKYO MELODY",
           "showtimes": [
             "2026-10-02T14:15:00-04:00"
@@ -360,6 +353,13 @@
             "2026-10-02T20:20:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30979"
+        },
+        {
+          "title": "RYUICHI SAKAMOTO: CODA",
+          "showtimes": [
+            "2026-10-02T20:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30983"
         },
         {
           "title": "TRAIN TO BUSAN",
@@ -403,13 +403,6 @@
             "2026-10-03T14:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30986"
-        },
-        {
-          "title": "INVISIBLE ADVERSARIES",
-          "showtimes": [
-            "2026-10-03T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30988"
         },
         {
           "title": "THE WAILING",
@@ -518,13 +511,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Stella Dallas",
-          "showtimes": [
-            "2026-10-02T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3053/seats"
-        },
         {
           "title": "Under the Skin",
           "showtimes": [
