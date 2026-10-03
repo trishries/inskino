@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-10-02T18:48:35-04:00",
+  "lastUpdated": "2026-10-02T21:40:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE TIME BENEATH THE CONCRETE",
-          "showtimes": [
-            "2026-10-02T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5720?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MOMMY IS COMING",
-          "showtimes": [
-            "2026-10-02T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5732?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "PERPETUAL RECURRENCES, PART 1",
           "showtimes": [
@@ -306,27 +292,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "DAUGHTER'S DAUGHTER",
-          "showtimes": [
-            "2026-10-02T17:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30978"
-        },
-        {
-          "title": "O BROTHER, WHERE ART THOU?",
-          "showtimes": [
-            "2026-10-02T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30981"
-        },
-        {
-          "title": "MIDNIGHT IN PARIS",
-          "showtimes": [
-            "2026-10-02T20:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30979"
-        },
-        {
           "title": "TRAIN TO BUSAN",
           "showtimes": [
             "2026-10-02T22:25:00-04:00",
@@ -354,13 +319,6 @@
             "2026-10-03T12:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30987"
-        },
-        {
-          "title": "AMOUR",
-          "showtimes": [
-            "2026-10-03T14:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30985"
         },
         {
           "title": "THE TAKING OF PELHAM ONE TWO THREE",
@@ -400,7 +358,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-02T15:55:00-04:00",
             "2026-10-02T18:00:00-04:00",
             "2026-10-03T13:50:00-04:00",
             "2026-10-03T15:55:00-04:00",
@@ -418,8 +375,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-02T13:40:00-04:00",
-            "2026-10-02T16:20:00-04:00",
             "2026-10-02T19:00:00-04:00",
             "2026-10-02T20:05:00-04:00",
             "2026-10-02T21:05:00-04:00",
@@ -434,8 +389,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-02T14:55:00-04:00",
-            "2026-10-02T17:00:00-04:00",
             "2026-10-02T19:10:00-04:00",
             "2026-10-02T21:30:00-04:00",
             "2026-10-03T12:50:00-04:00",
@@ -449,7 +402,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-02T16:50:00-04:00",
             "2026-10-02T18:55:00-04:00",
             "2026-10-03T12:45:00-04:00",
             "2026-10-03T16:50:00-04:00",
@@ -460,11 +412,10 @@
         {
           "title": "ORION",
           "showtimes": [
-            "2026-10-02T14:50:00-04:00",
             "2026-10-03T14:50:00-04:00",
             "2026-10-03T21:35:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-02"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-03"
         }
       ]
     },
@@ -473,13 +424,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Klute",
-          "showtimes": [
-            "2026-10-02T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3055/seats"
-        },
         {
           "title": "A Face in the Crowd",
           "showtimes": [
