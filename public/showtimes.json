@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T10:59:20-04:00",
+  "lastUpdated": "2026-10-03T14:37:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -338,32 +338,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE BEACH",
-          "showtimes": [
-            "2026-10-03T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30984"
-        },
-        {
-          "title": "THE TAKING OF PELHAM ONE TWO THREE",
-          "showtimes": [
-            "2026-10-03T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30986"
-        },
-        {
           "title": "THE WAILING",
           "showtimes": [
             "2026-10-03T19:50:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30947"
-        },
-        {
-          "title": "ELECTRA, MY LOVE",
-          "showtimes": [
-            "2026-10-03T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30990"
         },
         {
           "title": "TRAIN TO BUSAN",
@@ -533,13 +512,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Green Fish",
-          "showtimes": [
-            "2026-10-03T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3043/seats"
-        },
         {
           "title": "East of Eden (2026)",
           "showtimes": [
