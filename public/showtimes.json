@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T11:33:50-04:00",
+  "lastUpdated": "2026-10-04T14:35:17-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -305,13 +305,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "HIGH AND LOW",
-          "showtimes": [
-            "2026-10-04T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30995"
-        },
-        {
           "title": "THE PRACTICE OF LOVE",
           "showtimes": [
             "2026-10-04T15:30:00-04:00"
@@ -483,13 +476,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Oasis",
-          "showtimes": [
-            "2026-10-04T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3044/seats"
-        },
         {
           "title": "Days of Heaven",
           "showtimes": [
