@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T07:05:31-04:00",
+  "lastUpdated": "2026-10-04T11:33:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -304,20 +304,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "THE DOUBLE",
-          "showtimes": [
-            "2026-10-04T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30994"
-        },
-        {
-          "title": "SMALL CHANGE",
-          "showtimes": [
-            "2026-10-04T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30993"
-        },
         {
           "title": "HIGH AND LOW",
           "showtimes": [
