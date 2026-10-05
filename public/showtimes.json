@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:14:11-04:00",
+  "lastUpdated": "2026-10-05T15:31:16-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -13,6 +13,13 @@
             "2026-10-06T18:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5733?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "AFA MEMBERS ONLY: TWILIGHT ZONE ON 16MM",
+          "showtimes": [
+            "2026-10-05T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5795?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "ALANIS",
@@ -123,7 +130,7 @@
           "showtimes": [
             "2026-10-05T10:50:00-04:00",
             "2026-10-05T19:00:00-04:00",
-            "2026-10-06T10:50:00-04:00",
+            "2026-10-06T10:40:00-04:00",
             "2026-10-06T15:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579587~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -463,13 +470,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Splendor in the Grass",
-          "showtimes": [
-            "2026-10-05T13:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3063/seats"
-        },
         {
           "title": "Still Walking",
           "showtimes": [
