@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T17:56:11-04:00",
+  "lastUpdated": "2026-10-05T20:35:10-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,33 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "MOMMY IS COMING",
-          "showtimes": [
-            "2026-10-05T18:45:00-04:00",
-            "2026-10-06T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5733?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "AFA MEMBERS ONLY: TWILIGHT ZONE ON 16MM",
-          "showtimes": [
-            "2026-10-05T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5795?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ALANIS",
-          "showtimes": [
-            "2026-10-05T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5731?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "LABORING IMAGES, IMAGING LABOR, PART 1",
           "showtimes": [
             "2026-10-06T18:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5726?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "MOMMY IS COMING",
+          "showtimes": [
+            "2026-10-06T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5734?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "LABORING IMAGES, IMAGING LABOR, PART 2",
@@ -297,18 +282,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE WEDDING BANQUET",
+          "title": "MEDEA (1969)",
           "showtimes": [
-            "2026-10-05T18:00:00-04:00"
+            "2026-10-05T20:10:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31120"
-        },
-        {
-          "title": "THE SANDWICH MAN",
-          "showtimes": [
-            "2026-10-05T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31125"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31124"
         },
         {
           "title": "MORVERN CALLAR",
@@ -316,13 +294,6 @@
             "2026-10-05T20:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31121"
-        },
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-10-05T22:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31123"
         },
         {
           "title": "PAPRIKA",
@@ -381,20 +352,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-05T14:50:00-04:00",
-            "2026-10-05T16:55:00-04:00",
-            "2026-10-06T11:45:00-04:00",
-            "2026-10-06T13:50:00-04:00",
-            "2026-10-06T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-05"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-05T15:20:00-04:00",
             "2026-10-05T18:00:00-04:00",
             "2026-10-05T19:00:00-04:00",
             "2026-10-06T11:55:00-04:00",
@@ -407,8 +366,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-05T14:55:00-04:00",
-            "2026-10-05T17:00:00-04:00",
             "2026-10-05T19:10:00-04:00",
             "2026-10-06T11:50:00-04:00",
             "2026-10-06T13:55:00-04:00",
@@ -420,7 +377,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-05T17:05:00-04:00",
             "2026-10-05T19:15:00-04:00",
             "2026-10-06T11:40:00-04:00",
             "2026-10-06T13:45:00-04:00",
@@ -430,17 +386,25 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-05"
         },
         {
-          "title": "ORION",
+          "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-05T15:00:00-04:00",
-            "2026-10-06T15:55:00-04:00"
+            "2026-10-06T11:45:00-04:00",
+            "2026-10-06T13:50:00-04:00",
+            "2026-10-06T18:00:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-05"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-06"
         },
         {
           "title": "DEEP RED",
           "showtimes": [
             "2026-10-06T20:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-06"
+        },
+        {
+          "title": "ORION",
+          "showtimes": [
+            "2026-10-06T15:55:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-06"
         }
@@ -451,13 +415,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Lady Eve",
-          "showtimes": [
-            "2026-10-05T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3065/seats"
-        },
         {
           "title": "Lady Macbeth",
           "showtimes": [
