@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T20:35:10-04:00",
+  "lastUpdated": "2026-10-05T22:38:51-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -282,18 +282,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "MEDEA (1969)",
+          "title": "HAPPY TOGETHER",
           "showtimes": [
-            "2026-10-05T20:10:00-04:00"
+            "2026-10-05T22:20:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31124"
-        },
-        {
-          "title": "MORVERN CALLAR",
-          "showtimes": [
-            "2026-10-05T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31121"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31123"
         },
         {
           "title": "PAPRIKA",
@@ -354,7 +347,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-05T18:00:00-04:00",
             "2026-10-05T19:00:00-04:00",
             "2026-10-06T11:55:00-04:00",
             "2026-10-06T14:30:00-04:00",
@@ -415,13 +407,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Lady Macbeth",
-          "showtimes": [
-            "2026-10-05T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3077/seats"
-        },
         {
           "title": "Klute",
           "showtimes": [
