@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-07T16:31:42-04:00",
+  "lastUpdated": "2026-10-07T19:26:22-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MY NAME AIN’T SUZIE",
-          "showtimes": [
-            "2026-10-07T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5741?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "SEDUCTION: THE CRUEL WOMAN",
           "showtimes": [
@@ -86,6 +79,7 @@
             "2026-10-07T14:20:00-04:00",
             "2026-10-07T15:45:00-04:00",
             "2026-10-07T16:45:00-04:00",
+            "2026-10-07T19:10:00-04:00",
             "2026-10-07T20:55:00-04:00",
             "2026-10-07T21:45:00-04:00",
             "2026-10-08T10:50:00-04:00",
@@ -284,27 +278,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE TREASURE OF BITCH ISLANDS",
-          "showtimes": [
-            "2026-10-07T17:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31134"
-        },
-        {
-          "title": "A BRIGHTER SUMMER DAY",
-          "showtimes": [
-            "2026-10-07T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31137"
-        },
-        {
-          "title": "THE NINTH GATE",
-          "showtimes": [
-            "2026-10-07T19:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31135"
-        },
-        {
           "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
           "showtimes": [
             "2026-10-07T22:30:00-04:00",
@@ -402,7 +375,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-07T14:30:00-04:00",
             "2026-10-07T17:10:00-04:00",
             "2026-10-07T18:20:00-04:00",
             "2026-10-07T19:45:00-04:00",
@@ -417,7 +389,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-07T16:00:00-04:00",
             "2026-10-07T18:10:00-04:00",
             "2026-10-08T11:45:00-04:00",
             "2026-10-08T13:50:00-04:00",
@@ -429,7 +400,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-07T16:10:00-04:00",
             "2026-10-07T20:15:00-04:00",
             "2026-10-08T12:30:00-04:00",
             "2026-10-08T14:40:00-04:00",
@@ -441,10 +411,9 @@
         {
           "title": "ORION",
           "showtimes": [
-            "2026-10-07T15:55:00-04:00",
             "2026-10-08T16:30:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-07"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
         }
       ]
     },
@@ -453,20 +422,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Notorious",
-          "showtimes": [
-            "2026-10-07T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3071/seats"
-        },
-        {
-          "title": "Stella Dallas",
-          "showtimes": [
-            "2026-10-07T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3072/seats"
-        },
         {
           "title": "Under the Skin",
           "showtimes": [
