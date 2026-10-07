@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T13:36:24-04:00",
+  "lastUpdated": "2026-10-07T16:31:42-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -72,7 +72,7 @@
             "2026-10-07T13:15:00-04:00",
             "2026-10-07T18:30:00-04:00",
             "2026-10-08T11:00:00-04:00",
-            "2026-10-08T13:15:00-04:00",
+            "2026-10-08T16:30:00-04:00",
             "2026-10-08T18:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581599~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -105,8 +105,7 @@
             "2026-10-07T11:50:00-04:00",
             "2026-10-07T16:05:00-04:00",
             "2026-10-07T21:35:00-04:00",
-            "2026-10-08T11:50:00-04:00",
-            "2026-10-08T16:45:00-04:00"
+            "2026-10-08T12:15:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582317~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -121,7 +120,7 @@
           "title": "WHORE",
           "showtimes": [
             "2026-10-07T21:30:00-04:00",
-            "2026-10-08T13:55:00-04:00"
+            "2026-10-08T14:05:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582576~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -285,20 +284,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "DUST IN THE WIND",
-          "showtimes": [
-            "2026-10-07T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31133"
-        },
-        {
-          "title": "O BROTHER, WHERE ART THOU?",
-          "showtimes": [
-            "2026-10-07T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31132"
-        },
-        {
           "title": "THE TREASURE OF BITCH ISLANDS",
           "showtimes": [
             "2026-10-07T17:40:00-04:00"
@@ -400,8 +385,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-07T11:45:00-04:00",
-            "2026-10-07T13:50:00-04:00",
             "2026-10-07T18:00:00-04:00",
             "2026-10-08T12:15:00-04:00",
             "2026-10-08T14:20:00-04:00"
@@ -419,7 +402,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-07T11:55:00-04:00",
             "2026-10-07T14:30:00-04:00",
             "2026-10-07T17:10:00-04:00",
             "2026-10-07T18:20:00-04:00",
@@ -435,8 +417,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-07T11:50:00-04:00",
-            "2026-10-07T13:55:00-04:00",
             "2026-10-07T16:00:00-04:00",
             "2026-10-07T18:10:00-04:00",
             "2026-10-08T11:45:00-04:00",
@@ -449,8 +429,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-07T12:00:00-04:00",
-            "2026-10-07T14:05:00-04:00",
             "2026-10-07T16:10:00-04:00",
             "2026-10-07T20:15:00-04:00",
             "2026-10-08T12:30:00-04:00",
