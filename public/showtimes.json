@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-07T19:26:22-04:00",
+  "lastUpdated": "2026-10-07T22:24:37-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "SEDUCTION: THE CRUEL WOMAN",
-          "showtimes": [
-            "2026-10-07T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5743?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "READ MY DESIRE, PART 1",
           "showtimes": [
@@ -356,44 +349,10 @@
       "status": "ok",
       "films": [
         {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-07T18:00:00-04:00",
-            "2026-10-08T12:15:00-04:00",
-            "2026-10-08T14:20:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-07"
-        },
-        {
           "title": "DEEP RED",
           "showtimes": [
             "2026-10-07T20:05:00-04:00",
             "2026-10-08T20:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-07"
-        },
-        {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-10-07T17:10:00-04:00",
-            "2026-10-07T18:20:00-04:00",
-            "2026-10-07T19:45:00-04:00",
-            "2026-10-08T11:55:00-04:00",
-            "2026-10-08T14:30:00-04:00",
-            "2026-10-08T17:10:00-04:00",
-            "2026-10-08T18:30:00-04:00",
-            "2026-10-08T19:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-07"
-        },
-        {
-          "title": "IN SPITE OF OURSELVES",
-          "showtimes": [
-            "2026-10-07T18:10:00-04:00",
-            "2026-10-08T11:45:00-04:00",
-            "2026-10-08T13:50:00-04:00",
-            "2026-10-08T15:55:00-04:00",
-            "2026-10-08T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-07"
         },
@@ -409,6 +368,35 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-07"
         },
         {
+          "title": "BAD APPLES",
+          "showtimes": [
+            "2026-10-08T12:15:00-04:00",
+            "2026-10-08T14:20:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-10-08T11:55:00-04:00",
+            "2026-10-08T14:30:00-04:00",
+            "2026-10-08T17:10:00-04:00",
+            "2026-10-08T18:30:00-04:00",
+            "2026-10-08T19:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
+        },
+        {
+          "title": "IN SPITE OF OURSELVES",
+          "showtimes": [
+            "2026-10-08T11:45:00-04:00",
+            "2026-10-08T13:50:00-04:00",
+            "2026-10-08T15:55:00-04:00",
+            "2026-10-08T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
+        },
+        {
           "title": "ORION",
           "showtimes": [
             "2026-10-08T16:30:00-04:00"
@@ -422,13 +410,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Under the Skin",
-          "showtimes": [
-            "2026-10-07T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3073/seats"
-        },
         {
           "title": "A Face in the Crowd",
           "showtimes": [
