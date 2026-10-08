@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T13:39:28-04:00",
+  "lastUpdated": "2026-10-08T16:37:47-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -383,6 +383,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31142"
         },
         {
+          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
+          "showtimes": [
+            "2026-10-08T22:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31143"
+        },
+        {
           "title": "THE TERMINATOR",
           "showtimes": [
             "2026-10-09T14:00:00-04:00"
@@ -441,7 +448,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-08T12:15:00-04:00",
             "2026-10-08T14:20:00-04:00",
             "2026-10-09T14:45:00-04:00",
             "2026-10-09T16:50:00-04:00"
@@ -458,7 +464,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-08T11:55:00-04:00",
             "2026-10-08T14:30:00-04:00",
             "2026-10-08T17:10:00-04:00",
             "2026-10-08T18:30:00-04:00",
@@ -473,8 +478,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-08T11:45:00-04:00",
-            "2026-10-08T13:50:00-04:00",
             "2026-10-08T15:55:00-04:00",
             "2026-10-08T18:00:00-04:00",
             "2026-10-09T12:35:00-04:00",
@@ -485,7 +488,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-08T12:30:00-04:00",
             "2026-10-08T14:40:00-04:00",
             "2026-10-08T16:50:00-04:00",
             "2026-10-08T19:00:00-04:00",
@@ -535,13 +537,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Lady Eve",
-          "showtimes": [
-            "2026-10-08T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3075/seats"
-        },
         {
           "title": "The Handmaiden",
           "showtimes": [
