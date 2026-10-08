@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-10-08T16:37:47-04:00",
+  "lastUpdated": "2026-10-08T19:37:54-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "READ MY DESIRE, PART 1",
-          "showtimes": [
-            "2026-10-08T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5728?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "VIKA KIRCHENBAUER: PGM 1",
-          "showtimes": [
-            "2026-10-08T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5745?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "READ MY DESIRE, PART 2",
           "showtimes": [
@@ -327,48 +313,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ALIEN: RESURRECTION",
-          "showtimes": [
-            "2026-10-08T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31147"
-        },
-        {
-          "title": "CHUNGKING EXPRESS",
-          "showtimes": [
-            "2026-10-08T14:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31139"
-        },
-        {
-          "title": "RYUICHI SAKAMOTO | OPUS",
-          "showtimes": [
-            "2026-10-08T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31146"
-        },
-        {
-          "title": "ULYSSES' GAZE",
-          "showtimes": [
-            "2026-10-08T16:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31140"
-        },
-        {
-          "title": "PEKING OPERA BLUES",
-          "showtimes": [
-            "2026-10-08T18:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31145"
-        },
-        {
-          "title": "PAPRIKA",
-          "showtimes": [
-            "2026-10-08T19:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31141"
-        },
-        {
           "title": "VALIE EXPORT SHORTS PROGRAM",
           "showtimes": [
             "2026-10-08T20:30:00-04:00"
@@ -381,13 +325,6 @@
             "2026-10-08T21:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31142"
-        },
-        {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
-          "showtimes": [
-            "2026-10-08T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31143"
         },
         {
           "title": "THE TERMINATOR",
@@ -446,15 +383,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-08T14:20:00-04:00",
-            "2026-10-09T14:45:00-04:00",
-            "2026-10-09T16:50:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
-        },
-        {
           "title": "DEEP RED",
           "showtimes": [
             "2026-10-08T20:05:00-04:00"
@@ -464,7 +392,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-08T14:30:00-04:00",
             "2026-10-08T17:10:00-04:00",
             "2026-10-08T18:30:00-04:00",
             "2026-10-08T19:45:00-04:00",
@@ -478,7 +405,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-08T15:55:00-04:00",
             "2026-10-08T18:00:00-04:00",
             "2026-10-09T12:35:00-04:00",
             "2026-10-09T16:45:00-04:00"
@@ -488,18 +414,9 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-08T14:40:00-04:00",
-            "2026-10-08T16:50:00-04:00",
             "2026-10-08T19:00:00-04:00",
             "2026-10-09T14:40:00-04:00",
             "2026-10-09T18:50:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
-        },
-        {
-          "title": "ORION",
-          "showtimes": [
-            "2026-10-08T16:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
         },
@@ -516,6 +433,14 @@
             "2026-10-09T12:25:00-04:00",
             "2026-10-09T19:15:00-04:00",
             "2026-10-09T21:30:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
+        },
+        {
+          "title": "BAD APPLES",
+          "showtimes": [
+            "2026-10-09T14:45:00-04:00",
+            "2026-10-09T16:50:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
@@ -537,13 +462,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Handmaiden",
-          "showtimes": [
-            "2026-10-08T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3126/seats"
-        },
         {
           "title": "Klute",
           "showtimes": [
