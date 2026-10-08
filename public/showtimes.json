@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T07:58:49-04:00",
+  "lastUpdated": "2026-10-08T13:39:28-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -383,13 +383,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31142"
         },
         {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
-          "showtimes": [
-            "2026-10-08T22:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31143"
-        },
-        {
           "title": "THE TERMINATOR",
           "showtimes": [
             "2026-10-09T14:00:00-04:00"
@@ -542,13 +535,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "A Face in the Crowd",
-          "showtimes": [
-            "2026-10-08T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3074/seats"
-        },
         {
           "title": "The Lady Eve",
           "showtimes": [
