@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T16:03:22-04:00",
+  "lastUpdated": "2026-10-09T19:01:18-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,20 +7,19 @@
       "status": "ok",
       "films": [
         {
-          "title": "VACANCES",
-          "showtimes": [
-            "2026-10-09T19:00:00-04:00",
-            "2026-10-10T17:30:00-04:00",
-            "2026-10-10T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5667?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "VIKA KIRCHENBAUER: PGM 2",
           "showtimes": [
             "2026-10-09T19:30:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5747?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "VACANCES",
+          "showtimes": [
+            "2026-10-10T17:30:00-04:00",
+            "2026-10-10T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5668?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -189,7 +188,7 @@
         {
           "title": "WOMEN IN LOVE",
           "showtimes": [
-            "2026-10-10T15:50:00-04:00"
+            "2026-10-10T15:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582561~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
@@ -296,20 +295,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE AGE OF INNOCENCE",
-          "showtimes": [
-            "2026-10-09T16:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31040"
-        },
-        {
-          "title": "SOCRATES",
-          "showtimes": [
-            "2026-10-09T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31039"
-        },
-        {
           "title": "BREAD DAY PRECEDED BY THE TRAIN STOP",
           "showtimes": [
             "2026-10-09T19:30:00-04:00"
@@ -357,13 +342,6 @@
             "2026-10-10T16:10:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31056"
-        },
-        {
-          "title": "EARTH",
-          "showtimes": [
-            "2026-10-10T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31058"
         },
         {
           "title": "THE FOUL KING",
@@ -421,7 +399,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-09T14:45:00-04:00",
             "2026-10-09T16:50:00-04:00",
             "2026-10-10T14:45:00-04:00",
             "2026-10-10T16:50:00-04:00",
@@ -432,7 +409,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-09T13:40:00-04:00",
             "2026-10-09T16:20:00-04:00",
             "2026-10-09T19:00:00-04:00",
             "2026-10-09T21:00:00-04:00",
@@ -455,7 +431,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-09T14:40:00-04:00",
             "2026-10-09T18:50:00-04:00",
             "2026-10-10T14:40:00-04:00",
             "2026-10-10T18:50:00-04:00"
@@ -465,7 +440,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-09T14:35:00-04:00",
             "2026-10-09T16:55:00-04:00",
             "2026-10-09T18:55:00-04:00",
             "2026-10-09T21:15:00-04:00",
@@ -487,7 +461,6 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-09T16:00:00-04:00",
             "2026-10-09T19:00:00-04:00",
             "2026-10-09T21:45:00-04:00",
             "2026-10-10T13:50:00-04:00",
@@ -495,7 +468,7 @@
             "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3079/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3080/seats"
         },
         {
           "title": "The Favourite",
