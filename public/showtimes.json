@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T13:14:48-04:00",
+  "lastUpdated": "2026-10-09T16:03:22-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -296,20 +296,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE TERMINATOR",
-          "showtimes": [
-            "2026-10-09T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31037"
-        },
-        {
-          "title": "THE TAKING OF PELHAM ONE TWO THREE",
-          "showtimes": [
-            "2026-10-09T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31038"
-        },
-        {
           "title": "THE AGE OF INNOCENCE",
           "showtimes": [
             "2026-10-09T16:20:00-04:00"
@@ -336,13 +322,6 @@
             "2026-10-09T21:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30950"
-        },
-        {
-          "title": "MERMAIDS",
-          "showtimes": [
-            "2026-10-09T21:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31043"
         },
         {
           "title": "ROBOCOP - THE DIRECTOR'S CUT",
@@ -431,7 +410,6 @@
         {
           "title": "ANIMALS",
           "showtimes": [
-            "2026-10-09T12:25:00-04:00",
             "2026-10-09T19:15:00-04:00",
             "2026-10-09T21:30:00-04:00",
             "2026-10-10T12:25:00-04:00",
@@ -468,7 +446,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-09T12:35:00-04:00",
             "2026-10-09T16:45:00-04:00",
             "2026-10-10T12:35:00-04:00",
             "2026-10-10T16:45:00-04:00"
@@ -488,7 +465,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-09T12:30:00-04:00",
             "2026-10-09T14:35:00-04:00",
             "2026-10-09T16:55:00-04:00",
             "2026-10-09T18:55:00-04:00",
@@ -511,7 +487,6 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-09T13:00:00-04:00",
             "2026-10-09T16:00:00-04:00",
             "2026-10-09T19:00:00-04:00",
             "2026-10-09T21:45:00-04:00",
@@ -520,7 +495,7 @@
             "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3078/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3079/seats"
         },
         {
           "title": "The Favourite",
