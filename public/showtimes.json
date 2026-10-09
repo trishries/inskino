@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T22:42:02-04:00",
+  "lastUpdated": "2026-10-09T07:50:50-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,7 +9,9 @@
         {
           "title": "VACANCES",
           "showtimes": [
-            "2026-10-09T19:00:00-04:00"
+            "2026-10-09T19:00:00-04:00",
+            "2026-10-10T17:30:00-04:00",
+            "2026-10-10T20:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5667?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
@@ -28,135 +30,53 @@
       "status": "ok",
       "films": [
         {
-          "title": "ALTERED STATES",
+          "title": "ALL ABOUT LILY CHOU-CHOU",
           "showtimes": [
-            "2026-10-08T16:05:00-04:00"
+            "2026-10-09T23:10:00-04:00",
+            "2026-10-10T23:10:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582567~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583718~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "ANDRÉ LEON TALLEY: STYLE IS FOREVER",
           "showtimes": [
-            "2026-10-08T19:00:00-04:00",
-            "2026-10-09T18:50:00-04:00"
+            "2026-10-09T18:50:00-04:00",
+            "2026-10-10T18:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582819~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582800~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "BEGOTTEN",
           "showtimes": [
-            "2026-10-08T15:50:00-04:00",
-            "2026-10-08T20:55:00-04:00",
-            "2026-10-09T23:59:00-04:00"
+            "2026-10-09T23:59:00-04:00",
+            "2026-10-10T23:59:00-04:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582340~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "FREE LEONARD PELTIER",
-          "showtimes": [
-            "2026-10-08T11:00:00-04:00",
-            "2026-10-08T16:30:00-04:00",
-            "2026-10-08T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581600~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE HISTORY OF CONCRETE",
-          "showtimes": [
-            "2026-10-08T10:50:00-04:00",
-            "2026-10-08T13:20:00-04:00",
-            "2026-10-08T14:20:00-04:00",
-            "2026-10-08T15:50:00-04:00",
-            "2026-10-08T18:20:00-04:00",
-            "2026-10-08T19:10:00-04:00",
-            "2026-10-08T20:45:00-04:00",
-            "2026-10-08T21:35:00-04:00",
-            "2026-10-09T10:40:00-04:00",
-            "2026-10-09T11:15:00-04:00",
-            "2026-10-09T12:55:00-04:00",
-            "2026-10-09T15:40:00-04:00",
-            "2026-10-09T18:35:00-04:00",
-            "2026-10-09T20:35:00-04:00",
-            "2026-10-09T21:05:00-04:00",
-            "2026-10-09T23:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582333~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE INCOMER",
-          "showtimes": [
-            "2026-10-08T12:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582335~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "LISZTOMANIA",
-          "showtimes": [
-            "2026-10-08T11:25:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582564~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "NAZA",
-          "showtimes": [
-            "2026-10-08T10:45:00-04:00",
-            "2026-10-08T13:00:00-04:00",
-            "2026-10-08T15:15:00-04:00",
-            "2026-10-08T17:30:00-04:00",
-            "2026-10-08T19:40:00-04:00",
-            "2026-10-08T21:50:00-04:00",
-            "2026-10-09T10:35:00-04:00",
-            "2026-10-09T12:20:00-04:00",
-            "2026-10-09T14:20:00-04:00",
-            "2026-10-09T15:20:00-04:00",
-            "2026-10-09T16:20:00-04:00",
-            "2026-10-09T17:35:00-04:00",
-            "2026-10-09T19:40:00-04:00",
-            "2026-10-09T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580912~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "V/H/S/MIXTAPE",
-          "showtimes": [
-            "2026-10-08T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582373~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "WHORE",
-          "showtimes": [
-            "2026-10-08T14:05:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582577~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ALL ABOUT LILY CHOU-CHOU",
-          "showtimes": [
-            "2026-10-09T23:10:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583718~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583604~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE DISCIPLE",
           "showtimes": [
             "2026-10-09T10:45:00-04:00",
             "2026-10-09T13:10:00-04:00",
-            "2026-10-09T18:10:00-04:00"
+            "2026-10-09T18:10:00-04:00",
+            "2026-10-10T10:45:00-04:00",
+            "2026-10-10T18:10:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583593~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "EVIL DEAD 2",
           "showtimes": [
-            "2026-10-09T23:25:00-04:00"
+            "2026-10-09T23:25:00-04:00",
+            "2026-10-10T23:25:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583609~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE EXORCIST",
           "showtimes": [
-            "2026-10-09T23:35:00-04:00"
+            "2026-10-09T23:35:00-04:00",
+            "2026-10-10T23:35:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583611~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -166,7 +86,10 @@
             "2026-10-09T11:30:00-04:00",
             "2026-10-09T14:45:00-04:00",
             "2026-10-09T18:05:00-04:00",
-            "2026-10-09T21:20:00-04:00"
+            "2026-10-09T21:20:00-04:00",
+            "2026-10-10T14:45:00-04:00",
+            "2026-10-10T18:05:00-04:00",
+            "2026-10-10T21:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=581633~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -178,6 +101,28 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582570~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "THE HISTORY OF CONCRETE",
+          "showtimes": [
+            "2026-10-09T10:40:00-04:00",
+            "2026-10-09T11:15:00-04:00",
+            "2026-10-09T12:55:00-04:00",
+            "2026-10-09T15:40:00-04:00",
+            "2026-10-09T18:35:00-04:00",
+            "2026-10-09T20:35:00-04:00",
+            "2026-10-09T21:05:00-04:00",
+            "2026-10-09T23:00:00-04:00",
+            "2026-10-10T10:40:00-04:00",
+            "2026-10-10T11:15:00-04:00",
+            "2026-10-10T12:55:00-04:00",
+            "2026-10-10T15:40:00-04:00",
+            "2026-10-10T18:35:00-04:00",
+            "2026-10-10T20:35:00-04:00",
+            "2026-10-10T21:05:00-04:00",
+            "2026-10-10T23:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583591~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "THE LAIR OF THE WHITE WORM",
           "showtimes": [
             "2026-10-09T13:20:00-04:00"
@@ -185,11 +130,68 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582580~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "NAZA",
+          "showtimes": [
+            "2026-10-09T10:35:00-04:00",
+            "2026-10-09T12:20:00-04:00",
+            "2026-10-09T14:20:00-04:00",
+            "2026-10-09T15:20:00-04:00",
+            "2026-10-09T16:20:00-04:00",
+            "2026-10-09T17:35:00-04:00",
+            "2026-10-09T19:40:00-04:00",
+            "2026-10-09T21:45:00-04:00",
+            "2026-10-10T10:35:00-04:00",
+            "2026-10-10T12:20:00-04:00",
+            "2026-10-10T14:20:00-04:00",
+            "2026-10-10T15:20:00-04:00",
+            "2026-10-10T16:20:00-04:00",
+            "2026-10-10T17:35:00-04:00",
+            "2026-10-10T19:40:00-04:00",
+            "2026-10-10T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583590~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "TOMMY",
           "showtimes": [
             "2026-10-09T15:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582603~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "CRIMES OF PASSION",
+          "showtimes": [
+            "2026-10-10T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582624~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE DISCIPLE (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-10-10T13:10:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=583618~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "FJORD (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-10-10T11:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582634~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "WHORE",
+          "showtimes": [
+            "2026-10-10T13:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582579~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "WOMEN IN LOVE",
+          "showtimes": [
+            "2026-10-10T15:50:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=582561~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -199,104 +201,92 @@
       "status": "ok",
       "films": [
         {
-          "title": "UNZIPPED",
-          "showtimes": [
-            "2026-10-08T12:30:00-04:00",
-            "2026-10-08T14:15:00-04:00",
-            "2026-10-08T16:00:00-04:00",
-            "2026-10-08T17:45:00-04:00",
-            "2026-10-08T19:30:00-04:00",
-            "2026-10-08T21:15:00-04:00",
-            "2026-10-09T12:50:00-04:00",
-            "2026-10-09T14:40:00-04:00",
-            "2026-10-09T16:30:00-04:00",
-            "2026-10-09T18:20:00-04:00",
-            "2026-10-09T20:10:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
-        },
-        {
-          "title": "THE SCOUT",
-          "showtimes": [
-            "2026-10-08T12:15:00-04:00",
-            "2026-10-08T14:20:00-04:00",
-            "2026-10-08T16:25:00-04:00",
-            "2026-10-08T18:30:00-04:00",
-            "2026-10-08T20:35:00-04:00",
-            "2026-10-09T13:00:00-04:00",
-            "2026-10-09T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/the-scout"
-        },
-        {
-          "title": "YOU HAD TO BE THERE",
-          "showtimes": [
-            "2026-10-08T13:00:00-04:00",
-            "2026-10-08T18:10:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/you-had-to-be-there"
-        },
-        {
-          "title": "FILIPIÑANA",
-          "showtimes": [
-            "2026-10-08T15:45:00-04:00",
-            "2026-10-08T20:25:00-04:00",
-            "2026-10-09T15:20:00-04:00",
-            "2026-10-09T20:10:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/filipinana"
-        },
-        {
-          "title": "DANTON",
-          "showtimes": [
-            "2026-10-08T12:40:00-04:00",
-            "2026-10-09T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/danton-wajda-100"
-        },
-        {
-          "title": "THE WEDDING",
-          "showtimes": [
-            "2026-10-08T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/the-wedding-wajda-100"
-        },
-        {
-          "title": "LOTNA",
-          "showtimes": [
-            "2026-10-08T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/lotna-wajda-100"
-        },
-        {
-          "title": "KORCZAK",
-          "showtimes": [
-            "2026-10-08T20:00:00-04:00",
-            "2026-10-09T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/korczak-wajda-100"
-        },
-        {
           "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 1-3",
           "showtimes": [
             "2026-10-09T12:15:00-04:00",
-            "2026-10-09T19:15:00-04:00"
+            "2026-10-09T19:15:00-04:00",
+            "2026-10-10T12:15:00-04:00",
+            "2026-10-10T19:35:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
         },
         {
           "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 4-5",
           "showtimes": [
-            "2026-10-09T16:00:00-04:00"
+            "2026-10-09T16:00:00-04:00",
+            "2026-10-10T16:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
         },
         {
+          "title": "UNZIPPED",
+          "showtimes": [
+            "2026-10-09T12:50:00-04:00",
+            "2026-10-09T14:40:00-04:00",
+            "2026-10-09T16:30:00-04:00",
+            "2026-10-09T18:20:00-04:00",
+            "2026-10-09T20:10:00-04:00",
+            "2026-10-10T12:50:00-04:00",
+            "2026-10-10T16:30:00-04:00",
+            "2026-10-10T18:20:00-04:00",
+            "2026-10-10T20:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
+        },
+        {
+          "title": "THE SCOUT",
+          "showtimes": [
+            "2026-10-09T13:00:00-04:00",
+            "2026-10-09T18:00:00-04:00",
+            "2026-10-10T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-scout"
+        },
+        {
+          "title": "FILIPIÑANA",
+          "showtimes": [
+            "2026-10-09T15:20:00-04:00",
+            "2026-10-09T20:10:00-04:00",
+            "2026-10-10T15:20:00-04:00",
+            "2026-10-10T20:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/filipinana"
+        },
+        {
+          "title": "KORCZAK",
+          "showtimes": [
+            "2026-10-09T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/korczak-wajda-100"
+        },
+        {
+          "title": "DANTON",
+          "showtimes": [
+            "2026-10-09T15:30:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/danton-wajda-100"
+        },
+        {
           "title": "MAN OF MARBLE",
           "showtimes": [
-            "2026-10-09T18:30:00-04:00"
+            "2026-10-09T18:30:00-04:00",
+            "2026-10-10T13:00:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/man-of-marble-wajda-100"
+        },
+        {
+          "title": "MAN OF IRON",
+          "showtimes": [
+            "2026-10-10T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/man-of-iron-wajda-100"
+        },
+        {
+          "title": "WALESA: MAN OF HOPE",
+          "showtimes": [
+            "2026-10-10T19:20:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/walesa-man-of-hope-wajda-100"
         }
       ]
     },
@@ -305,20 +295,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "VALIE EXPORT SHORTS PROGRAM",
-          "showtimes": [
-            "2026-10-08T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31144"
-        },
-        {
-          "title": "SYMPATHY FOR MR. VENGEANCE",
-          "showtimes": [
-            "2026-10-08T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31142"
-        },
         {
           "title": "THE TERMINATOR",
           "showtimes": [
@@ -367,6 +343,76 @@
             "2026-10-09T21:35:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31043"
+        },
+        {
+          "title": "ROBOCOP - THE DIRECTOR'S CUT",
+          "showtimes": [
+            "2026-10-10T11:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31052"
+        },
+        {
+          "title": "BRIEF ENCOUNTER",
+          "showtimes": [
+            "2026-10-10T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31053"
+        },
+        {
+          "title": "TRAINS, CHILDREN & DREAMS: A SHORTS PROGRAM",
+          "showtimes": [
+            "2026-10-10T13:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31055"
+        },
+        {
+          "title": "THE IMMIGRANT",
+          "showtimes": [
+            "2026-10-10T15:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31054"
+        },
+        {
+          "title": "THE ILLIAC PASSION",
+          "showtimes": [
+            "2026-10-10T16:10:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31056"
+        },
+        {
+          "title": "EARTH",
+          "showtimes": [
+            "2026-10-10T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31058"
+        },
+        {
+          "title": "THE FOUL KING",
+          "showtimes": [
+            "2026-10-10T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30951"
+        },
+        {
+          "title": "THE ENCHANTED DESNA",
+          "showtimes": [
+            "2026-10-10T20:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31059"
+        },
+        {
+          "title": "THE WAILING",
+          "showtimes": [
+            "2026-10-10T22:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30952"
+        },
+        {
+          "title": "HIGH AND LOW",
+          "showtimes": [
+            "2026-10-10T22:20:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31061"
         }
       ]
     },
@@ -375,24 +421,6 @@
       "url": "https://quadcinema.com",
       "status": "ok",
       "films": [
-        {
-          "title": "DEEP RED",
-          "showtimes": [
-            "2026-10-08T20:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
-        },
-        {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-10-08T19:45:00-04:00",
-            "2026-10-09T13:40:00-04:00",
-            "2026-10-09T16:20:00-04:00",
-            "2026-10-09T19:00:00-04:00",
-            "2026-10-09T21:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-08"
-        },
         {
           "title": "A NIGHTMARE ON ELM STREET",
           "showtimes": [
@@ -405,7 +433,10 @@
           "showtimes": [
             "2026-10-09T12:25:00-04:00",
             "2026-10-09T19:15:00-04:00",
-            "2026-10-09T21:30:00-04:00"
+            "2026-10-09T21:30:00-04:00",
+            "2026-10-10T12:25:00-04:00",
+            "2026-10-10T19:15:00-04:00",
+            "2026-10-10T21:30:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
@@ -413,7 +444,24 @@
           "title": "BAD APPLES",
           "showtimes": [
             "2026-10-09T14:45:00-04:00",
-            "2026-10-09T16:50:00-04:00"
+            "2026-10-09T16:50:00-04:00",
+            "2026-10-10T14:45:00-04:00",
+            "2026-10-10T16:50:00-04:00",
+            "2026-10-10T21:35:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-10-09T13:40:00-04:00",
+            "2026-10-09T16:20:00-04:00",
+            "2026-10-09T19:00:00-04:00",
+            "2026-10-09T21:00:00-04:00",
+            "2026-10-10T13:40:00-04:00",
+            "2026-10-10T16:20:00-04:00",
+            "2026-10-10T19:00:00-04:00",
+            "2026-10-10T21:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
@@ -421,7 +469,9 @@
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
             "2026-10-09T12:35:00-04:00",
-            "2026-10-09T16:45:00-04:00"
+            "2026-10-09T16:45:00-04:00",
+            "2026-10-10T12:35:00-04:00",
+            "2026-10-10T16:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
@@ -429,7 +479,9 @@
           "title": "THE MARCHING BAND",
           "showtimes": [
             "2026-10-09T14:40:00-04:00",
-            "2026-10-09T18:50:00-04:00"
+            "2026-10-09T18:50:00-04:00",
+            "2026-10-10T14:40:00-04:00",
+            "2026-10-10T18:50:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
@@ -440,7 +492,12 @@
             "2026-10-09T14:35:00-04:00",
             "2026-10-09T16:55:00-04:00",
             "2026-10-09T18:55:00-04:00",
-            "2026-10-09T21:15:00-04:00"
+            "2026-10-09T21:15:00-04:00",
+            "2026-10-10T12:30:00-04:00",
+            "2026-10-10T14:35:00-04:00",
+            "2026-10-10T16:55:00-04:00",
+            "2026-10-10T18:55:00-04:00",
+            "2026-10-10T21:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         }
@@ -457,9 +514,20 @@
             "2026-10-09T13:00:00-04:00",
             "2026-10-09T16:00:00-04:00",
             "2026-10-09T19:00:00-04:00",
-            "2026-10-09T21:45:00-04:00"
+            "2026-10-09T21:45:00-04:00",
+            "2026-10-10T13:50:00-04:00",
+            "2026-10-10T16:30:00-04:00",
+            "2026-10-10T19:15:00-04:00",
+            "2026-10-10T21:55:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3078/seats"
+        },
+        {
+          "title": "The Favourite",
+          "showtimes": [
+            "2026-10-10T11:00:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3086/seats"
         }
       ]
     },
