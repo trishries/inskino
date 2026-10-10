@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-09T19:01:18-04:00",
+  "lastUpdated": "2026-10-09T22:01:48-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "VIKA KIRCHENBAUER: PGM 2",
-          "showtimes": [
-            "2026-10-09T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5747?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "VACANCES",
           "showtimes": [
@@ -397,19 +390,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
         {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-09T16:50:00-04:00",
-            "2026-10-10T14:45:00-04:00",
-            "2026-10-10T16:50:00-04:00",
-            "2026-10-10T21:35:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-09T16:20:00-04:00",
             "2026-10-09T19:00:00-04:00",
             "2026-10-09T21:00:00-04:00",
             "2026-10-10T13:40:00-04:00",
@@ -420,28 +402,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
         },
         {
-          "title": "IN SPITE OF OURSELVES",
-          "showtimes": [
-            "2026-10-09T16:45:00-04:00",
-            "2026-10-10T12:35:00-04:00",
-            "2026-10-10T16:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
-        },
-        {
-          "title": "THE MARCHING BAND",
-          "showtimes": [
-            "2026-10-09T18:50:00-04:00",
-            "2026-10-10T14:40:00-04:00",
-            "2026-10-10T18:50:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
-        },
-        {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-09T16:55:00-04:00",
-            "2026-10-09T18:55:00-04:00",
             "2026-10-09T21:15:00-04:00",
             "2026-10-10T12:30:00-04:00",
             "2026-10-10T14:35:00-04:00",
@@ -450,6 +412,31 @@
             "2026-10-10T21:15:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-09"
+        },
+        {
+          "title": "BAD APPLES",
+          "showtimes": [
+            "2026-10-10T14:45:00-04:00",
+            "2026-10-10T16:50:00-04:00",
+            "2026-10-10T21:35:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
+        },
+        {
+          "title": "IN SPITE OF OURSELVES",
+          "showtimes": [
+            "2026-10-10T12:35:00-04:00",
+            "2026-10-10T16:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
+        },
+        {
+          "title": "THE MARCHING BAND",
+          "showtimes": [
+            "2026-10-10T14:40:00-04:00",
+            "2026-10-10T18:50:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
         }
       ]
     },
@@ -461,14 +448,13 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-09T19:00:00-04:00",
             "2026-10-09T21:45:00-04:00",
             "2026-10-10T13:50:00-04:00",
             "2026-10-10T16:30:00-04:00",
             "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3080/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3081/seats"
         },
         {
           "title": "The Favourite",
