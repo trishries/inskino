@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T07:07:54-04:00",
+  "lastUpdated": "2026-10-10T12:01:11-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -360,13 +360,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31056"
         },
         {
-          "title": "EARTH",
-          "showtimes": [
-            "2026-10-10T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31058"
-        },
-        {
           "title": "THE FOUL KING",
           "showtimes": [
             "2026-10-10T20:00:00-04:00",
@@ -543,13 +536,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Favourite",
-          "showtimes": [
-            "2026-10-10T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3086/seats"
-        },
         {
           "title": "Animals",
           "showtimes": [
