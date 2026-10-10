@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T12:01:11-04:00",
+  "lastUpdated": "2026-10-10T15:12:41-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -360,6 +360,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31056"
         },
         {
+          "title": "EARTH",
+          "showtimes": [
+            "2026-10-10T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31058"
+        },
+        {
           "title": "THE FOUL KING",
           "showtimes": [
             "2026-10-10T20:00:00-04:00",
@@ -539,7 +546,6 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-10T13:50:00-04:00",
             "2026-10-10T16:30:00-04:00",
             "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:55:00-04:00",
@@ -548,7 +554,7 @@
             "2026-10-11T19:15:00-04:00",
             "2026-10-11T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3085/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3084/seats"
         },
         {
           "title": "Secret Sunshine",
