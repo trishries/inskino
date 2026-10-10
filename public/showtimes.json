@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T15:12:41-04:00",
+  "lastUpdated": "2026-10-10T18:12:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -9,12 +9,11 @@
         {
           "title": "VACANCES",
           "showtimes": [
-            "2026-10-10T17:30:00-04:00",
             "2026-10-10T20:00:00-04:00",
             "2026-10-11T17:30:00-04:00",
             "2026-10-11T20:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5668?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5669?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "WOMEN IN ANIMATION PGM 1",
@@ -325,41 +324,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ROBOCOP - THE DIRECTOR'S CUT",
-          "showtimes": [
-            "2026-10-10T11:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31052"
-        },
-        {
-          "title": "BRIEF ENCOUNTER",
-          "showtimes": [
-            "2026-10-10T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31053"
-        },
-        {
-          "title": "TRAINS, CHILDREN & DREAMS: A SHORTS PROGRAM",
-          "showtimes": [
-            "2026-10-10T13:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31055"
-        },
-        {
-          "title": "THE IMMIGRANT",
-          "showtimes": [
-            "2026-10-10T15:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31054"
-        },
-        {
-          "title": "THE ILLIAC PASSION",
-          "showtimes": [
-            "2026-10-10T16:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31056"
-        },
-        {
           "title": "EARTH",
           "showtimes": [
             "2026-10-10T18:30:00-04:00"
@@ -468,7 +432,6 @@
         {
           "title": "ANIMALS",
           "showtimes": [
-            "2026-10-10T12:25:00-04:00",
             "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:30:00-04:00",
             "2026-10-11T12:25:00-04:00",
@@ -504,7 +467,6 @@
         {
           "title": "IN SPITE OF OURSELVES",
           "showtimes": [
-            "2026-10-10T12:35:00-04:00",
             "2026-10-10T16:45:00-04:00",
             "2026-10-11T12:55:00-04:00",
             "2026-10-11T17:15:00-04:00"
@@ -524,7 +486,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-10T12:30:00-04:00",
             "2026-10-10T14:35:00-04:00",
             "2026-10-10T16:55:00-04:00",
             "2026-10-10T18:55:00-04:00",
@@ -546,7 +507,6 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-10T16:30:00-04:00",
             "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:55:00-04:00",
             "2026-10-11T10:30:00-04:00",
@@ -554,7 +514,7 @@
             "2026-10-11T19:15:00-04:00",
             "2026-10-11T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3084/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3083/seats"
         },
         {
           "title": "Secret Sunshine",
