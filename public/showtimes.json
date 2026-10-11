@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T15:26:45-04:00",
+  "lastUpdated": "2026-10-11T18:39:56-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,26 +7,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "PLAYING WITH FIRE: AN ECOSEXUAL EMERGENCY",
-          "showtimes": [
-            "2026-10-11T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5750?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "VACANCES",
           "showtimes": [
-            "2026-10-11T17:30:00-04:00",
             "2026-10-11T20:00:00-04:00"
           ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5670?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "VIKA KIRCHENBAUER: PGM 1",
-          "showtimes": [
-            "2026-10-11T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5746?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5671?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "VIKA KIRCHENBAUER: PGM 2",
@@ -295,41 +280,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ANTIGONE",
-          "showtimes": [
-            "2026-10-11T14:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31050"
-        },
-        {
-          "title": "ONCE UPON A TIME IN CHINA II",
-          "showtimes": [
-            "2026-10-11T14:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31046"
-        },
-        {
-          "title": "ONCE UPON A TIME IN CHINA III",
-          "showtimes": [
-            "2026-10-11T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31047"
-        },
-        {
-          "title": "ARSENAL",
-          "showtimes": [
-            "2026-10-11T17:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31051"
-        },
-        {
-          "title": "SHCHORS",
-          "showtimes": [
-            "2026-10-11T19:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31048"
-        },
-        {
           "title": "A BITTERSWEET LIFE",
           "showtimes": [
             "2026-10-11T19:20:00-04:00"
@@ -430,7 +380,6 @@
         {
           "title": "ANIMALS",
           "showtimes": [
-            "2026-10-11T14:35:00-04:00",
             "2026-10-11T19:20:00-04:00",
             "2026-10-12T13:05:00-04:00",
             "2026-10-12T15:15:00-04:00",
@@ -449,7 +398,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-11T14:20:00-04:00",
             "2026-10-11T16:45:00-04:00",
             "2026-10-11T19:00:00-04:00",
             "2026-10-12T12:50:00-04:00",
@@ -470,7 +418,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-11T15:00:00-04:00",
             "2026-10-11T19:30:00-04:00",
             "2026-10-12T15:05:00-04:00",
             "2026-10-12T17:35:00-04:00"
@@ -480,7 +427,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-11T14:35:00-04:00",
             "2026-10-11T16:50:00-04:00",
             "2026-10-11T19:10:00-04:00",
             "2026-10-12T12:55:00-04:00",
@@ -507,11 +453,10 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-11T16:30:00-04:00",
             "2026-10-11T19:15:00-04:00",
             "2026-10-11T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3088/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3089/seats"
         }
       ]
     },
