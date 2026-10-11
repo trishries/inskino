@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T07:21:58-04:00",
+  "lastUpdated": "2026-10-11T12:27:25-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -302,20 +302,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE AGE OF INNOCENCE",
-          "showtimes": [
-            "2026-10-11T11:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31044"
-        },
-        {
-          "title": "ONCE UPON A TIME IN CHINA",
-          "showtimes": [
-            "2026-10-11T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31045"
-        },
-        {
           "title": "ANTIGONE",
           "showtimes": [
             "2026-10-11T14:35:00-04:00"
@@ -530,21 +516,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "Animals",
-          "showtimes": [
-            "2026-10-11T10:30:00-04:00",
-            "2026-10-11T16:30:00-04:00",
-            "2026-10-11T19:15:00-04:00",
-            "2026-10-11T21:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3087/seats"
-        },
-        {
           "title": "Secret Sunshine",
           "showtimes": [
             "2026-10-11T13:15:00-04:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3045/seats"
+        },
+        {
+          "title": "Animals",
+          "showtimes": [
+            "2026-10-11T16:30:00-04:00",
+            "2026-10-11T19:15:00-04:00",
+            "2026-10-11T21:55:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3088/seats"
         }
       ]
     },
