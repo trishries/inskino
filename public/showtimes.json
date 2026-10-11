@@ -1,20 +1,11 @@
 {
-  "lastUpdated": "2026-10-10T18:12:38-04:00",
+  "lastUpdated": "2026-10-10T21:30:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "VACANCES",
-          "showtimes": [
-            "2026-10-10T20:00:00-04:00",
-            "2026-10-11T17:30:00-04:00",
-            "2026-10-11T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5669?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "WOMEN IN ANIMATION PGM 1",
           "showtimes": [
@@ -28,6 +19,14 @@
             "2026-10-11T16:00:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5750?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "VACANCES",
+          "showtimes": [
+            "2026-10-11T17:30:00-04:00",
+            "2026-10-11T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5670?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "VIKA KIRCHENBAUER: PGM 1",
@@ -324,35 +323,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "EARTH",
-          "showtimes": [
-            "2026-10-10T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31058"
-        },
-        {
-          "title": "THE FOUL KING",
-          "showtimes": [
-            "2026-10-10T20:00:00-04:00",
-            "2026-10-11T21:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30951"
-        },
-        {
-          "title": "THE ENCHANTED DESNA",
-          "showtimes": [
-            "2026-10-10T20:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31059"
-        },
-        {
-          "title": "THE WAILING",
-          "showtimes": [
-            "2026-10-10T22:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30952"
-        },
-        {
           "title": "HIGH AND LOW",
           "showtimes": [
             "2026-10-10T22:20:00-04:00"
@@ -416,6 +386,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30953"
         },
         {
+          "title": "THE FOUL KING",
+          "showtimes": [
+            "2026-10-11T21:45:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30954"
+        },
+        {
           "title": "THE TERMINATOR",
           "showtimes": [
             "2026-10-11T21:50:00-04:00"
@@ -443,8 +420,6 @@
         {
           "title": "BAD APPLES",
           "showtimes": [
-            "2026-10-10T14:45:00-04:00",
-            "2026-10-10T16:50:00-04:00",
             "2026-10-10T21:35:00-04:00",
             "2026-10-11T12:15:00-04:00",
             "2026-10-11T16:55:00-04:00"
@@ -454,8 +429,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-10T13:40:00-04:00",
-            "2026-10-10T16:20:00-04:00",
             "2026-10-10T19:00:00-04:00",
             "2026-10-10T21:00:00-04:00",
             "2026-10-11T14:20:00-04:00",
@@ -465,30 +438,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
         },
         {
-          "title": "IN SPITE OF OURSELVES",
-          "showtimes": [
-            "2026-10-10T16:45:00-04:00",
-            "2026-10-11T12:55:00-04:00",
-            "2026-10-11T17:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
-        },
-        {
-          "title": "THE MARCHING BAND",
-          "showtimes": [
-            "2026-10-10T14:40:00-04:00",
-            "2026-10-10T18:50:00-04:00",
-            "2026-10-11T15:00:00-04:00",
-            "2026-10-11T19:30:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
-        },
-        {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-10T14:35:00-04:00",
-            "2026-10-10T16:55:00-04:00",
-            "2026-10-10T18:55:00-04:00",
             "2026-10-10T21:15:00-04:00",
             "2026-10-11T12:20:00-04:00",
             "2026-10-11T14:35:00-04:00",
@@ -496,6 +447,22 @@
             "2026-10-11T19:10:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-10"
+        },
+        {
+          "title": "IN SPITE OF OURSELVES",
+          "showtimes": [
+            "2026-10-11T12:55:00-04:00",
+            "2026-10-11T17:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-11"
+        },
+        {
+          "title": "THE MARCHING BAND",
+          "showtimes": [
+            "2026-10-11T15:00:00-04:00",
+            "2026-10-11T19:30:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-11"
         }
       ]
     },
@@ -507,14 +474,13 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-10T19:15:00-04:00",
             "2026-10-10T21:55:00-04:00",
             "2026-10-11T10:30:00-04:00",
             "2026-10-11T16:30:00-04:00",
             "2026-10-11T19:15:00-04:00",
             "2026-10-11T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3083/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3082/seats"
         },
         {
           "title": "Secret Sunshine",
