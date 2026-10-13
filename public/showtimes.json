@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T13:51:29-04:00",
+  "lastUpdated": "2026-10-13T16:35:03-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -278,20 +278,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "HAPPY TOGETHER",
-          "showtimes": [
-            "2026-10-13T14:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31199"
-        },
-        {
-          "title": "PAPRIKA",
-          "showtimes": [
-            "2026-10-13T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31200"
-        },
         {
           "title": "INVISIBLE ADVERSARIES",
           "showtimes": [
