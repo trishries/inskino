@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T18:27:24-04:00",
+  "lastUpdated": "2026-10-12T21:06:13-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -380,17 +380,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-12"
         },
         {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-12T18:00:00-04:00",
-            "2026-10-13T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-12"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-12T15:25:00-04:00",
             "2026-10-12T19:20:00-04:00",
             "2026-10-13T12:50:00-04:00",
             "2026-10-13T15:25:00-04:00",
@@ -399,27 +390,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-12"
         },
         {
-          "title": "IN SPITE OF OURSELVES",
-          "showtimes": [
-            "2026-10-12T17:10:00-04:00",
-            "2026-10-13T13:00:00-04:00",
-            "2026-10-13T17:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-12"
-        },
-        {
-          "title": "THE MARCHING BAND",
-          "showtimes": [
-            "2026-10-12T17:35:00-04:00",
-            "2026-10-13T15:05:00-04:00",
-            "2026-10-13T17:35:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-12"
-        },
-        {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-12T17:25:00-04:00",
             "2026-10-12T19:40:00-04:00",
             "2026-10-13T12:55:00-04:00",
             "2026-10-13T15:10:00-04:00",
@@ -427,6 +399,29 @@
             "2026-10-13T19:40:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-12"
+        },
+        {
+          "title": "BAD APPLES",
+          "showtimes": [
+            "2026-10-13T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
+        },
+        {
+          "title": "IN SPITE OF OURSELVES",
+          "showtimes": [
+            "2026-10-13T13:00:00-04:00",
+            "2026-10-13T17:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
+        },
+        {
+          "title": "THE MARCHING BAND",
+          "showtimes": [
+            "2026-10-13T15:05:00-04:00",
+            "2026-10-13T17:35:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
         }
       ]
     },
