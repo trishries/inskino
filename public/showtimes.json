@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T08:39:04-04:00",
+  "lastUpdated": "2026-10-13T13:51:29-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -307,13 +307,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31201"
         },
         {
-          "title": "YI YI",
-          "showtimes": [
-            "2026-10-13T18:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31202"
-        },
-        {
           "title": "THE YELLOW SEA",
           "showtimes": [
             "2026-10-13T18:40:00-04:00"
@@ -425,11 +418,10 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-13T13:00:00-04:00",
             "2026-10-13T19:15:00-04:00",
             "2026-10-13T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3131/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3132/seats"
         },
         {
           "title": "Querelle",
