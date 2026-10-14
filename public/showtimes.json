@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-10-13T16:35:03-04:00",
+  "lastUpdated": "2026-10-13T21:33:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "VACANCES",
-          "showtimes": [
-            "2026-10-13T18:30:00-04:00",
-            "2026-10-13T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5672?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE DOMINATRIX SLEEPS TONIGHT",
-          "showtimes": [
-            "2026-10-13T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5739?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "SEDUCTION: THE CRUEL WOMAN",
-          "showtimes": [
-            "2026-10-13T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5744?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "WOMEN IN ANIMATION PGM 2",
           "showtimes": [
@@ -104,6 +82,7 @@
             "2026-10-13T15:40:00-04:00",
             "2026-10-13T20:35:00-04:00",
             "2026-10-13T21:05:00-04:00",
+            "2026-10-14T10:40:00-04:00",
             "2026-10-14T11:15:00-04:00",
             "2026-10-14T12:55:00-04:00",
             "2026-10-14T15:40:00-04:00",
@@ -279,27 +258,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "INVISIBLE ADVERSARIES",
-          "showtimes": [
-            "2026-10-13T16:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31206"
-        },
-        {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
-          "showtimes": [
-            "2026-10-13T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31201"
-        },
-        {
-          "title": "THE YELLOW SEA",
-          "showtimes": [
-            "2026-10-13T18:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31205"
-        },
-        {
           "title": "THE DOUBLE",
           "showtimes": [
             "2026-10-13T21:40:00-04:00"
@@ -331,8 +289,6 @@
         {
           "title": "ANIMALS",
           "showtimes": [
-            "2026-10-13T13:05:00-04:00",
-            "2026-10-13T15:15:00-04:00",
             "2026-10-13T19:45:00-04:00",
             "2026-10-14T13:10:00-04:00",
             "2026-10-14T15:30:00-04:00",
@@ -341,18 +297,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
         },
         {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-13T18:00:00-04:00",
-            "2026-10-14T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-13T12:50:00-04:00",
-            "2026-10-13T15:25:00-04:00",
             "2026-10-13T19:20:00-04:00",
             "2026-10-14T12:50:00-04:00",
             "2026-10-14T15:25:00-04:00",
@@ -361,31 +307,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
         },
         {
-          "title": "IN SPITE OF OURSELVES",
-          "showtimes": [
-            "2026-10-13T13:00:00-04:00",
-            "2026-10-13T17:10:00-04:00",
-            "2026-10-14T13:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
-        },
-        {
-          "title": "THE MARCHING BAND",
-          "showtimes": [
-            "2026-10-13T15:05:00-04:00",
-            "2026-10-13T17:35:00-04:00",
-            "2026-10-14T15:05:00-04:00",
-            "2026-10-14T17:15:00-04:00",
-            "2026-10-14T20:05:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
-        },
-        {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-13T12:55:00-04:00",
-            "2026-10-13T15:10:00-04:00",
-            "2026-10-13T17:25:00-04:00",
             "2026-10-13T19:40:00-04:00",
             "2026-10-14T12:55:00-04:00",
             "2026-10-14T15:10:00-04:00",
@@ -393,6 +316,29 @@
             "2026-10-14T19:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-13"
+        },
+        {
+          "title": "BAD APPLES",
+          "showtimes": [
+            "2026-10-14T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
+        },
+        {
+          "title": "IN SPITE OF OURSELVES",
+          "showtimes": [
+            "2026-10-14T13:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
+        },
+        {
+          "title": "THE MARCHING BAND",
+          "showtimes": [
+            "2026-10-14T15:05:00-04:00",
+            "2026-10-14T17:15:00-04:00",
+            "2026-10-14T20:05:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
         }
       ]
     },
@@ -404,10 +350,9 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-13T19:15:00-04:00",
             "2026-10-13T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3132/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3133/seats"
         },
         {
           "title": "Querelle",
