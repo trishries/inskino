@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T11:24:10-04:00",
+  "lastUpdated": "2026-10-15T14:59:33-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -447,10 +447,9 @@
         {
           "title": "Animals",
           "showtimes": [
-            "2026-10-15T13:00:00-04:00",
             "2026-10-15T16:00:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3134/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3135/seats"
         },
         {
           "title": "La Bola Negra",
