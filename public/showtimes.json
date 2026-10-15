@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-14T18:02:32-04:00",
+  "lastUpdated": "2026-10-14T21:10:55-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "WOMEN IN ANIMATION PGM 2",
-          "showtimes": [
-            "2026-10-14T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5752?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "WOMEN IN ANIMATION PGM 3",
           "showtimes": [
@@ -286,28 +279,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
         },
         {
-          "title": "ANIMALS",
-          "showtimes": [
-            "2026-10-14T15:30:00-04:00",
-            "2026-10-14T18:00:00-04:00",
-            "2026-10-15T12:25:00-04:00",
-            "2026-10-15T14:35:00-04:00",
-            "2026-10-15T20:15:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
-        },
-        {
-          "title": "BAD APPLES",
-          "showtimes": [
-            "2026-10-14T18:00:00-04:00",
-            "2026-10-15T16:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-14T15:25:00-04:00",
             "2026-10-14T19:30:00-04:00",
             "2026-10-15T12:30:00-04:00",
             "2026-10-15T15:05:00-04:00",
@@ -318,7 +291,6 @@
         {
           "title": "THE MARCHING BAND",
           "showtimes": [
-            "2026-10-14T17:15:00-04:00",
             "2026-10-14T20:05:00-04:00",
             "2026-10-15T17:40:00-04:00"
           ],
@@ -327,14 +299,28 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-14T15:10:00-04:00",
-            "2026-10-14T17:25:00-04:00",
             "2026-10-14T19:45:00-04:00",
             "2026-10-15T13:00:00-04:00",
             "2026-10-15T15:40:00-04:00",
             "2026-10-15T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-14"
+        },
+        {
+          "title": "ANIMALS",
+          "showtimes": [
+            "2026-10-15T12:25:00-04:00",
+            "2026-10-15T14:35:00-04:00",
+            "2026-10-15T20:15:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-15"
+        },
+        {
+          "title": "BAD APPLES",
+          "showtimes": [
+            "2026-10-15T16:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-15"
         },
         {
           "title": "IN SPITE OF OURSELVES",
@@ -358,13 +344,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Querelle",
-          "showtimes": [
-            "2026-10-14T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3091/seats"
-        },
         {
           "title": "Sebastiane",
           "showtimes": [
