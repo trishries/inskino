@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T14:43:38-04:00",
+  "lastUpdated": "2026-10-16T17:54:36-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -295,25 +295,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "STRANGERS ON A TRAIN",
+          "title": "MINORITY REPORT",
           "showtimes": [
-            "2026-10-16T14:15:00-04:00"
+            "2026-10-16T18:40:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31091"
-        },
-        {
-          "title": "SOCRATES",
-          "showtimes": [
-            "2026-10-16T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31094"
-        },
-        {
-          "title": "MIDNIGHT IN PARIS",
-          "showtimes": [
-            "2026-10-16T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31093"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31096"
         },
         {
           "title": "PARIS WAS A WOMAN",
@@ -382,7 +368,6 @@
         {
           "title": "CASE 137",
           "showtimes": [
-            "2026-10-16T12:10:00-04:00",
             "2026-10-16T14:30:00-04:00",
             "2026-10-16T16:50:00-04:00",
             "2026-10-16T19:10:00-04:00",
@@ -415,7 +400,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-16T12:20:00-04:00",
             "2026-10-16T13:45:00-04:00",
             "2026-10-16T16:00:00-04:00",
             "2026-10-16T18:20:00-04:00",
@@ -453,7 +437,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-16T14:35:00-04:00",
             "2026-10-16T18:15:00-04:00",
             "2026-10-16T22:20:00-04:00",
             "2026-10-17T10:55:00-04:00",
@@ -461,7 +444,7 @@
             "2026-10-17T18:15:00-04:00",
             "2026-10-17T22:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3095/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3096/seats"
         }
       ]
     },
