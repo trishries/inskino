@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T11:04:15-04:00",
+  "lastUpdated": "2026-10-16T14:43:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -295,14 +295,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "OKJA",
-          "showtimes": [
-            "2026-10-16T13:45:00-04:00",
-            "2026-10-17T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31092"
-        },
-        {
           "title": "STRANGERS ON A TRAIN",
           "showtimes": [
             "2026-10-16T14:15:00-04:00"
@@ -330,6 +322,13 @@
             "2026-10-17T14:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31095"
+        },
+        {
+          "title": "OKJA",
+          "showtimes": [
+            "2026-10-17T12:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31099"
         },
         {
           "title": "ZVENYGORA",
@@ -454,7 +453,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-16T10:55:00-04:00",
             "2026-10-16T14:35:00-04:00",
             "2026-10-16T18:15:00-04:00",
             "2026-10-16T22:20:00-04:00",
@@ -463,7 +461,7 @@
             "2026-10-17T18:15:00-04:00",
             "2026-10-17T22:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3094/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3095/seats"
         }
       ]
     },
