@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-10-16T17:54:36-04:00",
+  "lastUpdated": "2026-10-16T20:58:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MMRC PGM 1",
-          "showtimes": [
-            "2026-10-16T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5754?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MMRC PGM 2",
-          "showtimes": [
-            "2026-10-16T20:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5755?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Strike",
           "showtimes": [
@@ -295,19 +281,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "MINORITY REPORT",
+          "title": "ALMOST FAMOUS",
           "showtimes": [
-            "2026-10-16T18:40:00-04:00"
+            "2026-10-16T21:00:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31096"
-        },
-        {
-          "title": "PARIS WAS A WOMAN",
-          "showtimes": [
-            "2026-10-16T18:40:00-04:00",
-            "2026-10-17T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31095"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31098"
         },
         {
           "title": "OKJA",
@@ -322,6 +300,13 @@
             "2026-10-17T12:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31062"
+        },
+        {
+          "title": "PARIS WAS A WOMAN",
+          "showtimes": [
+            "2026-10-17T14:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31102"
         },
         {
           "title": "STRESS IS THREE",
@@ -368,7 +353,6 @@
         {
           "title": "CASE 137",
           "showtimes": [
-            "2026-10-16T14:30:00-04:00",
             "2026-10-16T16:50:00-04:00",
             "2026-10-16T19:10:00-04:00",
             "2026-10-16T21:30:00-04:00",
@@ -400,8 +384,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-16T13:45:00-04:00",
-            "2026-10-16T16:00:00-04:00",
             "2026-10-16T18:20:00-04:00",
             "2026-10-17T12:20:00-04:00",
             "2026-10-17T13:45:00-04:00",
@@ -414,8 +396,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-16T12:15:00-04:00",
-            "2026-10-16T14:40:00-04:00",
             "2026-10-16T15:40:00-04:00",
             "2026-10-16T18:00:00-04:00",
             "2026-10-16T20:45:00-04:00",
@@ -437,14 +417,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-16T18:15:00-04:00",
             "2026-10-16T22:20:00-04:00",
             "2026-10-17T10:55:00-04:00",
             "2026-10-17T14:35:00-04:00",
             "2026-10-17T18:15:00-04:00",
             "2026-10-17T22:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3096/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3097/seats"
         }
       ]
     },
