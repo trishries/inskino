@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T09:59:41-04:00",
+  "lastUpdated": "2026-10-17T13:49:21-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -310,20 +310,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "OKJA",
-          "showtimes": [
-            "2026-10-17T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31099"
-        },
-        {
-          "title": "ZVENYGORA",
-          "showtimes": [
-            "2026-10-17T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31062"
-        },
-        {
           "title": "PARIS WAS A WOMAN",
           "showtimes": [
             "2026-10-17T14:30:00-04:00",
@@ -332,18 +318,18 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31102"
         },
         {
+          "title": "THE INSIDER",
+          "showtimes": [
+            "2026-10-17T16:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31100"
+        },
+        {
           "title": "STRESS IS THREE",
           "showtimes": [
             "2026-10-17T16:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31107"
-        },
-        {
-          "title": "HONEYCOMB",
-          "showtimes": [
-            "2026-10-17T18:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31106"
         },
         {
           "title": "MEDEA (1988)",
@@ -358,13 +344,6 @@
             "2026-10-17T23:00:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31104"
-        },
-        {
-          "title": "BLADE RUNNER: THE FINAL CUT",
-          "showtimes": [
-            "2026-10-17T23:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31103"
         },
         {
           "title": "THE ARISTOCATS",
@@ -473,7 +452,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-17T10:55:00-04:00",
             "2026-10-17T14:35:00-04:00",
             "2026-10-17T18:15:00-04:00",
             "2026-10-17T22:20:00-04:00",
@@ -482,7 +460,7 @@
             "2026-10-18T18:15:00-04:00",
             "2026-10-18T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3101/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3100/seats"
         }
       ]
     },
