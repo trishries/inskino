@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:12:33-04:00",
+  "lastUpdated": "2026-10-18T13:58:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -258,18 +258,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE ARISTOCATS",
-          "showtimes": [
-            "2026-10-18T11:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31109"
-        },
-        {
           "title": "ART CINEMA FOR TOTS: HOW TO PLAY A FILM",
           "showtimes": [
             "2026-10-18T15:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31114"
+        },
+        {
+          "title": "REALITY BITES",
+          "showtimes": [
+            "2026-10-18T16:35:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31113"
         },
         {
           "title": "IVAN",
@@ -415,7 +415,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-18T10:55:00-04:00",
             "2026-10-18T14:35:00-04:00",
             "2026-10-18T18:15:00-04:00",
             "2026-10-18T21:55:00-04:00",
@@ -424,7 +423,7 @@
             "2026-10-19T18:15:00-04:00",
             "2026-10-19T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3102/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3103/seats"
         }
       ]
     },
