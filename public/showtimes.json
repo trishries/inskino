@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-10-17T17:13:44-04:00",
+  "lastUpdated": "2026-10-17T20:34:13-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Strike",
-          "showtimes": [
-            "2026-10-17T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5641?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MMRC PGM 3",
-          "showtimes": [
-            "2026-10-17T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5756?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Battleship Potemkin",
-          "showtimes": [
-            "2026-10-17T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5642?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MMRC PGM 4",
-          "showtimes": [
-            "2026-10-17T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5757?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Old and New",
           "showtimes": [
@@ -310,11 +282,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "STRESS IS THREE",
+          "title": "BROADCAST NEWS",
           "showtimes": [
-            "2026-10-17T16:45:00-04:00"
+            "2026-10-17T20:20:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31107"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31101"
+        },
+        {
+          "title": "MEDEA (1988)",
+          "showtimes": [
+            "2026-10-17T21:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31105"
         },
         {
           "title": "OLDBOY",
@@ -368,7 +347,6 @@
         {
           "title": "CASE 137",
           "showtimes": [
-            "2026-10-17T14:30:00-04:00",
             "2026-10-17T16:50:00-04:00",
             "2026-10-17T19:10:00-04:00",
             "2026-10-17T21:30:00-04:00",
@@ -392,8 +370,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-17T13:45:00-04:00",
-            "2026-10-17T16:00:00-04:00",
             "2026-10-17T18:20:00-04:00",
             "2026-10-17T21:25:00-04:00",
             "2026-10-18T12:30:00-04:00",
@@ -406,8 +382,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-17T12:15:00-04:00",
-            "2026-10-17T14:40:00-04:00",
             "2026-10-17T15:40:00-04:00",
             "2026-10-17T18:00:00-04:00",
             "2026-10-17T20:45:00-04:00",
@@ -428,14 +402,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-17T18:15:00-04:00",
             "2026-10-17T22:20:00-04:00",
             "2026-10-18T10:55:00-04:00",
             "2026-10-18T14:35:00-04:00",
             "2026-10-18T18:15:00-04:00",
             "2026-10-18T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3099/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3098/seats"
         }
       ]
     },
