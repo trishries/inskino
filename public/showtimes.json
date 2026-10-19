@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T13:15:30-04:00",
+  "lastUpdated": "2026-10-19T16:30:03-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -222,13 +222,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "SMALL CHANGE",
-          "showtimes": [
-            "2026-10-19T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31240"
-        },
-        {
           "title": "AN AUTUMN'S TALE",
           "showtimes": [
             "2026-10-19T16:15:00-04:00"
@@ -280,7 +273,6 @@
         {
           "title": "CASE 137",
           "showtimes": [
-            "2026-10-19T13:00:00-04:00",
             "2026-10-19T15:20:00-04:00",
             "2026-10-19T17:40:00-04:00",
             "2026-10-19T20:00:00-04:00",
@@ -356,7 +348,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-19T14:35:00-04:00",
             "2026-10-19T18:15:00-04:00",
             "2026-10-19T21:55:00-04:00",
             "2026-10-20T10:55:00-04:00",
@@ -364,7 +355,7 @@
             "2026-10-20T18:15:00-04:00",
             "2026-10-20T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3108/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3107/seats"
         }
       ]
     },
