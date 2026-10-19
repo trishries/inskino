@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-10-18T17:15:02-04:00",
+  "lastUpdated": "2026-10-18T20:43:21-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MMRC PGM 5",
-          "showtimes": [
-            "2026-10-18T17:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5758?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: October",
-          "showtimes": [
-            "2026-10-18T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5644?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MMRC PGM 6",
-          "showtimes": [
-            "2026-10-18T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5759?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "MMRC PGM 7",
           "showtimes": [
@@ -251,20 +230,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "REALITY BITES",
-          "showtimes": [
-            "2026-10-18T16:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31113"
-        },
-        {
-          "title": "IVAN",
-          "showtimes": [
-            "2026-10-18T18:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31064"
-        },
-        {
           "title": "ONCE UPON A TIME IN CHINA",
           "showtimes": [
             "2026-10-18T20:30:00-04:00"
@@ -337,7 +302,6 @@
         {
           "title": "CASE 137",
           "showtimes": [
-            "2026-10-18T14:40:00-04:00",
             "2026-10-18T17:05:00-04:00",
             "2026-10-18T19:30:00-04:00",
             "2026-10-19T13:00:00-04:00",
@@ -360,7 +324,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-18T14:45:00-04:00",
             "2026-10-18T17:00:00-04:00",
             "2026-10-18T19:20:00-04:00",
             "2026-10-19T13:10:00-04:00",
@@ -372,7 +335,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-18T13:10:00-04:00",
             "2026-10-18T15:30:00-04:00",
             "2026-10-18T19:00:00-04:00",
             "2026-10-19T13:05:00-04:00",
@@ -398,14 +360,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-18T18:15:00-04:00",
             "2026-10-18T21:55:00-04:00",
             "2026-10-19T10:55:00-04:00",
             "2026-10-19T14:35:00-04:00",
             "2026-10-19T18:15:00-04:00",
             "2026-10-19T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3104/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3105/seats"
         }
       ]
     },
