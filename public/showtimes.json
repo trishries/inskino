@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T11:44:20-04:00",
+  "lastUpdated": "2026-10-22T15:07:02-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -334,13 +334,6 @@
             "2026-10-23T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31152"
-        },
-        {
-          "title": "ALMOST FAMOUS",
-          "showtimes": [
-            "2026-10-23T20:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31155"
         },
         {
           "title": "RUSHMORE",
