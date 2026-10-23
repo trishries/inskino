@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T15:01:40-04:00",
+  "lastUpdated": "2026-10-23T17:50:23-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -314,11 +314,33 @@
       "status": "ok",
       "films": [
         {
+          "title": "TRON",
+          "showtimes": [
+            "2026-10-23T13:45:00-04:00",
+            "2026-10-24T20:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31148"
+        },
+        {
+          "title": "BRIEF ENCOUNTER",
+          "showtimes": [
+            "2026-10-23T13:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31149"
+        },
+        {
           "title": "OLDBOY",
           "showtimes": [
             "2026-10-23T15:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31151"
+        },
+        {
+          "title": "STRANGERS ON A TRAIN",
+          "showtimes": [
+            "2026-10-23T15:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31150"
         },
         {
           "title": "VIRGINA",
@@ -334,20 +356,6 @@
             "2026-10-23T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31152"
-        },
-        {
-          "title": "ALMOST FAMOUS",
-          "showtimes": [
-            "2026-10-23T20:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31155"
-        },
-        {
-          "title": "NIGHT ON EARTH",
-          "showtimes": [
-            "2026-10-23T20:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31154"
         },
         {
           "title": "RUSHMORE",
@@ -406,20 +414,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31163"
         },
         {
-          "title": "ACE PRESENTS: ROSEMARY'S BABY",
-          "showtimes": [
-            "2026-10-24T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31165"
-        },
-        {
-          "title": "TRON",
-          "showtimes": [
-            "2026-10-24T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31166"
-        },
-        {
           "title": "THE CURSE OF FRANKENSTEIN",
           "showtimes": [
             "2026-10-24T21:00:00-04:00"
@@ -451,7 +445,6 @@
         {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-23T13:30:00-04:00",
             "2026-10-23T15:30:00-04:00",
             "2026-10-23T17:30:00-04:00",
             "2026-10-23T19:30:00-04:00",
@@ -472,17 +465,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-23"
         },
         {
-          "title": "WINTER OF THE CROW",
-          "showtimes": [
-            "2026-10-23T12:45:00-04:00",
-            "2026-10-24T12:10:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-23"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-23T13:00:00-04:00",
             "2026-10-23T16:30:00-04:00",
             "2026-10-23T18:00:00-04:00",
             "2026-10-23T20:00:00-04:00",
@@ -495,6 +479,13 @@
             "2026-10-24T21:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-23"
+        },
+        {
+          "title": "WINTER OF THE CROW",
+          "showtimes": [
+            "2026-10-24T12:10:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-24"
         }
       ]
     },
@@ -506,7 +497,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-23T14:35:00-04:00",
             "2026-10-23T18:15:00-04:00",
             "2026-10-23T21:55:00-04:00",
             "2026-10-24T10:55:00-04:00",
@@ -514,7 +504,7 @@
             "2026-10-24T18:15:00-04:00",
             "2026-10-24T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3137/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3138/seats"
         }
       ]
     },
