@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:32:21-04:00",
+  "lastUpdated": "2026-10-23T15:01:40-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -314,33 +314,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "TRON",
-          "showtimes": [
-            "2026-10-23T13:45:00-04:00",
-            "2026-10-24T20:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31148"
-        },
-        {
-          "title": "BRIEF ENCOUNTER",
-          "showtimes": [
-            "2026-10-23T13:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31149"
-        },
-        {
           "title": "OLDBOY",
           "showtimes": [
             "2026-10-23T15:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31151"
-        },
-        {
-          "title": "STRANGERS ON A TRAIN",
-          "showtimes": [
-            "2026-10-23T15:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31150"
         },
         {
           "title": "VIRGINA",
@@ -356,6 +334,20 @@
             "2026-10-23T18:15:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31152"
+        },
+        {
+          "title": "ALMOST FAMOUS",
+          "showtimes": [
+            "2026-10-23T20:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31155"
+        },
+        {
+          "title": "NIGHT ON EARTH",
+          "showtimes": [
+            "2026-10-23T20:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31154"
         },
         {
           "title": "RUSHMORE",
@@ -412,6 +404,20 @@
             "2026-10-24T15:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31163"
+        },
+        {
+          "title": "ACE PRESENTS: ROSEMARY'S BABY",
+          "showtimes": [
+            "2026-10-24T17:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31165"
+        },
+        {
+          "title": "TRON",
+          "showtimes": [
+            "2026-10-24T20:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31166"
         },
         {
           "title": "THE CURSE OF FRANKENSTEIN",
