@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-22T18:05:29-04:00",
+  "lastUpdated": "2026-10-22T21:09:12-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "ROSALYN DREXLER: WHO DOES SHE THINK SHE IS?",
-          "showtimes": [
-            "2026-10-22T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5797?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE TOXIC AVENGER",
           "showtimes": [
@@ -359,8 +352,6 @@
         {
           "title": "CASE 137",
           "showtimes": [
-            "2026-10-22T15:20:00-04:00",
-            "2026-10-22T17:40:00-04:00",
             "2026-10-22T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-22"
@@ -383,7 +374,6 @@
         {
           "title": "WINTER OF THE CROW",
           "showtimes": [
-            "2026-10-22T15:40:00-04:00",
             "2026-10-22T18:00:00-04:00",
             "2026-10-23T12:45:00-04:00"
           ],
@@ -392,9 +382,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-22T13:05:00-04:00",
-            "2026-10-22T15:25:00-04:00",
-            "2026-10-22T16:25:00-04:00",
             "2026-10-22T19:00:00-04:00",
             "2026-10-23T13:00:00-04:00",
             "2026-10-23T16:30:00-04:00",
@@ -431,14 +418,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-22T18:15:00-04:00",
             "2026-10-22T21:55:00-04:00",
             "2026-10-23T10:55:00-04:00",
             "2026-10-23T14:35:00-04:00",
             "2026-10-23T18:15:00-04:00",
             "2026-10-23T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3119/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3118/seats"
         }
       ]
     },
