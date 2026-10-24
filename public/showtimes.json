@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T17:50:23-04:00",
+  "lastUpdated": "2026-10-23T21:19:44-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,18 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE TOXIC AVENGER",
-          "showtimes": [
-            "2026-10-23T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5762?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "THE BATTLE OF LOVE’S RETURN",
           "showtimes": [
             "2026-10-24T16:45:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5764?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "FUGS FILM!",
+          "showtimes": [
+            "2026-10-24T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5784?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "WAITRESS!",
@@ -180,7 +180,7 @@
           "title": "REDLINE",
           "showtimes": [
             "2026-10-23T23:44:00-04:00",
-            "2026-10-24T23:44:00-04:00"
+            "2026-10-24T23:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586248~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -314,48 +314,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "TRON",
+          "title": "ALMOST FAMOUS",
           "showtimes": [
-            "2026-10-23T13:45:00-04:00",
-            "2026-10-24T20:15:00-04:00"
+            "2026-10-23T20:25:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31148"
-        },
-        {
-          "title": "BRIEF ENCOUNTER",
-          "showtimes": [
-            "2026-10-23T13:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31149"
-        },
-        {
-          "title": "OLDBOY",
-          "showtimes": [
-            "2026-10-23T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31151"
-        },
-        {
-          "title": "STRANGERS ON A TRAIN",
-          "showtimes": [
-            "2026-10-23T15:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31150"
-        },
-        {
-          "title": "VIRGINA",
-          "showtimes": [
-            "2026-10-23T18:00:00-04:00",
-            "2026-10-24T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31153"
-        },
-        {
-          "title": "ALL THAT HEAVEN ALLOWS",
-          "showtimes": [
-            "2026-10-23T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31152"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31155"
         },
         {
           "title": "RUSHMORE",
@@ -414,6 +377,20 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31163"
         },
         {
+          "title": "VIRGINA",
+          "showtimes": [
+            "2026-10-24T18:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31164"
+        },
+        {
+          "title": "TRON",
+          "showtimes": [
+            "2026-10-24T20:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31166"
+        },
+        {
           "title": "THE CURSE OF FRANKENSTEIN",
           "showtimes": [
             "2026-10-24T21:00:00-04:00"
@@ -435,18 +412,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-10-23T15:15:00-04:00",
-            "2026-10-24T18:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-23"
-        },
-        {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-23T15:30:00-04:00",
-            "2026-10-23T17:30:00-04:00",
             "2026-10-23T19:30:00-04:00",
             "2026-10-23T21:30:00-04:00",
             "2026-10-24T13:30:00-04:00",
@@ -467,7 +434,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-23T16:30:00-04:00",
             "2026-10-23T18:00:00-04:00",
             "2026-10-23T20:00:00-04:00",
             "2026-10-23T21:45:00-04:00",
@@ -479,6 +445,13 @@
             "2026-10-24T21:45:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-23"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-10-24T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-24"
         },
         {
           "title": "WINTER OF THE CROW",
@@ -497,14 +470,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-23T18:15:00-04:00",
             "2026-10-23T21:55:00-04:00",
             "2026-10-24T10:55:00-04:00",
             "2026-10-24T14:35:00-04:00",
             "2026-10-24T18:15:00-04:00",
             "2026-10-24T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3138/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3122/seats"
         }
       ]
     },
