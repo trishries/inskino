@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T10:10:01-04:00",
+  "lastUpdated": "2026-10-24T14:01:14-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -372,20 +372,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE ARISTOCATS",
-          "showtimes": [
-            "2026-10-24T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31158"
-        },
-        {
-          "title": "MEDEA (1988)",
-          "showtimes": [
-            "2026-10-24T11:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31159"
-        },
-        {
           "title": "THE FLAVOR OF GREEN TEA OVER RICE",
           "showtimes": [
             "2026-10-24T12:50:00-04:00"
@@ -563,7 +549,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-24T10:55:00-04:00",
             "2026-10-24T14:35:00-04:00",
             "2026-10-24T18:15:00-04:00",
             "2026-10-24T21:55:00-04:00",
@@ -572,7 +557,7 @@
             "2026-10-25T18:15:00-04:00",
             "2026-10-25T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3139/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3140/seats"
         }
       ]
     },
