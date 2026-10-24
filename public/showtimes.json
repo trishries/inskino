@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-24T14:01:14-04:00",
+  "lastUpdated": "2026-10-24T17:24:07-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE BATTLE OF LOVE’S RETURN",
-          "showtimes": [
-            "2026-10-24T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5764?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "FUGS FILM!",
           "showtimes": [
@@ -372,34 +365,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE FLAVOR OF GREEN TEA OVER RICE",
-          "showtimes": [
-            "2026-10-24T12:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31161"
-        },
-        {
-          "title": "ELISA, MY LIFE",
-          "showtimes": [
-            "2026-10-24T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31160"
-        },
-        {
-          "title": "PEPPERMINT FRAPPÉ",
-          "showtimes": [
-            "2026-10-24T15:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31162"
-        },
-        {
-          "title": "SOMETHING SPECIAL (WILLY/MILLY)",
-          "showtimes": [
-            "2026-10-24T15:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31163"
-        },
-        {
           "title": "VIRGINA",
           "showtimes": [
             "2026-10-24T18:00:00-04:00",
@@ -502,7 +467,6 @@
         {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-24T13:30:00-04:00",
             "2026-10-24T15:30:00-04:00",
             "2026-10-24T17:30:00-04:00",
             "2026-10-24T19:30:00-04:00",
@@ -515,17 +479,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-24"
         },
         {
-          "title": "WINTER OF THE CROW",
-          "showtimes": [
-            "2026-10-24T12:10:00-04:00",
-            "2026-10-25T11:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-24"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-24T12:45:00-04:00",
             "2026-10-24T14:30:00-04:00",
             "2026-10-24T16:15:00-04:00",
             "2026-10-24T19:45:00-04:00",
@@ -538,6 +493,13 @@
             "2026-10-25T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-24"
+        },
+        {
+          "title": "WINTER OF THE CROW",
+          "showtimes": [
+            "2026-10-25T11:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-25"
         }
       ]
     },
@@ -549,7 +511,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-24T14:35:00-04:00",
             "2026-10-24T18:15:00-04:00",
             "2026-10-24T21:55:00-04:00",
             "2026-10-25T10:55:00-04:00",
@@ -557,7 +518,7 @@
             "2026-10-25T18:15:00-04:00",
             "2026-10-25T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3140/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3141/seats"
         }
       ]
     },
