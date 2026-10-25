@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T10:41:14-04:00",
+  "lastUpdated": "2026-10-25T14:18:49-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -308,27 +308,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ART CINEMA FOR TOTS: HOW TO PLAY A FILM",
-          "showtimes": [
-            "2026-10-25T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31171"
-        },
-        {
-          "title": "THE ADDAMS FAMILY",
-          "showtimes": [
-            "2026-10-25T11:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31170"
-        },
-        {
-          "title": "AN AUTUMN AFTERNOON",
-          "showtimes": [
-            "2026-10-25T13:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31173"
-        },
-        {
           "title": "NOUS (WE)",
           "showtimes": [
             "2026-10-25T14:30:00-04:00"
@@ -341,13 +320,6 @@
             "2026-10-25T15:35:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31174"
-        },
-        {
-          "title": "LA RAULITO",
-          "showtimes": [
-            "2026-10-25T16:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31179"
         },
         {
           "title": "OLDBOY",
@@ -487,7 +459,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-25T10:55:00-04:00",
             "2026-10-25T14:35:00-04:00",
             "2026-10-25T18:15:00-04:00",
             "2026-10-25T21:55:00-04:00",
@@ -496,7 +467,7 @@
             "2026-10-26T18:15:00-04:00",
             "2026-10-26T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3143/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3144/seats"
         }
       ]
     },
