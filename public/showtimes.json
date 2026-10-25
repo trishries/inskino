@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-25T14:18:49-04:00",
+  "lastUpdated": "2026-10-25T17:25:36-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "TROMA’S WAR",
-          "showtimes": [
-            "2026-10-25T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5768?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "IN THE MOMENT: WORLD POETRY DUELS AND IMPROVISATIO",
           "showtimes": [
@@ -308,20 +301,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "NOUS (WE)",
-          "showtimes": [
-            "2026-10-25T14:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31180"
-        },
-        {
-          "title": "GIRL, INTERRUPTED",
-          "showtimes": [
-            "2026-10-25T15:35:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31174"
-        },
-        {
           "title": "OLDBOY",
           "showtimes": [
             "2026-10-25T18:15:00-04:00"
@@ -412,8 +391,6 @@
         {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-25T11:40:00-04:00",
-            "2026-10-25T14:05:00-04:00",
             "2026-10-25T16:00:00-04:00",
             "2026-10-25T19:30:00-04:00",
             "2026-10-26T12:15:00-04:00",
@@ -425,19 +402,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-25"
         },
         {
-          "title": "WINTER OF THE CROW",
-          "showtimes": [
-            "2026-10-25T11:45:00-04:00",
-            "2026-10-26T12:05:00-04:00",
-            "2026-10-26T14:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-25"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-25T12:00:00-04:00",
-            "2026-10-25T13:30:00-04:00",
             "2026-10-25T15:30:00-04:00",
             "2026-10-25T18:00:00-04:00",
             "2026-10-25T19:00:00-04:00",
@@ -448,6 +414,14 @@
             "2026-10-26T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-25"
+        },
+        {
+          "title": "WINTER OF THE CROW",
+          "showtimes": [
+            "2026-10-26T12:05:00-04:00",
+            "2026-10-26T14:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-26"
         }
       ]
     },
@@ -459,7 +433,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-25T14:35:00-04:00",
             "2026-10-25T18:15:00-04:00",
             "2026-10-25T21:55:00-04:00",
             "2026-10-26T10:55:00-04:00",
@@ -467,7 +440,7 @@
             "2026-10-26T18:15:00-04:00",
             "2026-10-26T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3144/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3145/seats"
         }
       ]
     },
