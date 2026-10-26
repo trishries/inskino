@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-26T16:23:37-04:00",
+  "lastUpdated": "2026-10-26T19:00:53-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "CANNIBAL! THE MUSICAL",
-          "showtimes": [
-            "2026-10-26T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5773?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "MOTHER’S DAY",
           "showtimes": [
@@ -283,20 +276,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "LITTLE WOMEN",
-          "showtimes": [
-            "2026-10-26T15:45:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31257"
-        },
-        {
-          "title": "ARSENAL",
-          "showtimes": [
-            "2026-10-26T16:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31258"
-        },
-        {
           "title": "EARTH [DAKHABRAKHA SCORE]",
           "showtimes": [
             "2026-10-26T18:00:00-04:00"
@@ -398,7 +377,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-26T12:10:00-04:00",
             "2026-10-26T17:10:00-04:00",
             "2026-10-26T19:45:00-04:00",
             "2026-10-27T12:10:00-04:00",
@@ -410,7 +388,6 @@
         {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-26T14:10:00-04:00",
             "2026-10-26T16:05:00-04:00",
             "2026-10-26T18:00:00-04:00",
             "2026-10-26T20:00:00-04:00",
@@ -422,19 +399,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-26"
         },
         {
-          "title": "WINTER OF THE CROW",
-          "showtimes": [
-            "2026-10-26T12:05:00-04:00",
-            "2026-10-26T14:45:00-04:00",
-            "2026-10-27T12:05:00-04:00",
-            "2026-10-27T14:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-26"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-26T12:00:00-04:00",
             "2026-10-26T14:30:00-04:00",
             "2026-10-26T15:30:00-04:00",
             "2026-10-26T18:00:00-04:00",
@@ -452,6 +418,14 @@
             "2026-10-27T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
+        },
+        {
+          "title": "WINTER OF THE CROW",
+          "showtimes": [
+            "2026-10-27T12:05:00-04:00",
+            "2026-10-27T14:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
         }
       ]
     },
@@ -463,14 +437,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-26T18:15:00-04:00",
             "2026-10-26T21:55:00-04:00",
             "2026-10-27T10:55:00-04:00",
             "2026-10-27T14:35:00-04:00",
             "2026-10-27T18:15:00-04:00",
             "2026-10-27T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3149/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3150/seats"
         }
       ]
     },
