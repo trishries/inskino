@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-10-25T17:25:36-04:00",
+  "lastUpdated": "2026-10-25T20:57:01-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "IN THE MOMENT: WORLD POETRY DUELS AND IMPROVISATIO",
-          "showtimes": [
-            "2026-10-25T17:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5786?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "SGT. KABUKIMAN NYPD",
-          "showtimes": [
-            "2026-10-25T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5769?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "AZUL",
-          "showtimes": [
-            "2026-10-25T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5787?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "DEF BY TEMPTATION",
-          "showtimes": [
-            "2026-10-25T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5772?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "CANNIBAL! THE MUSICAL",
           "showtimes": [
@@ -301,13 +273,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "OLDBOY",
-          "showtimes": [
-            "2026-10-25T18:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31175"
-        },
-        {
           "title": "VERA",
           "showtimes": [
             "2026-10-25T19:20:00-04:00"
@@ -379,19 +344,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-10-25T16:55:00-04:00",
-            "2026-10-26T12:10:00-04:00",
-            "2026-10-26T17:10:00-04:00",
-            "2026-10-26T19:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-25"
-        },
-        {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-25T16:00:00-04:00",
             "2026-10-25T19:30:00-04:00",
             "2026-10-26T12:15:00-04:00",
             "2026-10-26T14:10:00-04:00",
@@ -404,7 +358,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-25T15:30:00-04:00",
             "2026-10-25T18:00:00-04:00",
             "2026-10-25T19:00:00-04:00",
             "2026-10-26T12:00:00-04:00",
@@ -414,6 +367,15 @@
             "2026-10-26T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-25"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-10-26T12:10:00-04:00",
+            "2026-10-26T17:10:00-04:00",
+            "2026-10-26T19:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-26"
         },
         {
           "title": "WINTER OF THE CROW",
@@ -433,14 +395,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-25T18:15:00-04:00",
             "2026-10-25T21:55:00-04:00",
             "2026-10-26T10:55:00-04:00",
             "2026-10-26T14:35:00-04:00",
             "2026-10-26T18:15:00-04:00",
             "2026-10-26T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3145/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3146/seats"
         }
       ]
     },
