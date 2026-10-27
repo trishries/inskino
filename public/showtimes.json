@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-26T19:00:53-04:00",
+  "lastUpdated": "2026-10-26T21:47:01-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MOTHER’S DAY",
-          "showtimes": [
-            "2026-10-26T21:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5775?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "TROMEO AND JULIET",
           "showtimes": [
@@ -276,42 +269,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "EARTH [DAKHABRAKHA SCORE]",
-          "showtimes": [
-            "2026-10-26T18:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31264"
-        },
-        {
-          "title": "ANTIGONE",
-          "showtimes": [
-            "2026-10-26T18:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31259"
-        },
-        {
-          "title": "VIRGINA",
-          "showtimes": [
-            "2026-10-26T19:45:00-04:00",
-            "2026-10-27T20:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31263"
-        },
-        {
-          "title": "HEATHERS",
-          "showtimes": [
-            "2026-10-26T20:20:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31260"
-        },
-        {
-          "title": "BROADCAST NEWS",
-          "showtimes": [
-            "2026-10-26T21:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31262"
-        },
-        {
           "title": "PAPRIKA",
           "showtimes": [
             "2026-10-26T22:30:00-04:00"
@@ -354,6 +311,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31268"
         },
         {
+          "title": "VIRGINA",
+          "showtimes": [
+            "2026-10-27T20:25:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31271"
+        },
+        {
           "title": "CHUNGKING EXPRESS",
           "showtimes": [
             "2026-10-27T22:20:00-04:00"
@@ -377,7 +341,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-26T17:10:00-04:00",
             "2026-10-26T19:45:00-04:00",
             "2026-10-27T12:10:00-04:00",
             "2026-10-27T17:10:00-04:00",
@@ -388,8 +351,6 @@
         {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-26T16:05:00-04:00",
-            "2026-10-26T18:00:00-04:00",
             "2026-10-26T20:00:00-04:00",
             "2026-10-27T12:15:00-04:00",
             "2026-10-27T14:10:00-04:00",
@@ -401,8 +362,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-26T14:30:00-04:00",
-            "2026-10-26T15:30:00-04:00",
             "2026-10-26T18:00:00-04:00",
             "2026-10-26T19:00:00-04:00",
             "2026-10-27T12:00:00-04:00",
