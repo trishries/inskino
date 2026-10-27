@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T12:06:37-04:00",
+  "lastUpdated": "2026-10-27T15:58:53-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -386,7 +386,6 @@
         {
           "title": "MAKING MARIE ANTOINETTE",
           "showtimes": [
-            "2026-10-27T12:15:00-04:00",
             "2026-10-27T14:10:00-04:00",
             "2026-10-27T16:05:00-04:00",
             "2026-10-27T18:00:00-04:00",
@@ -440,7 +439,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-27T14:35:00-04:00",
             "2026-10-27T18:15:00-04:00",
             "2026-10-27T21:55:00-04:00",
             "2026-10-28T10:55:00-04:00",
@@ -448,7 +446,7 @@
             "2026-10-28T18:15:00-04:00",
             "2026-10-28T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3152/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3153/seats"
         }
       ]
     },
