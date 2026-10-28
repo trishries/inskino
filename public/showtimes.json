@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-27T18:50:25-04:00",
+  "lastUpdated": "2026-10-27T21:59:01-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "BUGGED!",
-          "showtimes": [
-            "2026-10-27T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5778?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "CITIZEN TOXIE: THE TOXIC AVENGER IV",
           "showtimes": [
@@ -302,27 +295,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "BREAD DAY PRECEDED BY THE TRAIN STOP",
-          "showtimes": [
-            "2026-10-27T18:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31272"
-        },
-        {
-          "title": "THE TAKING OF PELHAM ONE TWO THREE",
-          "showtimes": [
-            "2026-10-27T20:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31268"
-        },
-        {
-          "title": "VIRGINA",
-          "showtimes": [
-            "2026-10-27T20:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31271"
-        },
-        {
           "title": "CHUNGKING EXPRESS",
           "showtimes": [
             "2026-10-27T22:20:00-04:00"
@@ -346,23 +318,10 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-27T17:10:00-04:00",
             "2026-10-27T19:45:00-04:00",
             "2026-10-28T12:10:00-04:00",
             "2026-10-28T17:10:00-04:00",
             "2026-10-28T19:45:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
-        },
-        {
-          "title": "MAKING MARIE ANTOINETTE",
-          "showtimes": [
-            "2026-10-27T16:05:00-04:00",
-            "2026-10-27T18:00:00-04:00",
-            "2026-10-28T12:15:00-04:00",
-            "2026-10-28T14:10:00-04:00",
-            "2026-10-28T16:05:00-04:00",
-            "2026-10-28T18:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
         },
@@ -377,8 +336,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-27T14:30:00-04:00",
-            "2026-10-27T15:30:00-04:00",
             "2026-10-27T19:00:00-04:00",
             "2026-10-28T12:00:00-04:00",
             "2026-10-28T14:30:00-04:00",
@@ -387,6 +344,16 @@
             "2026-10-28T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
+        },
+        {
+          "title": "MAKING MARIE ANTOINETTE",
+          "showtimes": [
+            "2026-10-28T12:15:00-04:00",
+            "2026-10-28T14:10:00-04:00",
+            "2026-10-28T16:05:00-04:00",
+            "2026-10-28T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-28"
         },
         {
           "title": "WINTER OF THE CROW",
@@ -406,14 +373,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-27T18:15:00-04:00",
             "2026-10-27T21:55:00-04:00",
             "2026-10-28T10:55:00-04:00",
             "2026-10-28T14:35:00-04:00",
             "2026-10-28T18:15:00-04:00",
             "2026-10-28T21:55:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3153/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3154/seats"
         }
       ]
     },
