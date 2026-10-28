@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T21:59:01-04:00",
+  "lastUpdated": "2026-10-28T07:16:26-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -26,6 +26,20 @@
             "2026-10-28T21:15:00-04:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5781?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: JEAN EPSTEIN",
+          "showtimes": [
+            "2026-10-29T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5646?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "TERROR FIRMER",
+          "showtimes": [
+            "2026-10-29T19:30:00-04:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5782?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -35,112 +49,29 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE DEVILS",
-          "showtimes": [
-            "2026-10-27T10:50:00-04:00",
-            "2026-10-27T13:20:00-04:00",
-            "2026-10-27T16:05:00-04:00",
-            "2026-10-27T18:50:00-04:00",
-            "2026-10-27T21:35:00-04:00",
-            "2026-10-28T10:50:00-04:00",
-            "2026-10-28T15:40:00-04:00",
-            "2026-10-28T20:50:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586331~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-10-27T15:40:00-04:00",
-            "2026-10-27T21:25:00-04:00",
-            "2026-10-28T12:35:00-04:00",
-            "2026-10-28T15:40:00-04:00",
-            "2026-10-28T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586343~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "FJORD (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-10-27T12:40:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586338~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE GREAT EXPERIMENT",
-          "showtimes": [
-            "2026-10-27T10:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586334~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "HELLRAISER",
-          "showtimes": [
-            "2026-10-27T14:40:00-04:00",
-            "2026-10-27T21:30:00-04:00",
-            "2026-10-28T16:15:00-04:00",
-            "2026-10-28T21:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586341~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE HISTORY OF CONCRETE",
-          "showtimes": [
-            "2026-10-27T10:35:00-04:00",
-            "2026-10-27T12:25:00-04:00",
-            "2026-10-27T16:55:00-04:00",
-            "2026-10-27T21:55:00-04:00",
-            "2026-10-28T10:35:00-04:00",
-            "2026-10-28T12:45:00-04:00",
-            "2026-10-28T19:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586332~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MISS REPRESENTATION: RISE UP",
-          "showtimes": [
-            "2026-10-27T14:45:00-04:00",
-            "2026-10-28T16:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586342~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MOUSE",
-          "showtimes": [
-            "2026-10-27T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=585793~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "NAZA",
-          "showtimes": [
-            "2026-10-27T12:45:00-04:00",
-            "2026-10-27T15:25:00-04:00",
-            "2026-10-27T17:35:00-04:00",
-            "2026-10-27T19:50:00-04:00",
-            "2026-10-27T21:50:00-04:00",
-            "2026-10-28T13:10:00-04:00",
-            "2026-10-28T18:55:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586336~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ONE IN A MILLION",
-          "showtimes": [
-            "2026-10-27T10:40:00-04:00",
-            "2026-10-27T13:00:00-04:00",
-            "2026-10-27T19:30:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586333~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
           "title": "CLOSURE",
           "showtimes": [
             "2026-10-28T10:45:00-04:00",
             "2026-10-28T13:35:00-04:00",
-            "2026-10-28T18:45:00-04:00"
+            "2026-10-28T18:45:00-04:00",
+            "2026-10-29T10:45:00-04:00",
+            "2026-10-29T13:35:00-04:00",
+            "2026-10-29T18:45:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586357~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE DEVILS",
+          "showtimes": [
+            "2026-10-28T10:50:00-04:00",
+            "2026-10-28T15:40:00-04:00",
+            "2026-10-28T20:50:00-04:00",
+            "2026-10-29T10:50:00-04:00",
+            "2026-10-29T15:25:00-04:00",
+            "2026-10-29T19:25:00-04:00",
+            "2026-10-29T21:55:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586354~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "AN EVENING WITH THE NEW YORK TIMES OP-DOCS 2026, PART 1",
@@ -148,6 +79,18 @@
             "2026-10-28T18:30:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=585858~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-10-28T12:35:00-04:00",
+            "2026-10-28T15:40:00-04:00",
+            "2026-10-28T21:15:00-04:00",
+            "2026-10-29T12:35:00-04:00",
+            "2026-10-29T15:40:00-04:00",
+            "2026-10-29T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586359~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "HABIT",
@@ -158,14 +101,67 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=585445~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "HELLRAISER",
+          "showtimes": [
+            "2026-10-28T16:15:00-04:00",
+            "2026-10-28T21:30:00-04:00",
+            "2026-10-29T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586363~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE HISTORY OF CONCRETE",
+          "showtimes": [
+            "2026-10-28T10:35:00-04:00",
+            "2026-10-28T12:45:00-04:00",
+            "2026-10-28T19:00:00-04:00",
+            "2026-10-29T12:45:00-04:00",
+            "2026-10-29T16:35:00-04:00",
+            "2026-10-29T21:20:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586355~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MISS REPRESENTATION: RISE UP",
+          "showtimes": [
+            "2026-10-28T16:45:00-04:00",
+            "2026-10-29T16:45:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586367~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "NAZA",
+          "showtimes": [
+            "2026-10-28T13:10:00-04:00",
+            "2026-10-28T18:55:00-04:00",
+            "2026-10-29T10:40:00-04:00",
+            "2026-10-29T12:40:00-04:00",
+            "2026-10-29T14:50:00-04:00",
+            "2026-10-29T17:40:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586358~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "ON THE ROAD",
           "showtimes": [
             "2026-10-28T11:00:00-04:00",
             "2026-10-28T14:45:00-04:00",
             "2026-10-28T18:40:00-04:00",
-            "2026-10-28T21:10:00-04:00"
+            "2026-10-28T21:10:00-04:00",
+            "2026-10-29T11:00:00-04:00",
+            "2026-10-29T14:35:00-04:00",
+            "2026-10-29T18:40:00-04:00",
+            "2026-10-29T21:50:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586356~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "STAKE LAND",
+          "showtimes": [
+            "2026-10-29T13:00:00-04:00",
+            "2026-10-29T21:30:00-04:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=585447~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -177,80 +173,38 @@
         {
           "title": "FATHERLAND",
           "showtimes": [
-            "2026-10-27T12:25:00-04:00",
-            "2026-10-27T14:25:00-04:00",
-            "2026-10-27T16:30:00-04:00",
-            "2026-10-27T20:30:00-04:00",
             "2026-10-28T12:25:00-04:00",
             "2026-10-28T14:25:00-04:00",
             "2026-10-28T16:30:00-04:00",
             "2026-10-28T18:30:00-04:00",
-            "2026-10-28T20:30:00-04:00"
+            "2026-10-28T20:30:00-04:00",
+            "2026-10-29T12:25:00-04:00",
+            "2026-10-29T14:25:00-04:00",
+            "2026-10-29T16:30:00-04:00",
+            "2026-10-29T18:30:00-04:00",
+            "2026-10-29T20:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/fatherland"
         },
         {
           "title": "ONCE UPON A TIME IN HARLEM",
           "showtimes": [
-            "2026-10-27T14:30:00-04:00",
-            "2026-10-27T16:45:00-04:00",
-            "2026-10-27T18:00:00-04:00",
-            "2026-10-27T19:00:00-04:00",
-            "2026-10-27T20:15:00-04:00",
-            "2026-10-27T21:15:00-04:00",
             "2026-10-28T12:15:00-04:00",
             "2026-10-28T14:30:00-04:00",
             "2026-10-28T16:45:00-04:00",
             "2026-10-28T18:00:00-04:00",
             "2026-10-28T19:00:00-04:00",
             "2026-10-28T20:15:00-04:00",
-            "2026-10-28T21:15:00-04:00"
+            "2026-10-28T21:15:00-04:00",
+            "2026-10-29T12:15:00-04:00",
+            "2026-10-29T14:30:00-04:00",
+            "2026-10-29T16:45:00-04:00",
+            "2026-10-29T18:00:00-04:00",
+            "2026-10-29T19:00:00-04:00",
+            "2026-10-29T20:15:00-04:00",
+            "2026-10-29T21:15:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/once-upon-a-time-in-harlem"
-        },
-        {
-          "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 4-5",
-          "showtimes": [
-            "2026-10-27T12:30:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
-        },
-        {
-          "title": "UNZIPPED",
-          "showtimes": [
-            "2026-10-27T16:15:00-04:00",
-            "2026-10-28T16:15:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
-        },
-        {
-          "title": "VOICE OF LA RAZA AND THE FIRST WORLD FESTIVAL OF NEGRO ARTS",
-          "showtimes": [
-            "2026-10-27T13:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/voice-of-la-raza-the-first-world-festival-of-negro-arts-william-greaves-100"
-        },
-        {
-          "title": "STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS AND IN THE COMPANY OF MEN",
-          "showtimes": [
-            "2026-10-27T14:50:00-04:00",
-            "2026-10-28T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/still-a-brother-inside-the-negro-middle-class-in-the-company-of-men-william-greaves-100"
-        },
-        {
-          "title": "SYMBIOPSYCHOTAXIPLASM: TAKE ONE",
-          "showtimes": [
-            "2026-10-27T20:20:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/symbiopsychotaxiplasm-take-one-william-greaves-100"
-        },
-        {
-          "title": "A BRONX TALE",
-          "showtimes": [
-            "2026-10-27T17:50:00-04:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/a-bronx-tale-nyc-in-transit"
         },
         {
           "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 1-3",
@@ -258,6 +212,14 @@
             "2026-10-28T12:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
+        },
+        {
+          "title": "UNZIPPED",
+          "showtimes": [
+            "2026-10-28T16:15:00-04:00",
+            "2026-10-29T16:15:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
         },
         {
           "title": "SYMBIOPSYCHOTAXIPLASM: TAKE 2½",
@@ -286,6 +248,55 @@
             "2026-10-28T18:30:00-04:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/frederick-douglass-an-american-life-booker-t-washington-the-life-and-the-legacy-william-greaves-100"
+        },
+        {
+          "title": "STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS AND IN THE COMPANY OF MEN",
+          "showtimes": [
+            "2026-10-28T20:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/still-a-brother-inside-the-negro-middle-class-in-the-company-of-men-william-greaves-100"
+        },
+        {
+          "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 4-5",
+          "showtimes": [
+            "2026-10-29T12:30:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
+        },
+        {
+          "title": "NATIONTIME",
+          "showtimes": [
+            "2026-10-29T13:00:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/nationtime-william-greaves-100"
+        },
+        {
+          "title": "LOST BOUNDARIES",
+          "showtimes": [
+            "2026-10-29T15:10:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/lost-boundaries-william-greaves-100"
+        },
+        {
+          "title": "WHERE DREAMS COME TRUE AND SPACE FOR WOMEN",
+          "showtimes": [
+            "2026-10-29T17:20:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/where-dreams-come-true-space-for-women-william-greaves-100-william-greaves-100"
+        },
+        {
+          "title": "SYMBIOPSYCHOTAXIPLASM: TAKE ONE",
+          "showtimes": [
+            "2026-10-29T18:45:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/symbiopsychotaxiplasm-take-one-william-greaves-100"
+        },
+        {
+          "title": "THE HARDER THEY COME",
+          "showtimes": [
+            "2026-10-29T20:20:00-04:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/the-harder-they-come"
         }
       ]
     },
@@ -295,18 +306,46 @@
       "status": "ok",
       "films": [
         {
-          "title": "CHUNGKING EXPRESS",
+          "title": "2046",
           "showtimes": [
-            "2026-10-27T22:20:00-04:00"
+            "2026-10-29T16:15:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31269"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31274"
         },
         {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
+          "title": "THE BEACH",
           "showtimes": [
-            "2026-10-27T22:30:00-04:00"
+            "2026-10-29T16:20:00-04:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31270"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31275"
+        },
+        {
+          "title": "THE AGE OF INNOCENCE",
+          "showtimes": [
+            "2026-10-29T18:50:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31276"
+        },
+        {
+          "title": "VIRGINA",
+          "showtimes": [
+            "2026-10-29T19:00:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31279"
+        },
+        {
+          "title": "THE WAILING",
+          "showtimes": [
+            "2026-10-29T21:15:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31278"
+        },
+        {
+          "title": "ROSEMARY'S BABY",
+          "showtimes": [
+            "2026-10-29T21:40:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31277"
         }
       ]
     },
@@ -318,32 +357,14 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-27T19:45:00-04:00",
             "2026-10-28T12:10:00-04:00",
             "2026-10-28T17:10:00-04:00",
-            "2026-10-28T19:45:00-04:00"
+            "2026-10-28T19:45:00-04:00",
+            "2026-10-29T12:10:00-04:00",
+            "2026-10-29T17:10:00-04:00",
+            "2026-10-29T19:45:00-04:00"
           ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
-        },
-        {
-          "title": "PRINCE OF DARKNESS",
-          "showtimes": [
-            "2026-10-27T20:00:00-04:00",
-            "2026-10-28T20:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
-        },
-        {
-          "title": "YOU CAN SEE EVERYTHING",
-          "showtimes": [
-            "2026-10-27T19:00:00-04:00",
-            "2026-10-28T12:00:00-04:00",
-            "2026-10-28T14:30:00-04:00",
-            "2026-10-28T15:30:00-04:00",
-            "2026-10-28T18:00:00-04:00",
-            "2026-10-28T19:00:00-04:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-27"
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-28"
         },
         {
           "title": "MAKING MARIE ANTOINETTE",
@@ -351,7 +372,19 @@
             "2026-10-28T12:15:00-04:00",
             "2026-10-28T14:10:00-04:00",
             "2026-10-28T16:05:00-04:00",
-            "2026-10-28T18:00:00-04:00"
+            "2026-10-28T18:00:00-04:00",
+            "2026-10-29T12:15:00-04:00",
+            "2026-10-29T14:10:00-04:00",
+            "2026-10-29T16:05:00-04:00",
+            "2026-10-29T18:00:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-28"
+        },
+        {
+          "title": "PRINCE OF DARKNESS",
+          "showtimes": [
+            "2026-10-28T20:00:00-04:00",
+            "2026-10-29T20:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-28"
         },
@@ -359,7 +392,25 @@
           "title": "WINTER OF THE CROW",
           "showtimes": [
             "2026-10-28T12:05:00-04:00",
-            "2026-10-28T14:45:00-04:00"
+            "2026-10-28T14:45:00-04:00",
+            "2026-10-29T12:05:00-04:00",
+            "2026-10-29T14:45:00-04:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-28"
+        },
+        {
+          "title": "YOU CAN SEE EVERYTHING",
+          "showtimes": [
+            "2026-10-28T12:00:00-04:00",
+            "2026-10-28T14:30:00-04:00",
+            "2026-10-28T15:30:00-04:00",
+            "2026-10-28T18:00:00-04:00",
+            "2026-10-28T19:00:00-04:00",
+            "2026-10-29T12:00:00-04:00",
+            "2026-10-29T14:30:00-04:00",
+            "2026-10-29T15:30:00-04:00",
+            "2026-10-29T18:00:00-04:00",
+            "2026-10-29T19:00:00-04:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-28"
         }
@@ -373,13 +424,14 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-27T21:55:00-04:00",
             "2026-10-28T10:55:00-04:00",
             "2026-10-28T14:35:00-04:00",
             "2026-10-28T18:15:00-04:00",
-            "2026-10-28T21:55:00-04:00"
+            "2026-10-28T21:55:00-04:00",
+            "2026-10-29T10:15:00-04:00",
+            "2026-10-29T13:50:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3154/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3155/seats"
         }
       ]
     },
