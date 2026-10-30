@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-10-30T15:53:38-04:00",
+  "lastUpdated": "2026-10-30T18:46:43-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Nanook of the North",
-          "showtimes": [
-            "2026-10-30T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5647?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "CLASS OF NUKE ‘EM HIGH",
           "showtimes": [
@@ -196,7 +189,7 @@
             "2026-10-31T11:00:00-04:00",
             "2026-10-31T15:25:00-04:00",
             "2026-10-31T19:35:00-04:00",
-            "2026-10-31T21:50:00-04:00"
+            "2026-10-31T21:20:00-04:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587087~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -300,20 +293,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "RUSHMORE",
-          "showtimes": [
-            "2026-10-30T16:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31209"
-        },
-        {
-          "title": "SANS SOLEIL",
-          "showtimes": [
-            "2026-10-30T18:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31211"
-        },
-        {
           "title": "CRÍA CUERVOS",
           "showtimes": [
             "2026-10-30T18:30:00-04:00"
@@ -338,17 +317,10 @@
         {
           "title": "BRAM STOKER'S DRACULA",
           "showtimes": [
-            "2026-10-30T22:40:00-04:00"
+            "2026-10-30T22:40:00-04:00",
+            "2026-10-31T19:45:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31215"
-        },
-        {
-          "title": "BLADE RUNNER: THE FINAL CUT",
-          "showtimes": [
-            "2026-10-30T22:45:00-04:00",
-            "2026-10-31T22:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31216"
         },
         {
           "title": "SATURDAY AFTERNOON CARTOONS: TIME FOR HALLOWEEN",
@@ -398,6 +370,13 @@
             "2026-10-31T22:25:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31224"
+        },
+        {
+          "title": "BLADE RUNNER: THE FINAL CUT",
+          "showtimes": [
+            "2026-10-31T22:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31223"
         }
       ]
     },
@@ -409,7 +388,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-10-30T12:00:00-04:00",
             "2026-10-30T18:00:00-04:00",
             "2026-10-31T12:45:00-04:00",
             "2026-10-31T15:30:00-04:00"
@@ -427,8 +405,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-10-30T13:15:00-04:00",
-            "2026-10-30T15:15:00-04:00",
             "2026-10-30T17:15:00-04:00",
             "2026-10-30T19:20:00-04:00",
             "2026-10-30T21:30:00-04:00",
@@ -443,8 +419,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-30T12:15:00-04:00",
-            "2026-10-30T13:30:00-04:00",
             "2026-10-30T14:40:00-04:00",
             "2026-10-30T15:45:00-04:00",
             "2026-10-30T18:10:00-04:00",
