@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T12:52:45-04:00",
+  "lastUpdated": "2026-10-30T15:53:38-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -300,32 +300,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "AN AUTUMN AFTERNOON",
-          "showtimes": [
-            "2026-10-30T14:10:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31212"
-        },
-        {
-          "title": "EDWARD SCISSORHANDS",
-          "showtimes": [
-            "2026-10-30T14:15:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31207"
-        },
-        {
-          "title": "PEPPERMINT FRAPPÉ",
-          "showtimes": [
-            "2026-10-30T16:25:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31213"
-        },
-        {
           "title": "RUSHMORE",
           "showtimes": [
             "2026-10-30T16:30:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31209"
+        },
+        {
+          "title": "SANS SOLEIL",
+          "showtimes": [
+            "2026-10-30T18:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31211"
         },
         {
           "title": "CRÍA CUERVOS",
@@ -355,6 +341,14 @@
             "2026-10-30T22:40:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31215"
+        },
+        {
+          "title": "BLADE RUNNER: THE FINAL CUT",
+          "showtimes": [
+            "2026-10-30T22:45:00-04:00",
+            "2026-10-31T22:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31216"
         },
         {
           "title": "SATURDAY AFTERNOON CARTOONS: TIME FOR HALLOWEEN",
@@ -404,13 +398,6 @@
             "2026-10-31T22:25:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31224"
-        },
-        {
-          "title": "BLADE RUNNER: THE FINAL CUT",
-          "showtimes": [
-            "2026-10-31T22:30:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31223"
         }
       ]
     },
@@ -482,14 +469,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-30T14:35:00-04:00",
             "2026-10-30T18:15:00-04:00",
             "2026-10-30T21:55:00-04:00",
             "2026-10-31T15:20:00-04:00",
             "2026-10-31T18:50:00-04:00",
             "2026-10-31T22:20:00-04:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3160/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3161/seats"
         },
         {
           "title": "A Place in the Sun",
