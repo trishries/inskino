@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:54:53-04:00",
+  "lastUpdated": "2026-10-31T15:12:03-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -294,20 +294,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "SATURDAY AFTERNOON CARTOONS: TIME FOR HALLOWEEN",
-          "showtimes": [
-            "2026-10-31T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31238"
-        },
-        {
-          "title": "BEETLEJUICE",
-          "showtimes": [
-            "2026-10-31T14:00:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31218"
-        },
-        {
           "title": "VERA",
           "showtimes": [
             "2026-10-31T15:50:00-04:00"
@@ -484,13 +470,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "A Place in the Sun",
-          "showtimes": [
-            "2026-10-31T12:00:00-04:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2998/seats"
-        },
         {
           "title": "La Bola Negra",
           "showtimes": [
