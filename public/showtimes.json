@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-01T14:28:47-05:00",
+  "lastUpdated": "2026-11-01T17:35:11-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "TROMEO AND JULIET",
-          "showtimes": [
-            "2026-11-01T15:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5777?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: ERNIE GEHR",
-          "showtimes": [
-            "2026-11-01T16:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5847?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "TERROR FIRMER",
           "showtimes": [
@@ -271,13 +257,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "FAR FROM HEAVEN",
-          "showtimes": [
-            "2026-11-01T15:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31228"
-        },
-        {
           "title": "THE GORGON",
           "showtimes": [
             "2026-11-01T16:00:00-05:00"
@@ -304,6 +283,13 @@
             "2026-11-01T19:50:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31230"
+        },
+        {
+          "title": "AUTUMN SONATA",
+          "showtimes": [
+            "2026-11-01T21:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31232"
         },
         {
           "title": "MIDNIGHT IN PARIS",
@@ -371,7 +357,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-01T11:55:00-05:00",
             "2026-11-01T15:45:00-05:00",
             "2026-11-02T12:55:00-05:00",
             "2026-11-02T16:05:00-05:00"
@@ -381,8 +366,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-01T12:05:00-05:00",
-            "2026-11-01T13:55:00-05:00",
             "2026-11-01T17:15:00-05:00",
             "2026-11-01T19:30:00-05:00",
             "2026-11-02T12:40:00-05:00",
@@ -395,8 +378,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-01T12:00:00-05:00",
-            "2026-11-01T13:15:00-05:00",
             "2026-11-01T14:30:00-05:00",
             "2026-11-01T15:30:00-05:00",
             "2026-11-01T18:00:00-05:00",
@@ -426,21 +407,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "La Bola Negra",
-          "showtimes": [
-            "2026-11-01T14:25:00-05:00",
-            "2026-11-01T21:30:00-05:00",
-            "2026-11-02T14:30:00-05:00",
-            "2026-11-02T21:50:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3167/seats"
-        },
-        {
           "title": "Wild River",
           "showtimes": [
             "2026-11-01T18:15:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2999/seats"
+        },
+        {
+          "title": "La Bola Negra",
+          "showtimes": [
+            "2026-11-01T21:30:00-05:00",
+            "2026-11-02T14:30:00-05:00",
+            "2026-11-02T21:50:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3168/seats"
         }
       ]
     },
