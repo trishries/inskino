@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T06:47:07-05:00",
+  "lastUpdated": "2026-11-01T11:57:27-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -456,13 +456,12 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-01T10:50:00-05:00",
             "2026-11-01T14:25:00-05:00",
             "2026-11-01T21:30:00-05:00",
             "2026-11-02T14:30:00-05:00",
             "2026-11-02T21:50:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3166/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3167/seats"
         },
         {
           "title": "Wild River",
