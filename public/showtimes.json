@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-10-31T18:11:10-04:00",
+  "lastUpdated": "2026-10-31T21:47:20-04:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "DEF BY TEMPTATION",
-          "showtimes": [
-            "2026-10-31T18:45:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5771?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Franju / Genet",
-          "showtimes": [
-            "2026-10-31T20:00:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5650?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CANNIBAL! THE MUSICAL",
-          "showtimes": [
-            "2026-10-31T21:15:00-04:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5774?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "TROMEO AND JULIET",
           "showtimes": [
@@ -99,7 +78,7 @@
             "2026-10-31T10:45:00-04:00",
             "2026-10-31T20:40:00-04:00",
             "2026-11-01T10:45:00-05:00",
-            "2026-11-01T20:50:00-05:00"
+            "2026-11-01T21:00:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587114~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -280,25 +259,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE TROUBLE WITH HARRY",
-          "showtimes": [
-            "2026-10-31T17:40:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31221"
-        },
-        {
-          "title": "THE BRIDES OF DRACULA",
-          "showtimes": [
-            "2026-10-31T17:50:00-04:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31183"
-        },
-        {
           "title": "ROSEMARY'S BABY",
           "showtimes": [
             "2026-10-31T22:25:00-04:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31224"
+        },
+        {
+          "title": "BLADE RUNNER: THE FINAL CUT",
+          "showtimes": [
+            "2026-10-31T22:30:00-04:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31223"
         },
         {
           "title": "HUGO [3D SCREENING]",
@@ -378,15 +350,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-10-31T15:30:00-04:00",
-            "2026-11-01T11:55:00-05:00",
-            "2026-11-01T15:45:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-31"
-        },
-        {
           "title": "THE ROCKY HORROR PICTURE SHOW: LIVE SHADOW CAST",
           "showtimes": [
             "2026-10-31T19:00:00-04:00"
@@ -396,7 +359,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-10-31T17:10:00-04:00",
             "2026-10-31T19:30:00-04:00",
             "2026-10-31T21:20:00-04:00",
             "2026-11-01T12:05:00-05:00",
@@ -409,7 +371,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-10-31T16:00:00-04:00",
             "2026-10-31T17:15:00-04:00",
             "2026-10-31T19:45:00-04:00",
             "2026-10-31T20:45:00-04:00",
@@ -422,6 +383,14 @@
             "2026-11-01T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-10-31"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-01T11:55:00-05:00",
+            "2026-11-01T15:45:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-01"
         }
       ]
     },
@@ -433,13 +402,12 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-10-31T18:50:00-04:00",
             "2026-10-31T22:20:00-04:00",
             "2026-11-01T10:50:00-05:00",
             "2026-11-01T14:25:00-05:00",
             "2026-11-01T21:30:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3163/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3165/seats"
         },
         {
           "title": "Wild River",
