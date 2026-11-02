@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-11-01T17:35:11-05:00",
+  "lastUpdated": "2026-11-01T21:01:44-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "TERROR FIRMER",
-          "showtimes": [
-            "2026-11-01T18:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5783?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "TWENTY YEARS LATER: A MAN MARKED TO DIE",
-          "showtimes": [
-            "2026-11-01T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5801?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CITIZEN TOXIE: THE TOXIC AVENGER IV",
-          "showtimes": [
-            "2026-11-01T21:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5780?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BOOK RELEASE EVENT: RIM BATTAL",
           "showtimes": [
@@ -257,41 +236,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE GORGON",
-          "showtimes": [
-            "2026-11-01T16:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31185"
-        },
-        {
-          "title": "THE HOUND OF THE BASKERVILLES",
-          "showtimes": [
-            "2026-11-01T17:50:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31234"
-        },
-        {
-          "title": "SOMETHING SPECIAL (WILLY/MILLY)",
-          "showtimes": [
-            "2026-11-01T19:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31233"
-        },
-        {
-          "title": "RUSHMORE",
-          "showtimes": [
-            "2026-11-01T19:50:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31230"
-        },
-        {
-          "title": "AUTUMN SONATA",
-          "showtimes": [
-            "2026-11-01T21:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31232"
-        },
-        {
           "title": "MIDNIGHT IN PARIS",
           "showtimes": [
             "2026-11-01T21:50:00-05:00"
@@ -355,18 +299,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-01T15:45:00-05:00",
-            "2026-11-02T12:55:00-05:00",
-            "2026-11-02T16:05:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-01"
-        },
-        {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-01T17:15:00-05:00",
             "2026-11-01T19:30:00-05:00",
             "2026-11-02T12:40:00-05:00",
             "2026-11-02T14:00:00-05:00",
@@ -378,8 +312,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-01T14:30:00-05:00",
-            "2026-11-01T15:30:00-05:00",
             "2026-11-01T18:00:00-05:00",
             "2026-11-01T18:30:00-05:00",
             "2026-11-01T19:00:00-05:00",
@@ -391,6 +323,14 @@
             "2026-11-02T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-01"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-02T12:55:00-05:00",
+            "2026-11-02T16:05:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
         },
         {
           "title": "MILDRED PIERCE",
@@ -406,13 +346,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Wild River",
-          "showtimes": [
-            "2026-11-01T18:15:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-2999/seats"
-        },
         {
           "title": "La Bola Negra",
           "showtimes": [
