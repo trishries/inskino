@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T13:10:01-05:00",
+  "lastUpdated": "2026-11-03T15:51:24-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -40,7 +40,8 @@
           "showtimes": [
             "2026-11-03T13:35:00-05:00",
             "2026-11-03T16:10:00-05:00",
-            "2026-11-03T18:45:00-05:00"
+            "2026-11-03T18:45:00-05:00",
+            "2026-11-04T14:30:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=584438~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -336,7 +337,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-03T12:15:00-05:00",
             "2026-11-03T16:45:00-05:00",
             "2026-11-04T12:55:00-05:00",
             "2026-11-04T16:15:00-05:00"
@@ -346,7 +346,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-03T12:30:00-05:00",
             "2026-11-03T14:50:00-05:00",
             "2026-11-03T16:30:00-05:00",
             "2026-11-03T19:30:00-05:00",
@@ -392,14 +391,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-03T14:35:00-05:00",
             "2026-11-03T18:15:00-05:00",
             "2026-11-03T21:55:00-05:00",
             "2026-11-04T10:55:00-05:00",
             "2026-11-04T14:35:00-05:00",
             "2026-11-04T21:45:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3170/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3169/seats"
         },
         {
           "title": "Poetry",
