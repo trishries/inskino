@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T20:26:52-05:00",
+  "lastUpdated": "2026-11-02T22:48:48-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -229,27 +229,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "HONEYCOMB",
-          "showtimes": [
-            "2026-11-02T19:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31316"
-        },
-        {
-          "title": "REALITY BITES",
-          "showtimes": [
-            "2026-11-02T21:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31314"
-        },
-        {
-          "title": "ANA AND THE WOLVES",
-          "showtimes": [
-            "2026-11-02T21:50:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31315"
-        },
-        {
           "title": "YI YI",
           "showtimes": [
             "2026-11-03T15:00:00-05:00"
@@ -299,29 +278,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "MILDRED PIERCE",
-          "showtimes": [
-            "2026-11-02T20:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
-        },
-        {
-          "title": "YOU CAN SEE EVERYTHING",
-          "showtimes": [
-            "2026-11-02T18:10:00-05:00",
-            "2026-11-02T18:45:00-05:00",
-            "2026-11-02T19:00:00-05:00",
-            "2026-11-03T12:00:00-05:00",
-            "2026-11-03T13:00:00-05:00",
-            "2026-11-03T14:30:00-05:00",
-            "2026-11-03T15:30:00-05:00",
-            "2026-11-03T18:00:00-05:00",
-            "2026-11-03T18:30:00-05:00",
-            "2026-11-03T19:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
             "2026-11-03T12:15:00-05:00",
@@ -338,6 +294,19 @@
             "2026-11-03T19:30:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-03"
+        },
+        {
+          "title": "YOU CAN SEE EVERYTHING",
+          "showtimes": [
+            "2026-11-03T12:00:00-05:00",
+            "2026-11-03T13:00:00-05:00",
+            "2026-11-03T14:30:00-05:00",
+            "2026-11-03T15:30:00-05:00",
+            "2026-11-03T18:00:00-05:00",
+            "2026-11-03T18:30:00-05:00",
+            "2026-11-03T19:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-03"
         }
       ]
     },
@@ -349,13 +318,12 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-02T21:50:00-05:00",
             "2026-11-03T10:55:00-05:00",
             "2026-11-03T14:35:00-05:00",
             "2026-11-03T18:15:00-05:00",
             "2026-11-03T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3183/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3171/seats"
         }
       ]
     },
