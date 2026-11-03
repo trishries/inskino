@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-11-02T18:03:19-05:00",
+  "lastUpdated": "2026-11-02T20:26:52-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "ok",
-      "films": [
-        {
-          "title": "BOOK RELEASE EVENT: RIM BATTAL",
-          "showtimes": [
-            "2026-11-02T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5802?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        }
-      ]
+      "status": "empty",
+      "films": []
     },
     {
       "name": "IFC Center",
@@ -237,34 +229,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE PARALLAX VIEW",
-          "showtimes": [
-            "2026-11-02T16:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31319"
-        },
-        {
-          "title": "IVAN",
-          "showtimes": [
-            "2026-11-02T16:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31318"
-        },
-        {
-          "title": "AEROGRAD",
-          "showtimes": [
-            "2026-11-02T18:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31317"
-        },
-        {
-          "title": "ULYSSES' GAZE",
-          "showtimes": [
-            "2026-11-02T18:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31313"
-        },
-        {
           "title": "HONEYCOMB",
           "showtimes": [
             "2026-11-02T19:45:00-05:00"
@@ -335,15 +299,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-02T16:05:00-05:00",
-            "2026-11-03T12:15:00-05:00",
-            "2026-11-03T16:45:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
-        },
-        {
           "title": "MILDRED PIERCE",
           "showtimes": [
             "2026-11-02T20:00:00-05:00"
@@ -351,22 +306,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
         },
         {
-          "title": "WHO KILLED ALEX ODEH?",
-          "showtimes": [
-            "2026-11-02T16:00:00-05:00",
-            "2026-11-02T18:00:00-05:00",
-            "2026-11-03T12:30:00-05:00",
-            "2026-11-03T14:50:00-05:00",
-            "2026-11-03T16:30:00-05:00",
-            "2026-11-03T19:30:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-02T14:30:00-05:00",
-            "2026-11-02T15:30:00-05:00",
             "2026-11-02T18:10:00-05:00",
             "2026-11-02T18:45:00-05:00",
             "2026-11-02T19:00:00-05:00",
@@ -379,6 +320,24 @@
             "2026-11-03T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-02"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-03T12:15:00-05:00",
+            "2026-11-03T16:45:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-03"
+        },
+        {
+          "title": "WHO KILLED ALEX ODEH?",
+          "showtimes": [
+            "2026-11-03T12:30:00-05:00",
+            "2026-11-03T14:50:00-05:00",
+            "2026-11-03T16:30:00-05:00",
+            "2026-11-03T19:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-03"
         }
       ]
     },
