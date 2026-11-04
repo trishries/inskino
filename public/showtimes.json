@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:51:29-05:00",
+  "lastUpdated": "2026-11-03T21:51:49-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -237,20 +237,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "POEM OF THE SEA",
-          "showtimes": [
-            "2026-11-03T18:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31321"
-        },
-        {
-          "title": "THE ENCHANTED DESNA",
-          "showtimes": [
-            "2026-11-03T20:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31323"
-        },
-        {
           "title": "ALMOST FAMOUS",
           "showtimes": [
             "2026-11-03T21:45:00-05:00"
@@ -321,18 +307,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-03T16:45:00-05:00",
-            "2026-11-04T12:55:00-05:00",
-            "2026-11-04T16:15:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-03"
-        },
-        {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-03T16:30:00-05:00",
             "2026-11-03T19:30:00-05:00",
             "2026-11-04T12:40:00-05:00",
             "2026-11-04T14:00:00-05:00",
@@ -344,8 +320,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-03T14:30:00-05:00",
-            "2026-11-03T15:30:00-05:00",
             "2026-11-03T18:00:00-05:00",
             "2026-11-03T18:30:00-05:00",
             "2026-11-03T19:00:00-05:00",
@@ -356,6 +330,14 @@
             "2026-11-04T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-03"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-04T12:55:00-05:00",
+            "2026-11-04T16:15:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
         },
         {
           "title": "MILDRED PIERCE",
