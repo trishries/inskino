@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T13:19:48-05:00",
+  "lastUpdated": "2026-11-04T16:12:20-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -317,7 +317,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-04T12:40:00-05:00",
             "2026-11-04T14:00:00-05:00",
             "2026-11-04T16:00:00-05:00",
             "2026-11-04T18:00:00-05:00",
@@ -353,23 +352,22 @@
       "status": "ok",
       "films": [
         {
+          "title": "Poetry",
+          "showtimes": [
+            "2026-11-04T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3046/seats"
+        },
+        {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-04T14:35:00-05:00",
             "2026-11-04T21:45:00-05:00",
             "2026-11-05T11:40:00-05:00",
             "2026-11-05T15:10:00-05:00",
             "2026-11-05T18:45:00-05:00",
             "2026-11-05T22:20:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3173/seats"
-        },
-        {
-          "title": "Poetry",
-          "showtimes": [
-            "2026-11-04T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3046/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3175/seats"
         }
       ]
     },
