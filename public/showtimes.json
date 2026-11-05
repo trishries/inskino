@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-04T16:12:20-05:00",
+  "lastUpdated": "2026-11-04T19:08:50-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "BORED TEENAGERS",
-          "showtimes": [
-            "2026-11-04T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5848?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "RIOTS AND LOVE",
-          "showtimes": [
-            "2026-11-04T21:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5849?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "NO FUTURE + ALLET UNITED",
           "showtimes": [
@@ -241,27 +227,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ALL WE IMAGINE AS LIGHT",
-          "showtimes": [
-            "2026-11-04T15:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31327"
-        },
-        {
-          "title": "MIDNIGHT IN PARIS",
-          "showtimes": [
-            "2026-11-04T15:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31326"
-        },
-        {
-          "title": "ALL THAT HEAVEN ALLOWS",
-          "showtimes": [
-            "2026-11-04T17:35:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31328"
-        },
-        {
           "title": "STRANGERS ON A TRAIN",
           "showtimes": [
             "2026-11-04T19:35:00-05:00"
@@ -297,16 +262,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-04T12:55:00-05:00",
-            "2026-11-04T16:15:00-05:00",
-            "2026-11-05T12:55:00-05:00",
-            "2026-11-05T16:05:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
-        },
-        {
           "title": "MILDRED PIERCE",
           "showtimes": [
             "2026-11-04T20:00:00-05:00",
@@ -317,8 +272,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-04T14:00:00-05:00",
-            "2026-11-04T16:00:00-05:00",
             "2026-11-04T18:00:00-05:00",
             "2026-11-05T12:40:00-05:00",
             "2026-11-05T14:00:00-05:00",
@@ -330,9 +283,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-04T12:45:00-05:00",
-            "2026-11-04T14:30:00-05:00",
-            "2026-11-04T15:30:00-05:00",
             "2026-11-04T18:10:00-05:00",
             "2026-11-04T19:00:00-05:00",
             "2026-11-05T12:45:00-05:00",
@@ -343,6 +293,14 @@
             "2026-11-05T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-05T12:55:00-05:00",
+            "2026-11-05T16:05:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
         }
       ]
     },
@@ -351,13 +309,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Poetry",
-          "showtimes": [
-            "2026-11-04T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3046/seats"
-        },
         {
           "title": "La Bola Negra",
           "showtimes": [
