@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-05T16:25:04-05:00",
+  "lastUpdated": "2026-11-05T18:56:14-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "NO FUTURE + ALLET UNITED",
-          "showtimes": [
-            "2026-11-05T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5850?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "ASILAH OUI: MELEHI + A THOUSAND AND ONE BERBER NIG",
           "showtimes": [
@@ -320,13 +313,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31283"
         },
         {
-          "title": "CRÍA CUERVOS",
-          "showtimes": [
-            "2026-11-06T18:35:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31285"
-        },
-        {
           "title": "SUZHOU RIVER",
           "showtimes": [
             "2026-11-06T21:10:00-05:00"
@@ -357,7 +343,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-05T12:55:00-05:00",
             "2026-11-05T16:05:00-05:00",
             "2026-11-06T12:30:00-05:00",
             "2026-11-06T16:35:00-05:00",
@@ -375,7 +360,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-05T14:00:00-05:00",
             "2026-11-05T16:00:00-05:00",
             "2026-11-05T18:00:00-05:00",
             "2026-11-06T12:40:00-05:00",
@@ -386,7 +370,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-05T12:45:00-05:00",
             "2026-11-05T14:30:00-05:00",
             "2026-11-05T15:30:00-05:00",
             "2026-11-05T18:10:00-05:00",
