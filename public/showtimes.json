@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T19:08:50-05:00",
+  "lastUpdated": "2026-11-04T22:03:26-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -82,7 +82,8 @@
             "2026-11-04T15:45:00-05:00",
             "2026-11-04T18:25:00-05:00",
             "2026-11-05T13:05:00-05:00",
-            "2026-11-05T15:45:00-05:00"
+            "2026-11-05T15:45:00-05:00",
+            "2026-11-05T18:25:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587190~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -227,13 +228,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "STRANGERS ON A TRAIN",
-          "showtimes": [
-            "2026-11-04T19:35:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31329"
-        },
-        {
           "title": "ELECTRA, MY LOVE",
           "showtimes": [
             "2026-11-04T20:45:00-05:00"
@@ -270,17 +264,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
         },
         {
-          "title": "WHO KILLED ALEX ODEH?",
-          "showtimes": [
-            "2026-11-04T18:00:00-05:00",
-            "2026-11-05T12:40:00-05:00",
-            "2026-11-05T14:00:00-05:00",
-            "2026-11-05T16:00:00-05:00",
-            "2026-11-05T18:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
             "2026-11-04T18:10:00-05:00",
@@ -299,6 +282,16 @@
           "showtimes": [
             "2026-11-05T12:55:00-05:00",
             "2026-11-05T16:05:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
+        },
+        {
+          "title": "WHO KILLED ALEX ODEH?",
+          "showtimes": [
+            "2026-11-05T12:40:00-05:00",
+            "2026-11-05T14:00:00-05:00",
+            "2026-11-05T16:00:00-05:00",
+            "2026-11-05T18:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
         }
