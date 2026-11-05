@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T22:03:26-05:00",
+  "lastUpdated": "2026-11-05T08:06:33-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -26,6 +26,20 @@
             "2026-11-05T20:45:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5851?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "GIRLS BITE BACK + ROAD MOVIE",
+          "showtimes": [
+            "2026-11-06T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5852?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "LAST STOP FOR THE CIRCULAR TICKET",
+          "showtimes": [
+            "2026-11-06T19:00:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5808?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -37,109 +51,161 @@
         {
           "title": "BIRDS OF WAR",
           "showtimes": [
-            "2026-11-04T12:45:00-05:00",
-            "2026-11-04T16:30:00-05:00",
-            "2026-11-04T18:30:00-05:00",
             "2026-11-05T12:15:00-05:00",
             "2026-11-05T16:20:00-05:00",
-            "2026-11-05T18:30:00-05:00"
+            "2026-11-05T18:30:00-05:00",
+            "2026-11-06T10:35:00-05:00",
+            "2026-11-06T12:20:00-05:00",
+            "2026-11-06T18:30:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587434~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587204~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "CLOSURE",
           "showtimes": [
-            "2026-11-04T14:30:00-05:00",
             "2026-11-05T14:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588384~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588386~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE DEVILS",
           "showtimes": [
-            "2026-11-04T16:15:00-05:00",
-            "2026-11-04T21:00:00-05:00",
             "2026-11-05T11:20:00-05:00",
             "2026-11-05T16:15:00-05:00",
-            "2026-11-05T20:50:00-05:00"
+            "2026-11-05T20:50:00-05:00",
+            "2026-11-06T21:40:00-05:00",
+            "2026-11-06T23:10:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587440~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587205~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-04T12:40:00-05:00",
-            "2026-11-04T20:40:00-05:00",
             "2026-11-05T12:40:00-05:00",
-            "2026-11-05T20:30:00-05:00"
+            "2026-11-05T20:30:00-05:00",
+            "2026-11-06T10:35:00-05:00",
+            "2026-11-06T15:25:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587191~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587210~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "GENTLE MONSTER",
           "showtimes": [
-            "2026-11-04T13:35:00-05:00",
-            "2026-11-04T15:45:00-05:00",
-            "2026-11-04T18:25:00-05:00",
             "2026-11-05T13:05:00-05:00",
             "2026-11-05T15:45:00-05:00",
             "2026-11-05T18:25:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587190~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587209~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "THE HISTORY OF CONCRETE",
           "showtimes": [
-            "2026-11-04T15:50:00-05:00",
-            "2026-11-04T18:15:00-05:00",
-            "2026-11-04T21:45:00-05:00",
             "2026-11-05T10:40:00-05:00",
             "2026-11-05T15:50:00-05:00",
-            "2026-11-05T21:05:00-05:00"
+            "2026-11-05T21:05:00-05:00",
+            "2026-11-06T16:10:00-05:00",
+            "2026-11-06T20:50:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587194~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587206~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "NAZA",
           "showtimes": [
-            "2026-11-04T14:05:00-05:00",
-            "2026-11-04T17:45:00-05:00",
-            "2026-11-04T21:05:00-05:00",
             "2026-11-05T10:55:00-05:00",
             "2026-11-05T14:05:00-05:00",
             "2026-11-05T17:40:00-05:00",
-            "2026-11-05T21:45:00-05:00"
+            "2026-11-05T21:45:00-05:00",
+            "2026-11-06T10:45:00-05:00",
+            "2026-11-06T14:10:00-05:00",
+            "2026-11-06T16:55:00-05:00",
+            "2026-11-06T19:00:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587189~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587207~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "ON THE ROAD",
           "showtimes": [
-            "2026-11-04T15:30:00-05:00",
-            "2026-11-04T19:40:00-05:00",
-            "2026-11-04T21:55:00-05:00",
             "2026-11-05T11:00:00-05:00",
             "2026-11-05T15:30:00-05:00",
-            "2026-11-05T21:55:00-05:00"
+            "2026-11-05T21:55:00-05:00",
+            "2026-11-06T12:30:00-05:00",
+            "2026-11-06T21:05:00-05:00"
           ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587193~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "TRAUMA OR, MONSTERS ALL",
-          "showtimes": [
-            "2026-11-04T12:55:00-05:00",
-            "2026-11-04T19:00:00-05:00",
-            "2026-11-05T12:55:00-05:00",
-            "2026-11-05T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587430~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587203~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
           "title": "SOUL PATROL",
           "showtimes": [
-            "2026-11-05T19:30:00-05:00"
+            "2026-11-05T19:30:00-05:00",
+            "2026-11-06T14:25:00-05:00",
+            "2026-11-06T16:50:00-05:00",
+            "2026-11-06T19:15:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586022~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "TRAUMA OR, MONSTERS ALL",
+          "showtimes": [
+            "2026-11-05T12:55:00-05:00",
+            "2026-11-05T19:00:00-05:00",
+            "2026-11-06T14:35:00-05:00",
+            "2026-11-06T21:00:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587327~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "AVEDON",
+          "showtimes": [
+            "2026-11-06T10:40:00-05:00",
+            "2026-11-06T13:00:00-05:00",
+            "2026-11-06T18:35:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587890~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE EXORCIST",
+          "showtimes": [
+            "2026-11-06T23:45:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588254~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE HOLY MOUNTAIN",
+          "showtimes": [
+            "2026-11-06T23:55:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588248~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "JU-ON: THE GRUDGE",
+          "showtimes": [
+            "2026-11-06T23:15:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588281~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MOUSE",
+          "showtimes": [
+            "2026-11-06T13:15:00-05:00",
+            "2026-11-06T16:00:00-05:00",
+            "2026-11-06T18:45:00-05:00",
+            "2026-11-06T21:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587635~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "POSSIBLE LOVE",
+          "showtimes": [
+            "2026-11-06T11:00:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588048~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE REFLECTING SKIN",
+          "showtimes": [
+            "2026-11-06T23:59:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588295~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -151,10 +217,6 @@
         {
           "title": "CITIZEN RUTH",
           "showtimes": [
-            "2026-11-04T13:00:00-05:00",
-            "2026-11-04T15:20:00-05:00",
-            "2026-11-04T17:40:00-05:00",
-            "2026-11-04T20:00:00-05:00",
             "2026-11-05T13:00:00-05:00",
             "2026-11-05T15:20:00-05:00",
             "2026-11-05T17:40:00-05:00",
@@ -165,53 +227,35 @@
         {
           "title": "FATHERLAND",
           "showtimes": [
-            "2026-11-04T12:25:00-05:00",
-            "2026-11-04T14:25:00-05:00",
-            "2026-11-04T16:15:00-05:00",
-            "2026-11-04T16:30:00-05:00",
-            "2026-11-04T18:30:00-05:00",
-            "2026-11-04T20:30:00-05:00",
             "2026-11-05T12:25:00-05:00",
             "2026-11-05T14:25:00-05:00",
             "2026-11-05T15:50:00-05:00",
             "2026-11-05T16:30:00-05:00",
             "2026-11-05T18:30:00-05:00",
-            "2026-11-05T20:30:00-05:00"
+            "2026-11-05T20:30:00-05:00",
+            "2026-11-06T12:25:00-05:00",
+            "2026-11-06T14:25:00-05:00",
+            "2026-11-06T16:30:00-05:00",
+            "2026-11-06T18:30:00-05:00",
+            "2026-11-06T20:30:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/fatherland"
         },
         {
           "title": "ONCE UPON A TIME IN HARLEM",
           "showtimes": [
-            "2026-11-04T12:15:00-05:00",
-            "2026-11-04T14:30:00-05:00",
-            "2026-11-04T16:45:00-05:00",
-            "2026-11-04T19:00:00-05:00",
-            "2026-11-04T20:10:00-05:00",
-            "2026-11-04T21:15:00-05:00",
             "2026-11-05T12:15:00-05:00",
             "2026-11-05T14:30:00-05:00",
             "2026-11-05T16:45:00-05:00",
             "2026-11-05T19:00:00-05:00",
             "2026-11-05T19:45:00-05:00",
-            "2026-11-05T21:15:00-05:00"
+            "2026-11-05T21:15:00-05:00",
+            "2026-11-06T13:00:00-05:00",
+            "2026-11-06T15:45:00-05:00",
+            "2026-11-06T18:00:00-05:00",
+            "2026-11-06T20:15:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/once-upon-a-time-in-harlem"
-        },
-        {
-          "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 1-3",
-          "showtimes": [
-            "2026-11-04T12:30:00-05:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
-        },
-        {
-          "title": "UNZIPPED",
-          "showtimes": [
-            "2026-11-04T18:20:00-05:00",
-            "2026-11-05T17:50:00-05:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
         },
         {
           "title": "MY UNDESIRABLE FRIENDS: PART II – EXILE: CHAPTERS 4-5",
@@ -219,6 +263,26 @@
             "2026-11-05T12:30:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/my-undesirable-friends-part-ii-exile"
+        },
+        {
+          "title": "UNZIPPED",
+          "showtimes": [
+            "2026-11-05T17:50:00-05:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/unzipped-2026"
+        },
+        {
+          "title": "RAISE THE RED LANTERN",
+          "showtimes": [
+            "2026-11-06T12:20:00-05:00",
+            "2026-11-06T13:30:00-05:00",
+            "2026-11-06T15:00:00-05:00",
+            "2026-11-06T16:15:00-05:00",
+            "2026-11-06T17:40:00-05:00",
+            "2026-11-06T19:00:00-05:00",
+            "2026-11-06T20:20:00-05:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/raise-the-red-lantern"
         }
       ]
     },
@@ -228,25 +292,60 @@
       "status": "ok",
       "films": [
         {
-          "title": "ELECTRA, MY LOVE",
+          "title": "BRAM STOKER'S DRACULA",
           "showtimes": [
-            "2026-11-04T20:45:00-05:00"
+            "2026-11-06T13:30:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31332"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31280"
         },
         {
-          "title": "OLDBOY",
+          "title": "NEWS FROM HOME",
           "showtimes": [
-            "2026-11-04T21:45:00-05:00"
+            "2026-11-06T14:15:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31330"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31281"
         },
         {
-          "title": "GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER",
+          "title": "SPELLBOUND",
           "showtimes": [
-            "2026-11-04T22:20:00-05:00"
+            "2026-11-06T16:10:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31331"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31282"
+        },
+        {
+          "title": "FAR FROM HEAVEN",
+          "showtimes": [
+            "2026-11-06T16:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31283"
+        },
+        {
+          "title": "CRÍA CUERVOS",
+          "showtimes": [
+            "2026-11-06T18:35:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31285"
+        },
+        {
+          "title": "SUZHOU RIVER",
+          "showtimes": [
+            "2026-11-06T21:10:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31289"
+        },
+        {
+          "title": "THE BROOD",
+          "showtimes": [
+            "2026-11-06T22:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31287"
+        },
+        {
+          "title": "LOST HIGHWAY",
+          "showtimes": [
+            "2026-11-06T23:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31288"
         }
       ]
     },
@@ -256,32 +355,20 @@
       "status": "ok",
       "films": [
         {
-          "title": "MILDRED PIERCE",
-          "showtimes": [
-            "2026-11-04T20:00:00-05:00",
-            "2026-11-05T20:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
-        },
-        {
-          "title": "YOU CAN SEE EVERYTHING",
-          "showtimes": [
-            "2026-11-04T18:10:00-05:00",
-            "2026-11-04T19:00:00-05:00",
-            "2026-11-05T12:45:00-05:00",
-            "2026-11-05T14:30:00-05:00",
-            "2026-11-05T15:30:00-05:00",
-            "2026-11-05T18:10:00-05:00",
-            "2026-11-05T18:45:00-05:00",
-            "2026-11-05T19:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-04"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
             "2026-11-05T12:55:00-05:00",
-            "2026-11-05T16:05:00-05:00"
+            "2026-11-05T16:05:00-05:00",
+            "2026-11-06T12:30:00-05:00",
+            "2026-11-06T16:35:00-05:00",
+            "2026-11-06T21:15:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
+        },
+        {
+          "title": "MILDRED PIERCE",
+          "showtimes": [
+            "2026-11-05T20:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
         },
@@ -291,9 +378,40 @@
             "2026-11-05T12:40:00-05:00",
             "2026-11-05T14:00:00-05:00",
             "2026-11-05T16:00:00-05:00",
-            "2026-11-05T18:00:00-05:00"
+            "2026-11-05T18:00:00-05:00",
+            "2026-11-06T12:40:00-05:00",
+            "2026-11-06T14:40:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
+        },
+        {
+          "title": "YOU CAN SEE EVERYTHING",
+          "showtimes": [
+            "2026-11-05T12:45:00-05:00",
+            "2026-11-05T14:30:00-05:00",
+            "2026-11-05T15:30:00-05:00",
+            "2026-11-05T18:10:00-05:00",
+            "2026-11-05T18:45:00-05:00",
+            "2026-11-05T19:00:00-05:00",
+            "2026-11-06T13:00:00-05:00",
+            "2026-11-06T14:30:00-05:00",
+            "2026-11-06T16:45:00-05:00",
+            "2026-11-06T18:00:00-05:00",
+            "2026-11-06T19:30:00-05:00",
+            "2026-11-06T20:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-05"
+        },
+        {
+          "title": "HEN",
+          "showtimes": [
+            "2026-11-06T12:25:00-05:00",
+            "2026-11-06T15:05:00-05:00",
+            "2026-11-06T17:05:00-05:00",
+            "2026-11-06T19:10:00-05:00",
+            "2026-11-06T21:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-06"
         }
       ]
     },
@@ -305,13 +423,16 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-04T21:45:00-05:00",
             "2026-11-05T11:40:00-05:00",
             "2026-11-05T15:10:00-05:00",
             "2026-11-05T18:45:00-05:00",
-            "2026-11-05T22:20:00-05:00"
+            "2026-11-05T22:20:00-05:00",
+            "2026-11-06T10:55:00-05:00",
+            "2026-11-06T14:35:00-05:00",
+            "2026-11-06T18:15:00-05:00",
+            "2026-11-06T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3175/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3177/seats"
         }
       ]
     },
