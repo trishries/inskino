@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T07:53:11-05:00",
+  "lastUpdated": "2026-11-06T12:44:32-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,18 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "GIRLS BITE BACK + ROAD MOVIE",
-          "showtimes": [
-            "2026-11-06T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5852?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "LAST STOP FOR THE CIRCULAR TICKET",
           "showtimes": [
             "2026-11-06T19:00:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5808?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EINSTURZENDE NEUBAUTEN: LIEBESLIEDER",
+          "showtimes": [
+            "2026-11-06T21:00:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5854?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "IT’LL BE OK",
@@ -473,7 +473,6 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-06T10:55:00-05:00",
             "2026-11-06T14:35:00-05:00",
             "2026-11-06T18:15:00-05:00",
             "2026-11-06T21:55:00-05:00",
@@ -482,7 +481,7 @@
             "2026-11-07T18:15:00-05:00",
             "2026-11-07T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3244/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3245/seats"
         }
       ]
     },
