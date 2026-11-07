@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T06:40:36-05:00",
+  "lastUpdated": "2026-11-07T11:41:03-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -478,12 +478,11 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-07T10:55:00-05:00",
             "2026-11-07T14:35:00-05:00",
             "2026-11-07T18:15:00-05:00",
             "2026-11-07T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3251/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3250/seats"
         }
       ]
     },
