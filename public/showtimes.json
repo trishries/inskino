@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-06T18:39:07-05:00",
+  "lastUpdated": "2026-11-06T21:30:19-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "LAST STOP FOR THE CIRCULAR TICKET",
-          "showtimes": [
-            "2026-11-06T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5808?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EINSTURZENDE NEUBAUTEN: LIEBESLIEDER",
-          "showtimes": [
-            "2026-11-06T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5854?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "IT’LL BE OK",
           "showtimes": [
@@ -302,6 +288,13 @@
       "status": "ok",
       "films": [
         {
+          "title": "CHINESE ROULETTE",
+          "showtimes": [
+            "2026-11-06T20:50:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31286"
+        },
+        {
           "title": "SUZHOU RIVER",
           "showtimes": [
             "2026-11-06T21:10:00-05:00"
@@ -382,7 +375,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-06T16:35:00-05:00",
             "2026-11-06T21:15:00-05:00",
             "2026-11-07T12:40:00-05:00",
             "2026-11-07T17:45:00-05:00",
@@ -393,8 +385,6 @@
         {
           "title": "HEN",
           "showtimes": [
-            "2026-11-06T15:05:00-05:00",
-            "2026-11-06T17:05:00-05:00",
             "2026-11-06T19:10:00-05:00",
             "2026-11-06T21:30:00-05:00",
             "2026-11-07T12:45:00-05:00",
@@ -408,8 +398,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-06T14:30:00-05:00",
-            "2026-11-06T16:45:00-05:00",
             "2026-11-06T18:00:00-05:00",
             "2026-11-06T19:30:00-05:00",
             "2026-11-06T20:30:00-05:00",
@@ -446,14 +434,13 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-06T18:15:00-05:00",
             "2026-11-06T21:55:00-05:00",
             "2026-11-07T10:55:00-05:00",
             "2026-11-07T14:35:00-05:00",
             "2026-11-07T18:15:00-05:00",
             "2026-11-07T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3246/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3247/seats"
         }
       ]
     },
