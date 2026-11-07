@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T11:41:03-05:00",
+  "lastUpdated": "2026-11-07T14:19:26-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -304,20 +304,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "FAR FROM HEAVEN",
-          "showtimes": [
-            "2026-11-07T12:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31291"
-        },
-        {
-          "title": "THE HOUSEMAID",
-          "showtimes": [
-            "2026-11-07T12:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31290"
-        },
-        {
           "title": "DETOUR",
           "showtimes": [
             "2026-11-07T14:10:00-05:00"
@@ -379,6 +365,13 @@
             "2026-11-08T13:50:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31302"
+        },
+        {
+          "title": "COLUMBUS",
+          "showtimes": [
+            "2026-11-08T16:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31310"
         },
         {
           "title": "THE GORGON",
