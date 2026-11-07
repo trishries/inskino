@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-07T14:19:26-05:00",
+  "lastUpdated": "2026-11-07T17:28:59-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "IT’LL BE OK",
-          "showtimes": [
-            "2026-11-07T17:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5855?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "RIOTS AND LOVE",
           "showtimes": [
@@ -304,27 +297,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "DETOUR",
-          "showtimes": [
-            "2026-11-07T14:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31296"
-        },
-        {
-          "title": "TWO SEASONS, TWO STRANGERS PRECEDED BY NAGAHAMA",
-          "showtimes": [
-            "2026-11-07T14:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31311"
-        },
-        {
-          "title": "AFTER WINTER COMES SPRING",
-          "showtimes": [
-            "2026-11-07T15:40:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31295"
-        },
-        {
           "title": "ASAKO I & II",
           "showtimes": [
             "2026-11-07T20:10:00-05:00"
@@ -404,7 +376,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-07T12:40:00-05:00",
             "2026-11-07T17:45:00-05:00",
             "2026-11-07T21:15:00-05:00",
             "2026-11-08T12:40:00-05:00",
@@ -416,8 +387,6 @@
         {
           "title": "HEN",
           "showtimes": [
-            "2026-11-07T12:45:00-05:00",
-            "2026-11-07T14:55:00-05:00",
             "2026-11-07T17:00:00-05:00",
             "2026-11-07T19:10:00-05:00",
             "2026-11-07T21:30:00-05:00",
@@ -436,18 +405,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-07"
         },
         {
-          "title": "WHO KILLED ALEX ODEH?",
-          "showtimes": [
-            "2026-11-07T12:35:00-05:00",
-            "2026-11-08T12:35:00-05:00",
-            "2026-11-08T18:05:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-07"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-07T12:30:00-05:00",
             "2026-11-07T14:30:00-05:00",
             "2026-11-07T16:00:00-05:00",
             "2026-11-07T18:00:00-05:00",
@@ -460,6 +419,14 @@
             "2026-11-08T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-07"
+        },
+        {
+          "title": "WHO KILLED ALEX ODEH?",
+          "showtimes": [
+            "2026-11-08T12:35:00-05:00",
+            "2026-11-08T18:05:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-08"
         }
       ]
     },
@@ -471,11 +438,10 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-07T14:35:00-05:00",
             "2026-11-07T18:15:00-05:00",
             "2026-11-07T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3250/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3249/seats"
         }
       ]
     },
