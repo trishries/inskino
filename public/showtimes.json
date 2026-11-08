@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-11-07T17:28:59-05:00",
+  "lastUpdated": "2026-11-07T20:59:44-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "RIOTS AND LOVE",
-          "showtimes": [
-            "2026-11-07T19:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5857?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "WHITE SNAIL",
-          "showtimes": [
-            "2026-11-07T19:30:00-05:00",
-            "2026-11-08T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5804?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "whisper & SHOUT",
-          "showtimes": [
-            "2026-11-07T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5858?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "THE BATTLE OF TUNTENHAUS",
           "showtimes": [
@@ -41,6 +19,13 @@
             "2026-11-08T17:00:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5861?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "WHITE SNAIL",
+          "showtimes": [
+            "2026-11-08T19:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5805?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "NINA HAGEN = PUNK + GLORY",
@@ -297,13 +282,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ASAKO I & II",
-          "showtimes": [
-            "2026-11-07T20:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31294"
-        },
-        {
           "title": "TENEBRAE",
           "showtimes": [
             "2026-11-07T22:45:00-05:00"
@@ -337,13 +315,6 @@
             "2026-11-08T13:50:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31302"
-        },
-        {
-          "title": "COLUMBUS",
-          "showtimes": [
-            "2026-11-08T16:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31310"
         },
         {
           "title": "THE GORGON",
@@ -387,7 +358,6 @@
         {
           "title": "HEN",
           "showtimes": [
-            "2026-11-07T17:00:00-05:00",
             "2026-11-07T19:10:00-05:00",
             "2026-11-07T21:30:00-05:00",
             "2026-11-08T12:45:00-05:00",
@@ -398,16 +368,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-07"
         },
         {
-          "title": "MILDRED PIERCE",
-          "showtimes": [
-            "2026-11-07T15:20:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-07"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-07T14:30:00-05:00",
             "2026-11-07T16:00:00-05:00",
             "2026-11-07T18:00:00-05:00",
             "2026-11-07T19:30:00-05:00",
@@ -438,10 +400,9 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-07T18:15:00-05:00",
             "2026-11-07T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3249/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3248/seats"
         }
       ]
     },
