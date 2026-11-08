@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-08T14:27:39-05:00",
+  "lastUpdated": "2026-11-08T17:39:09-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE BATTLE OF TUNTENHAUS",
-          "showtimes": [
-            "2026-11-08T15:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5860?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "BERLIN SUPER 80: FILMS FROM THE WEST GERMAN UNDERG",
-          "showtimes": [
-            "2026-11-08T17:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5861?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "WHITE SNAIL",
           "showtimes": [
@@ -272,25 +258,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "MATÍAS PIÑEIRO PRESENTS HERMIA & HELENA",
-          "showtimes": [
-            "2026-11-08T13:50:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31302"
-        },
-        {
           "title": "THE GORGON",
           "showtimes": [
             "2026-11-08T17:45:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31305"
-        },
-        {
-          "title": "ZI",
-          "showtimes": [
-            "2026-11-08T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31309"
         },
         {
           "title": "SAD VACATION",
@@ -309,7 +281,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-08T12:40:00-05:00",
             "2026-11-08T15:20:00-05:00",
             "2026-11-08T19:30:00-05:00",
             "2026-11-09T13:15:00-05:00",
@@ -320,8 +291,6 @@
         {
           "title": "HEN",
           "showtimes": [
-            "2026-11-08T12:45:00-05:00",
-            "2026-11-08T14:50:00-05:00",
             "2026-11-08T16:55:00-05:00",
             "2026-11-08T19:55:00-05:00",
             "2026-11-09T13:10:00-05:00",
@@ -334,7 +303,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-08T12:35:00-05:00",
             "2026-11-08T18:05:00-05:00",
             "2026-11-09T13:05:00-05:00"
           ],
@@ -343,7 +311,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-08T12:30:00-05:00",
             "2026-11-08T14:30:00-05:00",
             "2026-11-08T16:00:00-05:00",
             "2026-11-08T18:00:00-05:00",
