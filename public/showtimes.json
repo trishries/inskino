@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T11:51:23-05:00",
+  "lastUpdated": "2026-11-08T14:27:39-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -271,20 +271,6 @@
       "url": "https://metrograph.com",
       "status": "ok",
       "films": [
-        {
-          "title": "SPELLBOUND",
-          "showtimes": [
-            "2026-11-08T11:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31300"
-        },
-        {
-          "title": "THE GENERAL",
-          "showtimes": [
-            "2026-11-08T12:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31301"
-        },
         {
           "title": "MATÍAS PIÑEIRO PRESENTS HERMIA & HELENA",
           "showtimes": [
