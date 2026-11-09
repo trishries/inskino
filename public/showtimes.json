@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T17:39:09-05:00",
+  "lastUpdated": "2026-11-08T21:19:09-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,26 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "WHITE SNAIL",
-          "showtimes": [
-            "2026-11-08T19:30:00-05:00",
-            "2026-11-09T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5805?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "NINA HAGEN = PUNK + GLORY",
-          "showtimes": [
-            "2026-11-08T19:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5862?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "BULKY TRASH",
           "showtimes": [
             "2026-11-09T18:30:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5863?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "WHITE SNAIL",
+          "showtimes": [
+            "2026-11-09T19:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5806?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "IT’LL BE OK",
@@ -258,11 +250,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE GORGON",
+          "title": "ZI",
           "showtimes": [
-            "2026-11-08T17:45:00-05:00"
+            "2026-11-08T19:00:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31305"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31309"
         },
         {
           "title": "SAD VACATION",
@@ -281,7 +273,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-08T15:20:00-05:00",
             "2026-11-08T19:30:00-05:00",
             "2026-11-09T13:15:00-05:00",
             "2026-11-09T16:00:00-05:00"
@@ -291,7 +282,6 @@
         {
           "title": "HEN",
           "showtimes": [
-            "2026-11-08T16:55:00-05:00",
             "2026-11-08T19:55:00-05:00",
             "2026-11-09T13:10:00-05:00",
             "2026-11-09T15:15:00-05:00",
@@ -301,18 +291,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-08"
         },
         {
-          "title": "WHO KILLED ALEX ODEH?",
-          "showtimes": [
-            "2026-11-08T18:05:00-05:00",
-            "2026-11-09T13:05:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-08"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-08T14:30:00-05:00",
-            "2026-11-08T16:00:00-05:00",
             "2026-11-08T18:00:00-05:00",
             "2026-11-08T19:00:00-05:00",
             "2026-11-09T13:00:00-05:00",
@@ -326,6 +306,13 @@
           "title": "LEAVE HER TO HEAVEN",
           "showtimes": [
             "2026-11-09T19:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-09"
+        },
+        {
+          "title": "WHO KILLED ALEX ODEH?",
+          "showtimes": [
+            "2026-11-09T13:05:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-09"
         }
