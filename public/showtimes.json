@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-10T16:14:51-05:00",
+  "lastUpdated": "2026-11-10T18:54:11-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "whisper & SHOUT",
-          "showtimes": [
-            "2026-11-10T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5865?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "COBRA WOMAN",
           "showtimes": [
@@ -325,7 +318,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-10T13:15:00-05:00",
             "2026-11-10T16:00:00-05:00",
             "2026-11-11T13:15:00-05:00",
             "2026-11-11T16:00:00-05:00"
@@ -356,7 +348,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-10T13:00:00-05:00",
             "2026-11-10T15:00:00-05:00",
             "2026-11-10T16:30:00-05:00",
             "2026-11-10T19:00:00-05:00",
