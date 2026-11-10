@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-09T18:44:25-05:00",
+  "lastUpdated": "2026-11-09T20:52:59-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "WHITE SNAIL",
-          "showtimes": [
-            "2026-11-09T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5806?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "IT’LL BE OK",
-          "showtimes": [
-            "2026-11-09T20:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5864?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "whisper & SHOUT",
           "showtimes": [
@@ -83,6 +69,7 @@
           "showtimes": [
             "2026-11-09T19:25:00-05:00",
             "2026-11-09T21:50:00-05:00",
+            "2026-11-10T19:25:00-05:00",
             "2026-11-10T21:50:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588107~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -275,19 +262,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-09T16:00:00-05:00",
-            "2026-11-10T13:15:00-05:00",
-            "2026-11-10T16:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-09"
-        },
-        {
           "title": "HEN",
           "showtimes": [
-            "2026-11-09T15:15:00-05:00",
-            "2026-11-09T17:20:00-05:00",
             "2026-11-09T19:55:00-05:00",
             "2026-11-10T13:10:00-05:00",
             "2026-11-10T15:15:00-05:00",
@@ -307,8 +283,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-09T15:00:00-05:00",
-            "2026-11-09T16:30:00-05:00",
             "2026-11-09T19:00:00-05:00",
             "2026-11-10T13:00:00-05:00",
             "2026-11-10T15:00:00-05:00",
@@ -316,6 +290,14 @@
             "2026-11-10T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-09"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-10T13:15:00-05:00",
+            "2026-11-10T16:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-10"
         },
         {
           "title": "WHO KILLED ALEX ODEH?",
@@ -334,10 +316,9 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-09T18:15:00-05:00",
             "2026-11-09T21:55:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3253/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3252/seats"
         }
       ]
     },
