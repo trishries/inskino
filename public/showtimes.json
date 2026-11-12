@@ -1,32 +1,11 @@
 {
-  "lastUpdated": "2026-11-11T16:49:44-05:00",
+  "lastUpdated": "2026-11-11T20:18:33-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "THE BATTLE OF TUNTENHAUS",
-          "showtimes": [
-            "2026-11-11T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5867?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "THE CREATION OF THE HUMANOIDS + SINS OF THE FLESHA",
-          "showtimes": [
-            "2026-11-11T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5834?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EINSTURZENDE NEUBAUTEN: LIEBESLIEDER",
-          "showtimes": [
-            "2026-11-11T20:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5868?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "POSTCOLONIAL MOTION: TAXIS AND TRAVELOGUES",
           "showtimes": [
@@ -221,20 +200,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE TROUBLE WITH HARRY",
-          "showtimes": [
-            "2026-11-11T17:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31402"
-        },
-        {
-          "title": "BEETLEJUICE",
-          "showtimes": [
-            "2026-11-11T17:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31399"
-        },
-        {
           "title": "ZI",
           "showtimes": [
             "2026-11-11T19:30:00-05:00",
@@ -271,20 +236,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-11T13:15:00-05:00",
-            "2026-11-11T16:00:00-05:00",
-            "2026-11-12T13:15:00-05:00",
-            "2026-11-12T16:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-11"
-        },
-        {
           "title": "HEN",
           "showtimes": [
-            "2026-11-11T15:15:00-05:00",
-            "2026-11-11T17:20:00-05:00",
             "2026-11-11T19:55:00-05:00",
             "2026-11-12T12:55:00-05:00",
             "2026-11-12T15:00:00-05:00",
@@ -303,8 +256,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-11T13:00:00-05:00",
-            "2026-11-11T15:00:00-05:00",
             "2026-11-11T16:30:00-05:00",
             "2026-11-11T19:00:00-05:00",
             "2026-11-12T13:00:00-05:00",
@@ -312,6 +263,14 @@
             "2026-11-12T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-11"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-12T13:15:00-05:00",
+            "2026-11-12T16:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
         },
         {
           "title": "WHO KILLED ALEX ODEH?",
@@ -331,10 +290,9 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-11T18:45:00-05:00",
             "2026-11-11T22:20:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3257/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3256/seats"
         }
       ]
     },
