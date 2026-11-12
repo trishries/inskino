@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T13:38:44-05:00",
+  "lastUpdated": "2026-11-12T16:47:44-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -234,26 +234,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "SANS SOLEIL",
-          "showtimes": [
-            "2026-11-12T13:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31396"
-        },
-        {
-          "title": "ZI",
-          "showtimes": [
-            "2026-11-12T13:15:00-05:00",
-            "2026-11-13T14:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31397"
-        },
-        {
           "title": "THE KILLING OF A SACRED DEER",
           "showtimes": [
             "2026-11-13T14:30:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31335"
+        },
+        {
+          "title": "ZI",
+          "showtimes": [
+            "2026-11-13T14:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31334"
         },
         {
           "title": "JE T'AIME, JE T'AIME",
@@ -310,7 +302,6 @@
         {
           "title": "HEN",
           "showtimes": [
-            "2026-11-12T12:55:00-05:00",
             "2026-11-12T15:00:00-05:00",
             "2026-11-12T17:05:00-05:00",
             "2026-11-12T19:55:00-05:00"
@@ -320,7 +311,6 @@
         {
           "title": "WHO KILLED ALEX ODEH?",
           "showtimes": [
-            "2026-11-12T13:05:00-05:00",
             "2026-11-12T15:05:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
