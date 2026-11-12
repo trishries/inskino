@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T20:18:33-05:00",
+  "lastUpdated": "2026-11-11T22:33:09-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -200,14 +200,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ZI",
-          "showtimes": [
-            "2026-11-11T19:30:00-05:00",
-            "2026-11-12T13:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31400"
-        },
-        {
           "title": "BLADE RUNNER: THE FINAL CUT",
           "showtimes": [
             "2026-11-11T21:45:00-05:00"
@@ -227,6 +219,13 @@
             "2026-11-12T13:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31396"
+        },
+        {
+          "title": "ZI",
+          "showtimes": [
+            "2026-11-12T13:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31397"
         }
       ]
     },
@@ -256,7 +255,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-11T16:30:00-05:00",
             "2026-11-11T19:00:00-05:00",
             "2026-11-12T13:00:00-05:00",
             "2026-11-12T16:30:00-05:00",
