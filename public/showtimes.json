@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-12T18:57:22-05:00",
+  "lastUpdated": "2026-11-12T22:05:31-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "POSTCOLONIAL MOTION: TAXIS AND TRAVELOGUES",
-          "showtimes": [
-            "2026-11-12T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5809?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "Narrow Rooms: DRUNKEN NOODLES",
-          "showtimes": [
-            "2026-11-12T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5835?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BARBARA",
           "showtimes": [
@@ -248,13 +234,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31334"
         },
         {
-          "title": "PLAYBACK",
-          "showtimes": [
-            "2026-11-13T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31336"
-        },
-        {
           "title": "IN BED WITH VICTORIA",
           "showtimes": [
             "2026-11-13T21:15:00-05:00"
@@ -283,18 +262,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-12T16:00:00-05:00",
-            "2026-11-13T12:25:00-05:00",
-            "2026-11-13T15:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
-        },
-        {
           "title": "HEN",
           "showtimes": [
-            "2026-11-12T17:05:00-05:00",
             "2026-11-12T19:55:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
@@ -302,7 +271,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-12T16:30:00-05:00",
             "2026-11-12T19:00:00-05:00",
             "2026-11-12T19:15:00-05:00",
             "2026-11-13T12:30:00-05:00",
@@ -313,6 +281,14 @@
             "2026-11-13T21:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-13T12:25:00-05:00",
+            "2026-11-13T15:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-13"
         },
         {
           "title": "FJORD",
