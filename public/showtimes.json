@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T13:17:30-05:00",
+  "lastUpdated": "2026-11-13T16:20:58-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -241,19 +241,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE KILLING OF A SACRED DEER",
+          "title": "JE T'AIME, JE T'AIME",
           "showtimes": [
-            "2026-11-13T14:30:00-05:00",
-            "2026-11-14T20:10:00-05:00"
+            "2026-11-13T17:00:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31335"
-        },
-        {
-          "title": "ZI",
-          "showtimes": [
-            "2026-11-13T14:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31334"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31340"
         },
         {
           "title": "IN BED WITH VICTORIA",
@@ -261,13 +253,6 @@
             "2026-11-13T21:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31363"
-        },
-        {
-          "title": "CRYSTAL VOYAGER",
-          "showtimes": [
-            "2026-11-13T21:20:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31337"
         },
         {
           "title": "DRIVE",
@@ -310,6 +295,13 @@
             "2026-11-14T20:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
+        },
+        {
+          "title": "THE KILLING OF A SACRED DEER",
+          "showtimes": [
+            "2026-11-14T20:10:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348"
         },
         {
           "title": "LOST HIGHWAY",
