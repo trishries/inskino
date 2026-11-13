@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T22:05:31-05:00",
+  "lastUpdated": "2026-11-13T08:01:08-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -19,6 +19,41 @@
             "2026-11-13T21:00:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5811?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "MUSIC IS MUSIC + BEFORE IT’S TOO LATE",
+          "showtimes": [
+            "2026-11-14T15:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5812?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: Intolerance",
+          "showtimes": [
+            "2026-11-14T16:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5836?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
+          "showtimes": [
+            "2026-11-14T17:45:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5813?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "EC: Eggeling / Grant / Jacobs & Fleischner",
+          "showtimes": [
+            "2026-11-14T20:15:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5837?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN III (2018-2022)",
+          "showtimes": [
+            "2026-11-14T20:45:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5814?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -28,125 +63,112 @@
       "status": "ok",
       "films": [
         {
-          "title": "AVEDON",
-          "showtimes": [
-            "2026-11-12T10:40:00-05:00",
-            "2026-11-12T13:00:00-05:00",
-            "2026-11-12T18:35:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587904~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE DEVILS",
-          "showtimes": [
-            "2026-11-12T21:35:00-05:00",
-            "2026-11-13T11:00:00-05:00",
-            "2026-11-13T16:35:00-05:00",
-            "2026-11-13T19:25:00-05:00",
-            "2026-11-13T21:15:00-05:00",
-            "2026-11-13T23:50:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588320~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-12T15:25:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588140~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE HISTORY OF CONCRETE",
-          "showtimes": [
-            "2026-11-12T12:10:00-05:00",
-            "2026-11-13T10:45:00-05:00",
-            "2026-11-13T15:10:00-05:00",
-            "2026-11-13T19:05:00-05:00",
-            "2026-11-13T21:50:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588138~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MOUSE",
-          "showtimes": [
-            "2026-11-12T13:35:00-05:00",
-            "2026-11-12T16:00:00-05:00",
-            "2026-11-12T21:30:00-05:00",
-            "2026-11-13T10:50:00-05:00",
-            "2026-11-13T15:55:00-05:00",
-            "2026-11-13T18:40:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587656~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MOUSE (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-11-12T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588141~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "NAZA",
-          "showtimes": [
-            "2026-11-12T10:35:00-05:00",
-            "2026-11-13T13:10:00-05:00",
-            "2026-11-13T17:35:00-05:00",
-            "2026-11-13T21:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588137~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "ON THE ROAD",
-          "showtimes": [
-            "2026-11-12T21:05:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588144~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "POSSIBLE LOVE",
-          "showtimes": [
-            "2026-11-12T10:35:00-05:00",
-            "2026-11-13T13:20:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588136~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "SOUL PATROL",
-          "showtimes": [
-            "2026-11-12T14:25:00-05:00",
-            "2026-11-12T16:50:00-05:00",
-            "2026-11-12T19:15:00-05:00",
-            "2026-11-13T13:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588139~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
           "title": "CLOVERFIELD",
           "showtimes": [
-            "2026-11-13T23:35:00-05:00"
+            "2026-11-13T23:35:00-05:00",
+            "2026-11-14T23:35:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589076~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "THE DEVILS",
+          "showtimes": [
+            "2026-11-13T11:00:00-05:00",
+            "2026-11-13T16:35:00-05:00",
+            "2026-11-13T19:25:00-05:00",
+            "2026-11-13T21:15:00-05:00",
+            "2026-11-13T23:50:00-05:00",
+            "2026-11-14T11:00:00-05:00",
+            "2026-11-14T16:35:00-05:00",
+            "2026-11-14T19:25:00-05:00",
+            "2026-11-14T21:15:00-05:00",
+            "2026-11-14T23:50:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588967~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE HISTORY OF CONCRETE",
+          "showtimes": [
+            "2026-11-13T10:45:00-05:00",
+            "2026-11-13T15:10:00-05:00",
+            "2026-11-13T19:05:00-05:00",
+            "2026-11-13T21:50:00-05:00",
+            "2026-11-14T10:45:00-05:00",
+            "2026-11-14T15:10:00-05:00",
+            "2026-11-14T19:05:00-05:00",
+            "2026-11-14T21:50:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588968~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "THE HOLY MOUNTAIN",
           "showtimes": [
-            "2026-11-13T23:59:00-05:00"
+            "2026-11-13T23:59:00-05:00",
+            "2026-11-14T23:59:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588986~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "MOUSE",
+          "showtimes": [
+            "2026-11-13T10:50:00-05:00",
+            "2026-11-13T15:55:00-05:00",
+            "2026-11-13T18:40:00-05:00",
+            "2026-11-14T10:50:00-05:00",
+            "2026-11-14T18:40:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588969~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "NAZA",
+          "showtimes": [
+            "2026-11-13T13:10:00-05:00",
+            "2026-11-13T17:35:00-05:00",
+            "2026-11-13T21:30:00-05:00",
+            "2026-11-14T13:10:00-05:00",
+            "2026-11-14T17:35:00-05:00",
+            "2026-11-14T21:25:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588971~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "POSSIBLE LOVE",
+          "showtimes": [
+            "2026-11-13T13:20:00-05:00",
+            "2026-11-14T13:20:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588970~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "THE REFLECTING SKIN",
           "showtimes": [
-            "2026-11-13T23:25:00-05:00"
+            "2026-11-13T23:25:00-05:00",
+            "2026-11-14T23:25:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588985~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "SOUL PATROL",
+          "showtimes": [
+            "2026-11-13T13:30:00-05:00",
+            "2026-11-14T13:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588972~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "THE WILD BUNCH",
           "showtimes": [
-            "2026-11-13T23:30:00-05:00"
+            "2026-11-13T23:30:00-05:00",
+            "2026-11-14T23:30:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588983~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "MOUSE (OPEN CAPTIONING)",
+          "showtimes": [
+            "2026-11-14T15:55:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588995~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -156,61 +178,60 @@
       "status": "ok",
       "films": [
         {
+          "title": "THREEASFOUR: FULL CIRCLE",
+          "showtimes": [
+            "2026-11-13T12:20:00-05:00",
+            "2026-11-13T14:30:00-05:00",
+            "2026-11-13T16:40:00-05:00",
+            "2026-11-13T19:00:00-05:00",
+            "2026-11-14T12:20:00-05:00",
+            "2026-11-14T14:30:00-05:00",
+            "2026-11-14T16:40:00-05:00",
+            "2026-11-14T19:00:00-05:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/threeasfour-full-circle"
+        },
+        {
           "title": "RAISE THE RED LANTERN",
           "showtimes": [
-            "2026-11-12T12:20:00-05:00",
-            "2026-11-12T13:30:00-05:00",
-            "2026-11-12T15:00:00-05:00",
-            "2026-11-12T16:15:00-05:00",
-            "2026-11-12T17:40:00-05:00",
-            "2026-11-12T19:00:00-05:00",
-            "2026-11-12T20:20:00-05:00",
             "2026-11-13T12:20:00-05:00",
             "2026-11-13T15:00:00-05:00",
             "2026-11-13T17:40:00-05:00",
-            "2026-11-13T20:20:00-05:00"
+            "2026-11-13T20:20:00-05:00",
+            "2026-11-14T12:20:00-05:00",
+            "2026-11-14T15:00:00-05:00",
+            "2026-11-14T17:40:00-05:00",
+            "2026-11-14T20:20:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/raise-the-red-lantern"
         },
         {
           "title": "FATHERLAND",
           "showtimes": [
-            "2026-11-12T12:25:00-05:00",
-            "2026-11-12T14:25:00-05:00",
-            "2026-11-12T16:30:00-05:00",
-            "2026-11-12T18:30:00-05:00",
-            "2026-11-12T20:30:00-05:00",
             "2026-11-13T12:25:00-05:00",
             "2026-11-13T14:25:00-05:00",
             "2026-11-13T16:30:00-05:00",
             "2026-11-13T18:30:00-05:00",
-            "2026-11-13T20:30:00-05:00"
+            "2026-11-13T20:30:00-05:00",
+            "2026-11-14T14:25:00-05:00",
+            "2026-11-14T16:30:00-05:00",
+            "2026-11-14T18:30:00-05:00",
+            "2026-11-14T20:30:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/fatherland"
         },
         {
           "title": "ONCE UPON A TIME IN HARLEM",
           "showtimes": [
-            "2026-11-12T13:00:00-05:00",
-            "2026-11-12T15:45:00-05:00",
-            "2026-11-12T18:00:00-05:00",
-            "2026-11-12T20:15:00-05:00",
             "2026-11-13T13:00:00-05:00",
             "2026-11-13T15:45:00-05:00",
             "2026-11-13T18:00:00-05:00",
-            "2026-11-13T20:15:00-05:00"
+            "2026-11-13T20:15:00-05:00",
+            "2026-11-14T13:00:00-05:00",
+            "2026-11-14T18:00:00-05:00",
+            "2026-11-14T20:15:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/once-upon-a-time-in-harlem"
-        },
-        {
-          "title": "THREEASFOUR: FULL CIRCLE",
-          "showtimes": [
-            "2026-11-13T12:20:00-05:00",
-            "2026-11-13T14:30:00-05:00",
-            "2026-11-13T16:40:00-05:00",
-            "2026-11-13T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/threeasfour-full-circle"
         }
       ]
     },
@@ -222,7 +243,8 @@
         {
           "title": "THE KILLING OF A SACRED DEER",
           "showtimes": [
-            "2026-11-13T14:30:00-05:00"
+            "2026-11-13T14:30:00-05:00",
+            "2026-11-14T20:10:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31335"
         },
@@ -253,6 +275,55 @@
             "2026-11-13T23:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31339"
+        },
+        {
+          "title": "LES RENDEZ-VOUS D'ANNA",
+          "showtimes": [
+            "2026-11-14T12:20:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31341"
+        },
+        {
+          "title": "THE SOUVENIR",
+          "showtimes": [
+            "2026-11-14T12:35:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31342"
+        },
+        {
+          "title": "SHUTTER ISLAND",
+          "showtimes": [
+            "2026-11-14T15:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31343"
+        },
+        {
+          "title": "SLITHER",
+          "showtimes": [
+            "2026-11-14T17:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31346"
+        },
+        {
+          "title": "THE STATE OF THINGS",
+          "showtimes": [
+            "2026-11-14T20:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
+        },
+        {
+          "title": "LOST HIGHWAY",
+          "showtimes": [
+            "2026-11-14T22:35:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31350"
+        },
+        {
+          "title": "THE BROOD",
+          "showtimes": [
+            "2026-11-14T22:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31349"
         }
       ]
     },
@@ -262,31 +333,13 @@
       "status": "ok",
       "films": [
         {
-          "title": "HEN",
-          "showtimes": [
-            "2026-11-12T19:55:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
-        },
-        {
-          "title": "YOU CAN SEE EVERYTHING",
-          "showtimes": [
-            "2026-11-12T19:00:00-05:00",
-            "2026-11-12T19:15:00-05:00",
-            "2026-11-13T12:30:00-05:00",
-            "2026-11-13T14:30:00-05:00",
-            "2026-11-13T16:00:00-05:00",
-            "2026-11-13T17:35:00-05:00",
-            "2026-11-13T19:30:00-05:00",
-            "2026-11-13T21:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-12"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
             "2026-11-13T12:25:00-05:00",
-            "2026-11-13T15:00:00-05:00"
+            "2026-11-13T15:00:00-05:00",
+            "2026-11-14T12:45:00-05:00",
+            "2026-11-14T15:15:00-05:00",
+            "2026-11-14T20:55:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-13"
         },
@@ -294,9 +347,36 @@
           "title": "FJORD",
           "showtimes": [
             "2026-11-13T13:15:00-05:00",
-            "2026-11-13T16:15:00-05:00"
+            "2026-11-13T16:15:00-05:00",
+            "2026-11-14T12:20:00-05:00",
+            "2026-11-14T18:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-13"
+        },
+        {
+          "title": "YOU CAN SEE EVERYTHING",
+          "showtimes": [
+            "2026-11-13T12:30:00-05:00",
+            "2026-11-13T14:30:00-05:00",
+            "2026-11-13T16:00:00-05:00",
+            "2026-11-13T17:35:00-05:00",
+            "2026-11-13T19:30:00-05:00",
+            "2026-11-13T21:00:00-05:00",
+            "2026-11-14T12:15:00-05:00",
+            "2026-11-14T13:30:00-05:00",
+            "2026-11-14T15:45:00-05:00",
+            "2026-11-14T17:00:00-05:00",
+            "2026-11-14T19:15:00-05:00",
+            "2026-11-14T20:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-13"
+        },
+        {
+          "title": "LEAVE HER TO HEAVEN",
+          "showtimes": [
+            "2026-11-14T15:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-14"
         }
       ]
     },
@@ -308,7 +388,8 @@
         {
           "title": "La Bola Negra",
           "showtimes": [
-            "2026-11-13T18:00:00-05:00"
+            "2026-11-13T18:00:00-05:00",
+            "2026-11-14T18:15:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3260/seats"
         },
@@ -318,6 +399,27 @@
             "2026-11-13T21:50:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3186/seats"
+        },
+        {
+          "title": "Portrait of a Lady on Fire",
+          "showtimes": [
+            "2026-11-14T11:00:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3127/seats"
+        },
+        {
+          "title": "The Insider",
+          "showtimes": [
+            "2026-11-14T14:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3203/seats"
+        },
+        {
+          "title": "To Die For",
+          "showtimes": [
+            "2026-11-14T21:50:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3188/seats"
         }
       ]
     },
