@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-11-14T14:50:56-05:00",
+  "lastUpdated": "2026-11-14T17:51:49-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "MUSIC IS MUSIC + BEFORE IT’S TOO LATE",
-          "showtimes": [
-            "2026-11-14T15:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5812?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Intolerance",
-          "showtimes": [
-            "2026-11-14T16:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5836?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
-          "showtimes": [
-            "2026-11-14T17:45:00-05:00",
-            "2026-11-15T17:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5813?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Eggeling / Grant / Jacobs & Fleischner",
           "showtimes": [
@@ -56,6 +34,13 @@
             "2026-11-15T16:15:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5838?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
+          "showtimes": [
+            "2026-11-15T17:45:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5816?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "EC: Jerome Hill",
@@ -256,28 +241,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "LES RENDEZ-VOUS D'ANNA",
-          "showtimes": [
-            "2026-11-14T12:20:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31341"
-        },
-        {
-          "title": "THE SOUVENIR",
-          "showtimes": [
-            "2026-11-14T12:35:00-05:00",
-            "2026-11-15T13:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31342"
-        },
-        {
-          "title": "SHUTTER ISLAND",
-          "showtimes": [
-            "2026-11-14T15:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31343"
-        },
-        {
           "title": "SLITHER",
           "showtimes": [
             "2026-11-14T17:45:00-05:00"
@@ -290,20 +253,6 @@
             "2026-11-14T20:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
-        },
-        {
-          "title": "THE KILLING OF A SACRED DEER",
-          "showtimes": [
-            "2026-11-14T20:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348"
-        },
-        {
-          "title": "LOST HIGHWAY",
-          "showtimes": [
-            "2026-11-14T22:35:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31350"
         },
         {
           "title": "THE BROOD",
@@ -325,6 +274,13 @@
             "2026-11-15T13:10:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31353"
+        },
+        {
+          "title": "THE SOUVENIR",
+          "showtimes": [
+            "2026-11-15T13:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31354"
         },
         {
           "title": "SOMEWHERE IN THE NIGHT",
@@ -392,7 +348,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-14T12:45:00-05:00",
             "2026-11-14T15:15:00-05:00",
             "2026-11-14T20:55:00-05:00",
             "2026-11-15T11:05:00-05:00",
@@ -404,7 +359,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-14T12:20:00-05:00",
             "2026-11-14T18:00:00-05:00",
             "2026-11-15T10:55:00-05:00",
             "2026-11-15T16:20:00-05:00",
@@ -422,7 +376,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-14T12:15:00-05:00",
             "2026-11-14T13:30:00-05:00",
             "2026-11-14T15:45:00-05:00",
             "2026-11-14T17:00:00-05:00",
@@ -444,13 +397,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Insider",
-          "showtimes": [
-            "2026-11-14T14:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3203/seats"
-        },
         {
           "title": "La Bola Negra",
           "showtimes": [
