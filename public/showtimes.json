@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T11:47:11-05:00",
+  "lastUpdated": "2026-11-14T14:50:56-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -290,6 +290,13 @@
             "2026-11-14T20:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
+        },
+        {
+          "title": "THE KILLING OF A SACRED DEER",
+          "showtimes": [
+            "2026-11-14T20:10:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348"
         },
         {
           "title": "LOST HIGHWAY",
