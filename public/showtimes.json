@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T07:05:39-05:00",
+  "lastUpdated": "2026-11-14T11:47:11-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -292,13 +292,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
         },
         {
-          "title": "THE KILLING OF A SACRED DEER",
-          "showtimes": [
-            "2026-11-14T20:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348"
-        },
-        {
           "title": "LOST HIGHWAY",
           "showtimes": [
             "2026-11-14T22:35:00-05:00"
@@ -318,13 +311,6 @@
             "2026-11-15T11:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31351"
-        },
-        {
-          "title": "WALLACE & GROMIT: THE CLASSIC SHORTS",
-          "showtimes": [
-            "2026-11-15T11:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31352"
         },
         {
           "title": "BENEDETTA",
@@ -451,13 +437,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Portrait of a Lady on Fire",
-          "showtimes": [
-            "2026-11-14T11:00:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3127/seats"
-        },
         {
           "title": "The Insider",
           "showtimes": [
