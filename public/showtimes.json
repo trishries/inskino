@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T19:09:11-05:00",
+  "lastUpdated": "2026-11-13T21:52:39-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -227,35 +227,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE KILLING OF A SACRED DEER",
-          "showtimes": [
-            "2026-11-13T14:30:00-05:00",
-            "2026-11-14T20:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31335"
-        },
-        {
-          "title": "ZI",
-          "showtimes": [
-            "2026-11-13T14:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31334"
-        },
-        {
-          "title": "IN BED WITH VICTORIA",
-          "showtimes": [
-            "2026-11-13T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31363"
-        },
-        {
-          "title": "CRYSTAL VOYAGER",
-          "showtimes": [
-            "2026-11-13T21:20:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31337"
-        },
-        {
           "title": "DRIVE",
           "showtimes": [
             "2026-11-13T23:15:00-05:00"
@@ -298,6 +269,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
         },
         {
+          "title": "THE KILLING OF A SACRED DEER",
+          "showtimes": [
+            "2026-11-14T20:10:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348"
+        },
+        {
           "title": "LOST HIGHWAY",
           "showtimes": [
             "2026-11-14T22:35:00-05:00"
@@ -319,18 +297,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-13T16:15:00-05:00",
-            "2026-11-14T12:20:00-05:00",
-            "2026-11-14T18:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-13"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-13T16:00:00-05:00",
             "2026-11-13T17:35:00-05:00",
             "2026-11-13T19:30:00-05:00",
             "2026-11-13T21:00:00-05:00",
@@ -349,6 +317,14 @@
             "2026-11-14T12:45:00-05:00",
             "2026-11-14T15:15:00-05:00",
             "2026-11-14T20:55:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-14"
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-11-14T12:20:00-05:00",
+            "2026-11-14T18:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-14"
         },
