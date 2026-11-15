@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T07:40:34-05:00",
+  "lastUpdated": "2026-11-15T12:29:54-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -215,13 +215,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ZI",
-          "showtimes": [
-            "2026-11-15T11:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31351"
-        },
-        {
           "title": "BENEDETTA",
           "showtimes": [
             "2026-11-15T13:10:00-05:00"
@@ -234,13 +227,6 @@
             "2026-11-15T13:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31354"
-        },
-        {
-          "title": "SOMEWHERE IN THE NIGHT",
-          "showtimes": [
-            "2026-11-15T15:40:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31355"
         },
         {
           "title": "LORRAINE O'GRADY: RIVERS, FIRST DRAFT PERFORMANCE",
