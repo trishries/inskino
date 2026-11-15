@@ -1,26 +1,11 @@
 {
-  "lastUpdated": "2026-11-14T17:51:49-05:00",
+  "lastUpdated": "2026-11-14T21:19:46-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Eggeling / Grant / Jacobs & Fleischner",
-          "showtimes": [
-            "2026-11-14T20:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5837?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ZORN III (2018-2022)",
-          "showtimes": [
-            "2026-11-14T20:45:00-05:00",
-            "2026-11-15T20:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5814?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "MAÎTRES ANCIENS – COMÉDIE",
           "showtimes": [
@@ -55,6 +40,13 @@
             "2026-11-15T20:30:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5840?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN III (2018-2022)",
+          "showtimes": [
+            "2026-11-15T20:45:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5817?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -241,20 +233,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "SLITHER",
-          "showtimes": [
-            "2026-11-14T17:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31346"
-        },
-        {
-          "title": "THE STATE OF THINGS",
-          "showtimes": [
-            "2026-11-14T20:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31347"
-        },
-        {
           "title": "THE BROOD",
           "showtimes": [
             "2026-11-14T22:45:00-05:00"
@@ -348,7 +326,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-14T15:15:00-05:00",
             "2026-11-14T20:55:00-05:00",
             "2026-11-15T11:05:00-05:00",
             "2026-11-15T13:45:00-05:00",
@@ -367,18 +344,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-14"
         },
         {
-          "title": "LEAVE HER TO HEAVEN",
-          "showtimes": [
-            "2026-11-14T15:30:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-14"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-14T13:30:00-05:00",
-            "2026-11-14T15:45:00-05:00",
-            "2026-11-14T17:00:00-05:00",
             "2026-11-14T19:15:00-05:00",
             "2026-11-14T20:30:00-05:00",
             "2026-11-15T11:00:00-05:00",
@@ -398,14 +365,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "La Bola Negra",
-          "showtimes": [
-            "2026-11-14T18:15:00-05:00",
-            "2026-11-15T17:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3261/seats"
-        },
-        {
           "title": "To Die For",
           "showtimes": [
             "2026-11-14T21:50:00-05:00"
@@ -418,6 +377,13 @@
             "2026-11-15T14:00:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3128/seats"
+        },
+        {
+          "title": "La Bola Negra",
+          "showtimes": [
+            "2026-11-15T17:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3262/seats"
         },
         {
           "title": "Network",
