@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-11-15T15:16:01-05:00",
+  "lastUpdated": "2026-11-15T18:18:40-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Une Simple Histoire",
-          "showtimes": [
-            "2026-11-15T16:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5838?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
-          "showtimes": [
-            "2026-11-15T17:45:00-05:00",
-            "2026-11-16T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5816?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "EC: Jerome Hill",
-          "showtimes": [
-            "2026-11-15T18:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5839?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Hugo / Jacobs / Levitt / Maas",
           "showtimes": [
@@ -42,6 +20,13 @@
             "2026-11-16T21:15:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5817?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
+          "showtimes": [
+            "2026-11-16T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5818?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -208,13 +193,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "LORRAINE O'GRADY: RIVERS, FIRST DRAFT PERFORMANCE",
-          "showtimes": [
-            "2026-11-15T15:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31362"
-        },
-        {
           "title": "THE WOMAN ON THE BEACH",
           "showtimes": [
             "2026-11-15T18:00:00-05:00"
@@ -329,7 +307,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-15T13:45:00-05:00",
             "2026-11-15T19:15:00-05:00",
             "2026-11-16T12:50:00-05:00",
             "2026-11-16T15:45:00-05:00"
@@ -350,7 +327,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-15T12:00:00-05:00",
             "2026-11-15T14:30:00-05:00",
             "2026-11-15T15:30:00-05:00",
             "2026-11-15T18:00:00-05:00",
@@ -370,13 +346,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "La Bola Negra",
-          "showtimes": [
-            "2026-11-15T17:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3262/seats"
-        },
         {
           "title": "Network",
           "showtimes": [
