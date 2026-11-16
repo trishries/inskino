@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T18:18:40-05:00",
+  "lastUpdated": "2026-11-15T21:31:48-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -7,26 +7,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "EC: Hugo / Jacobs / Levitt / Maas",
-          "showtimes": [
-            "2026-11-15T20:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5840?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ZORN III (2018-2022)",
-          "showtimes": [
-            "2026-11-15T20:45:00-05:00",
-            "2026-11-16T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5817?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
           "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
           "showtimes": [
             "2026-11-16T18:30:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5818?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN III (2018-2022)",
+          "showtimes": [
+            "2026-11-16T21:15:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5819?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -193,32 +185,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE WOMAN ON THE BEACH",
-          "showtimes": [
-            "2026-11-15T18:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31356"
-        },
-        {
-          "title": "THE COCKPIT",
-          "showtimes": [
-            "2026-11-15T18:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31361"
-        },
-        {
           "title": "THE CELEBRATION",
           "showtimes": [
             "2026-11-15T19:40:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31357"
-        },
-        {
-          "title": "DETOUR",
-          "showtimes": [
-            "2026-11-15T20:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31360"
         },
         {
           "title": "TENEBRAE",
@@ -316,7 +287,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-15T16:20:00-05:00",
             "2026-11-15T18:45:00-05:00",
             "2026-11-16T12:45:00-05:00",
             "2026-11-16T16:20:00-05:00",
@@ -327,8 +297,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-15T14:30:00-05:00",
-            "2026-11-15T15:30:00-05:00",
             "2026-11-15T18:00:00-05:00",
             "2026-11-15T19:00:00-05:00",
             "2026-11-16T12:55:00-05:00",
