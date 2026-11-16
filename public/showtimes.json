@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T08:33:18-05:00",
+  "lastUpdated": "2026-11-16T15:44:24-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -188,20 +188,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "RUSHMORE",
-          "showtimes": [
-            "2026-11-16T14:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31444"
-        },
-        {
-          "title": "NEWS FROM HOME",
-          "showtimes": [
-            "2026-11-16T14:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31443"
-        },
-        {
           "title": "THE FLAVOR OF GREEN TEA OVER RICE",
           "showtimes": [
             "2026-11-16T16:10:00-05:00"
@@ -309,21 +295,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "Dog Day Afternoon",
-          "showtimes": [
-            "2026-11-16T11:15:00-05:00",
-            "2026-11-17T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3264/seats"
-        },
-        {
-          "title": "Network",
-          "showtimes": [
-            "2026-11-16T14:15:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3192/seats"
-        },
-        {
           "title": "The Altruists + The Imitation Game",
           "showtimes": [
             "2026-11-16T19:00:00-05:00"
@@ -343,6 +314,13 @@
             "2026-11-17T15:30:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3198/seats"
+        },
+        {
+          "title": "Dog Day Afternoon",
+          "showtimes": [
+            "2026-11-17T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3266/seats"
         },
         {
           "title": "Broadcast News",
