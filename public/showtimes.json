@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T09:17:54-05:00",
+  "lastUpdated": "2026-11-17T14:29:04-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -233,14 +233,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "In Cold Blood",
-          "showtimes": [
-            "2026-11-17T12:15:00-05:00",
-            "2026-11-18T22:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3265/seats"
-        },
-        {
           "title": "To Die For",
           "showtimes": [
             "2026-11-17T15:30:00-05:00"
@@ -275,6 +267,13 @@
             "2026-11-18T19:00:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3196/seats"
+        },
+        {
+          "title": "In Cold Blood",
+          "showtimes": [
+            "2026-11-18T22:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3268/seats"
         }
       ]
     },
