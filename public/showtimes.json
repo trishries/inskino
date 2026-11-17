@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-16T18:41:36-05:00",
+  "lastUpdated": "2026-11-16T21:17:59-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "ZORN III (2018-2022)",
-          "showtimes": [
-            "2026-11-16T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5819?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "DEVO: RESTORATIONS AND REVELATIONS",
           "showtimes": [
@@ -181,27 +174,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "HONEYCOMB",
-          "showtimes": [
-            "2026-11-16T18:25:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31451"
-        },
-        {
-          "title": "NIGHT ON EARTH",
-          "showtimes": [
-            "2026-11-16T19:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31446"
-        },
-        {
-          "title": "TETSUO: THE IRON MAN",
-          "showtimes": [
-            "2026-11-16T20:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31450"
-        },
-        {
           "title": "ROSEMARY'S BABY",
           "showtimes": [
             "2026-11-16T21:50:00-05:00"
@@ -225,7 +197,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-16T16:20:00-05:00",
             "2026-11-16T19:15:00-05:00",
             "2026-11-17T13:15:00-05:00",
             "2026-11-17T16:15:00-05:00",
@@ -236,7 +207,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-16T15:30:00-05:00",
             "2026-11-16T18:00:00-05:00",
             "2026-11-16T19:00:00-05:00",
             "2026-11-17T13:00:00-05:00",
@@ -268,13 +238,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Altruists + The Imitation Game",
-          "showtimes": [
-            "2026-11-16T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3184/seats"
-        },
         {
           "title": "In Cold Blood",
           "showtimes": [
