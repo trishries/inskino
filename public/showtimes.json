@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T21:17:59-05:00",
+  "lastUpdated": "2026-11-16T23:55:43-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -195,28 +195,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-16T19:15:00-05:00",
-            "2026-11-17T13:15:00-05:00",
-            "2026-11-17T16:15:00-05:00",
-            "2026-11-17T19:15:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-16"
-        },
-        {
-          "title": "YOU CAN SEE EVERYTHING",
-          "showtimes": [
-            "2026-11-16T18:00:00-05:00",
-            "2026-11-16T19:00:00-05:00",
-            "2026-11-17T13:00:00-05:00",
-            "2026-11-17T14:30:00-05:00",
-            "2026-11-17T16:00:00-05:00",
-            "2026-11-17T19:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-16"
-        },
-        {
           "title": "BODY HEAT",
           "showtimes": [
             "2026-11-17T19:30:00-05:00"
@@ -228,6 +206,25 @@
           "showtimes": [
             "2026-11-17T13:20:00-05:00",
             "2026-11-17T16:20:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-17"
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-11-17T13:15:00-05:00",
+            "2026-11-17T16:15:00-05:00",
+            "2026-11-17T19:15:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-17"
+        },
+        {
+          "title": "YOU CAN SEE EVERYTHING",
+          "showtimes": [
+            "2026-11-17T13:00:00-05:00",
+            "2026-11-17T14:30:00-05:00",
+            "2026-11-17T16:00:00-05:00",
+            "2026-11-17T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-17"
         }
