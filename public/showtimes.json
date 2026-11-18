@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T08:52:11-05:00",
+  "lastUpdated": "2026-11-18T14:11:05-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -12,13 +12,6 @@
             "2026-11-18T19:15:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5821?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CINEMATIC CORRESPONDENCES: THERESA HAK KYUNG CHA A",
-          "showtimes": [
-            "2026-11-19T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5822?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -234,13 +227,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Nightcrawler",
-          "showtimes": [
-            "2026-11-18T11:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3195/seats"
-        },
         {
           "title": "Broadcast News",
           "showtimes": [
