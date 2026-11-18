@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T20:28:56-05:00",
+  "lastUpdated": "2026-11-17T22:59:47-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -219,19 +219,18 @@
       "status": "ok",
       "films": [
         {
-          "title": "Broadcast News",
-          "showtimes": [
-            "2026-11-17T21:30:00-05:00",
-            "2026-11-18T14:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3204/seats"
-        },
-        {
           "title": "Nightcrawler",
           "showtimes": [
             "2026-11-18T11:30:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3195/seats"
+        },
+        {
+          "title": "Broadcast News",
+          "showtimes": [
+            "2026-11-18T14:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3267/seats"
         },
         {
           "title": "Ink",
