@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T14:15:40-05:00",
+  "lastUpdated": "2026-11-19T17:37:51-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -12,6 +12,13 @@
             "2026-11-20T18:30:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5869?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "NO FOOD NO MONEY NO JEWELS + NOTES FROM THE INTERZ",
+          "showtimes": [
+            "2026-11-20T19:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5823?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         },
         {
           "title": "MAX TURNHEIM",
@@ -332,7 +339,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-19T13:20:00-05:00",
             "2026-11-19T16:20:00-05:00",
             "2026-11-20T13:00:00-05:00",
             "2026-11-20T15:40:00-05:00",
@@ -343,7 +349,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-19T13:15:00-05:00",
             "2026-11-19T16:15:00-05:00",
             "2026-11-19T19:15:00-05:00",
             "2026-11-20T12:45:00-05:00",
