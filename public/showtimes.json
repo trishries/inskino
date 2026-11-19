@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-11-18T17:31:44-05:00",
+  "lastUpdated": "2026-11-18T19:57:27-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "ok",
-      "films": [
-        {
-          "title": "Lost & Found: OCA",
-          "showtimes": [
-            "2026-11-18T19:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5821?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        }
-      ]
+      "status": "empty",
+      "films": []
     },
     {
       "name": "IFC Center",
@@ -184,15 +176,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-18"
         },
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-18T15:20:00-05:00",
-            "2026-11-19T13:20:00-05:00",
-            "2026-11-19T16:20:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-18"
-        },
-        {
           "title": "FJORD",
           "showtimes": [
             "2026-11-18T16:30:00-05:00",
@@ -206,7 +189,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-18T14:30:00-05:00",
             "2026-11-18T15:30:00-05:00",
             "2026-11-18T18:00:00-05:00",
             "2026-11-18T19:00:00-05:00",
@@ -216,6 +198,14 @@
             "2026-11-19T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-18"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-19T13:20:00-05:00",
+            "2026-11-19T16:20:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-19"
         }
       ]
     },
@@ -224,13 +214,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Ink",
-          "showtimes": [
-            "2026-11-18T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3196/seats"
-        },
         {
           "title": "In Cold Blood",
           "showtimes": [
