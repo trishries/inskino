@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T08:24:36-05:00",
+  "lastUpdated": "2026-11-21T12:49:28-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -346,14 +346,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THAT DAY, ON THE BEACH",
-          "showtimes": [
-            "2026-11-21T12:00:00-05:00",
-            "2026-11-22T15:20:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31373"
-        },
-        {
           "title": "OTHER PEOPLE'S CHILDREN",
           "showtimes": [
             "2026-11-21T13:00:00-05:00"
@@ -374,6 +366,28 @@
             "2026-11-21T15:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31382"
+        },
+        {
+          "title": "ACE PRESENTS: GHOST WORLD",
+          "showtimes": [
+            "2026-11-21T17:10:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31381"
+        },
+        {
+          "title": "SECRETS & LIES",
+          "showtimes": [
+            "2026-11-21T17:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31376"
+        },
+        {
+          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "showtimes": [
+            "2026-11-21T20:00:00-05:00",
+            "2026-11-22T13:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31380"
         },
         {
           "title": "THE ASCENT",
@@ -405,13 +419,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31384"
         },
         {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
-          "showtimes": [
-            "2026-11-22T13:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31388"
-        },
-        {
           "title": "GUNVOR NELSON PROGRAM 2",
           "showtimes": [
             "2026-11-22T13:15:00-05:00"
@@ -424,6 +431,13 @@
             "2026-11-22T15:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31386"
+        },
+        {
+          "title": "THAT DAY, ON THE BEACH",
+          "showtimes": [
+            "2026-11-22T15:20:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31387"
         },
         {
           "title": "EMPEROR OF THE NORTH",
