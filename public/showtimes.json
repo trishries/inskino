@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-21T12:49:28-05:00",
+  "lastUpdated": "2026-11-21T15:51:03-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Tom, Tom, the Piper's Son",
-          "showtimes": [
-            "2026-11-21T15:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5841?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
           "showtimes": [
@@ -346,33 +339,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "OTHER PEOPLE'S CHILDREN",
-          "showtimes": [
-            "2026-11-21T13:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31374"
-        },
-        {
-          "title": "SIBYL",
-          "showtimes": [
-            "2026-11-21T15:10:00-05:00",
-            "2026-11-22T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31375"
-        },
-        {
           "title": "GUNVOR NELSON PROGRAM 1",
           "showtimes": [
             "2026-11-21T15:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31382"
-        },
-        {
-          "title": "ACE PRESENTS: GHOST WORLD",
-          "showtimes": [
-            "2026-11-21T17:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31381"
         },
         {
           "title": "SECRETS & LIES",
@@ -452,6 +423,13 @@
             "2026-11-22T18:35:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31389"
+        },
+        {
+          "title": "SIBYL",
+          "showtimes": [
+            "2026-11-22T19:30:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31392"
         },
         {
           "title": "SOMEWHERE IN THE NIGHT",
