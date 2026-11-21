@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T19:36:54-05:00",
+  "lastUpdated": "2026-11-20T22:42:53-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -291,19 +291,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE STATE OF THINGS",
+          "title": "DRIVE",
           "showtimes": [
-            "2026-11-20T20:35:00-05:00"
+            "2026-11-20T23:00:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31367"
-        },
-        {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
-          "showtimes": [
-            "2026-11-20T20:45:00-05:00",
-            "2026-11-21T20:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31370"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31368"
         },
         {
           "title": "SUSPIRIA [4K DCP]",
@@ -339,6 +331,13 @@
             "2026-11-21T15:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31382"
+        },
+        {
+          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "showtimes": [
+            "2026-11-21T20:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31380"
         },
         {
           "title": "THE ASCENT",
@@ -380,7 +379,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-20T18:20:00-05:00",
             "2026-11-20T21:15:00-05:00",
             "2026-11-21T12:50:00-05:00",
             "2026-11-21T18:20:00-05:00",
@@ -389,20 +387,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-20"
         },
         {
-          "title": "STEPS",
-          "showtimes": [
-            "2026-11-20T18:10:00-05:00",
-            "2026-11-21T12:20:00-05:00",
-            "2026-11-21T15:45:00-05:00",
-            "2026-11-21T21:30:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-20"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-20T16:00:00-05:00",
-            "2026-11-20T18:00:00-05:00",
             "2026-11-20T19:30:00-05:00",
             "2026-11-20T20:45:00-05:00",
             "2026-11-21T12:30:00-05:00",
@@ -420,6 +406,15 @@
             "2026-11-21T15:30:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-21"
+        },
+        {
+          "title": "STEPS",
+          "showtimes": [
+            "2026-11-21T12:20:00-05:00",
+            "2026-11-21T15:45:00-05:00",
+            "2026-11-21T21:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-21"
         }
       ]
     },
@@ -428,13 +423,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Rollerball",
-          "showtimes": [
-            "2026-11-20T21:45:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3279/seats"
-        },
         {
           "title": "Once Upon a Time in... Hollywood",
           "showtimes": [
