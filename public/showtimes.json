@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-21T15:51:03-05:00",
+  "lastUpdated": "2026-11-21T18:41:54-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
-          "showtimes": [
-            "2026-11-21T17:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5824?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "FILM NO. 5 (SMILE)",
-          "showtimes": [
-            "2026-11-21T18:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5871?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "BARBARA",
           "showtimes": [
@@ -339,28 +325,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "GUNVOR NELSON PROGRAM 1",
-          "showtimes": [
-            "2026-11-21T15:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31382"
-        },
-        {
-          "title": "SECRETS & LIES",
-          "showtimes": [
-            "2026-11-21T17:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31376"
-        },
-        {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
-          "showtimes": [
-            "2026-11-21T20:00:00-05:00",
-            "2026-11-22T13:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31380"
-        },
-        {
           "title": "THE ASCENT",
           "showtimes": [
             "2026-11-21T20:00:00-05:00"
@@ -388,6 +352,13 @@
             "2026-11-22T11:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31384"
+        },
+        {
+          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "showtimes": [
+            "2026-11-22T13:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31388"
         },
         {
           "title": "GUNVOR NELSON PROGRAM 2",
@@ -418,13 +389,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31393"
         },
         {
-          "title": "MEMENTO",
-          "showtimes": [
-            "2026-11-22T18:35:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31389"
-        },
-        {
           "title": "SIBYL",
           "showtimes": [
             "2026-11-22T19:30:00-05:00"
@@ -446,16 +410,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "BODY HEAT",
-          "showtimes": [
-            "2026-11-21T15:30:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-21"
-        },
-        {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-21T12:40:00-05:00",
             "2026-11-21T18:15:00-05:00",
             "2026-11-22T12:50:00-05:00",
             "2026-11-22T16:55:00-05:00"
@@ -465,7 +421,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-21T12:50:00-05:00",
             "2026-11-21T18:20:00-05:00",
             "2026-11-21T21:15:00-05:00",
             "2026-11-22T13:15:00-05:00",
@@ -477,8 +432,6 @@
         {
           "title": "STEPS",
           "showtimes": [
-            "2026-11-21T12:20:00-05:00",
-            "2026-11-21T15:45:00-05:00",
             "2026-11-21T21:30:00-05:00",
             "2026-11-22T13:00:00-05:00",
             "2026-11-22T15:25:00-05:00",
@@ -489,8 +442,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-21T12:30:00-05:00",
-            "2026-11-21T14:45:00-05:00",
             "2026-11-21T16:00:00-05:00",
             "2026-11-21T18:00:00-05:00",
             "2026-11-21T19:30:00-05:00",
@@ -509,13 +460,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Once Upon a Time in... Hollywood",
-          "showtimes": [
-            "2026-11-21T18:00:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3280/seats"
-        },
         {
           "title": "Looking for Mr. Goodbar",
           "showtimes": [
