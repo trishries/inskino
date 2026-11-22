@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-21T18:41:54-05:00",
+  "lastUpdated": "2026-11-21T21:46:59-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "BARBARA",
-          "showtimes": [
-            "2026-11-21T19:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5825?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "SCREEN TESTS + SCREEN TESTS REVISITED, PGM 1",
-          "showtimes": [
-            "2026-11-21T20:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5872?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "EC: Lawrence Jordan",
           "showtimes": [
@@ -325,13 +311,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE ASCENT",
-          "showtimes": [
-            "2026-11-21T20:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31377"
-        },
-        {
           "title": "BENEDETTA",
           "showtimes": [
             "2026-11-21T22:15:00-05:00"
@@ -442,7 +421,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-21T16:00:00-05:00",
             "2026-11-21T18:00:00-05:00",
             "2026-11-21T19:30:00-05:00",
             "2026-11-21T21:00:00-05:00",
