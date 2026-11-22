@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-22T15:58:42-05:00",
+  "lastUpdated": "2026-11-22T18:58:46-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "SCREEN TESTS + SCREEN TESTS REVISITED, PGM 2",
-          "showtimes": [
-            "2026-11-22T17:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5873?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "ZORN III (2018-2022)",
-          "showtimes": [
-            "2026-11-22T17:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5826?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "PORTRAIT COLLECTIONS",
           "showtimes": [
@@ -305,26 +291,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "GUNVOR NELSON PROGRAM 3",
+          "title": "MEMENTO",
           "showtimes": [
-            "2026-11-22T15:15:00-05:00"
+            "2026-11-22T18:35:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31386"
-        },
-        {
-          "title": "THAT DAY, ON THE BEACH",
-          "showtimes": [
-            "2026-11-22T15:20:00-05:00",
-            "2026-11-23T18:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31387"
-        },
-        {
-          "title": "EMPEROR OF THE NORTH",
-          "showtimes": [
-            "2026-11-22T17:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31393"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31389"
         },
         {
           "title": "A CLOCKWORK ORANGE",
@@ -353,6 +324,13 @@
             "2026-11-23T16:10:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31487"
+        },
+        {
+          "title": "THAT DAY, ON THE BEACH",
+          "showtimes": [
+            "2026-11-23T18:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31491"
         },
         {
           "title": "SAD VACATION",
@@ -385,7 +363,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-22T12:50:00-05:00",
             "2026-11-22T16:55:00-05:00",
             "2026-11-23T13:15:00-05:00",
             "2026-11-23T17:00:00-05:00"
@@ -395,7 +372,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-22T13:15:00-05:00",
             "2026-11-22T16:15:00-05:00",
             "2026-11-22T19:15:00-05:00",
             "2026-11-23T12:55:00-05:00",
@@ -407,8 +383,6 @@
         {
           "title": "STEPS",
           "showtimes": [
-            "2026-11-22T13:00:00-05:00",
-            "2026-11-22T15:25:00-05:00",
             "2026-11-22T19:30:00-05:00",
             "2026-11-23T13:00:00-05:00",
             "2026-11-23T15:25:00-05:00",
@@ -419,7 +393,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-22T13:30:00-05:00",
             "2026-11-22T15:30:00-05:00",
             "2026-11-22T18:00:00-05:00",
             "2026-11-22T19:00:00-05:00",
@@ -443,13 +416,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Black Caesar",
-          "showtimes": [
-            "2026-11-22T15:50:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3284/seats"
-        },
         {
           "title": "Butch Cassidy and the Sundance Kid",
           "showtimes": [
