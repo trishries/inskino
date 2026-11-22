@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T08:15:56-05:00",
+  "lastUpdated": "2026-11-22T13:08:31-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -312,13 +312,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE RESCUERS",
-          "showtimes": [
-            "2026-11-22T11:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31384"
-        },
-        {
           "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
           "showtimes": [
             "2026-11-22T13:00:00-05:00",
@@ -472,13 +465,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Which Way Is Up?",
-          "showtimes": [
-            "2026-11-22T10:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3282/seats"
-        },
         {
           "title": "The Bad News Bears",
           "showtimes": [
