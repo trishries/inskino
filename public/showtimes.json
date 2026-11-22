@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-22T13:08:31-05:00",
+  "lastUpdated": "2026-11-22T15:58:42-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "EC: Lawrence Jordan",
-          "showtimes": [
-            "2026-11-22T14:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5842?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "SCREEN TESTS + SCREEN TESTS REVISITED, PGM 2",
           "showtimes": [
@@ -312,21 +305,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
-          "showtimes": [
-            "2026-11-22T13:00:00-05:00",
-            "2026-11-23T16:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31388"
-        },
-        {
-          "title": "GUNVOR NELSON PROGRAM 2",
-          "showtimes": [
-            "2026-11-22T13:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31385"
-        },
-        {
           "title": "GUNVOR NELSON PROGRAM 3",
           "showtimes": [
             "2026-11-22T15:15:00-05:00"
@@ -349,13 +327,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31393"
         },
         {
-          "title": "SIBYL",
-          "showtimes": [
-            "2026-11-22T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31392"
-        },
-        {
           "title": "A CLOCKWORK ORANGE",
           "showtimes": [
             "2026-11-22T21:00:00-05:00"
@@ -368,6 +339,13 @@
             "2026-11-22T21:35:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31391"
+        },
+        {
+          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "showtimes": [
+            "2026-11-23T16:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31486"
         },
         {
           "title": "SPELLBOUND",
@@ -465,13 +443,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "The Bad News Bears",
-          "showtimes": [
-            "2026-11-22T13:05:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3283/seats"
-        },
         {
           "title": "Black Caesar",
           "showtimes": [
