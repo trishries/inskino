@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-22T18:58:46-05:00",
+  "lastUpdated": "2026-11-22T22:27:06-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "PORTRAIT COLLECTIONS",
-          "showtimes": [
-            "2026-11-22T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5874?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MAÎTRES ANCIENS – COMÉDIE",
-          "showtimes": [
-            "2026-11-22T19:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5827?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "PORTRAIT STUDIES",
           "showtimes": [
@@ -291,13 +277,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "MEMENTO",
-          "showtimes": [
-            "2026-11-22T18:35:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31389"
-        },
-        {
           "title": "A CLOCKWORK ORANGE",
           "showtimes": [
             "2026-11-22T21:00:00-05:00"
@@ -361,40 +340,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-22T16:55:00-05:00",
-            "2026-11-23T13:15:00-05:00",
-            "2026-11-23T17:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-22"
-        },
-        {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-22T16:15:00-05:00",
-            "2026-11-22T19:15:00-05:00",
-            "2026-11-23T12:55:00-05:00",
-            "2026-11-23T15:55:00-05:00",
-            "2026-11-23T19:15:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-22"
-        },
-        {
-          "title": "STEPS",
-          "showtimes": [
-            "2026-11-22T19:30:00-05:00",
-            "2026-11-23T13:00:00-05:00",
-            "2026-11-23T15:25:00-05:00",
-            "2026-11-23T19:35:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-22"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-22T15:30:00-05:00",
-            "2026-11-22T18:00:00-05:00",
             "2026-11-22T19:00:00-05:00",
             "2026-11-23T13:30:00-05:00",
             "2026-11-23T16:00:00-05:00",
@@ -408,6 +355,32 @@
             "2026-11-23T19:30:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-23T13:15:00-05:00",
+            "2026-11-23T17:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-11-23T12:55:00-05:00",
+            "2026-11-23T15:55:00-05:00",
+            "2026-11-23T19:15:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
+        },
+        {
+          "title": "STEPS",
+          "showtimes": [
+            "2026-11-23T13:00:00-05:00",
+            "2026-11-23T15:25:00-05:00",
+            "2026-11-23T19:35:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
         }
       ]
     },
@@ -416,20 +389,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Butch Cassidy and the Sundance Kid",
-          "showtimes": [
-            "2026-11-22T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3285/seats"
-        },
-        {
-          "title": "Black Sunday",
-          "showtimes": [
-            "2026-11-22T21:40:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3286/seats"
-        },
         {
           "title": "La Bola Negra",
           "showtimes": [
