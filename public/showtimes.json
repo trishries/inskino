@@ -1,18 +1,11 @@
 {
-  "lastUpdated": "2026-11-24T15:56:19-05:00",
+  "lastUpdated": "2026-11-24T18:49:49-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "DYNAMIC PORTRAITS",
-          "showtimes": [
-            "2026-11-24T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5877?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
           "showtimes": [
@@ -282,20 +275,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "ASAKO I & II",
-          "showtimes": [
-            "2026-11-24T16:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31492"
-        },
-        {
-          "title": "THE WOMAN IN THE WINDOW",
-          "showtimes": [
-            "2026-11-24T16:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31498"
-        },
-        {
           "title": "THE WOMAN ON THE BEACH",
           "showtimes": [
             "2026-11-24T18:10:00-05:00"
@@ -391,7 +370,6 @@
         {
           "title": "DIGGER",
           "showtimes": [
-            "2026-11-24T13:15:00-05:00",
             "2026-11-24T17:00:00-05:00",
             "2026-11-25T13:15:00-05:00",
             "2026-11-25T17:00:00-05:00"
@@ -401,7 +379,6 @@
         {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-24T12:55:00-05:00",
             "2026-11-24T15:55:00-05:00",
             "2026-11-25T12:55:00-05:00",
             "2026-11-25T15:55:00-05:00"
@@ -411,8 +388,6 @@
         {
           "title": "STEPS",
           "showtimes": [
-            "2026-11-24T13:00:00-05:00",
-            "2026-11-24T15:25:00-05:00",
             "2026-11-24T19:35:00-05:00",
             "2026-11-25T13:00:00-05:00",
             "2026-11-25T15:25:00-05:00",
@@ -423,7 +398,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-24T13:30:00-05:00",
             "2026-11-24T16:00:00-05:00",
             "2026-11-24T18:00:00-05:00",
             "2026-11-24T19:00:00-05:00",
