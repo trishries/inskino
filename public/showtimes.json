@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T10:47:56-05:00",
+  "lastUpdated": "2026-11-24T15:56:19-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -311,14 +311,6 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31493"
         },
         {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
-          "showtimes": [
-            "2026-11-24T19:45:00-05:00",
-            "2026-11-25T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31496"
-        },
-        {
           "title": "DRIVE",
           "showtimes": [
             "2026-11-24T21:45:00-05:00"
@@ -359,6 +351,13 @@
             "2026-11-25T17:30:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31501"
+        },
+        {
+          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "showtimes": [
+            "2026-11-25T19:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31505"
         },
         {
           "title": "THE HOUSEMAID",
