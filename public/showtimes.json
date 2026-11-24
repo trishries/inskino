@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T21:05:31-05:00",
+  "lastUpdated": "2026-11-23T23:10:30-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -275,35 +275,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THAT DAY, ON THE BEACH",
-          "showtimes": [
-            "2026-11-23T18:15:00-05:00",
-            "2026-11-24T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31491"
-        },
-        {
-          "title": "SAD VACATION",
-          "showtimes": [
-            "2026-11-23T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31488"
-        },
-        {
-          "title": "LOST HIGHWAY",
-          "showtimes": [
-            "2026-11-23T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31489"
-        },
-        {
-          "title": "CRÍA CUERVOS",
-          "showtimes": [
-            "2026-11-23T21:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31490"
-        },
-        {
           "title": "ASAKO I & II",
           "showtimes": [
             "2026-11-24T16:00:00-05:00"
@@ -323,6 +294,13 @@
             "2026-11-24T18:10:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31497"
+        },
+        {
+          "title": "THAT DAY, ON THE BEACH",
+          "showtimes": [
+            "2026-11-24T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31493"
         },
         {
           "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
@@ -353,33 +331,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "BASIC INSTINCT",
-          "showtimes": [
-            "2026-11-23T19:30:00-05:00",
-            "2026-11-24T19:30:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
-        },
-        {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-23T19:15:00-05:00",
-            "2026-11-24T12:55:00-05:00",
-            "2026-11-24T15:55:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
-        },
-        {
-          "title": "STEPS",
-          "showtimes": [
-            "2026-11-23T19:35:00-05:00",
-            "2026-11-24T13:00:00-05:00",
-            "2026-11-24T15:25:00-05:00",
-            "2026-11-24T19:35:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
-        },
-        {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
             "2026-11-23T19:00:00-05:00",
@@ -391,10 +342,34 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
         },
         {
+          "title": "BASIC INSTINCT",
+          "showtimes": [
+            "2026-11-24T19:30:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
+        },
+        {
           "title": "DIGGER",
           "showtimes": [
             "2026-11-24T13:15:00-05:00",
             "2026-11-24T17:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-11-24T12:55:00-05:00",
+            "2026-11-24T15:55:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
+        },
+        {
+          "title": "STEPS",
+          "showtimes": [
+            "2026-11-24T13:00:00-05:00",
+            "2026-11-24T15:25:00-05:00",
+            "2026-11-24T19:35:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         }
@@ -405,13 +380,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Blade Runner: The Final Cut",
-          "showtimes": [
-            "2026-11-23T21:55:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3291/seats"
-        },
         {
           "title": "Possible Love",
           "showtimes": [
