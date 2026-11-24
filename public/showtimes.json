@@ -1,39 +1,11 @@
 {
-  "lastUpdated": "2026-11-23T17:18:45-05:00",
+  "lastUpdated": "2026-11-23T21:05:31-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "PORTRAIT STUDIES",
-          "showtimes": [
-            "2026-11-23T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5875?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "HOLD ME TIGHT",
-          "showtimes": [
-            "2026-11-23T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5828?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "CINÉMATON PGM 1",
-          "showtimes": [
-            "2026-11-23T20:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5876?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "BARBARA",
-          "showtimes": [
-            "2026-11-23T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5829?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "DYNAMIC PORTRAITS",
           "showtimes": [
@@ -137,6 +109,7 @@
           "showtimes": [
             "2026-11-23T13:40:00-05:00",
             "2026-11-23T17:35:00-05:00",
+            "2026-11-24T11:00:00-05:00",
             "2026-11-24T13:00:00-05:00",
             "2026-11-24T17:35:00-05:00"
           ],
@@ -302,21 +275,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
-          "showtimes": [
-            "2026-11-23T16:00:00-05:00",
-            "2026-11-24T19:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31486"
-        },
-        {
-          "title": "SPELLBOUND",
-          "showtimes": [
-            "2026-11-23T16:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31487"
-        },
-        {
           "title": "THAT DAY, ON THE BEACH",
           "showtimes": [
             "2026-11-23T18:15:00-05:00",
@@ -367,6 +325,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31497"
         },
         {
+          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "showtimes": [
+            "2026-11-24T19:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31496"
+        },
+        {
           "title": "DRIVE",
           "showtimes": [
             "2026-11-24T21:45:00-05:00"
@@ -396,18 +361,8 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
         },
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-23T17:00:00-05:00",
-            "2026-11-24T13:15:00-05:00",
-            "2026-11-24T17:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
-        },
-        {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-23T15:55:00-05:00",
             "2026-11-23T19:15:00-05:00",
             "2026-11-24T12:55:00-05:00",
             "2026-11-24T15:55:00-05:00"
@@ -417,7 +372,6 @@
         {
           "title": "STEPS",
           "showtimes": [
-            "2026-11-23T15:25:00-05:00",
             "2026-11-23T19:35:00-05:00",
             "2026-11-24T13:00:00-05:00",
             "2026-11-24T15:25:00-05:00",
@@ -428,8 +382,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-23T13:30:00-05:00",
-            "2026-11-23T16:00:00-05:00",
             "2026-11-23T19:00:00-05:00",
             "2026-11-24T13:30:00-05:00",
             "2026-11-24T16:00:00-05:00",
@@ -437,6 +389,14 @@
             "2026-11-24T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-24T13:15:00-05:00",
+            "2026-11-24T17:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         }
       ]
     },
@@ -445,13 +405,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Burning",
-          "showtimes": [
-            "2026-11-23T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3048/seats"
-        },
         {
           "title": "Blade Runner: The Final Cut",
           "showtimes": [
