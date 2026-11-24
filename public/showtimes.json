@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T23:10:30-05:00",
+  "lastUpdated": "2026-11-24T01:41:53-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -26,6 +26,34 @@
             "2026-11-24T20:30:00-05:00"
           ],
           "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5878?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "FAMILY PORTRAITS",
+          "showtimes": [
+            "2026-11-25T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5879?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "ZORN III (2018-2022)",
+          "showtimes": [
+            "2026-11-25T18:45:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5831?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "SELF-PORTRAITS",
+          "showtimes": [
+            "2026-11-25T20:30:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5880?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
+        },
+        {
+          "title": "MUSIC IS MUSIC + BEFORE IT’S TOO LATE",
+          "showtimes": [
+            "2026-11-25T21:00:00-05:00"
+          ],
+          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5832?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
         }
       ]
     },
@@ -35,116 +63,10 @@
       "status": "ok",
       "films": [
         {
-          "title": "BEST PANCAKES IN THE COUNTY (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-11-23T21:50:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589969~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE DEVILS",
-          "showtimes": [
-            "2026-11-23T11:05:00-05:00",
-            "2026-11-23T15:50:00-05:00",
-            "2026-11-23T21:05:00-05:00",
-            "2026-11-24T11:05:00-05:00",
-            "2026-11-24T15:50:00-05:00",
-            "2026-11-24T21:00:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589957~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE HISTORY OF CONCRETE",
-          "showtimes": [
-            "2026-11-23T10:40:00-05:00",
-            "2026-11-23T12:30:00-05:00",
-            "2026-11-23T17:45:00-05:00",
-            "2026-11-23T21:15:00-05:00",
-            "2026-11-24T10:40:00-05:00",
-            "2026-11-24T17:45:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=590645~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "THE HOST",
-          "showtimes": [
-            "2026-11-23T12:55:00-05:00",
-            "2026-11-23T15:35:00-05:00",
-            "2026-11-23T18:20:00-05:00",
-            "2026-11-24T12:55:00-05:00",
-            "2026-11-24T15:35:00-05:00",
-            "2026-11-24T18:30:00-05:00",
-            "2026-11-24T21:25:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589962~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "JOSEPHINE",
-          "showtimes": [
-            "2026-11-23T10:35:00-05:00",
-            "2026-11-23T13:10:00-05:00",
-            "2026-11-23T14:50:00-05:00",
-            "2026-11-23T15:35:00-05:00",
-            "2026-11-23T18:50:00-05:00",
-            "2026-11-23T21:40:00-05:00",
-            "2026-11-24T10:35:00-05:00",
-            "2026-11-24T13:10:00-05:00",
-            "2026-11-24T14:50:00-05:00",
-            "2026-11-24T16:00:00-05:00",
-            "2026-11-24T18:50:00-05:00",
-            "2026-11-24T20:25:00-05:00",
-            "2026-11-24T21:40:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589951~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "MOUSE (OPEN CAPTIONING)",
-          "showtimes": [
-            "2026-11-23T15:15:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589966~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "NAZA",
-          "showtimes": [
-            "2026-11-23T13:40:00-05:00",
-            "2026-11-23T17:35:00-05:00",
-            "2026-11-24T11:00:00-05:00",
-            "2026-11-24T13:00:00-05:00",
-            "2026-11-24T17:35:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589965~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "POSSIBLE LOVE",
-          "showtimes": [
-            "2026-11-23T10:40:00-05:00",
-            "2026-11-24T11:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589964~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "RATE IT X",
-          "showtimes": [
-            "2026-11-23T13:40:00-05:00",
-            "2026-11-23T19:35:00-05:00",
-            "2026-11-24T13:40:00-05:00",
-            "2026-11-24T19:35:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589958~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "title": "TANGLES",
-          "showtimes": [
-            "2026-11-23T18:30:00-05:00",
-            "2026-11-23T20:40:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588759~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
           "title": "BEST PANCAKES IN THE COUNTY",
           "showtimes": [
-            "2026-11-24T21:50:00-05:00"
+            "2026-11-24T21:50:00-05:00",
+            "2026-11-25T21:50:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589991~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
@@ -156,11 +78,99 @@
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587777~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         },
         {
+          "title": "THE DEVILS",
+          "showtimes": [
+            "2026-11-24T11:05:00-05:00",
+            "2026-11-24T15:50:00-05:00",
+            "2026-11-24T21:00:00-05:00",
+            "2026-11-25T11:05:00-05:00",
+            "2026-11-25T15:50:00-05:00",
+            "2026-11-25T20:45:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589974~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE HISTORY OF CONCRETE",
+          "showtimes": [
+            "2026-11-24T10:40:00-05:00",
+            "2026-11-24T17:45:00-05:00",
+            "2026-11-25T10:40:00-05:00",
+            "2026-11-25T17:45:00-05:00",
+            "2026-11-25T19:35:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589986~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "THE HOST",
+          "showtimes": [
+            "2026-11-24T12:55:00-05:00",
+            "2026-11-24T15:35:00-05:00",
+            "2026-11-24T18:30:00-05:00",
+            "2026-11-24T21:25:00-05:00",
+            "2026-11-25T12:55:00-05:00",
+            "2026-11-25T15:35:00-05:00",
+            "2026-11-25T18:30:00-05:00",
+            "2026-11-25T21:25:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589983~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "JOSEPHINE",
+          "showtimes": [
+            "2026-11-24T10:35:00-05:00",
+            "2026-11-24T13:10:00-05:00",
+            "2026-11-24T14:50:00-05:00",
+            "2026-11-24T16:00:00-05:00",
+            "2026-11-24T18:50:00-05:00",
+            "2026-11-24T20:25:00-05:00",
+            "2026-11-24T21:40:00-05:00",
+            "2026-11-25T10:35:00-05:00",
+            "2026-11-25T13:10:00-05:00",
+            "2026-11-25T14:50:00-05:00",
+            "2026-11-25T16:00:00-05:00",
+            "2026-11-25T18:50:00-05:00",
+            "2026-11-25T20:25:00-05:00",
+            "2026-11-25T21:40:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589970~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
           "title": "MOUSE",
           "showtimes": [
-            "2026-11-24T14:55:00-05:00"
+            "2026-11-24T14:55:00-05:00",
+            "2026-11-25T14:55:00-05:00"
           ],
           "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589988~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "NAZA",
+          "showtimes": [
+            "2026-11-24T11:00:00-05:00",
+            "2026-11-24T13:00:00-05:00",
+            "2026-11-24T17:35:00-05:00",
+            "2026-11-25T11:00:00-05:00",
+            "2026-11-25T13:00:00-05:00",
+            "2026-11-25T17:35:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=591055~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "POSSIBLE LOVE",
+          "showtimes": [
+            "2026-11-24T11:30:00-05:00",
+            "2026-11-25T11:30:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589979~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "title": "RATE IT X",
+          "showtimes": [
+            "2026-11-24T13:40:00-05:00",
+            "2026-11-24T19:35:00-05:00",
+            "2026-11-25T13:40:00-05:00",
+            "2026-11-25T18:20:00-05:00"
+          ],
+          "ticketUrl": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589975~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -172,91 +182,66 @@
         {
           "title": "THREEASFOUR: FULL CIRCLE",
           "showtimes": [
-            "2026-11-23T14:30:00-05:00",
-            "2026-11-23T16:40:00-05:00",
-            "2026-11-23T18:50:00-05:00",
-            "2026-11-23T21:00:00-05:00",
             "2026-11-24T14:30:00-05:00",
             "2026-11-24T16:40:00-05:00",
             "2026-11-24T18:50:00-05:00",
-            "2026-11-24T21:00:00-05:00"
+            "2026-11-24T21:00:00-05:00",
+            "2026-11-25T12:20:00-05:00",
+            "2026-11-25T18:20:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/threeasfour-full-circle"
         },
         {
           "title": "RAISE THE RED LANTERN",
           "showtimes": [
-            "2026-11-23T12:20:00-05:00",
-            "2026-11-23T15:00:00-05:00",
-            "2026-11-23T17:40:00-05:00",
-            "2026-11-23T20:20:00-05:00",
             "2026-11-24T12:20:00-05:00",
             "2026-11-24T15:00:00-05:00",
             "2026-11-24T17:40:00-05:00",
-            "2026-11-24T20:20:00-05:00"
+            "2026-11-24T20:20:00-05:00",
+            "2026-11-25T16:10:00-05:00",
+            "2026-11-25T18:50:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/raise-the-red-lantern"
         },
         {
           "title": "FATHERLAND",
           "showtimes": [
-            "2026-11-23T16:00:00-05:00",
-            "2026-11-23T20:15:00-05:00",
             "2026-11-24T12:30:00-05:00",
-            "2026-11-24T16:00:00-05:00"
+            "2026-11-24T16:00:00-05:00",
+            "2026-11-25T14:30:00-05:00",
+            "2026-11-25T16:25:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/fatherland"
         },
         {
           "title": "ONCE UPON A TIME IN HARLEM",
           "showtimes": [
-            "2026-11-23T13:30:00-05:00",
-            "2026-11-23T18:00:00-05:00",
-            "2026-11-24T13:30:00-05:00"
+            "2026-11-24T13:30:00-05:00",
+            "2026-11-25T12:20:00-05:00",
+            "2026-11-25T20:30:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/once-upon-a-time-in-harlem"
         },
         {
-          "title": "ROME, OPEN CITY",
-          "showtimes": [
-            "2026-11-23T12:15:00-05:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/rome-open-city-rossellini-120"
-        },
-        {
-          "title": "VOYAGE TO ITALY",
-          "showtimes": [
-            "2026-11-23T14:45:00-05:00",
-            "2026-11-23T20:40:00-05:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/voyage-to-italy-rossellini-120"
-        },
-        {
           "title": "GERMANY, YEAR ZERO",
           "showtimes": [
-            "2026-11-23T16:50:00-05:00",
             "2026-11-24T12:15:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/germany-year-zero-rossellini-120"
         },
         {
-          "title": "LADY WINDERMERE'S FAN",
-          "showtimes": [
-            "2026-11-23T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://my.filmforum.org/events/lady-windermeres-fan-silent-lubitsch"
-        },
-        {
           "title": "DOV’È LA LIBERTÀ?",
           "showtimes": [
-            "2026-11-24T14:00:00-05:00"
+            "2026-11-24T14:00:00-05:00",
+            "2026-11-25T15:00:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/dove-la-liberta-rossellini-120"
         },
         {
           "title": "THE MAN WITH A CROSS",
           "showtimes": [
-            "2026-11-24T16:10:00-05:00"
+            "2026-11-24T16:10:00-05:00",
+            "2026-11-25T17:40:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/the-man-with-a-cross-rossellini-120"
         },
@@ -266,6 +251,28 @@
             "2026-11-24T18:10:00-05:00"
           ],
           "ticketUrl": "https://my.filmforum.org/events/nelly-and-monsieur-arnaud"
+        },
+        {
+          "title": "ALL OF A SUDDEN",
+          "showtimes": [
+            "2026-11-25T14:30:00-05:00",
+            "2026-11-25T18:30:00-05:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/all-of-a-sudden"
+        },
+        {
+          "title": "GENERAL DELLA ROVERE",
+          "showtimes": [
+            "2026-11-25T12:15:00-05:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/general-della-rovere-rossellini-120"
+        },
+        {
+          "title": "LES CARABINIERS",
+          "showtimes": [
+            "2026-11-25T19:40:00-05:00"
+          ],
+          "ticketUrl": "https://my.filmforum.org/events/les-carabiniers-rossellini-120"
         }
       ]
     },
@@ -298,14 +305,16 @@
         {
           "title": "THAT DAY, ON THE BEACH",
           "showtimes": [
-            "2026-11-24T18:30:00-05:00"
+            "2026-11-24T18:30:00-05:00",
+            "2026-11-25T21:15:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31493"
         },
         {
           "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
           "showtimes": [
-            "2026-11-24T19:45:00-05:00"
+            "2026-11-24T19:45:00-05:00",
+            "2026-11-25T19:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31496"
         },
@@ -322,6 +331,48 @@
             "2026-11-24T22:00:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31495"
+        },
+        {
+          "title": "SUZHOU RIVER",
+          "showtimes": [
+            "2026-11-25T15:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31499"
+        },
+        {
+          "title": "NEWS FROM HOME + INTERIOR NY SUBWAY, 14TH STREET",
+          "showtimes": [
+            "2026-11-25T15:30:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31500"
+        },
+        {
+          "title": "JE T'AIME, JE T'AIME",
+          "showtimes": [
+            "2026-11-25T17:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31506"
+        },
+        {
+          "title": "AUTUMN SONATA",
+          "showtimes": [
+            "2026-11-25T17:30:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31501"
+        },
+        {
+          "title": "THE HOUSEMAID",
+          "showtimes": [
+            "2026-11-25T19:30:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31502"
+        },
+        {
+          "title": "SHUTTER ISLAND",
+          "showtimes": [
+            "2026-11-25T21:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31503"
         }
       ]
     },
@@ -331,20 +382,10 @@
       "status": "ok",
       "films": [
         {
-          "title": "YOU CAN SEE EVERYTHING",
-          "showtimes": [
-            "2026-11-23T19:00:00-05:00",
-            "2026-11-24T13:30:00-05:00",
-            "2026-11-24T16:00:00-05:00",
-            "2026-11-24T18:00:00-05:00",
-            "2026-11-24T19:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-23"
-        },
-        {
           "title": "BASIC INSTINCT",
           "showtimes": [
-            "2026-11-24T19:30:00-05:00"
+            "2026-11-24T19:30:00-05:00",
+            "2026-11-25T19:30:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         },
@@ -352,7 +393,9 @@
           "title": "DIGGER",
           "showtimes": [
             "2026-11-24T13:15:00-05:00",
-            "2026-11-24T17:00:00-05:00"
+            "2026-11-24T17:00:00-05:00",
+            "2026-11-25T13:15:00-05:00",
+            "2026-11-25T17:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         },
@@ -360,7 +403,9 @@
           "title": "FJORD",
           "showtimes": [
             "2026-11-24T12:55:00-05:00",
-            "2026-11-24T15:55:00-05:00"
+            "2026-11-24T15:55:00-05:00",
+            "2026-11-25T12:55:00-05:00",
+            "2026-11-25T15:55:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         },
@@ -369,7 +414,24 @@
           "showtimes": [
             "2026-11-24T13:00:00-05:00",
             "2026-11-24T15:25:00-05:00",
-            "2026-11-24T19:35:00-05:00"
+            "2026-11-24T19:35:00-05:00",
+            "2026-11-25T13:00:00-05:00",
+            "2026-11-25T15:25:00-05:00",
+            "2026-11-25T19:35:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
+        },
+        {
+          "title": "YOU CAN SEE EVERYTHING",
+          "showtimes": [
+            "2026-11-24T13:30:00-05:00",
+            "2026-11-24T16:00:00-05:00",
+            "2026-11-24T18:00:00-05:00",
+            "2026-11-24T19:00:00-05:00",
+            "2026-11-25T13:30:00-05:00",
+            "2026-11-25T16:00:00-05:00",
+            "2026-11-25T18:00:00-05:00",
+            "2026-11-25T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         }
@@ -390,7 +452,12 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-25T00:01:00-05:00"
+            "2026-11-25T00:01:00-05:00",
+            "2026-11-25T09:15:00-05:00",
+            "2026-11-25T12:30:00-05:00",
+            "2026-11-25T15:45:00-05:00",
+            "2026-11-25T19:00:00-05:00",
+            "2026-11-25T22:15:00-05:00"
           ],
           "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3206/seats"
         }
