@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T24:11:29-05:00",
+  "lastUpdated": "2026-11-25T10:29:53-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -392,7 +392,6 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-25T09:15:00-05:00",
             "2026-11-25T12:30:00-05:00",
             "2026-11-25T15:45:00-05:00",
             "2026-11-25T19:00:00-05:00",
@@ -403,7 +402,7 @@
             "2026-11-26T19:00:00-05:00",
             "2026-11-26T22:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3207/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3209/seats"
         }
       ]
     },
