@@ -1,25 +1,11 @@
 {
-  "lastUpdated": "2026-11-24T18:49:49-05:00",
+  "lastUpdated": "2026-11-24T21:55:35-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
       "status": "ok",
       "films": [
-        {
-          "title": "ZORN I (2010-2016) + ZORN II (2016-2018)",
-          "showtimes": [
-            "2026-11-24T19:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5830?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "PORTRAITS OF THE ARTIST",
-          "showtimes": [
-            "2026-11-24T20:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5878?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
         {
           "title": "FAMILY PORTRAITS",
           "showtimes": [
@@ -275,21 +261,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE WOMAN ON THE BEACH",
-          "showtimes": [
-            "2026-11-24T18:10:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31497"
-        },
-        {
-          "title": "THAT DAY, ON THE BEACH",
-          "showtimes": [
-            "2026-11-24T18:30:00-05:00",
-            "2026-11-25T21:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31493"
-        },
-        {
           "title": "DRIVE",
           "showtimes": [
             "2026-11-24T21:45:00-05:00"
@@ -346,6 +317,13 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31502"
         },
         {
+          "title": "THAT DAY, ON THE BEACH",
+          "showtimes": [
+            "2026-11-25T21:15:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31504"
+        },
+        {
           "title": "SHUTTER ISLAND",
           "showtimes": [
             "2026-11-25T21:45:00-05:00"
@@ -368,24 +346,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
         },
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-24T17:00:00-05:00",
-            "2026-11-25T13:15:00-05:00",
-            "2026-11-25T17:00:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
-        },
-        {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-24T15:55:00-05:00",
-            "2026-11-25T12:55:00-05:00",
-            "2026-11-25T15:55:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
-        },
-        {
           "title": "STEPS",
           "showtimes": [
             "2026-11-24T19:35:00-05:00",
@@ -398,7 +358,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-24T16:00:00-05:00",
             "2026-11-24T18:00:00-05:00",
             "2026-11-24T19:00:00-05:00",
             "2026-11-25T13:30:00-05:00",
@@ -407,6 +366,22 @@
             "2026-11-25T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-24"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-25T13:15:00-05:00",
+            "2026-11-25T17:00:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-25"
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-11-25T12:55:00-05:00",
+            "2026-11-25T15:55:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-25"
         }
       ]
     },
@@ -415,13 +390,6 @@
       "url": "https://www.paristheaternyc.com",
       "status": "ok",
       "films": [
-        {
-          "title": "Possible Love",
-          "showtimes": [
-            "2026-11-24T18:30:00-05:00"
-          ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3047/seats"
-        },
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
