@@ -1,33 +1,11 @@
 {
-  "lastUpdated": "2026-11-25T18:31:43-05:00",
+  "lastUpdated": "2026-11-25T21:01:28-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
       "url": "https://anthologyfilmarchives.org",
-      "status": "ok",
-      "films": [
-        {
-          "title": "ZORN III (2018-2022)",
-          "showtimes": [
-            "2026-11-25T18:45:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5831?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "SELF-PORTRAITS",
-          "showtimes": [
-            "2026-11-25T20:30:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5880?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        },
-        {
-          "title": "MUSIC IS MUSIC + BEFORE IT’S TOO LATE",
-          "showtimes": [
-            "2026-11-25T21:00:00-05:00"
-          ],
-          "ticketUrl": "https://ticketing.uswest.veezi.com/purchase/5832?siteToken=bsrxtagjxmgh2qy0b6p646xdcr"
-        }
-      ]
+      "status": "empty",
+      "films": []
     },
     {
       "name": "IFC Center",
@@ -259,18 +237,11 @@
       "status": "ok",
       "films": [
         {
-          "title": "COME BACK TO THE 5 & DIME, JIMMY DEAN, JIMMY DEAN",
+          "title": "THAT DAY, ON THE BEACH",
           "showtimes": [
-            "2026-11-25T19:00:00-05:00"
+            "2026-11-25T21:15:00-05:00"
           ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31505"
-        },
-        {
-          "title": "THE HOUSEMAID",
-          "showtimes": [
-            "2026-11-25T19:30:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31502"
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31504"
         },
         {
           "title": "SHUTTER ISLAND",
@@ -294,25 +265,6 @@
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-25"
         },
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-25T17:00:00-05:00",
-            "2026-11-26T12:50:00-05:00",
-            "2026-11-26T16:55:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-25"
-        },
-        {
-          "title": "FJORD",
-          "showtimes": [
-            "2026-11-25T15:55:00-05:00",
-            "2026-11-26T13:15:00-05:00",
-            "2026-11-26T16:15:00-05:00",
-            "2026-11-26T19:15:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-25"
-        },
-        {
           "title": "STEPS",
           "showtimes": [
             "2026-11-25T19:35:00-05:00",
@@ -325,7 +277,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-25T16:00:00-05:00",
             "2026-11-25T18:00:00-05:00",
             "2026-11-25T19:00:00-05:00",
             "2026-11-26T13:30:00-05:00",
@@ -334,6 +285,23 @@
             "2026-11-26T19:00:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-25"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-26T12:50:00-05:00",
+            "2026-11-26T16:55:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-26"
+        },
+        {
+          "title": "FJORD",
+          "showtimes": [
+            "2026-11-26T13:15:00-05:00",
+            "2026-11-26T16:15:00-05:00",
+            "2026-11-26T19:15:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-26"
         }
       ]
     },
@@ -345,7 +313,6 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-25T19:00:00-05:00",
             "2026-11-25T22:15:00-05:00",
             "2026-11-26T09:15:00-05:00",
             "2026-11-26T12:30:00-05:00",
@@ -353,7 +320,7 @@
             "2026-11-26T19:00:00-05:00",
             "2026-11-26T22:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3213/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3215/seats"
         }
       ]
     },
