@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T09:57:09-05:00",
+  "lastUpdated": "2026-11-27T14:43:54-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -320,20 +320,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "THE ARISTOCATS",
-          "showtimes": [
-            "2026-11-27T11:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31405"
-        },
-        {
-          "title": "THE GENERAL",
-          "showtimes": [
-            "2026-11-27T11:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31411"
-        },
-        {
           "title": "THE SACRIFICE",
           "showtimes": [
             "2026-11-27T13:00:00-05:00"
@@ -483,7 +469,6 @@
         {
           "title": "IN WAVES",
           "showtimes": [
-            "2026-11-27T12:20:00-05:00",
             "2026-11-27T18:45:00-05:00",
             "2026-11-27T21:15:00-05:00",
             "2026-11-28T12:15:00-05:00",
@@ -536,7 +521,6 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-27T12:30:00-05:00",
             "2026-11-27T15:45:00-05:00",
             "2026-11-27T19:00:00-05:00",
             "2026-11-27T22:15:00-05:00",
@@ -546,7 +530,7 @@
             "2026-11-28T19:00:00-05:00",
             "2026-11-28T22:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3217/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3222/seats"
         }
       ]
     },
