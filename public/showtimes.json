@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T18:39:57-05:00",
+  "lastUpdated": "2026-11-26T21:01:26-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -385,17 +385,8 @@
       "status": "ok",
       "films": [
         {
-          "title": "DIGGER",
-          "showtimes": [
-            "2026-11-26T16:55:00-05:00",
-            "2026-11-27T16:15:00-05:00"
-          ],
-          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-26"
-        },
-        {
           "title": "FJORD",
           "showtimes": [
-            "2026-11-26T16:15:00-05:00",
             "2026-11-26T19:15:00-05:00",
             "2026-11-27T13:15:00-05:00",
             "2026-11-27T20:45:00-05:00"
@@ -412,7 +403,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-26T15:30:00-05:00",
             "2026-11-26T18:00:00-05:00",
             "2026-11-26T19:00:00-05:00",
             "2026-11-27T12:15:00-05:00",
@@ -425,6 +415,13 @@
             "2026-11-27T20:30:00-05:00"
           ],
           "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-26"
+        },
+        {
+          "title": "DIGGER",
+          "showtimes": [
+            "2026-11-27T16:15:00-05:00"
+          ],
+          "ticketUrl": "http://www.fandango.com/quadcinema_aaefp/theaterpage?date=2026-11-27"
         },
         {
           "title": "IN WAVES",
@@ -445,7 +442,6 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-26T19:00:00-05:00",
             "2026-11-26T22:15:00-05:00",
             "2026-11-27T09:15:00-05:00",
             "2026-11-27T12:30:00-05:00",
@@ -453,7 +449,7 @@
             "2026-11-27T19:00:00-05:00",
             "2026-11-27T22:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3214/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3216/seats"
         }
       ]
     },
