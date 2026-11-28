@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T20:46:19-05:00",
+  "lastUpdated": "2026-11-27T23:28:20-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -306,13 +306,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "COMPARTMENT NO. 6",
-          "showtimes": [
-            "2026-11-27T20:15:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31415"
-        },
-        {
           "title": "A CLOCKWORK ORANGE",
           "showtimes": [
             "2026-11-27T22:30:00-05:00"
@@ -409,7 +402,6 @@
         {
           "title": "IN WAVES",
           "showtimes": [
-            "2026-11-27T18:45:00-05:00",
             "2026-11-27T21:15:00-05:00",
             "2026-11-28T12:15:00-05:00",
             "2026-11-28T14:45:00-05:00",
@@ -420,7 +412,6 @@
         {
           "title": "YOU CAN SEE EVERYTHING",
           "showtimes": [
-            "2026-11-27T18:00:00-05:00",
             "2026-11-27T19:15:00-05:00",
             "2026-11-27T20:30:00-05:00",
             "2026-11-28T12:30:00-05:00",
@@ -464,14 +455,13 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-27T22:15:00-05:00",
             "2026-11-28T09:15:00-05:00",
             "2026-11-28T12:30:00-05:00",
             "2026-11-28T15:45:00-05:00",
             "2026-11-28T19:00:00-05:00",
             "2026-11-28T22:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3224/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3225/seats"
         }
       ]
     },
