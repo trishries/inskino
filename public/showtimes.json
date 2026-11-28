@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T09:06:28-05:00",
+  "lastUpdated": "2026-11-28T13:35:41-05:00",
   "theaters": [
     {
       "name": "Anthology Film Archives",
@@ -326,13 +326,6 @@
       "status": "ok",
       "films": [
         {
-          "title": "RASHOMON",
-          "showtimes": [
-            "2026-11-28T11:00:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31417"
-        },
-        {
           "title": "GOODBYE, DRAGON INN",
           "showtimes": [
             "2026-11-28T11:15:00-05:00"
@@ -369,6 +362,14 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31419"
         },
         {
+          "title": "SALÒ, OR THE 120 DAYS OF SODOM",
+          "showtimes": [
+            "2026-11-28T18:10:00-05:00",
+            "2026-11-29T21:45:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31420"
+        },
+        {
           "title": "SIX SUSPECTS",
           "showtimes": [
             "2026-11-28T18:15:00-05:00"
@@ -376,11 +377,25 @@
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31426"
         },
         {
+          "title": "MANDY",
+          "showtimes": [
+            "2026-11-28T20:25:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31427"
+        },
+        {
           "title": "MEMENTO",
           "showtimes": [
             "2026-11-28T20:40:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31421"
+        },
+        {
+          "title": "MILLENNIUM MAMBO",
+          "showtimes": [
+            "2026-11-28T23:00:00-05:00"
+          ],
+          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31428"
         },
         {
           "title": "SUSPIRIA [4K DCP]",
@@ -444,13 +459,6 @@
             "2026-11-29T19:45:00-05:00"
           ],
           "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31438"
-        },
-        {
-          "title": "SALÒ, OR THE 120 DAYS OF SODOM",
-          "showtimes": [
-            "2026-11-29T21:45:00-05:00"
-          ],
-          "ticketUrl": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31433"
         }
       ]
     },
@@ -534,8 +542,6 @@
         {
           "title": "The Further Mis-Adventures of Cliff Booth",
           "showtimes": [
-            "2026-11-28T09:15:00-05:00",
-            "2026-11-28T12:30:00-05:00",
             "2026-11-28T15:45:00-05:00",
             "2026-11-28T19:00:00-05:00",
             "2026-11-28T22:15:00-05:00",
@@ -545,7 +551,7 @@
             "2026-11-29T19:00:00-05:00",
             "2026-11-29T22:15:00-05:00"
           ],
-          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3225/seats"
+          "ticketUrl": "https://tickets.paristheaternyc.com/order/showtimes/2001-3226/seats"
         }
       ]
     },
